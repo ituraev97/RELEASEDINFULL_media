@@ -62,7 +62,7 @@ for i, (txt, shots, o) in enumerate(LINES):
         bar_w = 40 + 26 * max(len(t1), len(t2) * 0.7)
         add(a, b, "Tag", r"{\an7\pos(96,786)\fad(0,350)}" + t1, 2)
         add(a, b, "TagSub", r"{\an7\pos(98,842)\fad(0,350)}" + t2, 2)
-        add(a, b, "Tag", r"{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\fad(0,0)\t(0,420,0.6,\clip(%d,0,1920,1080))\clip(92,0,1920,1080)\p1}m 0 0 l %d 0 l %d 110 l 0 110{\p0}" % (92 + bar_w, bar_w, bar_w), 3)
+        add(a, b, "Tag", r"{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\clip(92,0,1920,1080)\t(80,520,0.6,\clip(%d,0,1920,1080))\p1}m 0 0 l %d 0 l %d 110 l 0 110{\p0}" % (92 + bar_w, bar_w, bar_w), 3)
         add(a, a + 0.45, "Tag", r"{\an7\pos(92,866)\bord0\shad0\c&HB0F58C&\t(0,420,\fscx0)\p1}m 0 0 l %d 0 l %d 4 l 0 4{\p0}" % (bar_w, bar_w), 3)
 for sg in SEGS:
     if sg.get("lab"):
