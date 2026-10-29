@@ -1,0 +1,11 @@
+node_modules/
+*.mp4
+*.webm
+*.wav
+!brand/intro_audio.wav
+episodes/*/gfx/
+episodes/*/seg/
+episodes/*/vo/
+episodes/*/nat/
+episodes/*/shorts/
+__pycache__/
