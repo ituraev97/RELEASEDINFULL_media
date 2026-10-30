@@ -47,7 +47,7 @@ for sh in E.META.get("shorts", []):
                 s = e
     ev.append(f"Dialogue: 3,{ts(D - 2.6)},{ts(D)},CTA,,0,0,0,,{{\\an5\\pos(540,1580)\\fad(200,0)}}FULL FILE ON THE CHANNEL")
     ass = f"{OUT}/{sh['id']}.ass"; open(ass, "w", encoding="utf-8").write(HEAD + "\n".join(ev) + "\n")
-    vf = (f"[0:v]ass={EP}/overlay.ass,split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,gblur=sigma=28,eq=brightness=-0.18:saturation=0.7[bg];"
+    vf = (f"[0:v]ass={EP}/overlay.ass,split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,gblur=sigma=28,eq=brightness=-0.42:saturation=0.7[bg];"
           f"[b]scale=1080:-2:flags=lanczos[fg];[bg][fg]overlay=0:(H-h)/2-60,ass={ass},fade=t=in:st=0:d=0.25,fade=t=out:st={D - 0.45:.2f}:d=0.45[v]")
     out = f"{OUT}/{sh['id']}.mp4"
     subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-ss", f"{t0:.3f}", "-t", f"{D:.3f}", "-i", f"{EP}/video_raw.mp4",

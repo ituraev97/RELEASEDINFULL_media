@@ -1,0 +1,947 @@
+{
+ "starts": [
+  0.6,
+  7.634666999999999,
+  13.909167,
+  25.836,
+  30.254333,
+  38.823,
+  42.823,
+  46.423,
+  49.286667,
+  58.422667000000004,
+  70.982667,
+  77.98,
+  84.737333,
+  90.89500000000001,
+  101.74733300000001,
+  112.72866600000002,
+  123.88533300000002,
+  126.17300000000002,
+  134.544,
+  144.117333,
+  149.755166,
+  158.389833,
+  167.18983300000002,
+  178.81116600000001,
+  190.66416600000002,
+  203.19216600000001,
+  218.12483300000002,
+  219.96983300000002,
+  233.16683300000003,
+  241.73450000000003,
+  252.18916700000003,
+  259.82883400000003,
+  269.41516700000005,
+  278.42516700000004,
+  286.56633400000004,
+  293.69366700000006,
+  300.03466700000007,
+  309.14400000000006,
+  322.7196670000001,
+  332.41266700000006,
+  347.14566700000006,
+  357.92433400000004,
+  371.15533400000004,
+  379.86466700000005,
+  389.04733400000003,
+  398.11400100000003,
+  407.687334,
+  415.693667,
+  417.64,
+  425.709333,
+  438.290666,
+  446.535999,
+  453.511999,
+  465.209999,
+  475.542999,
+  483.580332,
+  497.724832,
+  501.740499,
+  515.982832,
+  525.390832,
+  545.972165,
+  552.892498,
+  563.3061650000001,
+  572.9524980000001,
+  575.5974980000001,
+  586.4218310000001,
+  595.8826640000001,
+  597.8696640000001,
+  604.5499970000001,
+  615.8774970000001,
+  625.81533,
+  631.425997
+ ],
+ "durs": [
+  7.034667,
+  6.2745,
+  11.926833,
+  4.418333,
+  8.568667000000001,
+  4.0,
+  3.6,
+  2.863667,
+  9.136000000000001,
+  12.56,
+  6.997333,
+  6.757333,
+  6.157667,
+  10.852333000000002,
+  10.981333000000001,
+  11.156667,
+  2.287667,
+  8.371,
+  9.573333,
+  5.6378330000000005,
+  8.634667,
+  8.8,
+  11.621333,
+  11.853000000000002,
+  12.528,
+  14.932667,
+  1.8450000000000002,
+  13.197000000000001,
+  8.567667,
+  10.454667,
+  7.639667,
+  9.586333000000002,
+  9.010000000000002,
+  8.141167000000001,
+  7.127333,
+  6.341,
+  9.109333000000001,
+  13.575667000000001,
+  9.693000000000001,
+  14.733,
+  10.778667,
+  13.231,
+  8.709333,
+  9.182667,
+  9.066667,
+  9.573333,
+  8.006333,
+  1.946333,
+  8.069333,
+  12.581333,
+  8.245333,
+  6.976,
+  11.698,
+  10.333,
+  8.037333,
+  14.1445,
+  4.015667,
+  14.242333,
+  9.408000000000001,
+  20.581333,
+  6.920332999999999,
+  10.413667,
+  9.646333,
+  2.645,
+  10.824333000000001,
+  9.460833000000001,
+  1.987,
+  6.680333,
+  11.3275,
+  9.937833000000001,
+  5.610666999999999,
+  8.883333
+ ],
+ "vdur": [
+  6.484667,
+  5.7245,
+  11.376833,
+  3.618333,
+  8.018667,
+  1.293,
+  0.0,
+  2.263667,
+  8.586,
+  12.01,
+  6.447333,
+  6.207333,
+  5.607667,
+  10.302333,
+  10.431333,
+  10.356667,
+  1.687667,
+  7.821,
+  9.023333,
+  4.737833,
+  8.084667,
+  8.25,
+  11.071333,
+  11.303,
+  11.978,
+  14.132667,
+  1.245,
+  12.647,
+  8.017667,
+  9.904667,
+  6.839667,
+  9.036333,
+  8.46,
+  7.591167,
+  6.577333,
+  5.341,
+  8.559333,
+  13.025667,
+  9.143,
+  14.183,
+  10.228667,
+  12.681,
+  8.159333,
+  8.632667,
+  8.516667,
+  9.023333,
+  7.106333,
+  1.346333,
+  7.519333,
+  12.031333,
+  7.695333,
+  6.426,
+  11.148,
+  9.783,
+  7.487333,
+  13.2445,
+  3.415667,
+  13.692333,
+  8.858,
+  20.031333,
+  6.370333,
+  9.863667,
+  8.846333,
+  2.045,
+  10.274333,
+  8.910833,
+  1.437,
+  6.130333,
+  10.7775,
+  9.137833,
+  5.060667,
+  6.383333
+ ],
+ "total": 640.7,
+ "segs": [
+  {
+   "t": 0.0,
+   "d": 3.8333333333333335,
+   "src": "dv884981",
+   "ss": 12.0,
+   "line": 0,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, ARLINGTON, VA., 2023"
+  },
+  {
+   "t": 3.8333333333333335,
+   "d": 3.8,
+   "src": "dv516411",
+   "ss": 60.0,
+   "line": 0,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, 2017"
+  },
+  {
+   "t": 7.633333333333334,
+   "d": 6.266666666666667,
+   "src": "img:header",
+   "ss": 0,
+   "line": 1,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 13.9,
+   "d": 4.0,
+   "src": "img:gtmo",
+   "ss": 0,
+   "line": 2,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 17.9,
+   "d": 3.966666666666667,
+   "src": "img:maine",
+   "ss": 0,
+   "line": 2,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 21.866666666666667,
+   "d": 3.966666666666667,
+   "src": "img:airliner",
+   "ss": 0,
+   "line": 2,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 25.833333333333332,
+   "d": 4.433333333333334,
+   "src": "img:sign",
+   "ss": 0,
+   "line": 3,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 30.266666666666666,
+   "d": 4.266666666666667,
+   "src": "dv516411",
+   "ss": 30.0,
+   "line": 4,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, 2017"
+  },
+  {
+   "t": 34.53333333333333,
+   "d": 4.3,
+   "src": "dv884981",
+   "ss": 70.0,
+   "line": 4,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, ARLINGTON, VA., 2023"
+  },
+  {
+   "t": 38.833333333333336,
+   "d": 4.0,
+   "src": "g:intro",
+   "ss": 0,
+   "line": 5,
+   "lab": ""
+  },
+  {
+   "t": 42.833333333333336,
+   "d": 3.6,
+   "src": "g:title",
+   "ss": 0,
+   "line": 6,
+   "lab": ""
+  },
+  {
+   "t": 46.43333333333333,
+   "d": 2.8666666666666667,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 7,
+   "lab": ""
+  },
+  {
+   "t": 49.3,
+   "d": 9.133333333333333,
+   "src": "g:map",
+   "ss": 0,
+   "line": 8,
+   "lab": ""
+  },
+  {
+   "t": 58.43333333333333,
+   "d": 6.266666666666667,
+   "src": "img:jfk",
+   "ss": 0,
+   "line": 9,
+   "lab": "WHITE HOUSE PHOTO \u00b7 PRESIDENT JOHN F. KENNEDY, 1961 \u2013 63"
+  },
+  {
+   "t": 64.7,
+   "d": 6.266666666666667,
+   "src": "dv516411",
+   "ss": 120.0,
+   "line": 9,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, 2017"
+  },
+  {
+   "t": 70.96666666666667,
+   "d": 7.0,
+   "src": "dv884981",
+   "ss": 100.0,
+   "line": 10,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, ARLINGTON, VA., 2023"
+  },
+  {
+   "t": 77.96666666666667,
+   "d": 6.766666666666667,
+   "src": "dv516411",
+   "ss": 200.0,
+   "line": 11,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, 2017"
+  },
+  {
+   "t": 84.73333333333333,
+   "d": 6.166666666666667,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 12,
+   "lab": ""
+  },
+  {
+   "t": 90.9,
+   "d": 10.833333333333334,
+   "src": "g:timeline",
+   "ss": 0,
+   "line": 13,
+   "lab": ""
+  },
+  {
+   "t": 101.73333333333333,
+   "d": 11.0,
+   "src": "img:problem",
+   "ss": 0,
+   "line": 14,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 112.73333333333333,
+   "d": 11.166666666666666,
+   "src": "g:doc",
+   "ss": 0,
+   "line": 15,
+   "lab": ""
+  },
+  {
+   "t": 123.9,
+   "d": 2.2666666666666666,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 16,
+   "lab": ""
+  },
+  {
+   "t": 126.16666666666667,
+   "d": 8.366666666666667,
+   "src": "img:sign",
+   "ss": 0,
+   "line": 17,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 134.53333333333333,
+   "d": 9.6,
+   "src": "img:page10",
+   "ss": 0,
+   "line": 18,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 144.13333333333333,
+   "d": 5.633333333333334,
+   "src": "g:doc",
+   "ss": 0,
+   "line": 19,
+   "lab": ""
+  },
+  {
+   "t": 149.76666666666668,
+   "d": 8.633333333333333,
+   "src": "img:header",
+   "ss": 0,
+   "line": 20,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 158.4,
+   "d": 8.8,
+   "src": "dv884981",
+   "ss": 140.0,
+   "line": 21,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, ARLINGTON, VA., 2023"
+  },
+  {
+   "t": 167.2,
+   "d": 11.6,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 22,
+   "lab": ""
+  },
+  {
+   "t": 178.8,
+   "d": 11.866666666666667,
+   "src": "img:grievance",
+   "ss": 0,
+   "line": 23,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 190.66666666666666,
+   "d": 12.533333333333333,
+   "src": "img:recs",
+   "ss": 0,
+   "line": 24,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 203.2,
+   "d": 7.466666666666667,
+   "src": "img:provocation",
+   "ss": 0,
+   "line": 25,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 210.66666666666666,
+   "d": 7.466666666666667,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 25,
+   "lab": ""
+  },
+  {
+   "t": 218.13333333333333,
+   "d": 1.8333333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 26,
+   "lab": ""
+  },
+  {
+   "t": 219.96666666666667,
+   "d": 13.2,
+   "src": "g:map",
+   "ss": 0,
+   "line": 27,
+   "lab": ""
+  },
+  {
+   "t": 233.16666666666666,
+   "d": 4.3,
+   "src": "dv449861",
+   "ss": 13.0,
+   "line": 28,
+   "lab": "B-ROLL \u00b7 NORTHEAST GATE, U.S. NAVAL STATION GUANTANAMO BAY, 2015"
+  },
+  {
+   "t": 237.46666666666667,
+   "d": 4.266666666666667,
+   "src": "dv449861",
+   "ss": 81.5,
+   "line": 28,
+   "lab": "B-ROLL \u00b7 NORTHEAST GATE, U.S. NAVAL STATION GUANTANAMO BAY, 2015"
+  },
+  {
+   "t": 241.73333333333332,
+   "d": 5.233333333333333,
+   "src": "g:list",
+   "ss": 0,
+   "line": 29,
+   "lab": ""
+  },
+  {
+   "t": 246.96666666666667,
+   "d": 5.233333333333333,
+   "src": "img:gtmo",
+   "ss": 0,
+   "line": 29,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 252.2,
+   "d": 7.633333333333334,
+   "src": "dv884981",
+   "ss": 120.0,
+   "line": 30,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, ARLINGTON, VA., 2023"
+  },
+  {
+   "t": 259.8333333333333,
+   "d": 4.8,
+   "src": "img:maine41",
+   "ss": 0,
+   "line": 31,
+   "lab": "ARCHIVAL PHOTO \u00b7 USS MAINE AT HAVANA, 1898 (VIA DVIDS)"
+  },
+  {
+   "t": 264.6333333333333,
+   "d": 4.766666666666667,
+   "src": "img:maine52",
+   "ss": 0,
+   "line": 31,
+   "lab": "ARCHIVAL PHOTO \u00b7 WRECK OF USS MAINE, HAVANA HARBOR, 1898 (VIA DVIDS)"
+  },
+  {
+   "t": 269.4,
+   "d": 4.533333333333333,
+   "src": "dv592916",
+   "ss": 365.0,
+   "line": 32,
+   "lab": "B-ROLL \u00b7 USS MAINE MAST MEMORIAL, ARLINGTON NATIONAL CEMETERY, 2018"
+  },
+  {
+   "t": 273.93333333333334,
+   "d": 4.5,
+   "src": "dv592916",
+   "ss": 395.0,
+   "line": 32,
+   "lab": "B-ROLL \u00b7 USS MAINE MAST MEMORIAL, ARLINGTON NATIONAL CEMETERY, 2018"
+  },
+  {
+   "t": 278.43333333333334,
+   "d": 8.133333333333333,
+   "src": "img:maine",
+   "ss": 0,
+   "line": 33,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 286.56666666666666,
+   "d": 7.133333333333334,
+   "src": "dv592916",
+   "ss": 378.0,
+   "line": 34,
+   "lab": "B-ROLL \u00b7 USS MAINE MAST MEMORIAL, ARLINGTON NATIONAL CEMETERY, 2018"
+  },
+  {
+   "t": 293.7,
+   "d": 6.333333333333333,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 35,
+   "lab": ""
+  },
+  {
+   "t": 300.03333333333336,
+   "d": 9.1,
+   "src": "img:terror",
+   "ss": 0,
+   "line": 36,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 309.1333333333333,
+   "d": 13.6,
+   "src": "g:list",
+   "ss": 0,
+   "line": 37,
+   "lab": ""
+  },
+  {
+   "t": 322.73333333333335,
+   "d": 9.666666666666666,
+   "src": "img:mig",
+   "ss": 0,
+   "line": 38,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 332.4,
+   "d": 14.733333333333333,
+   "src": "img:airliner",
+   "ss": 0,
+   "line": 39,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 347.1333333333333,
+   "d": 5.4,
+   "src": "dv509920",
+   "ss": 14.5,
+   "line": 40,
+   "lab": "B-ROLL \u00b7 QF-16 AERIAL TARGET JET, PILOTED SORTIE, HOLLOMAN AFB, N.M., 2017"
+  },
+  {
+   "t": 352.53333333333336,
+   "d": 5.4,
+   "src": "dv509920",
+   "ss": 226.0,
+   "line": 40,
+   "lab": "B-ROLL \u00b7 QF-16 AERIAL TARGET JET, PILOTED SORTIE, HOLLOMAN AFB, N.M., 2017"
+  },
+  {
+   "t": 357.93333333333334,
+   "d": 6.6,
+   "src": "dv509920",
+   "ss": 239.0,
+   "line": 41,
+   "lab": "B-ROLL \u00b7 QF-16 AERIAL TARGET JET, PILOTED SORTIE, HOLLOMAN AFB, N.M., 2017"
+  },
+  {
+   "t": 364.53333333333336,
+   "d": 6.633333333333334,
+   "src": "dv509920",
+   "ss": 325.0,
+   "line": 41,
+   "lab": "B-ROLL \u00b7 QF-16 AERIAL TARGET JET, PILOTED SORTIE, HOLLOMAN AFB, N.M., 2017"
+  },
+  {
+   "t": 371.1666666666667,
+   "d": 8.7,
+   "src": "img:drone",
+   "ss": 0,
+   "line": 42,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 379.8666666666667,
+   "d": 9.166666666666666,
+   "src": "dv509920",
+   "ss": 385.0,
+   "line": 43,
+   "lab": "B-ROLL \u00b7 QF-16 AERIAL TARGET JET, PILOTED SORTIE, HOLLOMAN AFB, N.M., 2017"
+  },
+  {
+   "t": 389.03333333333336,
+   "d": 4.533333333333333,
+   "src": "img:f101",
+   "ss": 0,
+   "line": 44,
+   "lab": "ARCHIVAL PHOTO \u00b7 U.S. AIR FORCE F-101 VOODOO (VIA DVIDS)"
+  },
+  {
+   "t": 393.56666666666666,
+   "d": 4.533333333333333,
+   "src": "dv553440",
+   "ss": 20.0,
+   "line": 44,
+   "lab": "B-ROLL \u00b7 F-16s AT HOMESTEAD AIR RESERVE BASE, FLA., 2017"
+  },
+  {
+   "t": 398.1,
+   "d": 4.8,
+   "src": "dv553440",
+   "ss": 48.0,
+   "line": 45,
+   "lab": "B-ROLL \u00b7 F-16s AT HOMESTEAD AIR RESERVE BASE, FLA., 2017"
+  },
+  {
+   "t": 402.9,
+   "d": 4.8,
+   "src": "img:f101doc",
+   "ss": 0,
+   "line": 45,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 407.7,
+   "d": 8.0,
+   "src": "dv873616",
+   "ss": 0.5,
+   "line": 46,
+   "lab": "B-ROLL \u00b7 COAST GUARD CUTTER BEAR RETURNS TO PORTSMOUTH, VA., AFTER FLORIDA STRAITS PATROL, 2023"
+  },
+  {
+   "t": 415.7,
+   "d": 1.9333333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 47,
+   "lab": ""
+  },
+  {
+   "t": 417.6333333333333,
+   "d": 8.066666666666666,
+   "src": "img:jfk",
+   "ss": 0,
+   "line": 48,
+   "lab": "WHITE HOUSE PHOTO \u00b7 PRESIDENT JOHN F. KENNEDY, 1961 \u2013 63"
+  },
+  {
+   "t": 425.7,
+   "d": 12.6,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 49,
+   "lab": ""
+  },
+  {
+   "t": 438.3,
+   "d": 8.233333333333333,
+   "src": "g:doc",
+   "ss": 0,
+   "line": 50,
+   "lab": ""
+  },
+  {
+   "t": 446.53333333333336,
+   "d": 6.966666666666667,
+   "src": "dv516411",
+   "ss": 300.0,
+   "line": 51,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, 2017"
+  },
+  {
+   "t": 453.5,
+   "d": 5.866666666666666,
+   "src": "dv884981",
+   "ss": 30.0,
+   "line": 52,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, ARLINGTON, VA., 2023"
+  },
+  {
+   "t": 459.3666666666667,
+   "d": 5.833333333333333,
+   "src": "dv884981",
+   "ss": 160.0,
+   "line": 52,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, ARLINGTON, VA., 2023"
+  },
+  {
+   "t": 465.2,
+   "d": 10.333333333333334,
+   "src": "g:timeline",
+   "ss": 0,
+   "line": 53,
+   "lab": ""
+  },
+  {
+   "t": 475.53333333333336,
+   "d": 8.033333333333333,
+   "src": "img:sign",
+   "ss": 0,
+   "line": 54,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 483.56666666666666,
+   "d": 14.166666666666666,
+   "src": "img:excomm",
+   "ss": 0,
+   "line": 55,
+   "lab": "WHITE HOUSE PHOTO (CECIL STOUGHTON) \u00b7 EXCOMM MEETING, OCT. 29, 1962"
+  },
+  {
+   "t": 497.73333333333335,
+   "d": 4.0,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 56,
+   "lab": ""
+  },
+  {
+   "t": 501.73333333333335,
+   "d": 7.133333333333334,
+   "src": "dv491054",
+   "ss": 11.0,
+   "line": 57,
+   "lab": "B-ROLL \u00b7 OBAMA PRESIDENTIAL MATERIALS MOVED FROM THE NATIONAL ARCHIVES, WASHINGTON, 2016"
+  },
+  {
+   "t": 508.8666666666667,
+   "d": 7.1,
+   "src": "dv491054",
+   "ss": 22.0,
+   "line": 57,
+   "lab": "B-ROLL \u00b7 OBAMA PRESIDENTIAL MATERIALS MOVED FROM THE NATIONAL ARCHIVES, WASHINGTON, 2016"
+  },
+  {
+   "t": 515.9666666666667,
+   "d": 9.433333333333334,
+   "src": "dv491054",
+   "ss": 53.0,
+   "line": 58,
+   "lab": "B-ROLL \u00b7 OBAMA PRESIDENTIAL MATERIALS MOVED FROM THE NATIONAL ARCHIVES, WASHINGTON, 2016"
+  },
+  {
+   "t": 525.4,
+   "d": 20.566666666666666,
+   "src": "g:doc",
+   "ss": 0,
+   "line": 59,
+   "lab": ""
+  },
+  {
+   "t": 545.9666666666667,
+   "d": 6.933333333333334,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 60,
+   "lab": ""
+  },
+  {
+   "t": 552.9,
+   "d": 10.4,
+   "src": "g:timeline",
+   "ss": 0,
+   "line": 61,
+   "lab": ""
+  },
+  {
+   "t": 563.3,
+   "d": 9.666666666666666,
+   "src": "img:page01",
+   "ss": 0,
+   "line": 62,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 572.9666666666667,
+   "d": 2.6333333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 63,
+   "lab": ""
+  },
+  {
+   "t": 575.6,
+   "d": 10.833333333333334,
+   "src": "img:header",
+   "ss": 0,
+   "line": 64,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 586.4333333333333,
+   "d": 4.733333333333333,
+   "src": "dv449861",
+   "ss": 9.3,
+   "line": 65,
+   "lab": "B-ROLL \u00b7 NORTHEAST GATE, U.S. NAVAL STATION GUANTANAMO BAY, 2015"
+  },
+  {
+   "t": 591.1666666666666,
+   "d": 4.7,
+   "src": "dv592916",
+   "ss": 392.0,
+   "line": 65,
+   "lab": "B-ROLL \u00b7 USS MAINE MAST MEMORIAL, ARLINGTON NATIONAL CEMETERY, 2018"
+  },
+  {
+   "t": 595.8666666666667,
+   "d": 2.0,
+   "src": "g:list",
+   "ss": 0,
+   "line": 66,
+   "lab": ""
+  },
+  {
+   "t": 597.8666666666667,
+   "d": 6.666666666666667,
+   "src": "dv884981",
+   "ss": 60.0,
+   "line": 67,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, ARLINGTON, VA., 2023"
+  },
+  {
+   "t": 604.5333333333333,
+   "d": 5.666666666666667,
+   "src": "dv516411",
+   "ss": 400.0,
+   "line": 68,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, 2017"
+  },
+  {
+   "t": 610.2,
+   "d": 5.666666666666667,
+   "src": "img:page11",
+   "ss": 0,
+   "line": 68,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 615.8666666666667,
+   "d": 9.933333333333334,
+   "src": "img:sign",
+   "ss": 0,
+   "line": 69,
+   "lab": "ACTUAL DOCUMENT \u00b7 JCS MEMO, MARCH 13, 1962 \u00b7 NATIONAL ARCHIVES (NSARCHIVE COPY)"
+  },
+  {
+   "t": 625.8,
+   "d": 5.633333333333334,
+   "src": "dv491054",
+   "ss": 30.0,
+   "line": 70,
+   "lab": "B-ROLL \u00b7 OBAMA PRESIDENTIAL MATERIALS MOVED FROM THE NATIONAL ARCHIVES, WASHINGTON, 2016"
+  },
+  {
+   "t": 631.4333333333333,
+   "d": 9.266666666666667,
+   "src": "g:end",
+   "ss": 0,
+   "line": 71,
+   "lab": ""
+  }
+ ]
+}

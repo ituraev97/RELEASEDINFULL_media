@@ -5,7 +5,7 @@ Status: `todo` → `done YYYY-MM-DD` / `skip (reason)`. Take the first `todo` (d
 | FILE | Topic | Status |
 |---|---|---|
 | 001 | The Navy Videos (FLIR1 / GIMBAL / GOFAST) | done 2026-10-30 |
-| 002 | Operation Northwoods | todo |
+| 002 | Operation Northwoods | done 2026-10-31 |
 | 003 | Area 51, U-2 and OXCART | todo |
 | 004 | MKUltra: what survived the shredder | todo |
 | 005 | Roswell, according to the Air Force | todo |
