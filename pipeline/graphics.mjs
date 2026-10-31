@@ -182,6 +182,25 @@ const B = {
      <g data-d="1.6" data-k="op" data-dur="0.4"><text x="${ex}" y="${sea - 18}" text-anchor="middle" font-size="24" fill="${C.graphite}" style="font-family:Courier">WHERE IT "LOOKS" TO BE</text></g>` : ""}
     </svg>${srcLine(R ? "SOURCES: NASA UAP STUDY 2023; AARO GOFAST RESOLUTION 2025 · ILLUSTRATION, NOT TO SCALE" : "VALUES READ FROM THE GOFAST DISPLAY · ILLUSTRATION, NOT TO SCALE", 1.4)}`;
   },
+  // altitude bands (o.bands: [{lo, hi, t, s, hl}]), feet; o.max default 70000; o.glint draws a sunlit dot at the top band
+  alt: (o) => {
+    const max = o.max || 70000, y0 = 890, y1 = 330, X0 = 360, X1 = W - 160, Y = (f) => y0 - (y0 - y1) * f / max;
+    let s = `<svg width="${W}" height="${H}" style="position:absolute;inset:0"><defs><filter id="g3"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+      <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f141a"/><stop offset="1" stop-color="#1c2731"/></linearGradient></defs>
+      <rect x="${X0}" y="${y1}" width="${X1 - X0}" height="${y0 - y1}" fill="url(#sky)"/>
+      <line x1="${X0}" y1="${y0}" x2="${X1}" y2="${y0}" stroke="${C.graphite}" stroke-width="4"/>`;
+    for (let f = 0; f <= max; f += 10000) s += `<line x1="${X0 - 14}" y1="${Y(f)}" x2="${X0}" y2="${Y(f)}" stroke="${C.graphite}" stroke-width="2"/><text x="${X0 - 26}" y="${Y(f) + 10}" text-anchor="end" font-size="28" fill="${C.graphite}" style="font-family:Courier">${f ? (f / 1000) + ",000" : "0"}</text>`;
+    s += `<text x="${X0 - 26}" y="${y1 - 30}" text-anchor="end" font-size="24" fill="${C.graphite}" style="font-family:Courier;letter-spacing:.2em">FEET</text>`;
+    for (const [i, b] of o.bands.entries()) {
+      const d = 0.4 + i * 0.35, col = b.hl ? C.highlight : C.stamp;
+      s += `<g data-d="${d}" data-k="op" data-dur=".4"><rect x="${X0 + 4}" y="${Y(b.hi)}" width="${X1 - X0 - 8}" height="${Math.max(6, Y(b.lo) - Y(b.hi))}" fill="${col}" fill-opacity="${b.hl ? .22 : .2}" stroke="${col}" stroke-width="2" stroke-dasharray="${b.hl ? "0" : "10 8"}"/>
+        <text x="${X0 + 40}" y="${(Y(b.hi) + Y(b.lo)) / 2 + 14}" font-size="40" fill="${C.paper}" style="font-family:Archivo;font-weight:800">${b.t}</text>
+        ${b.s ? `<text x="${X1 - 40}" y="${(Y(b.hi) + Y(b.lo)) / 2 + 10}" text-anchor="end" font-size="28" fill="${C.paper}" style="font-family:Courier">${b.s}</text>` : ""}</g>`;
+    }
+    if (o.glint) { const gy = Y(o.glint), gx = X1 - 420, d = 0.6 + o.bands.length * 0.35;
+      s += `<g data-d="${d}" data-k="op" data-dur=".5"><circle cx="${gx}" cy="${gy}" r="14" fill="${C.highlight}" filter="url(#g3)"/><circle cx="${gx}" cy="${gy}" r="34" fill="none" stroke="${C.highlight}" stroke-width="2" opacity=".5"/></g>`; }
+    return `${s}</svg>${kick(o.kicker, o.title)}${srcLine(o.source, 0.8 + o.bands.length * 0.35)}`;
+  },
   end: (o) => `
    <div style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center">
     <div ${A(0.1)}><span class="k">FILE ${o.n} · CLOSED</span></div>
