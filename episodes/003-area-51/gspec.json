@@ -1,0 +1,472 @@
+[
+ {
+  "key": "stat_e652bf",
+  "name": "stat",
+  "opts": {
+   "k": "CIA U-2 HISTORY \u00b7 LESS-REDACTED RELEASE, 2013",
+   "a": "AREA 51",
+   "size": 240,
+   "b": "the name under the black boxes",
+   "source": "SOURCE: NATIONAL SECURITY ARCHIVE, ELECTRONIC BRIEFING BOOK NO. 434, AUG. 15, 2013"
+  }
+ },
+ {
+  "key": "intro_dce078",
+  "name": "intro",
+  "opts": {
+   "n": "003"
+  }
+ },
+ {
+  "key": "title_3fbcba",
+  "name": "title",
+  "opts": {
+   "n": "003",
+   "t": "Area 51",
+   "size": 170,
+   "sub": "What the CIA finally admitted"
+  }
+ },
+ {
+  "key": "chapter_425b40",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Problem"
+  }
+ },
+ {
+  "key": "timeline_c19e19",
+  "name": "timeline",
+  "opts": {
+   "kicker": "PROJECT U-2",
+   "title": "From idea to approval",
+   "active": 2,
+   "events": [
+    {
+     "y": "1949",
+     "t": "Soviet atomic test"
+    },
+    {
+     "y": "AUG 1953",
+     "t": "Soviet hydrogen bomb test"
+    },
+    {
+     "y": "NOV 1954",
+     "t": "Eisenhower approves the project"
+    },
+    {
+     "y": "AUG 1955",
+     "t": "Promised first flight"
+    }
+   ],
+   "source": "SOURCES: CIA U-2 HISTORY, CH. 1; G. HAINES, CIA, 1997"
+  }
+ },
+ {
+  "key": "chapter_5bc36c",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "The Ranch"
+  }
+ },
+ {
+  "key": "map_3599c3",
+  "name": "map",
+  "opts": {
+   "kicker": "APRIL 1955",
+   "title": "The search for a test site",
+   "bounds": [
+    [
+     -118.9,
+     33.2
+    ],
+    [
+     -114.6,
+     37.6
+    ]
+   ],
+   "points": [
+    {
+     "ll": [
+      -118.31,
+      34.18
+     ],
+     "name": "Burbank",
+     "sub": "LOCKHEED SKUNK WORKS"
+    },
+    {
+     "ll": [
+      -115.14,
+      36.17
+     ],
+     "name": "Las Vegas"
+    },
+    {
+     "ll": [
+      -115.81,
+      37.25
+     ],
+     "name": "Groom Lake",
+     "sub": "DRY LAKEBED",
+     "color": "#F2D04B"
+    }
+   ],
+   "areas": [
+    {
+     "ll": [
+      -116.25,
+      36.68
+     ],
+     "r": 62
+    }
+   ],
+   "labels": [
+    {
+     "ll": [
+      -118.25,
+      36.55
+     ],
+     "t": "NEVADA PROVING GROUND \u2192",
+     "size": 22
+    }
+   ],
+   "source": "SOURCE: CIA U-2 HISTORY, CH. 2 \u00b7 MAP: NATURAL EARTH \u00b7 AREAS APPROXIMATE"
+  }
+ },
+ {
+  "key": "quote_df896b",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026a salt flat known as {{Groom Lake}}, near the northeast corner of the Atomic Energy Commission's (AEC) Nevada Proving Ground.",
+   "who": "CIA History Staff",
+   "role": "The CIA and the U-2 Program, ch. 2",
+   "size": 54,
+   "source": "SOURCE: CIA HISTORY \"THE CIA AND THE U-2 PROGRAM, 1954\u20131974\" (2013 RELEASE, VIA NSARCHIVE)"
+  }
+ },
+ {
+  "key": "doc_51f121",
+  "name": "doc",
+  "opts": {
+   "header": "CIA HISTORY STAFF \u00b7 THE CIA AND THE U-2 PROGRAM \u00b7 CHAPTER 2",
+   "title": "Preparations for testing the U-2",
+   "lines": [
+    "President Eisenhower also approved the addition of this strip of wasteland,",
+    "{{known by its map designation as Area 51,}} to the Nevada Test Site."
+   ],
+   "source": "SOURCE: CIA HISTORY \"THE CIA AND THE U-2 PROGRAM, 1954\u20131974\" (2013 RELEASE, VIA NSARCHIVE) \u00b7 EXCERPT, RECREATED"
+  }
+ },
+ {
+  "key": "map_178cf2",
+  "name": "map",
+  "opts": {
+   "kicker": "AREA 51",
+   "title": "A name from a map",
+   "bounds": [
+    [
+     -118.9,
+     33.2
+    ],
+    [
+     -114.6,
+     37.6
+    ]
+   ],
+   "points": [
+    {
+     "ll": [
+      -118.31,
+      34.18
+     ],
+     "name": "Burbank",
+     "sub": "LOCKHEED SKUNK WORKS"
+    },
+    {
+     "ll": [
+      -115.14,
+      36.17
+     ],
+     "name": "Las Vegas"
+    },
+    {
+     "ll": [
+      -115.81,
+      37.25
+     ],
+     "name": "Groom Lake",
+     "sub": "AREA 51 \u00b7 ADDED TO THE NEVADA TEST SITE",
+     "color": "#F2D04B"
+    }
+   ],
+   "areas": [
+    {
+     "ll": [
+      -116.25,
+      36.68
+     ],
+     "r": 62
+    }
+   ],
+   "labels": [
+    {
+     "ll": [
+      -118.25,
+      36.55
+     ],
+     "t": "NEVADA PROVING GROUND \u2192",
+     "size": 22
+    }
+   ],
+   "source": "SOURCE: CIA U-2 HISTORY, CH. 2 (2013 RELEASE) \u00b7 MAP: NATURAL EARTH \u00b7 AREAS APPROXIMATE"
+  }
+ },
+ {
+  "key": "quote_445f82",
+  "name": "quote",
+  "opts": {
+   "q": "Kelly Johnson called it the {{Paradise Ranch,}} which was soon shortened to the Ranch.",
+   "who": "CIA History Staff",
+   "role": "The CIA and the U-2 Program, ch. 2",
+   "size": 58,
+   "source": "SOURCE: CIA HISTORY \"THE CIA AND THE U-2 PROGRAM, 1954\u20131974\" (2013 RELEASE, VIA NSARCHIVE)"
+  }
+ },
+ {
+  "key": "map_0dc742",
+  "name": "map",
+  "opts": {
+   "kicker": "JUNE 1957",
+   "title": "A nuclear neighbor",
+   "bounds": [
+    [
+     -118.9,
+     33.2
+    ],
+    [
+     -114.6,
+     37.6
+    ]
+   ],
+   "points": [
+    {
+     "ll": [
+      -118.31,
+      34.18
+     ],
+     "name": "Burbank",
+     "sub": "LOCKHEED SKUNK WORKS"
+    },
+    {
+     "ll": [
+      -115.14,
+      36.17
+     ],
+     "name": "Las Vegas"
+    },
+    {
+     "ll": [
+      -115.81,
+      37.25
+     ],
+     "name": "Groom Lake",
+     "sub": "DRY LAKEBED",
+     "color": "#F2D04B"
+    }
+   ],
+   "areas": [
+    {
+     "ll": [
+      -116.25,
+      36.68
+     ],
+     "r": 62
+    }
+   ],
+   "labels": [
+    {
+     "ll": [
+      -118.25,
+      36.55
+     ],
+     "t": "NEVADA PROVING GROUND \u2192",
+     "size": 22
+    }
+   ],
+   "source": "SOURCE: CIA U-2 HISTORY (2013 RELEASE) \u00b7 MAP: NATURAL EARTH \u00b7 AREAS APPROXIMATE"
+  }
+ },
+ {
+  "key": "chapter_5b18e5",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "Fiery Objects"
+  }
+ },
+ {
+  "key": "alt_01d17e",
+  "name": "alt",
+  "opts": {
+   "kicker": "MID-1950s",
+   "title": "Who flew where",
+   "glint": 63000,
+   "bands": [
+    {
+     "lo": 10000,
+     "hi": 20000,
+     "t": "AIRLINERS",
+     "s": "10,000 \u2013 20,000 FT"
+    },
+    {
+     "lo": 20000,
+     "hi": 40000,
+     "t": "MILITARY JETS (B-47, B-57)",
+     "s": "BELOW 40,000 FT"
+    },
+    {
+     "lo": 60000,
+     "hi": 70000,
+     "t": "U-2",
+     "s": "ABOVE 60,000 FT",
+     "hl": true
+    }
+   ],
+   "source": "SOURCE: CIA U-2 HISTORY, P. 72 \u00b7 ILLUSTRATION, NOT TO SCALE"
+  }
+ },
+ {
+  "key": "quote_c040c2",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026its silver wings would catch and reflect the rays of the sun and appear to the airliner pilot, 40,000 feet below, to be {{fiery objects.}}",
+   "who": "CIA History Staff",
+   "role": "The CIA and the U-2 Program, p. 72",
+   "size": 52,
+   "source": "SOURCE: CIA HISTORY \"THE CIA AND THE U-2 PROGRAM, 1954\u20131974\" (2013 RELEASE, VIA NSARCHIVE)"
+  }
+ },
+ {
+  "key": "quote_ecc121",
+  "name": "quote",
+  "opts": {
+   "q": "U-2 and later OXCART flights accounted for {{more than one-half of all UFO reports}} during the late 1950s and most of the 1960s.",
+   "who": "CIA History Staff",
+   "role": "The CIA and the U-2 Program, p. 73",
+   "size": 54,
+   "source": "SOURCE: CIA HISTORY \"THE CIA AND THE U-2 PROGRAM, 1954\u20131974\" (2013 RELEASE, VIA NSARCHIVE)"
+  }
+ },
+ {
+  "key": "quote_300140",
+  "name": "quote",
+  "opts": {
+   "q": "This led the Air Force to make {{misleading and deceptive statements}} to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.",
+   "who": "Gerald K. Haines",
+   "role": "CIA historian \u00b7 Studies in Intelligence, 1997",
+   "size": 46,
+   "source": "SOURCE: G. HAINES, \"CIA'S ROLE IN THE STUDY OF UFOs, 1947\u201390,\" CIA, 1997"
+  }
+ },
+ {
+  "key": "stat_fae54a",
+  "name": "stat",
+  "opts": {
+   "k": "AIR FORCE \"UNEXPLAINED\" UFO SIGHTINGS",
+   "a": "4%",
+   "b": "of sightings in 1956",
+   "c": "down from 5.9 percent in 1955",
+   "source": "SOURCE: G. HAINES, \"CIA'S ROLE IN THE STUDY OF UFOs, 1947\u201390,\" CIA, 1997"
+  }
+ },
+ {
+  "key": "chapter_0b1ebe",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "Overflight"
+  }
+ },
+ {
+  "key": "timeline_7de364",
+  "name": "timeline",
+  "opts": {
+   "kicker": "U-2 OVER THE USSR",
+   "title": "Four years of overflights",
+   "active": 3,
+   "events": [
+    {
+     "y": "AUG 1955",
+     "t": "First flight, Nevada"
+    },
+    {
+     "y": "JUL 4, 1956",
+     "t": "First Soviet overflight"
+    },
+    {
+     "y": "JUL 10, 1956",
+     "t": "Soviet protest note"
+    },
+    {
+     "y": "MAY 1, 1960",
+     "t": "Powers shot down"
+    }
+   ],
+   "source": "SOURCE: CIA U-2 HISTORY, CH. 2 \u2013 4"
+  }
+ },
+ {
+  "key": "chapter_c134e2",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "OXCART"
+  }
+ },
+ {
+  "key": "chapter_848c23",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "What It Proves"
+  }
+ },
+ {
+  "key": "timeline_bafdbb",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE PAPER TRAIL",
+   "title": "From secret to released",
+   "active": 3,
+   "events": [
+    {
+     "y": "1992",
+     "t": "History written (classified)"
+    },
+    {
+     "y": "1998",
+     "t": "Redacted version published"
+    },
+    {
+     "y": "2005",
+     "t": "FOIA request filed"
+    },
+    {
+     "y": "AUG 2013",
+     "t": "Area 51 references released"
+    }
+   ],
+   "source": "SOURCE: NATIONAL SECURITY ARCHIVE, ELECTRONIC BRIEFING BOOK NO. 434, 2013"
+  }
+ },
+ {
+  "key": "end_d2402a",
+  "name": "end",
+  "opts": {
+   "n": "003",
+   "next": "MKUltra: The Files That Survived"
+  }
+ }
+]
