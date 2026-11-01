@@ -1,0 +1,42 @@
+{
+ "dv346026.mp4": {
+  "source": "https://www.dvidshub.net/video/346026",
+  "title": "DVIDS - Video - Capitol Building in Washington, D.C., B-Roll",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101768679/DOD_101768679-720x406-800k.mp4"
+ },
+ "dv346119.mp4": {
+  "source": "https://www.dvidshub.net/video/346119",
+  "title": "DVIDS - Video - B-Roll Footage Around Washington, D.C. Capitol 2",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101768997/DOD_101768997-720x406-800k.mp4"
+ },
+ "dv346120.mp4": {
+  "source": "https://www.dvidshub.net/video/346120",
+  "title": "DVIDS - Video - B-Roll Footage Around Washington, D.C. Treasury",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101768998/DOD_101768998-720x406-800k.mp4"
+ },
+ "dv346124.mp4": {
+  "source": "https://www.dvidshub.net/video/346124",
+  "title": "DVIDS - Video - B-Roll Footage Around Washington, D.C., White House",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101769002/DOD_101769002-720x406-800k.mp4"
+ },
+ "dv1026934.mp4": {
+  "source": "https://www.dvidshub.net/video/1026934",
+  "title": "DVIDS - Video - From the Cockpit: America 250 Over Washington, D.C.",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083909/DOD_112083909.mp4"
+ },
+ "dv1026930.mp4": {
+  "source": "https://www.dvidshub.net/video/1026930",
+  "title": "DVIDS - Video - From the Cockpit: America 250 Over Washington, D.C.",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083901/DOD_112083901.mp4"
+ },
+ "documents": {
+  "senate_hearing_1977": "https://archive.org/details/project-mkultra-the-cias-program-of-research-in-behavioral-modification_202305 (U.S. Senate print, public domain)",
+  "cia_ig_1963": "https://archive.org/details/cia-readingroom-document-06767515 (CIA release C06767515, public domain)"
+ }
+}

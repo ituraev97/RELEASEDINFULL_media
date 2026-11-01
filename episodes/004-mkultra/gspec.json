@@ -1,0 +1,471 @@
+[
+ {
+  "key": "quote_c82765",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026he was retiring and that I was retiring and he thought it would be a good idea if {{these files were destroyed.}}",
+   "who": "Richard Helms",
+   "role": "Former CIA Director \u00b7 testimony, Sept. 11, 1975",
+   "size": 56,
+   "source": "SOURCE: CHURCH COMMITTEE FINAL REPORT, BOOK I (1976), AS REPRINTED IN THE AUG. 3, 1977 SENATE HEARING"
+  }
+ },
+ {
+  "key": "stat_df40a9",
+  "name": "stat",
+  "opts": {
+   "k": "FOUND IN A CIA RECORDS CENTER \u00b7 MARCH 1977",
+   "a": "7",
+   "size": 300,
+   "b": "boxes of MKUltra records",
+   "c": "filed in the wrong section",
+   "source": "SOURCE: ADM. STANSFIELD TURNER, DIRECTOR OF CENTRAL INTELLIGENCE \u00b7 SENATE HEARING, AUG. 3, 1977"
+  }
+ },
+ {
+  "key": "intro_4f37a1",
+  "name": "intro",
+  "opts": {
+   "n": "004"
+  }
+ },
+ {
+  "key": "title_0a5607",
+  "name": "title",
+  "opts": {
+   "n": "004",
+   "t": "MKUltra",
+   "size": 190,
+   "sub": "The files that survived"
+  }
+ },
+ {
+  "key": "chapter_342362",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Charter"
+  }
+ },
+ {
+  "key": "quote_151694",
+  "name": "quote",
+  "opts": {
+   "q": "Research to develop a capability in the {{covert use of biological and chemical materials.}}",
+   "who": "Richard Helms",
+   "role": "Proposal to DCI Allen Dulles, April 3, 1953",
+   "size": 62,
+   "source": "SOURCE: CHURCH COMMITTEE FINAL REPORT, BOOK I (1976), AS REPRINTED IN THE AUG. 3, 1977 SENATE HEARING"
+  }
+ },
+ {
+  "key": "quote_df7754",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026are {{most reluctant to enter into signed agreements}} of any sort which connect them with this activity\u2026",
+   "who": "Richard Helms",
+   "role": "Proposal to DCI Allen Dulles, 1953",
+   "size": 58,
+   "source": "SOURCE: CHURCH COMMITTEE FINAL REPORT, BOOK I (1976), AS REPRINTED IN THE AUG. 3, 1977 SENATE HEARING"
+  }
+ },
+ {
+  "key": "chapter_ba0a89",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "The Tests"
+  }
+ },
+ {
+  "key": "list_1b8a32",
+  "name": "list",
+  "opts": {
+   "kicker": "MKULTRA",
+   "title": "Three phases",
+   "items": [
+    {
+     "n": "01",
+     "t": "Search for materials",
+     "s": "UNIVERSITIES, DRUG FIRMS, HOSPITALS"
+    },
+    {
+     "n": "02",
+     "t": "Laboratory tests",
+     "s": "VOLUNTEER SUBJECTS"
+    },
+    {
+     "n": "03",
+     "t": "Normal life settings",
+     "s": "INCLUDING UNWITTING PEOPLE"
+    }
+   ],
+   "source": "SOURCE: CHURCH COMMITTEE FINAL REPORT, BOOK I (1976), AS REPRINTED IN THE AUG. 3, 1977 SENATE HEARING"
+  }
+ },
+ {
+  "key": "quote_aedbf3",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026testing of materials under accepted scientific procedures {{fails to disclose the full pattern of reactions}} and attributions that may occur in operational situations.",
+   "who": "CIA rationale",
+   "role": "As quoted by the Church Committee, 1976",
+   "size": 50,
+   "source": "SOURCE: CHURCH COMMITTEE FINAL REPORT, BOOK I (1976), AS REPRINTED IN THE AUG. 3, 1977 SENATE HEARING"
+  }
+ },
+ {
+  "key": "map_9ac7c4",
+  "name": "map",
+  "opts": {
+   "kicker": "WHERE THE FILES POINT",
+   "title": "Places in the record",
+   "bounds": [
+    [
+     -123.5,
+     30.5
+    ],
+    [
+     -70.0,
+     45.0
+    ]
+   ],
+   "points": [
+    {
+     "ll": [
+      -77.04,
+      38.9
+     ],
+     "name": "Washington",
+     "anchor": "end"
+    },
+    {
+     "ll": [
+      -74.0,
+      40.71
+     ],
+     "name": "New York",
+     "sub": "SAFEHOUSE"
+    },
+    {
+     "ll": [
+      -122.42,
+      37.77
+     ],
+     "name": "San Francisco",
+     "sub": "SAFEHOUSE"
+    },
+    {
+     "ll": [
+      -84.5,
+      38.04
+     ],
+     "name": "Lexington, Ky.",
+     "sub": "ADDICTION RESEARCH CENTER",
+     "anchor": "end"
+    }
+   ],
+   "source": "SOURCES: CHURCH COMMITTEE, BOOK I; ADM. TURNER, 1977 \u00b7 MAP: NATURAL EARTH"
+  }
+ },
+ {
+  "key": "chapter_c73ef9",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "Deep Creek Lake"
+  }
+ },
+ {
+  "key": "map_7c0d81",
+  "name": "map",
+  "opts": {
+   "kicker": "NOVEMBER 1953",
+   "title": "A meeting in the mountains",
+   "bounds": [
+    [
+     -80.2,
+     37.6
+    ],
+    [
+     -73.6,
+     41.2
+    ]
+   ],
+   "points": [
+    {
+     "ll": [
+      -79.33,
+      39.51
+     ],
+     "name": "Deep Creek Lake",
+     "sub": "NOV. 18\u201319, 1953",
+     "color": "#F2D04B",
+     "anchor": "end"
+    },
+    {
+     "ll": [
+      -77.41,
+      39.41
+     ],
+     "name": "Camp Detrick",
+     "sub": "FREDERICK, MD."
+    },
+    {
+     "ll": [
+      -77.04,
+      38.9
+     ],
+     "name": "Washington",
+     "anchor": "end"
+    },
+    {
+     "ll": [
+      -73.99,
+      40.75
+     ],
+     "name": "New York",
+     "sub": "STATLER HOTEL",
+     "anchor": "end"
+    }
+   ],
+   "source": "SOURCE: CHURCH COMMITTEE FINAL REPORT, BOOK I (1976) \u00b7 MAP: NATURAL EARTH \u00b7 LOCATIONS APPROXIMATE"
+  }
+ },
+ {
+  "key": "stat_ba34b6",
+  "name": "stat",
+  "opts": {
+   "k": "STATLER HOTEL \u00b7 NEW YORK CITY",
+   "a": "NOV. 28, 1953",
+   "size": 170,
+   "b": "Frank Olson dies",
+   "c": "nine days after the Deep Creek Lake experiment",
+   "source": "SOURCES: CHURCH COMMITTEE, BOOK I, P. 397; PRESIDENT FORD, STATEMENT ON S. 3035, OCT. 12, 1976"
+  }
+ },
+ {
+  "key": "quote_e22345",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026did not notify the Olsons of {{the circumstances surrounding his demise.}}",
+   "who": "Church Committee",
+   "role": "Final Report, Book I, 1976",
+   "size": 60,
+   "source": "SOURCE: CHURCH COMMITTEE FINAL REPORT, BOOK I (1976), AS REPRINTED IN THE AUG. 3, 1977 SENATE HEARING"
+  }
+ },
+ {
+  "key": "stat_9b6a64",
+  "name": "stat",
+  "opts": {
+   "k": "PRIVATE LAW FOR OLSON'S SURVIVORS \u00b7 OCT. 1976",
+   "a": "$750,000",
+   "size": 230,
+   "b": "paid by act of Congress",
+   "c": "President Ford: the drug \"would appear to have been a proximate cause of his death\"",
+   "source": "SOURCE: GERALD R. FORD LIBRARY, WHITE HOUSE RECORDS ON S. 3035 (1976)"
+  }
+ },
+ {
+  "key": "chapter_5baf19",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "The Inspector"
+  }
+ },
+ {
+  "key": "quote_7b53e6",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026{{the only realistic method of maintaining the capability,}} considering the intended operational use of materials to influence human behavior as the operational targets will certainly be unwitting.",
+   "who": "Richard Helms",
+   "role": "Memo to the Deputy Director of Central Intelligence, Dec. 17, 1963",
+   "size": 46,
+   "source": "SOURCE: CHURCH COMMITTEE FINAL REPORT, BOOK I (1976), AS REPRINTED IN THE AUG. 3, 1977 SENATE HEARING"
+  }
+ },
+ {
+  "key": "timeline_272f57",
+  "name": "timeline",
+  "opts": {
+   "kicker": "PROJECT MKULTRA",
+   "title": "Eleven years, then silence",
+   "active": 3,
+   "events": [
+    {
+     "y": "APR 1953",
+     "t": "Dulles approves MKUltra"
+    },
+    {
+     "y": "NOV 1953",
+     "t": "Olson experiment"
+    },
+    {
+     "y": "1963",
+     "t": "Inspector General report"
+    },
+    {
+     "y": "1964",
+     "t": "Program ends (CIA account)"
+    }
+   ],
+   "source": "SOURCES: CHURCH COMMITTEE, BOOK I; ADM. TURNER, 1977; CIA IG REPORT, 1963"
+  }
+ },
+ {
+  "key": "quote_9d5bae",
+  "name": "quote",
+  "opts": {
+   "q": "Files are {{notably incomplete,}} poorly organized, and lacking in evaluative statements\u2026",
+   "who": "CIA Inspector General",
+   "role": "Report on MKULTRA, 1963 \u00b7 as quoted by the Church Committee",
+   "size": 60,
+   "source": "SOURCE: CHURCH COMMITTEE FINAL REPORT, BOOK I (1976), AS REPRINTED IN THE AUG. 3, 1977 SENATE HEARING"
+  }
+ },
+ {
+  "key": "chapter_0109f8",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "Destroyed"
+  }
+ },
+ {
+  "key": "quote_fba160",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026so that {{anybody who assisted us in the past}} would not be subject to follow-up or questions, embarrassment, if you will.",
+   "who": "Richard Helms",
+   "role": "Testimony, Sept. 11, 1975",
+   "size": 56,
+   "source": "SOURCE: CHURCH COMMITTEE FINAL REPORT, BOOK I (1976), AS REPRINTED IN THE AUG. 3, 1977 SENATE HEARING"
+  }
+ },
+ {
+  "key": "quote_861426",
+  "name": "quote",
+  "opts": {
+   "q": "The destruction also {{prevented the CIA from locating and providing medical assistance}} to the individuals who were subjects in the program.",
+   "who": "Church Committee",
+   "role": "Final Report, Book I, 1976",
+   "size": 52,
+   "source": "SOURCE: CHURCH COMMITTEE FINAL REPORT, BOOK I (1976), AS REPRINTED IN THE AUG. 3, 1977 SENATE HEARING"
+  }
+ },
+ {
+  "key": "chapter_ea1890",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "Seven Boxes"
+  }
+ },
+ {
+  "key": "quote_e5c43f",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026the material {{escaped retrieval and destruction in 1973}} by the then-retiring Director of the Office\u2026",
+   "who": "Adm. Stansfield Turner",
+   "role": "Director of Central Intelligence \u00b7 Aug. 3, 1977",
+   "size": 58,
+   "source": "SOURCE: ADM. STANSFIELD TURNER, DIRECTOR OF CENTRAL INTELLIGENCE \u00b7 SENATE HEARING, AUG. 3, 1977"
+  }
+ },
+ {
+  "key": "stat_349b6a",
+  "name": "stat",
+  "opts": {
+   "k": "RECOVERED MKULTRA FINANCE FILES \u00b7 1977",
+   "a": "149",
+   "size": 300,
+   "b": "subprojects",
+   "c": "185 outside researchers and assistants \u00b7 80 institutions",
+   "source": "SOURCE: ADM. STANSFIELD TURNER, DIRECTOR OF CENTRAL INTELLIGENCE \u00b7 SENATE HEARING, AUG. 3, 1977"
+  }
+ },
+ {
+  "key": "list_5cc777",
+  "name": "list",
+  "opts": {
+   "kicker": "AMONG THE 80 INSTITUTIONS",
+   "title": "Named in the recovered files",
+   "items": [
+    {
+     "n": "44",
+     "t": "Colleges or universities"
+    },
+    {
+     "n": "15",
+     "t": "Research foundations, chemical or drug companies"
+    },
+    {
+     "n": "12",
+     "t": "Hospitals or clinics"
+    },
+    {
+     "n": "3",
+     "t": "Penal institutions"
+    }
+   ],
+   "source": "SOURCE: ADM. STANSFIELD TURNER, DIRECTOR OF CENTRAL INTELLIGENCE \u00b7 SENATE HEARING, AUG. 3, 1977"
+  }
+ },
+ {
+  "key": "quote_9e7457",
+  "name": "quote",
+  "opts": {
+   "q": "The Central Intelligence Agency {{drugged American citizens without their knowledge or consent.}}",
+   "who": "Sen. Edward M. Kennedy",
+   "role": "Senate hearing, Aug. 3, 1977",
+   "size": 60,
+   "source": "SOURCE: SENATE HEARING ON PROJECT MKULTRA, AUG. 3, 1977"
+  }
+ },
+ {
+  "key": "chapter_46fb2f",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "What It Proves"
+  }
+ },
+ {
+  "key": "timeline_aec66d",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE PAPER TRAIL",
+   "title": "From destroyed to released",
+   "active": 3,
+   "events": [
+    {
+     "y": "1963",
+     "t": "IG: no records of test approvals"
+    },
+    {
+     "y": "JAN 1973",
+     "t": "MKUltra files destroyed"
+    },
+    {
+     "y": "1975",
+     "t": "Olson case made public"
+    },
+    {
+     "y": "1977",
+     "t": "Seven boxes found"
+    }
+   ],
+   "source": "SOURCES: CIA IG REPORT, 1963; CHURCH COMMITTEE, BOOK I; ADM. TURNER, 1977"
+  }
+ },
+ {
+  "key": "end_1892ea",
+  "name": "end",
+  "opts": {
+   "n": "004",
+   "next": "Roswell, According to the Air Force"
+  }
+ }
+]

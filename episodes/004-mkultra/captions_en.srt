@@ -1,0 +1,1223 @@
+1
+00:00:00,600 --> 00:00:03,848
+In January 1973, two men at the top of the
+
+2
+00:00:03,868 --> 00:00:05,793
+CIA were about to retire.
+
+3
+00:00:06,263 --> 00:00:07,819
+The Director, Richard Helms.
+
+4
+00:00:08,159 --> 00:00:10,372
+And the chief of the agency's Technical
+
+5
+00:00:10,392 --> 00:00:12,376
+Services Division, Sidney Gottlieb.
+
+6
+00:00:12,946 --> 00:00:15,307
+Helms later told Senate investigators.
+
+7
+00:00:15,727 --> 00:00:17,974
+Gottlieb, he said, came to him and said he
+
+8
+00:00:17,994 --> 00:00:20,133
+thought it would be a good idea if these
+
+9
+00:00:20,153 --> 00:00:21,267
+files were destroyed.
+
+10
+00:00:21,836 --> 00:00:24,109
+The files were the records of a program
+
+11
+00:00:24,129 --> 00:00:25,226
+code-named MKUltra.
+
+12
+00:00:25,696 --> 00:00:28,038
+Staff destroyed them on Gottlieb's verbal
+
+13
+00:00:28,058 --> 00:00:28,441
+orders.
+
+14
+00:00:28,781 --> 00:00:31,024
+Gottlieb testified he was carrying out an
+
+15
+00:00:31,044 --> 00:00:33,286
+order from Helms, and Helms confirmed it.
+
+16
+00:00:34,207 --> 00:00:36,388
+For four years, it looked as if the paper
+
+17
+00:00:36,408 --> 00:00:37,677
+trail was gone for good.
+
+18
+00:00:38,247 --> 00:00:41,075
+Then, in 1977, a CIA employee answering
+
+19
+00:00:41,095 --> 00:00:43,996
+Freedom of Information Act requests went
+
+20
+00:00:44,016 --> 00:00:46,552
+looking in a records center outside
+
+21
+00:00:46,572 --> 00:00:47,355
+Washington.
+
+22
+00:00:47,825 --> 00:00:49,311
+He found seven boxes.
+
+23
+00:00:49,651 --> 00:00:51,185
+The destruction had missed them.
+
+24
+00:00:51,755 --> 00:00:53,790
+What was in those boxes is the closest
+
+25
+00:00:53,810 --> 00:00:55,519
+thing we have to the full story.
+
+26
+00:00:56,089 --> 00:00:57,362
+Let's open the file.
+
+27
+00:01:03,689 --> 00:01:04,925
+It started with a memo.
+
+28
+00:01:05,545 --> 00:01:08,371
+On April 3, 1953, Richard Helms, then a
+
+29
+00:01:08,391 --> 00:01:10,852
+senior officer in the CIA's covert
+
+30
+00:01:10,872 --> 00:01:13,916
+operations directorate, sent a proposal to
+
+31
+00:01:13,936 --> 00:01:15,522
+Director Allen Dulles.
+
+32
+00:01:15,992 --> 00:01:17,926
+Ten days later, Dulles approved it.
+
+33
+00:01:18,496 --> 00:01:20,901
+The goal, in the proposal's words, was
+
+34
+00:01:20,921 --> 00:01:23,389
+research to develop a capability in the
+
+35
+00:01:23,409 --> 00:01:25,750
+covert use of biological and chemical
+
+36
+00:01:25,770 --> 00:01:26,388
+materials.
+
+37
+00:01:26,958 --> 00:01:29,695
+The CIA later called MKUltra an umbrella
+
+38
+00:01:29,715 --> 00:01:30,247
+project.
+
+39
+00:01:30,717 --> 00:01:32,895
+Grants to researchers went out under the
+
+40
+00:01:32,915 --> 00:01:35,093
+cover of research foundations, which hid
+
+41
+00:01:35,113 --> 00:01:36,741
+the agency's interest from the
+
+42
+00:01:36,761 --> 00:01:38,390
+researchers' own institutions.
+
+43
+00:01:38,960 --> 00:01:41,140
+From the start, normal rules were waived.
+
+44
+00:01:41,480 --> 00:01:43,818
+Six percent of the research budget of the
+
+45
+00:01:43,838 --> 00:01:46,119
+agency's technical branch could be spent
+
+46
+00:01:46,139 --> 00:01:47,558
+without formal contracts.
+
+47
+00:01:48,028 --> 00:01:50,008
+Contracts, Helms noted, would reveal
+
+48
+00:01:50,028 --> 00:01:51,120
+government interest.
+
+49
+00:01:51,689 --> 00:01:53,822
+Researchers in this field, he wrote, are
+
+50
+00:01:53,842 --> 00:01:55,706
+most reluctant to enter into signed
+
+51
+00:01:55,726 --> 00:01:57,913
+agreements of any sort which connect them
+
+52
+00:01:57,933 --> 00:01:58,935
+with this activity.
+
+53
+00:01:59,506 --> 00:02:01,983
+Ten years later, the CIA's own Inspector
+
+54
+00:02:02,003 --> 00:02:03,856
+General summed up the problem.
+
+55
+00:02:04,439 --> 00:02:06,743
+The concepts involved in manipulating
+
+56
+00:02:06,763 --> 00:02:09,131
+human behavior, he wrote, are found by
+
+57
+00:02:09,151 --> 00:02:11,581
+many people both within and outside the
+
+58
+00:02:11,601 --> 00:02:14,032
+Agency to be distasteful and unethical.
+
+59
+00:02:14,852 --> 00:02:17,069
+So what did MKUltra actually do?
+
+60
+00:02:17,689 --> 00:02:20,158
+The Senate's investigators described three
+
+61
+00:02:20,178 --> 00:02:20,572
+phases.
+
+62
+00:02:20,912 --> 00:02:22,786
+First, the search for materials worth
+
+63
+00:02:22,806 --> 00:02:23,246
+studying.
+
+64
+00:02:23,587 --> 00:02:25,974
+Second, laboratory tests on volunteers.
+
+65
+00:02:26,445 --> 00:02:28,670
+Third, using the materials in normal life
+
+66
+00:02:28,690 --> 00:02:29,162
+settings.
+
+67
+00:02:29,733 --> 00:02:31,532
+The search ran through standing
+
+68
+00:02:31,552 --> 00:02:33,409
+arrangements with specialists at
+
+69
+00:02:33,429 --> 00:02:35,522
+universities, pharmaceutical houses,
+
+70
+00:02:35,542 --> 00:02:37,341
+hospitals, and private research
+
+71
+00:02:37,361 --> 00:02:38,162
+organizations.
+
+72
+00:02:38,733 --> 00:02:41,017
+One of the first studies ran at a federal
+
+73
+00:02:41,037 --> 00:02:43,265
+center in Lexington, Kentucky, which was
+
+74
+00:02:43,285 --> 00:02:45,401
+then a prison for drug addicts serving
+
+75
+00:02:45,421 --> 00:02:45,963
+sentences.
+
+76
+00:02:46,433 --> 00:02:48,812
+According to the Senate report, volunteer
+
+77
+00:02:48,832 --> 00:02:51,269
+prisoners were given hallucinogenic drugs.
+
+78
+00:02:51,609 --> 00:02:53,540
+As a reward, they were provided with the
+
+79
+00:02:53,560 --> 00:02:54,711
+drug of their addiction.
+
+80
+00:02:55,281 --> 00:02:57,695
+LSD was one of the materials tested.
+
+81
+00:02:58,115 --> 00:02:59,859
+And the last phase of testing went
+
+82
+00:02:59,879 --> 00:03:00,274
+further.
+
+83
+00:03:00,856 --> 00:03:03,139
+Undercover officers of the Bureau of
+
+84
+00:03:03,159 --> 00:03:05,762
+Narcotics, acting for the CIA, gave it to
+
+85
+00:03:05,782 --> 00:03:08,385
+unwitting people in normal life settings.
+
+86
+00:03:08,805 --> 00:03:11,065
+People who had never agreed to take part.
+
+87
+00:03:11,635 --> 00:03:13,676
+The Senate report quotes the rationale.
+
+88
+00:03:14,016 --> 00:03:16,001
+Testing under accepted scientific
+
+89
+00:03:16,021 --> 00:03:18,554
+procedures, it said, fails to disclose the
+
+90
+00:03:18,574 --> 00:03:21,106
+full pattern of reactions and attributions
+
+91
+00:03:21,126 --> 00:03:23,598
+that may occur in operational situations.
+
+92
+00:03:24,168 --> 00:03:26,432
+And a CIA passage quoted in the same
+
+93
+00:03:26,452 --> 00:03:28,716
+report says the effectiveness of the
+
+94
+00:03:28,736 --> 00:03:31,190
+substances on individuals at all social
+
+95
+00:03:31,210 --> 00:03:33,791
+levels, high and low, native American and
+
+96
+00:03:33,811 --> 00:03:35,948
+foreign, is of great significance.
+
+97
+00:03:36,518 --> 00:03:39,319
+In 1977, the CIA told the Senate that some
+
+98
+00:03:39,339 --> 00:03:41,872
+of the unwitting testing took place in
+
+99
+00:03:41,892 --> 00:03:44,559
+safehouses in San Francisco and New York
+
+100
+00:03:44,579 --> 00:03:44,895
+City.
+
+101
+00:03:45,465 --> 00:03:47,630
+The Inspector General's report also
+
+102
+00:03:47,650 --> 00:03:49,939
+explains why so little of this can be
+
+103
+00:03:49,959 --> 00:03:50,813
+reconstructed.
+
+104
+00:03:51,395 --> 00:03:53,756
+Present practice, it says, is to maintain
+
+105
+00:03:53,776 --> 00:03:56,196
+no records of the planning and approval of
+
+106
+00:03:56,216 --> 00:03:57,009
+test programs.
+
+107
+00:03:57,579 --> 00:03:59,766
+According to the same report, the people
+
+108
+00:03:59,786 --> 00:04:01,972
+tested were seldom accessible beyond the
+
+109
+00:04:01,992 --> 00:04:03,295
+first hours of the test.
+
+110
+00:04:03,635 --> 00:04:06,081
+In a number of cases, a subject became ill
+
+111
+00:04:06,101 --> 00:04:07,137
+for hours or days.
+
+112
+00:04:08,057 --> 00:04:10,516
+One test is documented in more detail than
+
+113
+00:04:10,536 --> 00:04:11,106
+any other.
+
+114
+00:04:11,726 --> 00:04:14,110
+On November 18, 1953, a group of ten
+
+115
+00:04:14,130 --> 00:04:16,647
+scientists from the CIA and the Army's
+
+116
+00:04:16,667 --> 00:04:19,051
+Camp Detrick, in Maryland, met for a
+
+117
+00:04:19,071 --> 00:04:21,855
+review conference at a cabin at Deep Creek
+
+118
+00:04:21,875 --> 00:04:22,188
+Lake.
+
+119
+00:04:22,759 --> 00:04:25,234
+One of them was Frank Olson, a civilian
+
+120
+00:04:25,254 --> 00:04:27,664
+employee of the Army, and an expert in
+
+121
+00:04:27,684 --> 00:04:28,432
+aerobiology.
+
+122
+00:04:29,002 --> 00:04:31,444
+After dinner on November 19, the group was
+
+123
+00:04:31,464 --> 00:04:33,144
+served a bottle of Cointreau.
+
+124
+00:04:33,484 --> 00:04:36,175
+A CIA officer, Robert Lashbrook, had put
+
+125
+00:04:36,195 --> 00:04:36,853
+LSD in it.
+
+126
+00:04:37,193 --> 00:04:39,688
+Olson received about 70 micrograms.
+
+127
+00:04:40,158 --> 00:04:42,233
+About twenty minutes later, according to
+
+128
+00:04:42,253 --> 00:04:44,223
+Gottlieb's account, he told the others
+
+129
+00:04:44,243 --> 00:04:45,271
+what they had taken.
+
+130
+00:04:45,840 --> 00:04:48,142
+The Senate report found that neither the
+
+131
+00:04:48,162 --> 00:04:50,290
+chief of the CIA's Technical Services
+
+132
+00:04:50,310 --> 00:04:52,727
+Staff, where Gottlieb worked, nor the head
+
+133
+00:04:52,747 --> 00:04:55,107
+of the covert operations directorate, had
+
+134
+00:04:55,127 --> 00:04:57,428
+specifically authorized that experiment.
+
+135
+00:04:57,998 --> 00:04:59,921
+Shortly afterward, according to the
+
+136
+00:04:59,941 --> 00:05:02,252
+report, Olson showed symptoms of paranoia.
+
+137
+00:05:02,722 --> 00:05:05,325
+With Lashbrook, he went to New York to see
+
+138
+00:05:05,345 --> 00:05:07,886
+a doctor, whose own LSD research had been
+
+139
+00:05:07,906 --> 00:05:09,697
+funded indirectly by the CIA.
+
+140
+00:05:10,267 --> 00:05:12,972
+In the early hours of November 28, 1953,
+
+141
+00:05:12,992 --> 00:05:15,560
+while in New York for treatment, Frank
+
+142
+00:05:15,580 --> 00:05:18,421
+Olson fell to his death from a tenth-floor
+
+143
+00:05:18,441 --> 00:05:20,329
+window of the Statler Hotel.
+
+144
+00:05:21,349 --> 00:05:23,437
+According to the Senate report, the CIA
+
+145
+00:05:23,457 --> 00:05:25,545
+worked to make sure his family received
+
+146
+00:05:25,565 --> 00:05:26,355
+death benefits.
+
+147
+00:05:26,825 --> 00:05:28,888
+But it did not tell them the circumstances
+
+148
+00:05:28,908 --> 00:05:29,533
+of his death.
+
+149
+00:05:30,103 --> 00:05:32,502
+Those details became public 22 years
+
+150
+00:05:32,522 --> 00:05:35,257
+later, in 1975, during the investigations
+
+151
+00:05:35,277 --> 00:05:37,743
+by the Rockefeller Commission and the
+
+152
+00:05:37,763 --> 00:05:38,885
+Church Committee.
+
+153
+00:05:39,455 --> 00:05:42,382
+On July 21, 1975, President Gerald Ford
+
+154
+00:05:42,402 --> 00:05:44,875
+met Olson's widow and their three
+
+155
+00:05:44,895 --> 00:05:45,555
+children.
+
+156
+00:05:46,025 --> 00:05:48,150
+According to the White House summary of
+
+157
+00:05:48,170 --> 00:05:50,295
+the meeting, he apologized on behalf of
+
+158
+00:05:50,315 --> 00:05:51,394
+the U.S. government.
+
+159
+00:05:51,964 --> 00:05:55,896
+In 1976, Ford signed a private bill paying
+
+160
+00:05:55,916 --> 00:05:58,437
+Olson's survivors $750,000.
+
+161
+00:05:58,907 --> 00:06:00,848
+In his statement, he said the drug would
+
+162
+00:06:00,868 --> 00:06:02,810
+appear to have been a proximate cause of
+
+163
+00:06:02,830 --> 00:06:03,300
+his death.
+
+164
+00:06:03,870 --> 00:06:05,669
+His family later came to doubt the
+
+165
+00:06:05,689 --> 00:06:06,578
+official account.
+
+166
+00:06:06,918 --> 00:06:09,406
+In 2012, according to the Baltimore Sun,
+
+167
+00:06:09,426 --> 00:06:11,977
+his sons sued, claiming that their father
+
+168
+00:06:11,997 --> 00:06:12,980
+had been killed.
+
+169
+00:06:13,450 --> 00:06:15,415
+That is their claim, not an established
+
+170
+00:06:15,435 --> 00:06:15,822
+finding.
+
+171
+00:06:16,742 --> 00:06:18,719
+Olson's death did not end the testing.
+
+172
+00:06:19,339 --> 00:06:21,929
+In 1963, the Inspector General learned of
+
+173
+00:06:21,949 --> 00:06:24,602
+the unwitting tests during a survey of the
+
+174
+00:06:24,622 --> 00:06:25,812
+technical division.
+
+175
+00:06:26,282 --> 00:06:28,488
+In May, the head of the covert operations
+
+176
+00:06:28,508 --> 00:06:30,660
+directorate, by then Richard Helms, told
+
+177
+00:06:30,680 --> 00:06:32,398
+him he had briefed the Director.
+
+178
+00:06:32,738 --> 00:06:35,023
+According to the Inspector General, Helms
+
+179
+00:06:35,043 --> 00:06:36,710
+said the Director indicated no
+
+180
+00:06:36,730 --> 00:06:38,904
+disagreement, and therefore the testing
+
+181
+00:06:38,924 --> 00:06:39,691
+will continue.
+
+182
+00:06:40,261 --> 00:06:42,505
+The Inspector General recommended ending
+
+183
+00:06:42,525 --> 00:06:42,675
+it.
+
+184
+00:06:43,015 --> 00:06:45,029
+Following his report, the project was
+
+185
+00:06:45,049 --> 00:06:45,579
+suspended.
+
+186
+00:06:46,149 --> 00:06:47,214
+Helms pushed back.
+
+187
+00:06:47,554 --> 00:06:50,080
+In December 1963, he argued that testing
+
+188
+00:06:50,100 --> 00:06:52,753
+on unwitting people was the only realistic
+
+189
+00:06:52,773 --> 00:06:55,108
+method of maintaining the capability,
+
+190
+00:06:55,128 --> 00:06:57,400
+because the operational targets will
+
+191
+00:06:57,420 --> 00:06:58,864
+certainly be unwitting.
+
+192
+00:06:59,434 --> 00:07:01,634
+Otherwise, he warned, the program would
+
+193
+00:07:01,654 --> 00:07:03,855
+only be pro forma, resulting in a false
+
+194
+00:07:03,875 --> 00:07:06,019
+sense of accomplishment and readiness.
+
+195
+00:07:06,589 --> 00:07:09,061
+The Senate found that the covert testing
+
+196
+00:07:09,081 --> 00:07:11,553
+in the United States was halted in 1963.
+
+197
+00:07:11,893 --> 00:07:14,850
+By then, the Inspector General had counted
+
+198
+00:07:14,870 --> 00:07:17,543
+144 projects related to the control of
+
+199
+00:07:17,563 --> 00:07:18,606
+human behavior.
+
+200
+00:07:19,076 --> 00:07:22,713
+According to the CIA, MKUltra itself ended
+
+201
+00:07:22,733 --> 00:07:23,410
+in 1964.
+
+202
+00:07:23,980 --> 00:07:26,085
+And even then, he wrote, the files were
+
+203
+00:07:26,105 --> 00:07:27,120
+notably incomplete.
+
+204
+00:07:28,040 --> 00:07:30,929
+Which brings us back to January 1973.
+
+205
+00:07:31,549 --> 00:07:33,665
+Helms explained the decision this way.
+
+206
+00:07:34,085 --> 00:07:35,892
+There had been relationships with
+
+207
+00:07:35,912 --> 00:07:36,446
+outsiders.
+
+208
+00:07:37,028 --> 00:07:39,042
+So they got rid of the files, in his
+
+209
+00:07:39,062 --> 00:07:41,359
+words, so that anybody who assisted us in
+
+210
+00:07:41,379 --> 00:07:43,732
+the past would not be subject to follow-up
+
+211
+00:07:43,752 --> 00:07:46,049
+or questions, embarrassment, if you will.
+
+212
+00:07:46,620 --> 00:07:49,081
+To do it, the agency waived its own rule
+
+213
+00:07:49,101 --> 00:07:50,570
+on retiring old records.
+
+214
+00:07:51,040 --> 00:07:53,166
+That rule said the heart of the judgment
+
+215
+00:07:53,186 --> 00:07:55,311
+is to ensure that the complete story can
+
+216
+00:07:55,331 --> 00:07:57,028
+be reconstructed in later years.
+
+217
+00:07:57,598 --> 00:07:59,483
+According to the Church Committee, the
+
+218
+00:07:59,503 --> 00:08:01,138
+destruction made it impossible to
+
+219
+00:08:01,158 --> 00:08:03,143
+determine the full range of the program.
+
+220
+00:08:03,613 --> 00:08:05,796
+It also kept the CIA from locating and
+
+221
+00:08:05,816 --> 00:08:08,231
+providing medical assistance to the people
+
+222
+00:08:08,251 --> 00:08:09,739
+who had been its subjects.
+
+223
+00:08:10,309 --> 00:08:12,256
+At least one of Gottlieb's assistants
+
+224
+00:08:12,276 --> 00:08:14,062
+protested against the destruction,
+
+225
+00:08:14,082 --> 00:08:15,497
+according to the committee.
+
+226
+00:08:15,967 --> 00:08:17,208
+It went ahead anyway.
+
+227
+00:08:18,128 --> 00:08:19,470
+Then came the requests.
+
+228
+00:08:20,090 --> 00:08:22,017
+Several Freedom of Information Act
+
+229
+00:08:22,037 --> 00:08:23,219
+requests had come in.
+
+230
+00:08:23,559 --> 00:08:25,571
+One was from a researcher named John
+
+231
+00:08:25,591 --> 00:08:25,909
+Marks.
+
+232
+00:08:26,379 --> 00:08:28,412
+Working through them, a CIA employee
+
+233
+00:08:28,432 --> 00:08:30,806
+searched every file the responsible branch
+
+234
+00:08:30,826 --> 00:08:32,858
+had any conceivable connection with.
+
+235
+00:08:33,428 --> 00:08:36,514
+Very late in March 1977, he found the
+
+236
+00:08:36,534 --> 00:08:37,522
+seven boxes.
+
+237
+00:08:37,992 --> 00:08:40,488
+They had been sent to the Retired Records
+
+238
+00:08:40,508 --> 00:08:43,003
+Center in 1970 by the branch's Budget and
+
+239
+00:08:43,023 --> 00:08:45,212
+Fiscal Section, not with the project
+
+240
+00:08:45,232 --> 00:08:45,580
+files.
+
+241
+00:08:45,920 --> 00:08:47,860
+Why, the CIA said, is not known.
+
+242
+00:08:48,430 --> 00:08:51,244
+As a result, in the words of CIA Director
+
+243
+00:08:51,264 --> 00:08:53,939
+Stansfield Turner, the material escaped
+
+244
+00:08:53,959 --> 00:08:56,290
+retrieval and destruction in 1973.
+
+245
+00:08:56,859 --> 00:08:59,791
+On August 3, 1977, Turner laid out what
+
+246
+00:08:59,811 --> 00:09:02,591
+was inside, before two Senate panels.
+
+247
+00:09:03,161 --> 00:09:04,546
+They were finance folders.
+
+248
+00:09:04,886 --> 00:09:06,913
+Mostly approvals for advance of funds,
+
+249
+00:09:06,933 --> 00:09:08,314
+vouchers, and accountings.
+
+250
+00:09:08,784 --> 00:09:10,371
+But the paperwork named names.
+
+251
+00:09:10,941 --> 00:09:13,799
+In the recovered files, there were 149
+
+252
+00:09:13,819 --> 00:09:15,313
+MKUltra subprojects.
+
+253
+00:09:15,653 --> 00:09:18,081
+The files named 185 researchers and
+
+254
+00:09:18,101 --> 00:09:20,808
+assistants from outside the government.
+
+255
+00:09:21,148 --> 00:09:22,587
+And 80 institutions.
+
+256
+00:09:23,157 --> 00:09:25,454
+44 colleges or universities.
+
+257
+00:09:25,794 --> 00:09:28,240
+15 research foundations, or chemical and
+
+258
+00:09:28,260 --> 00:09:29,782
+pharmaceutical companies.
+
+259
+00:09:30,122 --> 00:09:31,864
+12 hospitals or clinics.
+
+260
+00:09:32,334 --> 00:09:34,044
+And 3 penal institutions.
+
+261
+00:09:34,614 --> 00:09:36,660
+Most of the people and institutions
+
+262
+00:09:36,680 --> 00:09:38,963
+involved, Turner said, are not aware of
+
+263
+00:09:38,983 --> 00:09:40,084
+Agency sponsorship.
+
+264
+00:09:40,655 --> 00:09:43,024
+One subproject sent $375,000 to the
+
+265
+00:09:43,044 --> 00:09:45,346
+building fund of a private medical
+
+266
+00:09:45,366 --> 00:09:48,076
+institution, through an intermediary, so
+
+267
+00:09:48,096 --> 00:09:50,125
+it looked like a private gift.
+
+268
+00:09:50,595 --> 00:09:52,311
+Federal matching funds followed.
+
+269
+00:09:52,881 --> 00:09:54,991
+Senator Edward Kennedy summed it up at the
+
+270
+00:09:55,011 --> 00:09:55,397
+hearing.
+
+271
+00:09:55,817 --> 00:09:58,154
+The Central Intelligence Agency drugged
+
+272
+00:09:58,174 --> 00:10:00,633
+American citizens without their knowledge
+
+273
+00:10:00,653 --> 00:10:01,298
+or consent.
+
+274
+00:10:02,217 --> 00:10:04,242
+So, what does this file actually prove?
+
+275
+00:10:04,862 --> 00:10:07,414
+It proves the CIA ran a program, approved
+
+276
+00:10:07,434 --> 00:10:09,797
+by its Director, to research drugs and
+
+277
+00:10:09,817 --> 00:10:12,242
+other ways to influence human behavior.
+
+278
+00:10:12,712 --> 00:10:15,026
+And that it tested LSD on Americans who
+
+279
+00:10:15,046 --> 00:10:15,803
+did not know.
+
+280
+00:10:16,374 --> 00:10:19,093
+It proves that at least one man died after
+
+281
+00:10:19,113 --> 00:10:21,702
+being given LSD in a CIA experiment, and
+
+282
+00:10:21,722 --> 00:10:23,790
+that his family was not told the
+
+283
+00:10:23,810 --> 00:10:25,551
+circumstances for 22 years.
+
+284
+00:10:26,121 --> 00:10:28,052
+And it proves the main records were
+
+285
+00:10:28,072 --> 00:10:30,004
+destroyed on purpose, and that some
+
+286
+00:10:30,024 --> 00:10:32,234
+survived only because they were filed in
+
+287
+00:10:32,254 --> 00:10:33,127
+the wrong place.
+
+288
+00:10:33,697 --> 00:10:35,634
+What it doesn't prove matters just as
+
+289
+00:10:35,654 --> 00:10:35,898
+much.
+
+290
+00:10:36,318 --> 00:10:38,873
+The surviving files are mostly financial,
+
+291
+00:10:38,893 --> 00:10:40,631
+with few reports on results.
+
+292
+00:10:41,214 --> 00:10:43,752
+Popular claims about programmed assassins,
+
+293
+00:10:43,772 --> 00:10:46,188
+or specific famous people, do not appear
+
+294
+00:10:46,208 --> 00:10:47,345
+in these documents.
+
+295
+00:10:47,765 --> 00:10:50,203
+Theories remain theories, until a document
+
+296
+00:10:50,223 --> 00:10:51,081
+says otherwise.
+
+297
+00:10:51,651 --> 00:10:53,521
+Every secret has a release date.
+
+298
+00:10:53,941 --> 00:10:56,272
+MKUltra's records were supposed to have
+
+299
+00:10:56,292 --> 00:10:56,574
+none.
+
+300
+00:10:56,994 --> 00:10:59,313
+Seven boxes in the wrong section changed
+
+301
+00:10:59,333 --> 00:10:59,606
+that.
+
+302
+00:11:00,426 --> 00:11:02,386
+If there's a government file you want us
+
+303
+00:11:02,406 --> 00:11:04,019
+to open, tell us in the comments.
+
+304
+00:11:04,359 --> 00:11:05,467
+We read every one.
+
+305
+00:11:06,037 --> 00:11:08,105
+Next time: Roswell, and what the Air
+
+306
+00:11:08,125 --> 00:11:10,019
+Force's own reports actually say.

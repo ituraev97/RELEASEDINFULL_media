@@ -1,0 +1,823 @@
+{
+ "starts": [
+  0.6,
+  12.945667,
+  21.836334,
+  34.206667,
+  38.247,
+  51.755333,
+  56.089,
+  60.089,
+  63.689,
+  65.544667,
+  78.49600000000001,
+  86.95766700000001,
+  98.95966700000001,
+  111.68933400000002,
+  119.50566700000002,
+  134.85150000000002,
+  137.6885,
+  149.73250000000002,
+  158.73283300000003,
+  175.28116600000004,
+  191.63499900000005,
+  204.16833200000005,
+  216.51799900000006,
+  225.46499900000006,
+  237.57949900000006,
+  248.05749900000006,
+  251.72649900000008,
+  262.7588320000001,
+  269.0018320000001,
+  285.8404990000001,
+  297.9981660000001,
+  310.2668330000001,
+  321.3491660000001,
+  330.1031660000001,
+  339.4554990000001,
+  351.9641660000001,
+  363.8701660000001,
+  376.7418330000001,
+  379.3388330000001,
+  400.2605000000001,
+  406.14850000000007,
+  419.43383300000005,
+  426.588833,
+  443.97983300000004,
+  448.03950000000003,
+  451.54850000000005,
+  466.62000000000006,
+  477.59800000000007,
+  490.3093330000001,
+  498.1280000000001,
+  500.0903330000001,
+  513.4280000000001,
+  528.4296670000001,
+  536.8593340000001,
+  543.161001,
+  550.9413340000001,
+  563.1570010000002,
+  574.6143340000001,
+  580.6546670000001,
+  592.8806670000001,
+  602.2173340000002,
+  604.8623340000001,
+  616.3736670000002,
+  626.1206670000001,
+  633.6970000000001,
+  651.6508330000001,
+  660.4258330000001,
+  666.0365000000002
+ ],
+ "durs": [
+  12.345667,
+  8.890667,
+  12.370333,
+  4.040333,
+  13.508333,
+  4.333667,
+  4.0,
+  3.6,
+  1.855667,
+  12.951333,
+  8.461667,
+  12.002,
+  12.729667000000001,
+  7.816333,
+  15.345833,
+  2.837,
+  12.044,
+  9.000333000000001,
+  16.548333,
+  16.353832999999998,
+  12.533333,
+  12.349667,
+  8.947000000000001,
+  12.114500000000001,
+  10.478,
+  3.669,
+  11.032333000000001,
+  6.242999999999999,
+  16.838667,
+  12.157667,
+  12.268667,
+  11.082333,
+  8.754000000000001,
+  9.352333000000002,
+  12.508667,
+  11.906,
+  12.871667,
+  2.597,
+  20.921667,
+  5.888,
+  13.285333000000001,
+  7.155,
+  17.391000000000002,
+  4.059667,
+  3.509,
+  15.0715,
+  10.978000000000002,
+  12.711333000000002,
+  7.8186670000000005,
+  1.962333,
+  13.337667000000001,
+  15.001667000000001,
+  8.429667,
+  6.301667,
+  7.780333,
+  12.215667,
+  11.457333,
+  6.0403329999999995,
+  12.226,
+  9.336667,
+  2.645,
+  11.511333,
+  9.747,
+  7.576333,
+  17.953833,
+  8.775,
+  5.610666999999999,
+  6.502333
+ ],
+ "vdur": [
+  11.795667,
+  8.340667,
+  11.470333,
+  3.490333,
+  12.958333,
+  3.783667,
+  1.293,
+  0.0,
+  1.255667,
+  12.401333,
+  7.911667,
+  11.452,
+  12.179667,
+  7.266333,
+  14.545833,
+  2.237,
+  11.494,
+  8.450333,
+  15.998333,
+  15.803833,
+  11.983333,
+  11.799667,
+  8.397,
+  11.5645,
+  9.578,
+  3.069,
+  10.482333,
+  5.693,
+  16.288667,
+  11.607667,
+  11.718667,
+  10.082333,
+  8.204,
+  8.802333,
+  11.958667,
+  11.356,
+  11.971667,
+  1.997,
+  20.371667,
+  5.338,
+  12.735333,
+  6.605,
+  16.841,
+  3.159667,
+  2.909,
+  14.5215,
+  10.428,
+  12.161333,
+  6.918667,
+  1.362333,
+  12.787667,
+  14.451667,
+  7.879667,
+  5.751667,
+  7.230333,
+  11.665667,
+  10.907333,
+  5.490333,
+  11.676,
+  8.436667,
+  2.045,
+  10.961333,
+  9.197,
+  7.026333,
+  17.403833,
+  7.975,
+  5.060667,
+  4.002333
+ ],
+ "total": 672.9333333333333,
+ "segs": [
+  {
+   "t": 0.0,
+   "d": 12.933333333333334,
+   "src": "img:h72a",
+   "ss": 0,
+   "line": 0,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE FINAL REPORT, BOOK I (1976) \u00b7 REPRINTED IN THE 1977 SENATE HEARING"
+  },
+  {
+   "t": 12.933333333333334,
+   "d": 8.9,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 1,
+   "lab": ""
+  },
+  {
+   "t": 21.833333333333332,
+   "d": 12.366666666666667,
+   "src": "img:h72a",
+   "ss": 0,
+   "line": 2,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE FINAL REPORT, BOOK I (1976) \u00b7 REPRINTED IN THE 1977 SENATE HEARING"
+  },
+  {
+   "t": 34.2,
+   "d": 4.033333333333333,
+   "src": "dv346026",
+   "ss": 2.0,
+   "line": 3,
+   "lab": "B-ROLL \u00b7 U.S. CAPITOL, WASHINGTON, D.C., 2014"
+  },
+  {
+   "t": 38.233333333333334,
+   "d": 13.533333333333333,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 4,
+   "lab": ""
+  },
+  {
+   "t": 51.766666666666666,
+   "d": 4.333333333333333,
+   "src": "img:h8a",
+   "ss": 0,
+   "line": 5,
+   "lab": "ACTUAL DOCUMENT \u00b7 ADM. STANSFIELD TURNER, PREPARED STATEMENT \u00b7 SENATE HEARING, AUG. 3, 1977"
+  },
+  {
+   "t": 56.1,
+   "d": 4.0,
+   "src": "g:intro",
+   "ss": 0,
+   "line": 6,
+   "lab": ""
+  },
+  {
+   "t": 60.1,
+   "d": 3.6,
+   "src": "g:title",
+   "ss": 0,
+   "line": 7,
+   "lab": ""
+  },
+  {
+   "t": 63.7,
+   "d": 1.8333333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 8,
+   "lab": ""
+  },
+  {
+   "t": 65.53333333333333,
+   "d": 12.966666666666667,
+   "src": "img:ig38",
+   "ss": 0,
+   "line": 9,
+   "lab": "ACTUAL DOCUMENT \u00b7 DCI ALLEN W. DULLES MEMO APPROVING PROJECT MKULTRA, APRIL 13, 1953 \u00b7 CIA RELEASE, 2019"
+  },
+  {
+   "t": 78.5,
+   "d": 8.466666666666667,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 10,
+   "lab": ""
+  },
+  {
+   "t": 86.96666666666667,
+   "d": 6.0,
+   "src": "dv346120",
+   "ss": 1.5,
+   "line": 11,
+   "lab": "B-ROLL \u00b7 U.S. TREASURY BUILDING, WASHINGTON, D.C., 2014"
+  },
+  {
+   "t": 92.96666666666667,
+   "d": 6.0,
+   "src": "dv346124",
+   "ss": 2.0,
+   "line": 11,
+   "lab": "B-ROLL \u00b7 THE WHITE HOUSE, WASHINGTON, D.C., 2014"
+  },
+  {
+   "t": 98.96666666666667,
+   "d": 12.733333333333333,
+   "src": "img:ig38",
+   "ss": 0,
+   "line": 12,
+   "lab": "ACTUAL DOCUMENT \u00b7 DCI ALLEN W. DULLES MEMO APPROVING PROJECT MKULTRA, APRIL 13, 1953 \u00b7 CIA RELEASE, 2019"
+  },
+  {
+   "t": 111.7,
+   "d": 7.8,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 13,
+   "lab": ""
+  },
+  {
+   "t": 119.5,
+   "d": 15.366666666666667,
+   "src": "img:ig2a",
+   "ss": 0,
+   "line": 14,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA INSPECTOR GENERAL, \"REPORT OF INSPECTION OF MKULTRA,\" JULY 26, 1963 \u00b7 RELEASED 2019"
+  },
+  {
+   "t": 134.86666666666667,
+   "d": 2.8333333333333335,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 15,
+   "lab": ""
+  },
+  {
+   "t": 137.7,
+   "d": 12.033333333333333,
+   "src": "g:list",
+   "ss": 0,
+   "line": 16,
+   "lab": ""
+  },
+  {
+   "t": 149.73333333333332,
+   "d": 4.5,
+   "src": "dv1026930",
+   "ss": 25.5,
+   "line": 17,
+   "lab": "B-ROLL \u00b7 VIEW FROM A U.S. AIR FORCE F-22 OVER WASHINGTON, D.C., 2026"
+  },
+  {
+   "t": 154.23333333333332,
+   "d": 4.5,
+   "src": "dv1026934",
+   "ss": 40.0,
+   "line": 17,
+   "lab": "B-ROLL \u00b7 VIEW FROM A U.S. AIR FORCE F-22 OVER WASHINGTON, D.C., 2026"
+  },
+  {
+   "t": 158.73333333333332,
+   "d": 16.533333333333335,
+   "src": "img:h74b",
+   "ss": 0,
+   "line": 18,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE FINAL REPORT, BOOK I (1976) \u00b7 REPRINTED IN THE 1977 SENATE HEARING"
+  },
+  {
+   "t": 175.26666666666668,
+   "d": 16.366666666666667,
+   "src": "img:h74a",
+   "ss": 0,
+   "line": 19,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE FINAL REPORT, BOOK I (1976) \u00b7 REPRINTED IN THE 1977 SENATE HEARING"
+  },
+  {
+   "t": 191.63333333333333,
+   "d": 12.533333333333333,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 20,
+   "lab": ""
+  },
+  {
+   "t": 204.16666666666666,
+   "d": 12.366666666666667,
+   "src": "img:h74a",
+   "ss": 0,
+   "line": 21,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE FINAL REPORT, BOOK I (1976) \u00b7 REPRINTED IN THE 1977 SENATE HEARING"
+  },
+  {
+   "t": 216.53333333333333,
+   "d": 8.933333333333334,
+   "src": "g:map",
+   "ss": 0,
+   "line": 22,
+   "lab": ""
+  },
+  {
+   "t": 225.46666666666667,
+   "d": 12.1,
+   "src": "img:ig16a",
+   "ss": 0,
+   "line": 23,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA INSPECTOR GENERAL, \"REPORT OF INSPECTION OF MKULTRA,\" JULY 26, 1963 \u00b7 RELEASED 2019"
+  },
+  {
+   "t": 237.56666666666666,
+   "d": 10.5,
+   "src": "img:ig16a",
+   "ss": 0,
+   "line": 24,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA INSPECTOR GENERAL, \"REPORT OF INSPECTION OF MKULTRA,\" JULY 26, 1963 \u00b7 RELEASED 2019"
+  },
+  {
+   "t": 248.06666666666666,
+   "d": 3.6666666666666665,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 25,
+   "lab": ""
+  },
+  {
+   "t": 251.73333333333332,
+   "d": 11.033333333333333,
+   "src": "g:map",
+   "ss": 0,
+   "line": 26,
+   "lab": ""
+  },
+  {
+   "t": 262.76666666666665,
+   "d": 6.233333333333333,
+   "src": "img:h77a",
+   "ss": 0,
+   "line": 27,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE FINAL REPORT, BOOK I (1976) \u00b7 REPRINTED IN THE 1977 SENATE HEARING"
+  },
+  {
+   "t": 269.0,
+   "d": 16.833333333333332,
+   "src": "img:h79a",
+   "ss": 0,
+   "line": 28,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE FINAL REPORT, BOOK I (1976) \u00b7 REPRINTED IN THE 1977 SENATE HEARING"
+  },
+  {
+   "t": 285.8333333333333,
+   "d": 12.166666666666666,
+   "src": "img:h78a",
+   "ss": 0,
+   "line": 29,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE FINAL REPORT, BOOK I (1976) \u00b7 REPRINTED IN THE 1977 SENATE HEARING"
+  },
+  {
+   "t": 298.0,
+   "d": 6.133333333333334,
+   "src": "dv1026934",
+   "ss": 15.0,
+   "line": 30,
+   "lab": "B-ROLL \u00b7 VIEW FROM A U.S. AIR FORCE F-22 OVER WASHINGTON, D.C., 2026"
+  },
+  {
+   "t": 304.1333333333333,
+   "d": 6.133333333333334,
+   "src": "dv1026930",
+   "ss": 33.0,
+   "line": 30,
+   "lab": "B-ROLL \u00b7 VIEW FROM A U.S. AIR FORCE F-22 OVER WASHINGTON, D.C., 2026"
+  },
+  {
+   "t": 310.26666666666665,
+   "d": 11.066666666666666,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 31,
+   "lab": ""
+  },
+  {
+   "t": 321.3333333333333,
+   "d": 8.766666666666667,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 32,
+   "lab": ""
+  },
+  {
+   "t": 330.1,
+   "d": 4.666666666666667,
+   "src": "dv346119",
+   "ss": 1.5,
+   "line": 33,
+   "lab": "B-ROLL \u00b7 U.S. CAPITOL, WASHINGTON, D.C., 2014"
+  },
+  {
+   "t": 334.76666666666665,
+   "d": 4.7,
+   "src": "dv346026",
+   "ss": 14.0,
+   "line": 33,
+   "lab": "B-ROLL \u00b7 U.S. CAPITOL, WASHINGTON, D.C., 2014"
+  },
+  {
+   "t": 339.46666666666664,
+   "d": 6.233333333333333,
+   "src": "dv346124",
+   "ss": 14.0,
+   "line": 34,
+   "lab": "B-ROLL \u00b7 THE WHITE HOUSE, WASHINGTON, D.C., 2014"
+  },
+  {
+   "t": 345.7,
+   "d": 6.266666666666667,
+   "src": "dv346124",
+   "ss": 30.0,
+   "line": 34,
+   "lab": "B-ROLL \u00b7 THE WHITE HOUSE, WASHINGTON, D.C., 2014"
+  },
+  {
+   "t": 351.96666666666664,
+   "d": 11.9,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 35,
+   "lab": ""
+  },
+  {
+   "t": 363.8666666666667,
+   "d": 6.433333333333334,
+   "src": "dv346120",
+   "ss": 25.0,
+   "line": 36,
+   "lab": "B-ROLL \u00b7 U.S. TREASURY BUILDING, WASHINGTON, D.C., 2014"
+  },
+  {
+   "t": 370.3,
+   "d": 6.433333333333334,
+   "src": "dv1026934",
+   "ss": 23.0,
+   "line": 36,
+   "lab": "B-ROLL \u00b7 VIEW FROM A U.S. AIR FORCE F-22 OVER WASHINGTON, D.C., 2026"
+  },
+  {
+   "t": 376.73333333333335,
+   "d": 2.6,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 37,
+   "lab": ""
+  },
+  {
+   "t": 379.3333333333333,
+   "d": 20.933333333333334,
+   "src": "img:h84a",
+   "ss": 0,
+   "line": 38,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE FINAL REPORT, BOOK I (1976) \u00b7 REPRINTED IN THE 1977 SENATE HEARING"
+  },
+  {
+   "t": 400.26666666666665,
+   "d": 5.866666666666666,
+   "src": "img:ig1",
+   "ss": 0,
+   "line": 39,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA INSPECTOR GENERAL, \"REPORT OF INSPECTION OF MKULTRA,\" JULY 26, 1963 \u00b7 RELEASED 2019"
+  },
+  {
+   "t": 406.1333333333333,
+   "d": 13.3,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 40,
+   "lab": ""
+  },
+  {
+   "t": 419.43333333333334,
+   "d": 7.166666666666667,
+   "src": "img:h84b",
+   "ss": 0,
+   "line": 41,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE FINAL REPORT, BOOK I (1976) \u00b7 REPRINTED IN THE 1977 SENATE HEARING"
+  },
+  {
+   "t": 426.6,
+   "d": 17.366666666666667,
+   "src": "g:timeline",
+   "ss": 0,
+   "line": 42,
+   "lab": ""
+  },
+  {
+   "t": 443.96666666666664,
+   "d": 4.066666666666666,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 43,
+   "lab": ""
+  },
+  {
+   "t": 448.03333333333336,
+   "d": 3.5,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 44,
+   "lab": ""
+  },
+  {
+   "t": 451.53333333333336,
+   "d": 15.1,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 45,
+   "lab": ""
+  },
+  {
+   "t": 466.6333333333333,
+   "d": 10.966666666666667,
+   "src": "img:h87a",
+   "ss": 0,
+   "line": 46,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE FINAL REPORT, BOOK I (1976) \u00b7 REPRINTED IN THE 1977 SENATE HEARING"
+  },
+  {
+   "t": 477.6,
+   "d": 12.7,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 47,
+   "lab": ""
+  },
+  {
+   "t": 490.3,
+   "d": 7.833333333333333,
+   "src": "img:h87a",
+   "ss": 0,
+   "line": 48,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE FINAL REPORT, BOOK I (1976) \u00b7 REPRINTED IN THE 1977 SENATE HEARING"
+  },
+  {
+   "t": 498.1333333333333,
+   "d": 1.9666666666666666,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 49,
+   "lab": ""
+  },
+  {
+   "t": 500.1,
+   "d": 13.333333333333334,
+   "src": "img:h106a",
+   "ss": 0,
+   "line": 50,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA MEMO ON NEWLY FOUND MKULTRA FILES, JUNE 22, 1977 \u00b7 SENATE HEARING RECORD"
+  },
+  {
+   "t": 513.4333333333333,
+   "d": 15.0,
+   "src": "img:h9a",
+   "ss": 0,
+   "line": 51,
+   "lab": "ACTUAL DOCUMENT \u00b7 ADM. STANSFIELD TURNER, PREPARED STATEMENT \u00b7 SENATE HEARING, AUG. 3, 1977"
+  },
+  {
+   "t": 528.4333333333333,
+   "d": 8.433333333333334,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 52,
+   "lab": ""
+  },
+  {
+   "t": 536.8666666666667,
+   "d": 3.1333333333333333,
+   "src": "img:h1",
+   "ss": 0,
+   "line": 53,
+   "lab": "ACTUAL DOCUMENT \u00b7 SENATE HEARING \"PROJECT MKULTRA, THE CIA'S PROGRAM OF RESEARCH IN BEHAVIORAL MODIFICATION\" \u00b7 AUG. 3, 1977"
+  },
+  {
+   "t": 540.0,
+   "d": 3.1666666666666665,
+   "src": "dv346026",
+   "ss": 16.0,
+   "line": 53,
+   "lab": "B-ROLL \u00b7 U.S. CAPITOL, WASHINGTON, D.C., 2014"
+  },
+  {
+   "t": 543.1666666666666,
+   "d": 7.766666666666667,
+   "src": "img:h9b",
+   "ss": 0,
+   "line": 54,
+   "lab": "ACTUAL DOCUMENT \u00b7 ADM. STANSFIELD TURNER, PREPARED STATEMENT \u00b7 SENATE HEARING, AUG. 3, 1977"
+  },
+  {
+   "t": 550.9333333333333,
+   "d": 12.233333333333333,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 55,
+   "lab": ""
+  },
+  {
+   "t": 563.1666666666666,
+   "d": 11.433333333333334,
+   "src": "g:list",
+   "ss": 0,
+   "line": 56,
+   "lab": ""
+  },
+  {
+   "t": 574.6,
+   "d": 6.066666666666666,
+   "src": "img:h11a",
+   "ss": 0,
+   "line": 57,
+   "lab": "ACTUAL DOCUMENT \u00b7 ADM. STANSFIELD TURNER, PREPARED STATEMENT \u00b7 SENATE HEARING, AUG. 3, 1977"
+  },
+  {
+   "t": 580.6666666666666,
+   "d": 12.2,
+   "src": "img:h11a",
+   "ss": 0,
+   "line": 58,
+   "lab": "ACTUAL DOCUMENT \u00b7 ADM. STANSFIELD TURNER, PREPARED STATEMENT \u00b7 SENATE HEARING, AUG. 3, 1977"
+  },
+  {
+   "t": 592.8666666666667,
+   "d": 9.366666666666667,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 59,
+   "lab": ""
+  },
+  {
+   "t": 602.2333333333333,
+   "d": 2.6333333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 60,
+   "lab": ""
+  },
+  {
+   "t": 604.8666666666667,
+   "d": 11.5,
+   "src": "img:ig38",
+   "ss": 0,
+   "line": 61,
+   "lab": "ACTUAL DOCUMENT \u00b7 DCI ALLEN W. DULLES MEMO APPROVING PROJECT MKULTRA, APRIL 13, 1953 \u00b7 CIA RELEASE, 2019"
+  },
+  {
+   "t": 616.3666666666667,
+   "d": 9.766666666666667,
+   "src": "img:h79a",
+   "ss": 0,
+   "line": 62,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE FINAL REPORT, BOOK I (1976) \u00b7 REPRINTED IN THE 1977 SENATE HEARING"
+  },
+  {
+   "t": 626.1333333333333,
+   "d": 7.566666666666666,
+   "src": "g:timeline",
+   "ss": 0,
+   "line": 63,
+   "lab": ""
+  },
+  {
+   "t": 633.7,
+   "d": 8.966666666666667,
+   "src": "dv346119",
+   "ss": 8.0,
+   "line": 64,
+   "lab": "B-ROLL \u00b7 U.S. CAPITOL, WASHINGTON, D.C., 2014"
+  },
+  {
+   "t": 642.6666666666666,
+   "d": 9.0,
+   "src": "dv1026930",
+   "ss": 41.0,
+   "line": 64,
+   "lab": "B-ROLL \u00b7 VIEW FROM A U.S. AIR FORCE F-22 OVER WASHINGTON, D.C., 2026"
+  },
+  {
+   "t": 651.6666666666666,
+   "d": 8.766666666666667,
+   "src": "img:h1",
+   "ss": 0,
+   "line": 65,
+   "lab": "ACTUAL DOCUMENT \u00b7 SENATE HEARING \"PROJECT MKULTRA, THE CIA'S PROGRAM OF RESEARCH IN BEHAVIORAL MODIFICATION\" \u00b7 AUG. 3, 1977"
+  },
+  {
+   "t": 660.4333333333333,
+   "d": 5.6,
+   "src": "dv346026",
+   "ss": 20.0,
+   "line": 66,
+   "lab": "B-ROLL \u00b7 U.S. CAPITOL, WASHINGTON, D.C., 2014"
+  },
+  {
+   "t": 666.0333333333333,
+   "d": 6.9,
+   "src": "g:end",
+   "ss": 0,
+   "line": 67,
+   "lab": ""
+  }
+ ]
+}
