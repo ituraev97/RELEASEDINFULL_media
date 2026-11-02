@@ -1,0 +1,38 @@
+{
+ "dv1003608.mp4": {
+  "source": "https://www.dvidshub.net/video/1003608",
+  "title": "DVIDS - Video - High Altitude Balloon (HAB) Night Launch",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2604/DOD_111649661/DOD_111649661.mp4"
+ },
+ "dv1023102.mp4": {
+  "source": "https://www.dvidshub.net/video/1023102",
+  "title": "DVIDS - Video - B-Roll: K1000 and HAB",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111979064/DOD_111979064.mp4"
+ },
+ "dv346026.mp4": {
+  "source": "https://www.dvidshub.net/video/346026",
+  "title": "DVIDS - Video - Capitol Building in Washington, D.C., B-Roll",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101768679/DOD_101768679-720x406-800k.mp4"
+ },
+ "dv1026930.mp4": {
+  "source": "https://www.dvidshub.net/video/1026930",
+  "title": "DVIDS - Video - From the Cockpit: America 250 Over Washington, D.C.",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083901/DOD_112083901.mp4"
+ },
+ "342_USAF_33041_HighAltitudeBaloon.mp4 (stills only)": {
+  "source": "https://archive.org/details/342USAF33041HighAltitudeBaloon",
+  "title": "Project Excelsior / Kittinger's Jump, U.S. Air Force, NARA 342-USAF-33041",
+  "license": "PUBLIC DOMAIN (U.S. Government work; Public Domain Mark)",
+  "note": "interlaced telecine transfer; used only as inverse-telecined still frames via kb.py"
+ },
+ "documents": {
+  "gao_1995": "https://archive.org/details/roswell-rapporto-gao (GAO/NSIAD-95-187, U.S. Government work)",
+  "usaf_1995": "https://archive.org/details/DTIC_ADA326148 (USAF, public domain)",
+  "usaf_1997": "https://archive.org/details/DTIC_ADA326147 (USAF, public domain)",
+  "excluded": "Fort Worth Star-Telegram / UTA photos of Ramey and Marcel are not used (not government works); 1997 report pages with a car advertisement and a film poster are not used."
+ }
+}

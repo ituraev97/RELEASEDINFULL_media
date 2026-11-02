@@ -1,0 +1,312 @@
+[
+ {
+  "key": "intro_6f4d70",
+  "name": "intro",
+  "opts": {
+   "n": "005"
+  }
+ },
+ {
+  "key": "title_e69b99",
+  "name": "title",
+  "opts": {
+   "n": "005",
+   "t": "Roswell",
+   "size": 200,
+   "sub": "According to the Air Force"
+  }
+ },
+ {
+  "key": "chapter_45a7c8",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Disc"
+  }
+ },
+ {
+  "key": "map_3d3afe",
+  "name": "map",
+  "opts": {
+   "kicker": "JUNE\u2013JULY 1947",
+   "title": "Where the story happened",
+   "bounds": [
+    [
+     -108.6,
+     31.4
+    ],
+    [
+     -96.4,
+     35.8
+    ]
+   ],
+   "points": [
+    {
+     "ll": [
+      -104.52,
+      33.39
+     ],
+     "name": "Roswell",
+     "sub": "ROSWELL ARMY AIR FIELD",
+     "anchor": "end"
+    },
+    {
+     "ll": [
+      -105.55,
+      34.15
+     ],
+     "name": "Debris field",
+     "sub": "ABOUT 75 MILES NW OF ROSWELL",
+     "color": "#F2D04B"
+    },
+    {
+     "ll": [
+      -106.07,
+      32.84
+     ],
+     "name": "Alamogordo AAF",
+     "sub": "PROJECT MOGUL LAUNCHES"
+    },
+    {
+     "ll": [
+      -97.33,
+      32.75
+     ],
+     "name": "Fort Worth",
+     "sub": "EIGHTH AIR FORCE HQ",
+     "anchor": "end"
+    }
+   ],
+   "source": "SOURCES: USAF ROSWELL REPORTS (1995, 1997) \u00b7 MAP: NATURAL EARTH \u00b7 LOCATIONS APPROXIMATE"
+  }
+ },
+ {
+  "key": "quote_baa2bc",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026a large area of bright wreckage made up {{of rubber strips, tinfoil, a rather tough paper, and sticks.}}",
+   "who": "Roswell Daily Record",
+   "role": "July 9, 1947 \u00b7 as quoted in the 1995 USAF report",
+   "size": 58,
+   "source": "SOURCE: ROSWELL DAILY RECORD, JULY 9, 1947, AS REPRODUCED IN THE USAF REPORTS (1995, 1997)"
+  }
+ },
+ {
+  "key": "list_919d39",
+  "name": "list",
+  "opts": {
+   "kicker": "ROSWELL DAILY RECORD \u00b7 JULY 9, 1947",
+   "title": "What the rancher described",
+   "items": [
+    {
+     "n": "01",
+     "t": "Rubber, tinfoil, tough paper, sticks",
+     "s": "SCATTERED OVER ABOUT 200 YARDS"
+    },
+    {
+     "n": "02",
+     "t": "Tape with flowers printed on it",
+     "s": "AND EYELETS IN THE PAPER"
+    },
+    {
+     "n": "03",
+     "t": "About five pounds in all",
+     "s": "NO ENGINE, NO PROPELLERS, HE SAID"
+    }
+   ],
+   "source": "SOURCE: ROSWELL DAILY RECORD, JULY 9, 1947, AS REPRODUCED IN THE USAF REPORTS (1995, 1997)"
+  }
+ },
+ {
+  "key": "quote_c3a8a8",
+  "name": "quote",
+  "opts": {
+   "q": "I am sure what I found {{was not any weather observation balloon.}}",
+   "who": "W. W. \"Mac\" Brazel",
+   "role": "Roswell Daily Record, July 9, 1947",
+   "size": 64,
+   "source": "SOURCE: ROSWELL DAILY RECORD, JULY 9, 1947, AS REPRODUCED IN THE USAF REPORTS (1995, 1997)"
+  }
+ },
+ {
+  "key": "chapter_175391",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "Thirty Years"
+  }
+ },
+ {
+  "key": "chapter_0e9cc4",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "The Audit"
+  }
+ },
+ {
+  "key": "quote_c575c4",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026whatever it was, {{it wasn't a balloon. Apparently, it's another government coverup.}}",
+   "who": "Rep. Steven Schiff (R-N.M.)",
+   "role": "Washington Post, Jan. 14, 1994 \u00b7 reprinted in the USAF report",
+   "size": 58,
+   "source": "SOURCE: REPORT OF AIR FORCE RESEARCH REGARDING THE \"ROSWELL INCIDENT,\" JULY 1994 (IN \"THE ROSWELL REPORT: FACT VS. FICTION,\" USAF, 1995)"
+  }
+ },
+ {
+  "key": "chapter_f47dfc",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "Mogul"
+  }
+ },
+ {
+  "key": "stat_631d04",
+  "name": "stat",
+  "opts": {
+   "k": "NYU BALLOON GROUP \u00b7 ALAMOGORDO, N.M.",
+   "a": "JUNE 4, 1947",
+   "size": 170,
+   "b": "Flight 4 launched",
+   "c": "not recovered by the NYU group, per A. P. Crary's journal",
+   "source": "SOURCE: REPORT OF AIR FORCE RESEARCH REGARDING THE \"ROSWELL INCIDENT,\" JULY 1994 (IN \"THE ROSWELL REPORT: FACT VS. FICTION,\" USAF, 1995)"
+  }
+ },
+ {
+  "key": "quote_6b1e83",
+  "name": "quote",
+  "opts": {
+   "q": "I remember recognizing this material {{as being consistent with a weather balloon.}}",
+   "who": "Lt. Col. Sheridan Cavitt (Ret.)",
+   "role": "Sworn statement, May 24, 1994",
+   "size": 60,
+   "source": "SOURCE: REPORT OF AIR FORCE RESEARCH REGARDING THE \"ROSWELL INCIDENT,\" JULY 1994 (IN \"THE ROSWELL REPORT: FACT VS. FICTION,\" USAF, 1995)"
+  }
+ },
+ {
+  "key": "chapter_03fbc1",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "The Bodies"
+  }
+ },
+ {
+  "key": "stat_85db29",
+  "name": "stat",
+  "opts": {
+   "k": "PROJECTS HIGH DIVE & EXCELSIOR \u00b7 NEW MEXICO",
+   "a": "67",
+   "size": 300,
+   "b": "test dummies dropped from balloons",
+   "c": "43 flights, June 1954 \u2013 February 1959 \u00b7 up to 98,000 feet",
+   "source": "SOURCE: U.S. AIR FORCE, \"THE ROSWELL REPORT: CASE CLOSED\" (1997)"
+  }
+ },
+ {
+  "key": "timeline_332bbd",
+  "name": "timeline",
+  "opts": {
+   "kicker": "CASE CLOSED (1997)",
+   "title": "Events years apart, remembered as one",
+   "active": 0,
+   "events": [
+    {
+     "y": "JULY 1947",
+     "t": "Mogul debris recovered"
+    },
+    {
+     "y": "1954\u201359",
+     "t": "Dummy drops in New Mexico"
+    },
+    {
+     "y": "1956",
+     "t": "KC-97 crash: 11 killed"
+    },
+    {
+     "y": "1959",
+     "t": "Balloon mishap: 2 injured"
+    }
+   ],
+   "source": "SOURCE: U.S. AIR FORCE, \"THE ROSWELL REPORT: CASE CLOSED\" (1997)"
+  }
+ },
+ {
+  "key": "quote_f49e6b",
+  "name": "quote",
+  "opts": {
+   "q": "Air Force activities which occurred over a period of many years have been consolidated and are now represented to have occurred {{in two or three days in July 1947.}}",
+   "who": "U.S. Air Force",
+   "role": "The Roswell Report: Case Closed, 1997",
+   "size": 50,
+   "source": "SOURCE: U.S. AIR FORCE, \"THE ROSWELL REPORT: CASE CLOSED\" (1997)"
+  }
+ },
+ {
+  "key": "chapter_31c367",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "The Objections"
+  }
+ },
+ {
+  "key": "stat_9fc114",
+  "name": "stat",
+  "opts": {
+   "k": "GAO REPORT \u00b7 JULY 28, 1995",
+   "a": "1945\u20131949",
+   "size": 190,
+   "b": "Roswell base records destroyed",
+   "c": "administrative files and outgoing messages \u00b7 no authority recorded on the disposal form",
+   "source": "SOURCE: GAO, \"GOVERNMENT RECORDS: RESULTS OF A SEARCH FOR RECORDS CONCERNING THE 1947 CRASH NEAR ROSWELL, NEW MEXICO\" (GAO/NSIAD-95-187), JULY 28, 1995"
+  }
+ },
+ {
+  "key": "chapter_46fb2f",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "What It Proves"
+  }
+ },
+ {
+  "key": "timeline_84e1c9",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE PAPER TRAIL",
+   "title": "Roswell, on the record",
+   "active": 3,
+   "events": [
+    {
+     "y": "JULY 1947",
+     "t": "Flying disc, then balloon"
+    },
+    {
+     "y": "1978\u201380",
+     "t": "The story returns"
+    },
+    {
+     "y": "1994\u201395",
+     "t": "Air Force: Project Mogul"
+    },
+    {
+     "y": "1997",
+     "t": "Air Force: test dummies"
+    }
+   ],
+   "source": "SOURCES: GAO/NSIAD-95-187 (1995); USAF ROSWELL REPORTS (1995, 1997)"
+  }
+ },
+ {
+  "key": "end_3a8be4",
+  "name": "end",
+  "opts": {
+   "n": "005",
+   "next": "Thirteen Days: The Cuban Missile Photos"
+  }
+ }
+]

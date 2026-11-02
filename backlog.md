@@ -8,7 +8,7 @@ Status: `todo` → `done YYYY-MM-DD` / `skip (reason)`. Take the first `todo` (d
 | 002 | Operation Northwoods | done 2026-10-31 |
 | 003 | Area 51, U-2 and OXCART | done 2026-11-01 |
 | 004 | MKUltra: what survived the shredder | done 2026-11-02 |
-| 005 | Roswell, according to the Air Force | todo |
+| 005 | Roswell, according to the Air Force | done 2026-11-03 |
 | 006 | Thirteen Days: the Cuban missile photos | todo |
 | 007 | Project Azorian | todo |
 | 008 | 144 Reports, 1 Explained | todo |
