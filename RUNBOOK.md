@@ -1,6 +1,6 @@
 # RELEASED IN FULL — production runbook
 
-One run = one long episode (~10 min, at least 10:00, English) + 4 vertical Shorts cut from it, for one US day, uploaded here (drop branches) and scheduled in Metricool (brand RELEASED IN FULL, blogId 7743507).
+One run = one long episode (~10 min, at least 10:00, English) + 4 vertical cuts from it (62–110 s each; posted to BOTH YouTube Shorts and TikTok), for one US day, uploaded here (drop branches) and scheduled in Metricool (brand RELEASED IN FULL, blogId 7743507).
 Episode 001 (`episodes/001-navy-videos/`) is the reference for structure, pacing and style. Channel bible: Claude Docs «RELEASED IN FULL — библия канала» and Projects doc `claude/released-in-full-bible.md`.
 
 ## 0. Rules that never bend
@@ -48,7 +48,7 @@ python3 $R/pipeline/build.py $EP $SRC          # frame-exact 30 fps, cached segm
 python3 $R/pipeline/finish.py $EP $SRC         # overlays, SRT, music, SFX, -14 LUFS
 python3 $R/pipeline/qc_report.py $EP $EP/video_raw.mp4   # must say FAILS: 0
 # encode (≤ 95 MB), Shorts, thumbnails
-python3 $R/pipeline/shorts.py $EP $EP/shorts
+python3 $R/pipeline/shorts.py $EP $EP/shorts      # 4 cuts, 62–110 s each (--from-long re-cuts a published long.mp4)
 (cd $R/pipeline && NODE_PATH=$(npm root -g) node thumb.mjs $EP/thumb.json $EP)
 ```
 bash $R/pipeline/encode.sh $EP 95       # -> long.mp4 (two-pass x265, overlay burned in, <= 95 MB)
@@ -65,8 +65,8 @@ bash $R/pipeline/encode.sh $EP 95       # -> long.mp4 (two-pass x265, overlay bu
 ## 7. Schedule in Metricool (blogId 7743507, timezone America/New_York)
 - Check getScheduledPosts for the target date first: if a long YouTube video is already scheduled, stop and report.
 - Long: 14:00 ET. youtubeData {title, type "video", privacy "public", madeForKids false, category "EDUCATION", isAiGeneratedContent true, tags}; text = youtube_description.txt; media [long.mp4 URL]; videoThumbnailUrl = thumb_A URL (retry once without it if rejected).
-- 4 Shorts: 09:30, 12:30, 16:30, 20:30 ET. type "short", title ≤ 90 chars, text = 1–2 lines + "Full file on the channel.", same flags.
-- Every Short must be 25–60 s; every b-roll label must be present; Shorts captions burned in.
+- 4 vertical cuts: 09:30, 12:30, 16:30, 20:30 ET — ONE post per slot with providers [{"network":"youtube"},{"network":"tiktok"}]: youtubeData {title ≤ 90 chars, type "short", privacy "public", madeForKids false, category "EDUCATION", isAiGeneratedContent true, tags}; tiktokData {title ≤ 90 chars, privacyOption "PUBLIC_TO_EVERYONE", isAigc true}; text = 1–2 lines with search keywords + 4–5 hashtags (#declassified #history #coldwar …). If the combined post is rejected, create two posts (one per network) for the same slot.
+- Every vertical cut must be 62–110 s (TikTok Creator Rewards needs > 1 min; shorts.py auto-extends whole lines to ≥ 62 s), captions burned in, b-roll labels present, nothing important below y≈1500 or in the right 130 px (TikTok UI). Pick line ranges that make a complete mini-story (hook → reveal) of ~65–90 s.
 
 ## 8. Close the run
 - Commit to main: episode folder (episode.py, research.md, factcheck.md, rights.json, thumb.json, youtube_description.txt, captions_en.srt), updated backlog.md. Never video files on main.
