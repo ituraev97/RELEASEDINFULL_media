@@ -9,7 +9,7 @@ Episode 001 (`episodes/001-navy-videos/`) is the reference for structure, pacing
 - Every b-roll shot carries its honest label (`lab=`): what it really is, where, which year.
 - No agency seals/badges in branding. Agencies may be named; documents with seals may be shown in context.
 - Independent fact-check by a separate agent before rendering; fix every FIX.
-- Made for kids: No. AI labels (YouTube isAiGeneratedContent, TikTok isAigc): OFF — owner decision 2026-11-04. The description keeps the line "Narration uses a synthetic voice."
+- Made for kids: No. AI labels (YouTube isAiGeneratedContent, TikTok isAigc): OFF — owner decision 2026-11-04. No "AI", "AI-generated" or "synthetic voice" wording in titles, descriptions or post texts (owner decision 2026-11-04); the credits line is "Music and sound effects are original."
 
 ## 1. Setup (fresh container)
 ```bash
