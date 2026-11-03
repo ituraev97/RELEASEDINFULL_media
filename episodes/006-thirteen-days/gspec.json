@@ -1,0 +1,270 @@
+[
+ {
+  "key": "intro_7ad357",
+  "name": "intro",
+  "opts": {
+   "n": "006"
+  }
+ },
+ {
+  "key": "title_b8d9fc",
+  "name": "title",
+  "opts": {
+   "n": "006",
+   "t": "Thirteen Days",
+   "size": 180,
+   "sub": "The Cuban Missile Photos"
+  }
+ },
+ {
+  "key": "chapter_0a0cbf",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Warning"
+  }
+ },
+ {
+  "key": "stat_5f9635",
+  "name": "stat",
+  "opts": {
+   "k": "U-2 PHOTOGRAPHY \u00b7 29 AUGUST 1962",
+   "a": "8",
+   "size": 300,
+   "b": "surface-to-air missile sites being set up",
+   "c": "\"the program is proceeding on a crash basis\" \u00b7 CIA memorandum",
+   "source": "SOURCE: RAY S. CLINE, MEMORANDUM FOR ACTING DCI, \"RECENT SOVIET MILITARY ACTIVITIES IN CUBA,\" 3 SEPT. 1962 \u00b7 IN \"CIA DOCUMENTS ON THE CUBAN MISSILE CRISIS, 1962\" (CIA HISTORY STAFF, 1992)"
+  }
+ },
+ {
+  "key": "quote_419b35",
+  "name": "quote",
+  "opts": {
+   "q": "Appears to me quite possible measures now being taken are for purpose of insuring secrecy {{of some offensive capability such as MRBMs}} to be installed by Soviets\u2026",
+   "who": "John A. McCone",
+   "role": "Director of Central Intelligence \u00b7 cable, Sept. 10, 1962",
+   "size": 50,
+   "source": "SOURCE: McCONE CABLE OF SEPT. 10, 1962, AS QUOTED IN HIS MEMORANDUM OF OCT. 31, 1962 \u00b7 IN \"CIA DOCUMENTS ON THE CUBAN MISSILE CRISIS, 1962\" (CIA HISTORY STAFF, 1992)"
+  }
+ },
+ {
+  "key": "quote_3d970f",
+  "name": "quote",
+  "opts": {
+   "q": "Either development, however, would be {{incompatible with Soviet practice to date}} and with Soviet policy as we presently estimate it.",
+   "who": "Special National Intelligence Estimate 85-3-62",
+   "role": "\"The Military Buildup in Cuba\" \u00b7 Sept. 19, 1962",
+   "size": 54,
+   "source": "SOURCE: SNIE 85-3-62, \"THE MILITARY BUILDUP IN CUBA,\" 19 SEPT. 1962 \u00b7 IN \"CIA DOCUMENTS ON THE CUBAN MISSILE CRISIS, 1962\" (CIA HISTORY STAFF, 1992)"
+  }
+ },
+ {
+  "key": "map_33d5e6",
+  "name": "map",
+  "opts": {
+   "kicker": "1962",
+   "title": "Western Cuba",
+   "bounds": [
+    [
+     -84.4,
+     22.0
+    ],
+    [
+     -81.0,
+     24.8
+    ]
+   ],
+   "points": [
+    {
+     "ll": [
+      -82.37,
+      23.13
+     ],
+     "name": "Havana",
+     "sub": "CAPITAL"
+    },
+    {
+     "ll": [
+      -83.05,
+      22.71
+     ],
+     "name": "San Crist\u00f3bal",
+     "sub": "SUSPECTED MISSILE SITE",
+     "color": "#F2D04B",
+     "anchor": "end"
+    },
+    {
+     "ll": [
+      -81.78,
+      24.56
+     ],
+     "name": "Key West",
+     "sub": "FLORIDA",
+     "anchor": "end"
+    }
+   ],
+   "source": "SOURCES: FRUS 1961\u201363 VOL. XI, DOC. 16; CIA MEMORANDUM, 16 OCT. 1962 \u00b7 MAP: NATURAL EARTH \u00b7 LOCATIONS APPROXIMATE"
+  }
+ },
+ {
+  "key": "chapter_a6e1e9",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "The Flight"
+  }
+ },
+ {
+  "key": "chapter_d07ada",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "The Light Table"
+  }
+ },
+ {
+  "key": "list_6f2b09",
+  "name": "list",
+  "opts": {
+   "kicker": "U-2 MISSIONS \u00b7 OCTOBER 14\u201315, 1962",
+   "title": "What the film showed",
+   "items": [
+    {
+     "n": "01",
+     "t": "Four MRBM sites near San Crist\u00f3bal",
+     "s": "MEDIUM-RANGE BALLISTIC MISSILES"
+    },
+    {
+     "n": "02",
+     "t": "Two IRBM sites at Guanajay",
+     "s": "INTERMEDIATE-RANGE BALLISTIC MISSILES"
+    },
+    {
+     "n": "03",
+     "t": "21 crates for IL-28 bombers",
+     "s": "SAN JULI\u00c1N AIRFIELD"
+    }
+   ],
+   "source": "SOURCE: FOREIGN RELATIONS OF THE UNITED STATES, 1961\u20131963, VOL. XI, DOC. 16 (EDITORIAL NOTE)"
+  }
+ },
+ {
+  "key": "stat_23e14c",
+  "name": "stat",
+  "opts": {
+   "k": "CIA MEMORANDUM \u00b7 16 OCTOBER 1962",
+   "a": "1,100",
+   "size": 280,
+   "b": "nautical miles \u00b7 SS-4 maximum range",
+   "c": "3,000-lb warhead \u00b7 road-mobile \u00b7 \"no heavy construction work\" needed",
+   "source": "SOURCE: CIA MEMORANDUM, \"PROBABLE SOVIET MRBM SITES IN CUBA,\" 16 OCT. 1962 \u00b7 IN \"CIA DOCUMENTS ON THE CUBAN MISSILE CRISIS, 1962\" (CIA HISTORY STAFF, 1992)"
+  }
+ },
+ {
+  "key": "chapter_1e1684",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "The Choice"
+  }
+ },
+ {
+  "key": "quote_0118eb",
+  "name": "quote",
+  "opts": {
+   "q": "We have no evidence whatsoever {{of any nuclear warhead storage near the field launchers.}}",
+   "who": "Gen. Marshall S. Carter",
+   "role": "Deputy Director of Central Intelligence \u00b7 White House meeting, Oct. 16, 1962",
+   "size": 58,
+   "source": "SOURCE: TRANSCRIPT, \"OFF THE RECORD MEETING ON CUBA,\" WHITE HOUSE, OCT. 16, 1962, 6:30 P.M. \u00b7 JFK LIBRARY"
+  }
+ },
+ {
+  "key": "quote_9e65bc",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026medium-range ballistic missiles capable of carrying a nuclear warhead {{for a distance of more than 1,000 nautical miles.}}",
+   "who": "President John F. Kennedy",
+   "role": "Address to the nation \u00b7 Oct. 22, 1962",
+   "size": 56,
+   "source": "SOURCE: PRESIDENT KENNEDY, RADIO AND TELEVISION ADDRESS ON THE SOVIET ARMS BUILDUP IN CUBA, OCT. 22, 1962"
+  }
+ },
+ {
+  "key": "quote_e81228",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026any nuclear missile launched from Cuba against any nation in the Western Hemisphere {{as an attack by the Soviet Union on the United States\u2026}}",
+   "who": "President John F. Kennedy",
+   "role": "Address to the nation \u00b7 Oct. 22, 1962",
+   "size": 54,
+   "source": "SOURCE: PRESIDENT KENNEDY, RADIO AND TELEVISION ADDRESS ON THE SOVIET ARMS BUILDUP IN CUBA, OCT. 22, 1962"
+  }
+ },
+ {
+  "key": "chapter_ea4b76",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "The Proof"
+  }
+ },
+ {
+  "key": "quote_3420bd",
+  "name": "quote",
+  "opts": {
+   "q": "Do you, Ambassador Zorin, deny that the U.S.S.R. has placed and is placing medium- and intermediate-range missiles and sites in Cuba? {{Yes or no\u2014don't wait for the translation\u2014yes or no?}}",
+   "who": "Ambassador Adlai E. Stevenson",
+   "role": "U.N. Security Council \u00b7 Oct. 25, 1962",
+   "size": 46,
+   "source": "SOURCE: U.N. SECURITY COUNCIL, 1025TH MEETING, OCT. 25, 1962 (S/PV.1025)"
+  }
+ },
+ {
+  "key": "chapter_427b35",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "The Edge"
+  }
+ },
+ {
+  "key": "chapter_f74caa",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "What They Missed"
+  }
+ },
+ {
+  "key": "stat_4e8ba2",
+  "name": "stat",
+  "opts": {
+   "k": "SOVIET RECORDS \u00b7 PUBLISHED 2013",
+   "a": "98",
+   "size": 300,
+   "b": "tactical nuclear warheads in Cuba",
+   "c": "80 for FKR-1 cruise missiles \u00b7 12 for Luna rockets \u00b7 6 bombs for IL-28s",
+   "source": "SOURCE: NATIONAL SECURITY ARCHIVE, ELECTRONIC BRIEFING BOOK NO. 449 (2013), FROM SOVIET RECORDS"
+  }
+ },
+ {
+  "key": "quote_52e5d4",
+  "name": "quote",
+  "opts": {
+   "q": "U.S. intelligence did not detect {{any of the nuclear warheads in Cuba}} during the crisis.",
+   "who": "National Security Archive",
+   "role": "Electronic Briefing Book No. 449 \u00b7 Dec. 11, 2013",
+   "size": 62,
+   "source": "SOURCE: NATIONAL SECURITY ARCHIVE, ELECTRONIC BRIEFING BOOK NO. 449 (2013), FROM SOVIET RECORDS"
+  }
+ },
+ {
+  "key": "end_de0b6c",
+  "name": "end",
+  "opts": {
+   "n": "006",
+   "next": "Project Azorian"
+  }
+ }
+]

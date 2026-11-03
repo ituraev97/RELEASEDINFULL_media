@@ -1,0 +1,66 @@
+{
+ "dv908150.mp4": {
+  "source": "https://www.dvidshub.net/video/908150",
+  "title": "DVIDS - Video - U-2 Dragon Lady B-Roll",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2312/DOD_110050742/DOD_110050742.mp4"
+ },
+ "dv1017843.mp4": {
+  "source": "https://www.dvidshub.net/video/1017843",
+  "title": "DVIDS - Video - 9th PSPTS Mission Documentary: &quot;Between Life and Death&quot;",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2608/DOD_111888012/DOD_111888012.mp4"
+ },
+ "dv346026.mp4": {
+  "source": "https://www.dvidshub.net/video/346026",
+  "title": "DVIDS - Video - Capitol Building in Washington, D.C., B-Roll",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101768679/DOD_101768679-720x406-800k.mp4"
+ },
+ "dv346124.mp4": {
+  "source": "https://www.dvidshub.net/video/346124",
+  "title": "DVIDS - Video - B-Roll Footage Around Washington, D.C., White House",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101769002/DOD_101769002-720x406-800k.mp4"
+ },
+ "dv1026930.mp4": {
+  "source": "https://www.dvidshub.net/video/1026930",
+  "title": "DVIDS - Video - From the Cockpit: America 250 Over Washington, D.C.",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083901/DOD_112083901.mp4"
+ },
+ "dv1026934.mp4": {
+  "source": "https://www.dvidshub.net/video/1026934",
+  "title": "DVIDS - Video - From the Cockpit: America 250 Over Washington, D.C.",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083909/DOD_112083909.mp4"
+ },
+ "dv1024711.mp4": {
+  "source": "https://www.dvidshub.net/video/1024711",
+  "title": "DVIDS - Video - USS Mustin transits the Indian Ocean",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_112012686/DOD_112012686.mp4"
+ },
+ "dvids_images": {
+  "7483211": "https://www.dvidshub.net/image/7483211",
+  "7483213": "https://www.dvidshub.net/image/7483213",
+  "9148973": "https://www.dvidshub.net/image/9148973",
+  "9148974": "https://www.dvidshub.net/image/9148974"
+ },
+ "archive_film_stills_only": {
+  "1962-10-22_The_Red_Threat": "https://archive.org/details/1962-10-22_The_Red_Threat (Universal Newsreel, public domain)",
+  "1962-10-25_The_Cuban_Crisis": "https://archive.org/details/1962-10-25_The_Cuban_Crisis (Universal Newsreel, public domain)",
+  "USAF-34159": "https://archive.org/details/USAF-34159 (U.S. Air Force film, NARA, Public Domain Mark)"
+ },
+ "commons_files": [
+  "U-2 photo during Cuban Missile Crisis.jpg (US government reconnaissance photo)",
+  "Cuban missiles.jpg (US low-level reconnaissance board)",
+  "EXCOMM meeting, Cuban Missile Crisis, 29 October 1962.jpg (White House photo)",
+  "Proclamation Signing, Cuba Quarantine. President Kennedy. White House, Oval Office. - NARA - 194243.jpg",
+  "P-2H Neptune over Soviet ship Oct 1962.jpg (U.S. Navy)"
+ ],
+ "documents": {
+  "cia_1992": "https://archive.org/details/DTIC_ADA498025 (CIA Documents on the Cuban Missile Crisis, 1962; U.S. Government work)"
+ },
+ "excluded": "Armed Forces Screen Magazine XD3125 copy on archive.org (burned-in Periscope Film watermark/timecode) not used; Commons NARA TIFFs not downloaded (rate limit)."
+}

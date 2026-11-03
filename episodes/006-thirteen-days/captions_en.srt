@@ -1,0 +1,1211 @@
+1
+00:00:00,600 --> 00:00:03,593
+On the morning of October 14, 1962, an Air
+
+2
+00:00:03,613 --> 00:00:06,533
+Force pilot, Major Richard Heyser, flew a
+
+3
+00:00:06,553 --> 00:00:08,972
+U-2 spy plane across western Cuba.
+
+4
+00:00:09,542 --> 00:00:11,408
+He was over the island for about six
+
+5
+00:00:11,428 --> 00:00:11,828
+minutes.
+
+6
+00:00:12,298 --> 00:00:15,193
+His cameras took 928 photographs.
+
+7
+00:00:15,762 --> 00:00:17,496
+Two days later, the President of the
+
+8
+00:00:17,516 --> 00:00:19,542
+United States was looking at some of them.
+
+9
+00:00:20,012 --> 00:00:21,961
+They showed what Soviet spokesmen had
+
+10
+00:00:21,981 --> 00:00:23,823
+repeatedly said would never happen.
+
+11
+00:00:24,394 --> 00:00:26,935
+Soviet ballistic missiles, being set up in
+
+12
+00:00:26,955 --> 00:00:27,240
+Cuba.
+
+13
+00:00:27,810 --> 00:00:30,032
+What followed was a thirteen-day standoff.
+
+14
+00:00:30,372 --> 00:00:32,331
+Often called the closest the world has
+
+15
+00:00:32,351 --> 00:00:33,373
+come to nuclear war.
+
+16
+00:00:33,943 --> 00:00:35,931
+This is the story of those photographs.
+
+17
+00:00:36,271 --> 00:00:37,293
+What they proved.
+
+18
+00:00:37,633 --> 00:00:38,522
+What they missed.
+
+19
+00:00:38,992 --> 00:00:41,130
+And the documents that stayed secret for
+
+20
+00:00:41,150 --> 00:00:41,561
+decades.
+
+21
+00:00:42,131 --> 00:00:43,404
+Let's open the file.
+
+22
+00:00:49,731 --> 00:00:51,633
+The warning signs came weeks earlier.
+
+23
+00:00:52,254 --> 00:00:54,691
+On August 29, 1962, a U-2 flight
+
+24
+00:00:54,711 --> 00:00:57,378
+photographed something new in Cuba.
+
+25
+00:00:57,718 --> 00:00:59,177
+Surface-to-air missile sites.
+
+26
+00:00:59,647 --> 00:01:01,788
+According to the CIA, eight of them were
+
+27
+00:01:01,808 --> 00:01:04,003
+being set up, on what looked like a crash
+
+28
+00:01:04,023 --> 00:01:04,328
+basis.
+
+29
+00:01:04,898 --> 00:01:06,949
+In public, Kennedy warned the Soviets
+
+30
+00:01:06,969 --> 00:01:09,187
+twice, on September fourth and September
+
+31
+00:01:09,207 --> 00:01:09,803
+thirteenth.
+
+32
+00:01:10,273 --> 00:01:12,667
+Moscow's answer, according to Kennedy, was
+
+33
+00:01:12,687 --> 00:01:13,989
+a series of assurances.
+
+34
+00:01:14,329 --> 00:01:16,810
+The buildup in Cuba was defensive, and the
+
+35
+00:01:16,830 --> 00:01:18,894
+Soviet Union had no need to station
+
+36
+00:01:18,914 --> 00:01:21,276
+strategic missiles in any other country.
+
+37
+00:01:21,846 --> 00:01:24,214
+The director of the CIA, John McCone, was
+
+38
+00:01:24,234 --> 00:01:25,786
+on his honeymoon in France.
+
+39
+00:01:26,256 --> 00:01:27,859
+He didn't like what he was hearing.
+
+40
+00:01:28,199 --> 00:01:30,572
+It was difficult, he wrote, to rationalize
+
+41
+00:01:30,592 --> 00:01:32,395
+such extensive, costly defenses.
+
+42
+00:01:32,965 --> 00:01:35,398
+On September 10, he cabled his deputy at
+
+43
+00:01:35,418 --> 00:01:36,195
+headquarters.
+
+44
+00:01:36,535 --> 00:01:39,089
+Appears to me quite possible, he wrote,
+
+45
+00:01:39,109 --> 00:01:41,728
+measures now being taken are for purpose
+
+46
+00:01:41,748 --> 00:01:44,170
+of insuring secrecy of some offensive
+
+47
+00:01:44,190 --> 00:01:45,819
+capability such as MRBMs.
+
+48
+00:01:46,289 --> 00:01:48,053
+Medium-range ballistic missiles.
+
+49
+00:01:48,623 --> 00:01:50,381
+His own analysts disagreed.
+
+50
+00:01:50,851 --> 00:01:52,851
+On September 19, the intelligence
+
+51
+00:01:52,871 --> 00:01:55,360
+community's Special National Intelligence
+
+52
+00:01:55,380 --> 00:01:57,625
+Estimate on Cuba weighed exactly that
+
+53
+00:01:57,645 --> 00:01:58,359
+possibility.
+
+54
+00:01:58,929 --> 00:02:01,500
+Soviet missiles in Cuba, it said, would be
+
+55
+00:02:01,520 --> 00:02:04,029
+incompatible with Soviet practice to date
+
+56
+00:02:04,049 --> 00:02:06,374
+and with Soviet policy as we presently
+
+57
+00:02:06,394 --> 00:02:07,114
+estimate it.
+
+58
+00:02:07,684 --> 00:02:09,010
+The estimate was wrong.
+
+59
+00:02:09,480 --> 00:02:11,853
+By the beginning of October, according to
+
+60
+00:02:11,873 --> 00:02:14,304
+the CIA's own account, analysts had marked
+
+61
+00:02:14,324 --> 00:02:16,697
+an area near the town of San Cristóbal as
+
+62
+00:02:16,717 --> 00:02:18,156
+a suspected missile site.
+
+63
+00:02:18,626 --> 00:02:19,974
+They needed a photograph.
+
+64
+00:02:20,894 --> 00:02:22,846
+The flight that got it was delayed for
+
+65
+00:02:22,866 --> 00:02:23,884
+days by bad weather.
+
+66
+00:02:24,504 --> 00:02:26,948
+Heyser took off from Edwards Air Force
+
+67
+00:02:26,968 --> 00:02:29,542
+Base, in California, late on October 13.
+
+68
+00:02:30,012 --> 00:02:32,300
+He crossed into Cuba from the south, at
+
+69
+00:02:32,320 --> 00:02:34,667
+about 7:30 in the morning, flying around
+
+70
+00:02:34,687 --> 00:02:35,851
+fourteen miles high.
+
+71
+00:02:36,421 --> 00:02:38,131
+The CIA had planned one route.
+
+72
+00:02:38,471 --> 00:02:40,712
+A CIA map shows the route the Air Force
+
+73
+00:02:40,732 --> 00:02:42,974
+actually flew, straight over the target
+
+74
+00:02:42,994 --> 00:02:43,264
+area.
+
+75
+00:02:43,834 --> 00:02:45,964
+About six minutes later he was out of
+
+76
+00:02:45,984 --> 00:02:48,231
+Cuban airspace, and on his way to McCoy
+
+77
+00:02:48,251 --> 00:02:49,800
+Air Force Base, in Florida.
+
+78
+00:02:50,270 --> 00:02:52,230
+The film went to Washington, to the
+
+79
+00:02:52,250 --> 00:02:54,267
+National Photographic Interpretation
+
+80
+00:02:54,287 --> 00:02:54,663
+Center.
+
+81
+00:02:55,233 --> 00:02:57,110
+After that morning, the flights didn't
+
+82
+00:02:57,130 --> 00:02:57,359
+stop.
+
+83
+00:02:57,829 --> 00:03:00,316
+Another CIA map shows the Strategic Air
+
+84
+00:03:00,336 --> 00:03:02,566
+Command's U-2 tracks over Cuba from
+
+85
+00:03:02,586 --> 00:03:04,622
+October 15 to the twenty-second.
+
+86
+00:03:04,962 --> 00:03:06,923
+The whole island, crossed again and again.
+
+87
+00:03:07,844 --> 00:03:10,237
+And there, on October 15, the analysts saw
+
+88
+00:03:10,257 --> 00:03:10,525
+them.
+
+89
+00:03:11,145 --> 00:03:12,711
+According to the National
+
+90
+00:03:12,731 --> 00:03:14,931
+Geospatial-Intelligence Agency, the
+
+91
+00:03:14,951 --> 00:03:17,468
+analyst who first found the evidence was
+
+92
+00:03:17,488 --> 00:03:19,245
+Vincent DiRenzo, of the CIA.
+
+93
+00:03:19,814 --> 00:03:21,756
+According to the State Department's
+
+94
+00:03:21,776 --> 00:03:23,941
+official history, they identified three
+
+95
+00:03:23,961 --> 00:03:25,903
+medium-range missile sites near San
+
+96
+00:03:25,923 --> 00:03:26,463
+Cristóbal.
+
+97
+00:03:26,933 --> 00:03:28,766
+Eight large missile transporters.
+
+98
+00:03:29,106 --> 00:03:31,468
+And four erector launchers, in tentative
+
+99
+00:03:31,488 --> 00:03:32,480
+firing positions.
+
+100
+00:03:33,051 --> 00:03:35,569
+Two more U-2 missions on October 15 found
+
+101
+00:03:35,589 --> 00:03:37,241
+a fourth medium-range site.
+
+102
+00:03:37,711 --> 00:03:40,120
+Two sites for intermediate-range missiles,
+
+103
+00:03:40,140 --> 00:03:40,814
+at Guanajay.
+
+104
+00:03:41,154 --> 00:03:44,358
+And 21 crates for Soviet IL-28 bombers, at
+
+105
+00:03:44,378 --> 00:03:45,280
+an airfield.
+
+106
+00:03:45,850 --> 00:03:47,778
+How could they tell from fourteen miles
+
+107
+00:03:47,798 --> 00:03:47,928
+up?
+
+108
+00:03:48,398 --> 00:03:49,261
+By measuring.
+
+109
+00:03:49,601 --> 00:03:52,026
+The center's director, Arthur Lundahl,
+
+110
+00:03:52,046 --> 00:03:54,600
+reported canvas-covered missile trailers
+
+111
+00:03:54,620 --> 00:03:56,852
+about 67 feet long and 9 feet wide.
+
+112
+00:03:57,422 --> 00:03:59,351
+At one launch site, he wrote, there were
+
+113
+00:03:59,371 --> 00:04:01,348
+at least eight missile trailers, and four
+
+114
+00:04:01,368 --> 00:04:02,663
+probable erector launchers.
+
+115
+00:04:03,003 --> 00:04:05,048
+At the westernmost position, a missile
+
+116
+00:04:05,068 --> 00:04:07,113
+trailer was lined up with its erector.
+
+117
+00:04:07,683 --> 00:04:09,818
+The CIA compared those dimensions with
+
+118
+00:04:09,838 --> 00:04:11,633
+what it knew of Soviet missiles.
+
+119
+00:04:11,973 --> 00:04:14,680
+The trailers matched the general size and
+
+120
+00:04:14,700 --> 00:04:17,273
+configuration of the SS-3 and the SS-4.
+
+121
+00:04:17,843 --> 00:04:20,672
+The SS-4, the memo said, could carry a
+
+122
+00:04:20,692 --> 00:04:23,670
+3,000-pound warhead about 1,100 nautical
+
+123
+00:04:23,690 --> 00:04:24,119
+miles.
+
+124
+00:04:24,689 --> 00:04:26,843
+That evening, a CIA deputy director,
+
+125
+00:04:26,863 --> 00:04:28,836
+General Marshall Carter, told the
+
+126
+00:04:28,856 --> 00:04:31,131
+President's national security adviser,
+
+127
+00:04:31,151 --> 00:04:32,037
+McGeorge Bundy.
+
+128
+00:04:32,507 --> 00:04:34,030
+Bundy decided to wait.
+
+129
+00:04:34,370 --> 00:04:36,143
+The President had come back from a
+
+130
+00:04:36,163 --> 00:04:38,199
+campaign trip at 1:40 that morning, and
+
+131
+00:04:38,219 --> 00:04:40,308
+the briefing materials wouldn't be ready
+
+132
+00:04:40,328 --> 00:04:41,046
+until morning.
+
+133
+00:04:41,516 --> 00:04:43,702
+Bundy wrote later that a quiet evening and
+
+134
+00:04:43,722 --> 00:04:45,908
+a night of sleep were the best preparation
+
+135
+00:04:45,928 --> 00:04:47,221
+the President could have.
+
+136
+00:04:47,791 --> 00:04:49,980
+On October 16, Kennedy was shown the
+
+137
+00:04:50,000 --> 00:04:50,717
+photographs.
+
+138
+00:04:51,637 --> 00:04:53,913
+What he did next was decided in secret.
+
+139
+00:04:54,533 --> 00:04:56,953
+The CIA's memo that day attached a map.
+
+140
+00:04:57,423 --> 00:04:58,605
+Rings around Cuba.
+
+141
+00:04:58,945 --> 00:05:01,555
+The outer one, labelled 1,020 nautical
+
+142
+00:05:01,575 --> 00:05:03,354
+miles, reached Washington.
+
+143
+00:05:03,924 --> 00:05:05,789
+But one thing was missing from every
+
+144
+00:05:05,809 --> 00:05:06,365
+photograph.
+
+145
+00:05:06,835 --> 00:05:09,168
+No facility to store nuclear warheads, the
+
+146
+00:05:09,188 --> 00:05:11,409
+memo said, could be identified at any of
+
+147
+00:05:11,429 --> 00:05:11,969
+the sites.
+
+148
+00:05:12,539 --> 00:05:14,241
+At a meeting in the White House that
+
+149
+00:05:14,261 --> 00:05:16,105
+evening, General Carter put it plainly.
+
+150
+00:05:16,445 --> 00:05:18,486
+We have no evidence whatsoever of any
+
+151
+00:05:18,506 --> 00:05:20,602
+nuclear warhead storage near the field
+
+152
+00:05:20,622 --> 00:05:21,158
+launchers.
+
+153
+00:05:21,628 --> 00:05:23,851
+The analysts estimated the sites could be
+
+154
+00:05:23,871 --> 00:05:25,765
+fully operational within two weeks.
+
+155
+00:05:26,336 --> 00:05:28,827
+For six days, Kennedy and a small group of
+
+156
+00:05:28,847 --> 00:05:30,382
+advisers argued in secret.
+
+157
+00:05:30,852 --> 00:05:33,006
+The Joint Chiefs, according to the State
+
+158
+00:05:33,026 --> 00:05:35,018
+Department, all favored an air strike
+
+159
+00:05:35,038 --> 00:05:36,323
+followed by an invasion.
+
+160
+00:05:36,892 --> 00:05:38,453
+Kennedy chose a middle course.
+
+161
+00:05:38,923 --> 00:05:41,402
+On the evening of October 22, he went on
+
+162
+00:05:41,422 --> 00:05:42,089
+television.
+
+163
+00:05:42,660 --> 00:05:45,140
+He told the country that some of the sites
+
+164
+00:05:45,160 --> 00:05:47,581
+included medium-range ballistic missiles,
+
+165
+00:05:47,601 --> 00:05:50,022
+capable of carrying a nuclear warhead for
+
+166
+00:05:50,042 --> 00:05:52,284
+a distance of more than 1,000 nautical
+
+167
+00:05:52,304 --> 00:05:52,642
+miles.
+
+168
+00:05:53,112 --> 00:05:54,644
+Others appeared designed for
+
+169
+00:05:54,664 --> 00:05:56,974
+intermediate-range missiles, able to reach
+
+170
+00:05:56,994 --> 00:05:58,693
+most of the major cities in the
+
+171
+00:05:58,713 --> 00:05:59,303
+hemisphere.
+
+172
+00:05:59,872 --> 00:06:01,968
+He announced a strict quarantine on all
+
+173
+00:06:01,988 --> 00:06:03,812
+offensive military equipment under
+
+174
+00:06:03,832 --> 00:06:04,734
+shipment to Cuba.
+
+175
+00:06:05,204 --> 00:06:06,755
+Quarantine, not blockade.
+
+176
+00:06:07,095 --> 00:06:09,103
+According to the State Department, the
+
+177
+00:06:09,123 --> 00:06:11,024
+word legally distinguished it from a
+
+178
+00:06:11,044 --> 00:06:11,504
+blockade.
+
+179
+00:06:11,974 --> 00:06:14,407
+The same day, the Joint Chiefs raised the
+
+180
+00:06:14,427 --> 00:06:16,500
+military's alert level to DEFCON 3.
+
+181
+00:06:17,070 --> 00:06:18,210
+And he drew a line.
+
+182
+00:06:18,630 --> 00:06:20,730
+Any nuclear missile launched from Cuba
+
+183
+00:06:20,750 --> 00:06:22,570
+against any nation in the Western
+
+184
+00:06:22,590 --> 00:06:24,801
+Hemisphere would be treated as an attack
+
+185
+00:06:24,821 --> 00:06:27,087
+by the Soviet Union on the United States.
+
+186
+00:06:27,657 --> 00:06:29,197
+He didn't pretend it was safe.
+
+187
+00:06:29,537 --> 00:06:31,551
+The path we have chosen for the present,
+
+188
+00:06:31,571 --> 00:06:33,636
+he said, is full of hazards, as all paths
+
+189
+00:06:33,656 --> 00:06:33,839
+are.
+
+190
+00:06:34,759 --> 00:06:36,761
+Now the photographs had to convince the
+
+191
+00:06:36,781 --> 00:06:37,072
+world.
+
+192
+00:06:37,692 --> 00:06:40,419
+On October 23, Navy reconnaissance jets
+
+193
+00:06:40,439 --> 00:06:42,320
+began flying low over Cuba.
+
+194
+00:06:42,660 --> 00:06:45,425
+RF-8A Crusaders, from Light Photographic
+
+195
+00:06:45,445 --> 00:06:48,001
+Squadron 62, under the code name Blue
+
+196
+00:06:48,021 --> 00:06:48,349
+Moon.
+
+197
+00:06:48,819 --> 00:06:50,878
+Their film was developed at Naval Air
+
+198
+00:06:50,898 --> 00:06:52,732
+Station Jacksonville, in Florida.
+
+199
+00:06:53,302 --> 00:06:55,494
+They flew from Key West, streaking in over
+
+200
+00:06:55,514 --> 00:06:57,337
+Cuba at low level, and brought back
+
+201
+00:06:57,357 --> 00:06:59,391
+close-up pictures of the missile sites.
+
+202
+00:06:59,961 --> 00:07:02,320
+On October 25, at the United Nations
+
+203
+00:07:02,340 --> 00:07:05,095
+Security Council, the American ambassador,
+
+204
+00:07:05,115 --> 00:07:07,540
+Adlai Stevenson, turned to the Soviet
+
+205
+00:07:07,560 --> 00:07:09,325
+ambassador, Valerian Zorin.
+
+206
+00:07:09,894 --> 00:07:12,318
+Do you, Ambassador Zorin, deny that the
+
+207
+00:07:12,338 --> 00:07:14,950
+USSR has placed and is placing medium- and
+
+208
+00:07:14,970 --> 00:07:17,457
+intermediate-range missiles and sites in
+
+209
+00:07:17,477 --> 00:07:17,770
+Cuba?
+
+210
+00:07:18,240 --> 00:07:19,155
+Yes or no.
+
+211
+00:07:19,495 --> 00:07:21,088
+Don't wait for the translation.
+
+212
+00:07:21,659 --> 00:07:23,113
+Zorin refused to answer.
+
+213
+00:07:23,453 --> 00:07:25,204
+Earlier, he had called the American
+
+214
+00:07:25,224 --> 00:07:25,964
+evidence false.
+
+215
+00:07:26,434 --> 00:07:28,749
+Stevenson said he was prepared to wait for
+
+216
+00:07:28,769 --> 00:07:30,640
+an answer until hell freezes over.
+
+217
+00:07:31,110 --> 00:07:32,727
+And he was prepared to present the
+
+218
+00:07:32,747 --> 00:07:33,786
+evidence in that room.
+
+219
+00:07:34,126 --> 00:07:36,383
+His team set up enlarged reconnaissance
+
+220
+00:07:36,403 --> 00:07:37,084
+photographs.
+
+221
+00:07:37,654 --> 00:07:39,624
+Meanwhile, the work on the missile sites
+
+222
+00:07:39,644 --> 00:07:40,122
+continued.
+
+223
+00:07:40,462 --> 00:07:42,364
+In one photograph from that same day,
+
+224
+00:07:42,384 --> 00:07:44,285
+tracks in the ground led to a missile
+
+225
+00:07:44,305 --> 00:07:44,961
+shelter tent.
+
+226
+00:07:45,881 --> 00:07:47,885
+Then came the worst day of the crisis.
+
+227
+00:07:48,505 --> 00:07:51,059
+On October 26, Khrushchev sent Kennedy a
+
+228
+00:07:51,079 --> 00:07:53,440
+long, emotional message, hinting at a
+
+229
+00:07:53,460 --> 00:07:53,762
+deal.
+
+230
+00:07:54,102 --> 00:07:56,166
+Let us take measures, he wrote, to untie
+
+231
+00:07:56,186 --> 00:07:56,687
+that knot.
+
+232
+00:07:57,157 --> 00:07:59,297
+The next day, a second message raised the
+
+233
+00:07:59,317 --> 00:07:59,614
+price.
+
+234
+00:07:59,954 --> 00:08:01,896
+Any deal must include the removal of
+
+235
+00:08:01,916 --> 00:08:03,968
+American Jupiter missiles from Turkey.
+
+236
+00:08:04,538 --> 00:08:07,412
+That same day, October 27, a U-2 was shot
+
+237
+00:08:07,432 --> 00:08:09,671
+down over Cuba by a Soviet-built
+
+238
+00:08:09,691 --> 00:08:11,294
+surface-to-air missile.
+
+239
+00:08:11,876 --> 00:08:13,859
+Its pilot, Air Force Major Rudolf
+
+240
+00:08:13,879 --> 00:08:15,133
+Anderson, was killed.
+
+241
+00:08:15,703 --> 00:08:17,664
+Kennedy answered the first message, and
+
+242
+00:08:17,684 --> 00:08:18,629
+ignored the second.
+
+243
+00:08:19,099 --> 00:08:21,476
+He offered a guarantee against an invasion
+
+244
+00:08:21,496 --> 00:08:23,474
+of Cuba, in return for removing the
+
+245
+00:08:23,494 --> 00:08:25,871
+missiles under United Nations supervision.
+
+246
+00:08:26,441 --> 00:08:28,954
+In private, his brother, Attorney General
+
+247
+00:08:28,974 --> 00:08:31,549
+Robert Kennedy, met the Soviet ambassador,
+
+248
+00:08:31,569 --> 00:08:32,599
+Anatoly Dobrynin.
+
+249
+00:08:33,069 --> 00:08:35,183
+He indicated that the Jupiters would be
+
+250
+00:08:35,203 --> 00:08:36,934
+removed from Turkey soon anyway.
+
+251
+00:08:37,274 --> 00:08:39,195
+But that could not be part of any public
+
+252
+00:08:39,215 --> 00:08:39,438
+deal.
+
+253
+00:08:40,008 --> 00:08:42,258
+On October 28, Khrushchev announced that
+
+254
+00:08:42,278 --> 00:08:44,640
+the missiles would be dismantled and taken
+
+255
+00:08:44,660 --> 00:08:44,924
+home.
+
+256
+00:08:45,844 --> 00:08:47,871
+So what did those photographs actually
+
+257
+00:08:47,891 --> 00:08:48,194
+prove?
+
+258
+00:08:48,814 --> 00:08:51,257
+They proved that Soviet ballistic missiles
+
+259
+00:08:51,277 --> 00:08:53,720
+were being installed in Cuba, while Soviet
+
+260
+00:08:53,740 --> 00:08:55,186
+officials said otherwise.
+
+261
+00:08:55,656 --> 00:08:57,708
+And they proved it with photographs that
+
+262
+00:08:57,728 --> 00:08:59,313
+anyone at the UN could look at.
+
+263
+00:08:59,883 --> 00:09:01,924
+But the cameras never saw the warheads.
+
+264
+00:09:02,394 --> 00:09:05,424
+Decades later, at a conference in Havana
+
+265
+00:09:05,444 --> 00:09:08,626
+in January 1992, a Soviet general, Anatoly
+
+266
+00:09:08,646 --> 00:09:11,447
+Gribkov, revealed that Soviet nuclear
+
+267
+00:09:11,467 --> 00:09:14,040
+warheads had been in Cuba in 1962.
+
+268
+00:09:14,610 --> 00:09:17,089
+According to Soviet records published by
+
+269
+00:09:17,109 --> 00:09:19,275
+the National Security Archive, that
+
+270
+00:09:19,295 --> 00:09:21,648
+included 98 tactical nuclear warheads.
+
+271
+00:09:21,988 --> 00:09:24,618
+80 for short-range cruise missiles, 12 for
+
+272
+00:09:24,638 --> 00:09:26,259
+Luna rockets, and 6 bombs.
+
+273
+00:09:26,829 --> 00:09:28,572
+According to the Archive, U.S.
+
+274
+00:09:28,592 --> 00:09:30,806
+intelligence did not detect any of the
+
+275
+00:09:30,826 --> 00:09:32,863
+nuclear warheads in Cuba during the
+
+276
+00:09:32,883 --> 00:09:33,275
+crisis.
+
+277
+00:09:33,745 --> 00:09:36,286
+And after the deal of October 28, almost
+
+278
+00:09:36,306 --> 00:09:38,911
+43,000 Soviet troops, and all the nuclear
+
+279
+00:09:38,931 --> 00:09:41,152
+warheads, were still on the island.
+
+280
+00:09:41,721 --> 00:09:44,262
+The quarantine stayed in place until the
+
+281
+00:09:44,282 --> 00:09:46,567
+Soviets agreed to remove their IL-28
+
+282
+00:09:46,587 --> 00:09:47,079
+bombers.
+
+283
+00:09:47,419 --> 00:09:49,279
+It ended on November 20.
+
+284
+00:09:49,619 --> 00:09:52,502
+The Jupiter missiles left Turkey in April
+
+285
+00:09:52,522 --> 00:09:52,855
+1963.
+
+286
+00:09:53,325 --> 00:09:55,473
+And ten U-2 pilots of the Cuba flights
+
+287
+00:09:55,493 --> 00:09:57,584
+were awarded the Distinguished Flying
+
+288
+00:09:57,604 --> 00:09:57,926
+Cross.
+
+289
+00:09:58,496 --> 00:10:00,571
+The two leaders had struggled to read each
+
+290
+00:10:00,591 --> 00:10:01,518
+other's intentions.
+
+291
+00:10:01,858 --> 00:10:03,641
+Afterwards, they set up a direct line
+
+292
+00:10:03,661 --> 00:10:05,590
+between the White House and the Kremlin.
+
+293
+00:10:05,930 --> 00:10:06,792
+The Hotline.
+
+294
+00:10:07,362 --> 00:10:09,232
+Every secret has a release date.
+
+295
+00:10:09,652 --> 00:10:12,762
+The CIA's memo from October 16 was
+
+296
+00:10:12,782 --> 00:10:14,419
+published in 1992.
+
+297
+00:10:14,839 --> 00:10:17,056
+The warheads came out of Soviet files.
+
+298
+00:10:17,638 --> 00:10:20,022
+Thirteen days in October took decades to
+
+299
+00:10:20,042 --> 00:10:21,284
+fully come into view.
+
+300
+00:10:22,105 --> 00:10:24,065
+If there's a government file you want us
+
+301
+00:10:24,085 --> 00:10:25,698
+to open, tell us in the comments.
+
+302
+00:10:26,268 --> 00:10:28,340
+Next time: the CIA, a sunken Soviet
+
+303
+00:10:28,360 --> 00:10:30,672
+submarine, and a ship built to lift it.
