@@ -9,7 +9,7 @@ Episode 001 (`episodes/001-navy-videos/`) is the reference for structure, pacing
 - Every b-roll shot carries its honest label (`lab=`): what it really is, where, which year.
 - No agency seals/badges in branding. Agencies may be named; documents with seals may be shown in context.
 - Independent fact-check by a separate agent before rendering; fix every FIX.
-- Made for kids: No. AI disclosure (synthetic voice): Yes.
+- Made for kids: No. AI labels (YouTube isAiGeneratedContent, TikTok isAigc): OFF — owner decision 2026-11-04. The description keeps the line "Narration uses a synthetic voice."
 
 ## 1. Setup (fresh container)
 ```bash
@@ -64,8 +64,8 @@ bash $R/pipeline/encode.sh $EP 95       # -> long.mp4 (two-pass x265, overlay bu
 
 ## 7. Schedule in Metricool (blogId 7743507, timezone America/New_York)
 - Check getScheduledPosts for the target date first: if a long YouTube video is already scheduled, stop and report.
-- Long: 14:00 ET. youtubeData {title, type "video", privacy "public", madeForKids false, category "EDUCATION", isAiGeneratedContent true, tags}; text = youtube_description.txt; media [long.mp4 URL]; videoThumbnailUrl = thumb_A URL (retry once without it if rejected).
-- 4 vertical cuts: 09:30, 12:30, 16:30, 20:30 ET — ONE post per slot with providers [{"network":"youtube"},{"network":"tiktok"}]: youtubeData {title ≤ 90 chars, type "short", privacy "public", madeForKids false, category "EDUCATION", isAiGeneratedContent true, tags}; tiktokData {title ≤ 90 chars, privacyOption "PUBLIC_TO_EVERYONE", isAigc true}; text = 1–2 lines with search keywords + 4–5 hashtags (#declassified #history #coldwar …). If the combined post is rejected, create two posts (one per network) for the same slot.
+- Long: 14:00 ET. youtubeData {title, type "video", privacy "public", madeForKids false, category "EDUCATION", isAiGeneratedContent false, tags}; text = youtube_description.txt; media [long.mp4 URL]; videoThumbnailUrl = thumb_A URL (retry once without it if rejected).
+- 4 vertical cuts: 09:30, 12:30, 16:30, 20:30 ET — ONE post per slot with providers [{"network":"youtube"},{"network":"tiktok"}]: youtubeData {title ≤ 90 chars, type "short", privacy "public", madeForKids false, category "EDUCATION", isAiGeneratedContent false, tags}; tiktokData {title ≤ 90 chars, privacyOption "PUBLIC_TO_EVERYONE", isAigc false}; text = 1–2 lines with search keywords + 4–5 hashtags (#declassified #history #coldwar …). If the combined post is rejected, create two posts (one per network) for the same slot.
 - Every vertical cut must be 62–110 s (TikTok Creator Rewards needs > 1 min; shorts.py auto-extends whole lines to ≥ 62 s), captions burned in, b-roll labels present, nothing important below y≈1500 or in the right 130 px (TikTok UI). Pick line ranges that make a complete mini-story (hook → reveal) of ~65–90 s.
 
 ## 8. Close the run
