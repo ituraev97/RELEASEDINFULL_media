@@ -10,7 +10,7 @@ Status: `todo` → `done YYYY-MM-DD` / `skip (reason)`. Take the first `todo` (d
 | 004 | MKUltra: what survived the shredder | done 2026-11-02 |
 | 005 | Roswell, according to the Air Force | done 2026-11-03 |
 | 006 | Thirteen Days: the Cuban missile photos | done 2026-11-04 |
-| 007 | Project Azorian | todo |
+| 007 | Project Azorian | done 2026-11-05 |
 | 008 | 144 Reports, 1 Explained | todo |
 | 009 | Goldsboro 1961 | todo |
 | 010 | The Family Jewels | todo |

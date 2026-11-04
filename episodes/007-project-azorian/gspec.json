@@ -1,0 +1,300 @@
+[
+ {
+  "key": "intro_9b1e31",
+  "name": "intro",
+  "opts": {
+   "n": "007"
+  }
+ },
+ {
+  "key": "title_9165cf",
+  "name": "title",
+  "opts": {
+   "n": "007",
+   "t": "Project Azorian",
+   "size": 170,
+   "sub": "The Ship Built to Steal a Submarine"
+  }
+ },
+ {
+  "key": "chapter_355429",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Lost Sub"
+  }
+ },
+ {
+  "key": "map_5f084d",
+  "name": "map",
+  "opts": {
+   "kicker": "MARCH 1968",
+   "title": "The North Pacific",
+   "rotate": [
+    180,
+    0,
+    0
+   ],
+   "bounds": [
+    [
+     138.0,
+     12.0
+    ],
+    [
+     -112.0,
+     58.0
+    ]
+   ],
+   "points": [
+    {
+     "ll": [
+      158.65,
+      53.02
+     ],
+     "name": "Petropavlovsk",
+     "sub": "SOVIET SUBMARINE BASE"
+    },
+    {
+     "ll": [
+      -176.0,
+      37.5
+     ],
+     "name": "Approximate area of loss",
+     "sub": "\u22481,560 MI NW OF HAWAII",
+     "color": "#F2D04B"
+    },
+    {
+     "ll": [
+      -157.86,
+      21.31
+     ],
+     "name": "Hawaii",
+     "sub": "HONOLULU"
+    },
+    {
+     "ll": [
+      -118.19,
+      33.77
+     ],
+     "name": "Long Beach",
+     "sub": "CALIFORNIA"
+    }
+   ],
+   "source": "SOURCE: CIA, \"PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER\" (STUDIES IN INTELLIGENCE, 1985; RELEASED 2010) \u00b7 MAP: NATURAL EARTH \u00b7 LOSS LOCATION APPROXIMATE"
+  }
+ },
+ {
+  "key": "quote_34496d",
+  "name": "quote",
+  "opts": {
+   "q": "Acquisition of the nuclear warheads and the SS-N-5 missile system, together with related documents, {{would provide a much-improved baseline}} for estimates of the current and future Soviet strategic threat.",
+   "who": "U.S. Intelligence Board",
+   "role": "assessment of Project AZORIAN \u00b7 May 1974",
+   "size": 48,
+   "source": "SOURCE: U.S. INTELLIGENCE BOARD ASSESSMENT, MAY 1974, AS QUOTED IN CIA, \"PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER\" (STUDIES IN INTELLIGENCE, 1985; RELEASED 2010)"
+  }
+ },
+ {
+  "key": "chapter_a35f8b",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "The Cover Story"
+  }
+ },
+ {
+  "key": "stat_7a9a25",
+  "name": "stat",
+  "opts": {
+   "k": "CIA ESTIMATE \u00b7 OCTOBER 1970",
+   "a": "1,750",
+   "size": 280,
+   "b": "tons \u00b7 estimated weight of the target",
+   "c": "to be lifted from 16,500 feet \u00b7 early odds of success: about 10%",
+   "source": "SOURCE: CIA, \"PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER\" (STUDIES IN INTELLIGENCE, 1985; RELEASED 2010)"
+  }
+ },
+ {
+  "key": "list_93b3ae",
+  "name": "list",
+  "opts": {
+   "kicker": "1972 \u00b7 THE DOUBTERS",
+   "title": "Inside the government",
+   "items": [
+    {
+     "n": "AUG",
+     "t": "Joint Chiefs chairman: \"could not support\"",
+     "s": "ADM. THOMAS MOORER"
+    },
+    {
+     "n": "SEP",
+     "t": "Odds of technical success: 20\u201330%",
+     "s": "DEP. SEC. OF DEFENSE KENNETH RUSH"
+    },
+    {
+     "n": "DEC",
+     "t": "The President decides to continue",
+     "s": "RICHARD NIXON"
+    }
+   ],
+   "source": "SOURCE: CIA, \"PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER\" (STUDIES IN INTELLIGENCE, 1985; RELEASED 2010)"
+  }
+ },
+ {
+  "key": "chapter_35c0de",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "The Mission"
+  }
+ },
+ {
+  "key": "doc_4ff7b6",
+  "name": "doc",
+  "opts": {
+   "header": "RADIO EXCHANGE \u00b7 JULY 18, 1974 \u00b7 RECREATED",
+   "title": "Chazhma and the Glomar Explorer",
+   "lines": [
+    "CHAZHMA: \"We are on our way home and heard your fog horn. {{What are you doing here?}}\"",
+    "HGE: \"We are conducting ocean mining tests\u2014deep-ocean mining tests.\"",
+    "CHAZHMA: \"How much time will you be here?\"",
+    "HGE: \"We expect to finish testing in two to three weeks.\"",
+    "CHAZHMA: \"{{I wish you all the best.}}\""
+   ],
+   "source": "SOURCE: CIA, \"PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER\" (STUDIES IN INTELLIGENCE, 1985; RELEASED 2010) \u00b7 EXCERPTS, RECREATED"
+  }
+ },
+ {
+  "key": "chapter_dfe1ea",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "The Lift"
+  }
+ },
+ {
+  "key": "stat_cbab6e",
+  "name": "stat",
+  "opts": {
+   "k": "AUGUST 2, 1974",
+   "a": "16,440",
+   "size": 280,
+   "b": "feet of pipe deployed and coming up",
+   "c": "274 doubles \u00b7 about 15 tons each",
+   "source": "SOURCE: CIA, \"PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER\" (STUDIES IN INTELLIGENCE, 1985; RELEASED 2010)"
+  }
+ },
+ {
+  "key": "quote_c02f91",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026two Soviet Navy ships were on the scene and, in effect, {{witnessed the recovery operation}} against their lost submarine.",
+   "who": "CIA history of Project AZORIAN",
+   "role": "Studies in Intelligence \u00b7 1985",
+   "size": 56,
+   "source": "SOURCE: CIA, \"PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER\" (STUDIES IN INTELLIGENCE, 1985; RELEASED 2010)"
+  }
+ },
+ {
+  "key": "chapter_f7377e",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "The Leak"
+  }
+ },
+ {
+  "key": "quote_8a6403",
+  "name": "quote",
+  "opts": {
+   "q": "This episode has been {{a major American accomplishment.}}",
+   "who": "James R. Schlesinger",
+   "role": "Secretary of Defense \u00b7 White House, March 19, 1975",
+   "size": 62,
+   "source": "SOURCE: MEMORANDUM OF CONVERSATION, WHITE HOUSE CABINET ROOM, MARCH 19, 1975 \u00b7 FRUS 1969\u20131976, VOL. XXXV, DOC. 197"
+  }
+ },
+ {
+  "key": "quote_d87018",
+  "name": "quote",
+  "opts": {
+   "q": "I go back to the U\u20132. {{I think we should not put the Soviet Union under such pressure to respond.}}",
+   "who": "William E. Colby",
+   "role": "Director of Central Intelligence \u00b7 White House, March 19, 1975",
+   "size": 56,
+   "source": "SOURCE: MEMORANDUM OF CONVERSATION, WHITE HOUSE CABINET ROOM, MARCH 19, 1975 \u00b7 FRUS 1969\u20131976, VOL. XXXV, DOC. 197"
+  }
+ },
+ {
+  "key": "chapter_23d76e",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "Neither Confirm Nor Deny"
+  }
+ },
+ {
+  "key": "quote_c5c293",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026in the interest of national security, involvement by the U.S. Government in the activities which are the subject matter of your request {{can neither be confirmed nor denied.}}",
+   "who": "Central Intelligence Agency",
+   "role": "response to Harriet Ann Phillippi \u00b7 1975",
+   "size": 48,
+   "source": "SOURCE: PHILLIPPI v. CIA, 546 F.2d 1009 (D.C. CIR. 1976), QUOTING THE AGENCY'S RESPONSE"
+  }
+ },
+ {
+  "key": "quote_0b5371",
+  "name": "quote",
+  "opts": {
+   "q": "We can neither confirm nor deny {{that this is our first tweet.}}",
+   "who": "Central Intelligence Agency",
+   "role": "first post on Twitter \u00b7 June 6, 2014",
+   "size": 70,
+   "source": "SOURCE: CIA ON TWITTER, JUNE 6, 2014, AS REPORTED BY PBS NEWSHOUR"
+  }
+ },
+ {
+  "key": "chapter_fff12e",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "Still Blank"
+  }
+ },
+ {
+  "key": "list_c14ec5",
+  "name": "list",
+  "opts": {
+   "kicker": "THE CODE NAMES",
+   "title": "What the papers got wrong",
+   "items": [
+    {
+     "n": "01",
+     "t": "AZORIAN",
+     "s": "THE RECOVERY PROJECT"
+    },
+    {
+     "n": "02",
+     "t": "JENNIFER",
+     "s": "THE SECURITY SYSTEM \u00b7 USED BY THE PRESS"
+    },
+    {
+     "n": "03",
+     "t": "MATADOR",
+     "s": "THE SECOND MISSION \u00b7 CANCELLED"
+    }
+   ],
+   "source": "SOURCE: CIA, \"PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER\" (STUDIES IN INTELLIGENCE, 1985; RELEASED 2010) \u00b7 MATADOR: D. ROBARGE, \"THE GLOMAR EXPLORER IN FILM AND PRINT,\" STUDIES IN INTELLIGENCE 56:1 (CIA, 2012)"
+  }
+ },
+ {
+  "key": "end_5bf366",
+  "name": "end",
+  "opts": {
+   "n": "007",
+   "next": "144 Reports, 1 Explained"
+  }
+ }
+]

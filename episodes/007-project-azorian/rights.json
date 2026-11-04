@@ -1,0 +1,56 @@
+{
+ "dv1024936.mp4": {
+  "source": "https://www.dvidshub.net/video/1024936",
+  "title": "DVIDS - Video - USS Colorado (SSN 788) arrives at Joint Base Pearl Harbor-Hickam: B-Roll",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_112017587/DOD_112017587.mp4"
+ },
+ "dv751245.mp4": {
+  "source": "https://www.dvidshub.net/video/751245",
+  "title": "DVIDS - Video - USS Oklahoma City Underway",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2005/DOD_107802422/DOD_107802422-1024x576-1769k.mp4"
+ },
+ "dv921148.mp4": {
+  "source": "https://www.dvidshub.net/video/921148",
+  "title": "DVIDS - Video - Salvors prepare a heavy lift sheerleg crane ship during the Key Bridge Response 2024",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2404/DOD_110266908/DOD_110266908.mp4"
+ },
+ "dv319240.mp4": {
+  "source": "https://www.dvidshub.net/video/319240",
+  "title": "DVIDS - Video - CGC Eagle sails through fog",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1401/DOD_101071426/DOD_101071426-720x406-800k.mp4"
+ },
+ "dv1027407.mp4": {
+  "source": "https://www.dvidshub.net/video/1027407",
+  "title": "DVIDS - Video - USS Boxer Sailors Stand Bridge Watch",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095337/DOD_112095337.mp4"
+ },
+ "dv346124.mp4": {
+  "source": "https://www.dvidshub.net/video/346124",
+  "title": "DVIDS - Video - B-Roll Footage Around Washington, D.C., White House",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101769002/DOD_101769002-720x406-800k.mp4"
+ },
+ "dv346026.mp4": {
+  "source": "https://www.dvidshub.net/video/346026",
+  "title": "DVIDS - Video - Capitol Building in Washington, D.C., B-Roll",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101768679/DOD_101768679-720x406-800k.mp4"
+ },
+ "noaa_boulder.mp4": {
+  "source": "https://archive.org/details/noaa-oe-video-okeanos-explorations-seascape-alaska-ex2304-gallery-media-dive05-boulder-questions",
+  "license": "PUBLIC DOMAIN (NOAA Ocean Exploration, U.S. Government work)"
+ },
+ "noaa_dive01.mp4": {
+  "source": "https://archive.org/details/noaa-oe-video-okeanos-explorations-ex2104-dives-dive01-media-dive01",
+  "license": "PUBLIC DOMAIN (NOAA Ocean Exploration, U.S. Government work)"
+ },
+ "noaa_rov.mp4": {
+  "source": "https://archive.org/details/noaa-oe-video-explorations-24pr-usvi-biotech-features-perfect-dive-media-rov-deployment",
+  "license": "PUBLIC DOMAIN (NOAA Ocean Exploration, U.S. Government work)"
+ }
+}

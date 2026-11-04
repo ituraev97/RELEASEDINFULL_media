@@ -136,7 +136,7 @@ const B = {
   map: (o) => {
     const world = JSON.parse(fs.readFileSync(`${NM}/world-atlas/countries-50m.json`));
     const feats = topo.feature(world, world.objects.countries).features;
-    const proj = d3.geoMercator().fitExtent([[120, 230], [W - 120, H - 140]], { type: "MultiPoint", coordinates: o.bounds });
+    const proj = d3.geoMercator().rotate(o.rotate || [0, 0, 0]).fitExtent([[120, 230], [W - 120, H - 140]], { type: "MultiPoint", coordinates: o.bounds });
     const g = d3.geoPath(proj);
     let s = `<svg width="${W}" height="${H}" style="position:absolute;inset:0"><defs><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
       <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M60 0H0V60" fill="none" stroke="#1f2a33" stroke-width="1"/></pattern></defs>

@@ -1,0 +1,10 @@
+{
+ "stats": {
+  "holds": 21,
+  "hold_frames": 4096,
+  "footage": 51,
+  "stutter": 0,
+  "inner_cuts": 0
+ },
+ "fails": []
+}
