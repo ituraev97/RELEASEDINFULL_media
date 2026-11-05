@@ -1,0 +1,1215 @@
+1
+00:00:00,600 --> 00:00:03,474
+On June 25, 2021, Congress got a report it
+
+2
+00:00:03,494 --> 00:00:05,473
+had asked for a year earlier.
+
+3
+00:00:06,043 --> 00:00:07,561
+The subject was UAP.
+
+4
+00:00:07,901 --> 00:00:09,804
+Unidentified aerial phenomena.
+
+5
+00:00:10,144 --> 00:00:12,216
+Things in the sky that military crews
+
+6
+00:00:12,236 --> 00:00:14,025
+reported, and nobody could name.
+
+7
+00:00:14,595 --> 00:00:18,149
+U.S. intelligence had gathered 144
+
+8
+00:00:18,169 --> 00:00:20,988
+reports, from 2004 to 2021.
+
+9
+00:00:21,558 --> 00:00:23,071
+How many could it explain?
+
+10
+00:00:23,653 --> 00:00:24,174
+One.
+
+11
+00:00:24,744 --> 00:00:26,655
+And that one, the report says, was a
+
+12
+00:00:26,675 --> 00:00:27,996
+large, deflating balloon.
+
+13
+00:00:28,566 --> 00:00:30,589
+The others, in the report's own words,
+
+14
+00:00:30,609 --> 00:00:31,610
+remain unexplained.
+
+15
+00:00:32,080 --> 00:00:34,656
+This is U.S. intelligence's first public
+
+16
+00:00:34,676 --> 00:00:35,630
+UAP assessment.
+
+17
+00:00:35,970 --> 00:00:36,939
+Nine pages.
+
+18
+00:00:37,279 --> 00:00:38,323
+Unclassified.
+
+19
+00:00:38,893 --> 00:00:40,166
+Let's open the file.
+
+20
+00:00:46,493 --> 00:00:48,502
+It started with a request from the Senate.
+
+21
+00:00:49,122 --> 00:00:51,372
+In June 2020, the Senate Intelligence
+
+22
+00:00:51,392 --> 00:00:53,764
+Committee wrote that it supported a UAP
+
+23
+00:00:53,784 --> 00:00:55,789
+task force at the Office of Naval
+
+24
+00:00:55,809 --> 00:00:56,587
+Intelligence.
+
+25
+00:00:57,057 --> 00:00:58,170
+But it was concerned.
+
+26
+00:00:58,510 --> 00:01:00,226
+There was, it said, no unified,
+
+27
+00:01:00,246 --> 00:01:02,467
+comprehensive process within the Federal
+
+28
+00:01:02,487 --> 00:01:04,651
+Government for collecting and analyzing
+
+29
+00:01:04,671 --> 00:01:06,108
+this kind of intelligence.
+
+30
+00:01:06,678 --> 00:01:08,796
+So the committee directed the Director of
+
+31
+00:01:08,816 --> 00:01:10,829
+National Intelligence, working with the
+
+32
+00:01:10,849 --> 00:01:12,550
+Secretary of Defense, to write an
+
+33
+00:01:12,570 --> 00:01:13,124
+assessment.
+
+34
+00:01:13,594 --> 00:01:15,744
+It was to be unclassified, though it could
+
+35
+00:01:15,764 --> 00:01:17,139
+include a classified annex.
+
+36
+00:01:17,709 --> 00:01:19,633
+The Senate's list ran to eight items.
+
+37
+00:01:20,103 --> 00:01:22,574
+Among them: FBI data on UAP intrusions
+
+38
+00:01:22,594 --> 00:01:25,066
+over restricted U.S. airspace, and any
+
+39
+00:01:25,086 --> 00:01:27,360
+sign that a potential adversary had
+
+40
+00:01:27,380 --> 00:01:29,393
+achieved breakthrough aerospace
+
+41
+00:01:29,413 --> 00:01:30,245
+capabilities.
+
+42
+00:01:30,815 --> 00:01:33,378
+In August 2020, the Pentagon set up the
+
+43
+00:01:33,398 --> 00:01:36,094
+Unidentified Aerial Phenomena Task Force,
+
+44
+00:01:36,114 --> 00:01:37,816
+with the Navy in the lead.
+
+45
+00:01:38,286 --> 00:01:40,539
+Its job, the Navy announced, was to
+
+46
+00:01:40,559 --> 00:01:43,266
+detect, analyze and catalog UAP that could
+
+47
+00:01:43,286 --> 00:01:45,863
+pose a threat to U.S. national security.
+
+48
+00:01:46,433 --> 00:01:48,620
+The task force and the intelligence
+
+49
+00:01:48,640 --> 00:01:51,205
+community's National Intelligence Manager
+
+50
+00:01:51,225 --> 00:01:53,726
+for Aviation drafted it, with input from
+
+51
+00:01:53,746 --> 00:01:56,185
+more than a dozen agencies and offices,
+
+52
+00:01:56,205 --> 00:01:58,644
+from the FBI and the NSA to the FAA and
+
+53
+00:01:58,664 --> 00:01:58,959
+NOAA.
+
+54
+00:01:59,529 --> 00:02:02,567
+The report was dated June 25, 2021.
+
+55
+00:02:03,037 --> 00:02:05,445
+That same day, Deputy Secretary of Defense
+
+56
+00:02:05,465 --> 00:02:07,700
+Kathleen Hicks directed the Pentagon to
+
+57
+00:02:07,720 --> 00:02:09,781
+develop a plan to formalize the task
+
+58
+00:02:09,801 --> 00:02:10,705
+force's mission.
+
+59
+00:02:11,625 --> 00:02:13,309
+So what was actually in the file?
+
+60
+00:02:13,929 --> 00:02:16,250
+The report admits the problem on its first
+
+61
+00:02:16,270 --> 00:02:17,197
+page of findings.
+
+62
+00:02:17,667 --> 00:02:19,771
+The limited amount of high-quality
+
+63
+00:02:19,791 --> 00:02:22,395
+reporting, it says, hampers our ability to
+
+64
+00:02:22,415 --> 00:02:24,956
+draw firm conclusions about the nature or
+
+65
+00:02:24,976 --> 00:02:25,830
+intent of UAP.
+
+66
+00:02:26,400 --> 00:02:28,494
+Its definition of UAP was broad.
+
+67
+00:02:28,834 --> 00:02:30,772
+Airborne objects, not immediately
+
+68
+00:02:30,792 --> 00:02:31,542
+identifiable.
+
+69
+00:02:32,112 --> 00:02:34,036
+For years, there was no system at all.
+
+70
+00:02:34,506 --> 00:02:36,824
+No standardized reporting mechanism
+
+71
+00:02:36,844 --> 00:02:38,960
+existed, it says, until the Navy
+
+72
+00:02:38,980 --> 00:02:40,963
+established one in March 2019.
+
+73
+00:02:41,303 --> 00:02:44,160
+The Air Force adopted it in November 2020.
+
+74
+00:02:44,730 --> 00:02:46,402
+The task force regularly heard,
+
+75
+00:02:46,422 --> 00:02:48,312
+anecdotally, about other sightings.
+
+76
+00:02:48,652 --> 00:02:50,659
+Ones that were never captured in any
+
+77
+00:02:50,679 --> 00:02:52,123
+formal or informal report.
+
+78
+00:02:52,693 --> 00:02:55,007
+The task force focused on reports from
+
+79
+00:02:55,027 --> 00:02:56,973
+military aviators who saw things
+
+80
+00:02:56,993 --> 00:02:59,185
+firsthand, collected from systems it
+
+81
+00:02:59,205 --> 00:03:00,414
+considered reliable.
+
+82
+00:03:00,884 --> 00:03:03,935
+The incidents ran from November 2004 to
+
+83
+00:03:03,955 --> 00:03:04,802
+March 2021.
+
+84
+00:03:05,142 --> 00:03:06,890
+Most came in the last two years.
+
+85
+00:03:07,460 --> 00:03:09,517
+144 reports.
+
+86
+00:03:09,857 --> 00:03:11,909
+Most of the data, the report notes, came
+
+87
+00:03:11,929 --> 00:03:12,634
+from the Navy.
+
+88
+00:03:12,974 --> 00:03:15,205
+80 of them involved observation with
+
+89
+00:03:15,225 --> 00:03:16,268
+multiple sensors.
+
+90
+00:03:16,838 --> 00:03:19,204
+Radar, infrared, electro-optical, weapon
+
+91
+00:03:19,224 --> 00:03:20,815
+seekers, and the human eye.
+
+92
+00:03:21,285 --> 00:03:23,816
+That is why, the report concludes, most of
+
+93
+00:03:23,836 --> 00:03:26,003
+these probably do represent physical
+
+94
+00:03:26,023 --> 00:03:26,489
+objects.
+
+95
+00:03:27,059 --> 00:03:29,304
+And most reports, it says, described them
+
+96
+00:03:29,324 --> 00:03:31,458
+as objects that interrupted pre-planned
+
+97
+00:03:31,478 --> 00:03:33,447
+training or other military activity.
+
+98
+00:03:33,917 --> 00:03:35,952
+Navy aviators have a name for that.
+
+99
+00:03:36,292 --> 00:03:37,389
+A range fouler.
+
+100
+00:03:38,309 --> 00:03:40,025
+And then there was the one they solved.
+
+101
+00:03:40,645 --> 00:03:43,702
+Out of 144 reports, the task force could
+
+102
+00:03:43,722 --> 00:03:46,702
+identify just one with high confidence.
+
+103
+00:03:47,284 --> 00:03:48,989
+A large, deflating balloon.
+
+104
+00:03:49,559 --> 00:03:51,966
+The public report gives no date, no place,
+
+105
+00:03:51,986 --> 00:03:52,832
+and no picture.
+
+106
+00:03:53,172 --> 00:03:55,106
+It does not say whose balloon it was.
+
+107
+00:03:55,446 --> 00:03:56,543
+Just those words.
+
+108
+00:03:57,114 --> 00:03:59,390
+For everything else, it set out five bins.
+
+109
+00:03:59,730 --> 00:04:01,912
+If and when these incidents are resolved,
+
+110
+00:04:01,932 --> 00:04:04,060
+it says, they will fall into one of five
+
+111
+00:04:04,080 --> 00:04:04,651
+categories.
+
+112
+00:04:05,220 --> 00:04:06,194
+Airborne clutter.
+
+113
+00:04:06,534 --> 00:04:09,229
+Birds, balloons, recreational drones, even
+
+114
+00:04:09,249 --> 00:04:10,069
+plastic bags.
+
+115
+00:04:10,539 --> 00:04:12,468
+Natural atmospheric phenomena.
+
+116
+00:04:12,808 --> 00:04:14,954
+Ice crystals, moisture, and thermal
+
+117
+00:04:14,974 --> 00:04:17,553
+fluctuations that can register on infrared
+
+118
+00:04:17,573 --> 00:04:18,171
+and radar.
+
+119
+00:04:18,742 --> 00:04:20,362
+Secret American programs?
+
+120
+00:04:20,882 --> 00:04:22,363
+Possible, the report says.
+
+121
+00:04:22,833 --> 00:04:24,916
+But it was unable to confirm that any of
+
+122
+00:04:24,936 --> 00:04:27,020
+them accounted for any of the reports it
+
+123
+00:04:27,040 --> 00:04:27,546
+collected.
+
+124
+00:04:28,115 --> 00:04:30,223
+Foreign systems, from China, Russia,
+
+125
+00:04:30,243 --> 00:04:32,410
+another nation, or a non-governmental
+
+126
+00:04:32,430 --> 00:04:32,823
+entity.
+
+127
+00:04:33,293 --> 00:04:35,179
+And a fifth bin, simply called other.
+
+128
+00:04:35,519 --> 00:04:37,687
+For objects that might require, in its
+
+129
+00:04:37,707 --> 00:04:40,047
+words, additional scientific knowledge to
+
+130
+00:04:40,067 --> 00:04:40,680
+understand.
+
+131
+00:04:41,250 --> 00:04:42,576
+Other is not an answer.
+
+132
+00:04:42,916 --> 00:04:45,318
+It is a place to keep a question, pending
+
+133
+00:04:45,338 --> 00:04:46,499
+scientific advances.
+
+134
+00:04:47,419 --> 00:04:49,014
+Then came the part that made the
+
+135
+00:04:49,034 --> 00:04:49,519
+headlines.
+
+136
+00:04:50,139 --> 00:04:52,840
+In 18 incidents, described in 21 reports,
+
+137
+00:04:52,860 --> 00:04:55,163
+observers reported unusual movement
+
+138
+00:04:55,183 --> 00:04:57,487
+patterns or flight characteristics.
+
+139
+00:04:58,056 --> 00:05:00,080
+Some appeared to stay still in winds
+
+140
+00:05:00,100 --> 00:05:02,238
+aloft, move against the wind, maneuver
+
+141
+00:05:02,258 --> 00:05:04,509
+abruptly, or move at considerable speed,
+
+142
+00:05:04,529 --> 00:05:06,780
+without discernable means of propulsion.
+
+143
+00:05:07,350 --> 00:05:09,516
+In a small number of cases, military
+
+144
+00:05:09,536 --> 00:05:12,067
+aircraft systems processed radio frequency
+
+145
+00:05:12,087 --> 00:05:14,314
+energy associated with the sightings.
+
+146
+00:05:14,884 --> 00:05:17,246
+And the task force held, in its words, a
+
+147
+00:05:17,266 --> 00:05:19,628
+small amount of data that appear to show
+
+148
+00:05:19,648 --> 00:05:21,772
+UAP demonstrating acceleration, or a
+
+149
+00:05:21,792 --> 00:05:23,618
+degree of signature management.
+
+150
+00:05:24,188 --> 00:05:26,659
+Additional rigorous analysis, it says, is
+
+151
+00:05:26,679 --> 00:05:28,906
+needed by multiple teams of technical
+
+152
+00:05:28,926 --> 00:05:29,392
+experts.
+
+153
+00:05:29,862 --> 00:05:32,001
+We are conducting further analysis, the
+
+154
+00:05:32,021 --> 00:05:34,272
+report adds, to determine if breakthrough
+
+155
+00:05:34,292 --> 00:05:35,988
+technologies were demonstrated.
+
+156
+00:05:36,558 --> 00:05:38,785
+But the same report hedges, on its first
+
+157
+00:05:38,805 --> 00:05:39,740
+page of findings.
+
+158
+00:05:40,210 --> 00:05:42,581
+These observations, it says, could be the
+
+159
+00:05:42,601 --> 00:05:44,738
+result of sensor errors, spoofing, or
+
+160
+00:05:44,758 --> 00:05:46,779
+observer misperception, and require
+
+161
+00:05:46,799 --> 00:05:48,470
+additional rigorous analysis.
+
+162
+00:05:49,040 --> 00:05:50,711
+There was also a pattern in where they
+
+163
+00:05:50,731 --> 00:05:51,156
+showed up.
+
+164
+00:05:51,496 --> 00:05:53,774
+UAP sightings tended to cluster around
+
+165
+00:05:53,794 --> 00:05:55,830
+U.S. training and testing grounds.
+
+166
+00:05:56,400 --> 00:05:58,340
+But the report warns that this may be
+
+167
+00:05:58,360 --> 00:05:59,188
+collection bias.
+
+168
+00:05:59,658 --> 00:06:01,592
+That is where the newest sensors are,
+
+169
+00:06:01,612 --> 00:06:03,546
+where crews are paying attention, and
+
+170
+00:06:03,566 --> 00:06:05,395
+where they have been told to report
+
+171
+00:06:05,415 --> 00:06:05,923
+anomalies.
+
+172
+00:06:06,843 --> 00:06:08,907
+For the military, the most immediate worry
+
+173
+00:06:08,927 --> 00:06:09,503
+was simpler.
+
+174
+00:06:10,122 --> 00:06:12,313
+UAP, the report says, clearly pose a
+
+175
+00:06:12,333 --> 00:06:14,646
+safety of flight issue, and may pose a
+
+176
+00:06:14,666 --> 00:06:16,856
+challenge to U.S. national security.
+
+177
+00:06:17,427 --> 00:06:19,644
+The safety concern, it says, centers on
+
+178
+00:06:19,664 --> 00:06:21,938
+aviators contending with an increasingly
+
+179
+00:06:21,958 --> 00:06:23,143
+cluttered air domain.
+
+180
+00:06:23,712 --> 00:06:25,825
+The task force had 11 reports of
+
+181
+00:06:25,845 --> 00:06:28,224
+documented instances in which pilots
+
+182
+00:06:28,244 --> 00:06:30,356
+reported near misses with a UAP.
+
+183
+00:06:30,926 --> 00:06:33,154
+When hazards appear on a range, pilots may
+
+184
+00:06:33,174 --> 00:06:34,706
+stop their training and land.
+
+185
+00:06:35,176 --> 00:06:36,827
+And that, the report notes, has a
+
+186
+00:06:36,847 --> 00:06:38,347
+deterrent effect on reporting.
+
+187
+00:06:38,917 --> 00:06:40,784
+There was another reason people stayed
+
+188
+00:06:40,804 --> 00:06:41,081
+quiet.
+
+189
+00:06:41,551 --> 00:06:43,422
+Aviators and analysts described
+
+190
+00:06:43,442 --> 00:06:45,983
+disparagement for observing UAP, reporting
+
+191
+00:06:46,003 --> 00:06:48,239
+it, or even trying to discuss it with
+
+192
+00:06:48,259 --> 00:06:48,909
+colleagues.
+
+193
+00:06:49,479 --> 00:06:51,786
+Reputational risk, the report says, may
+
+194
+00:06:51,806 --> 00:06:53,397
+keep many observers silent.
+
+195
+00:06:53,968 --> 00:06:56,140
+And the sensors themselves were built for
+
+196
+00:06:56,160 --> 00:06:56,729
+other jobs.
+
+197
+00:06:57,069 --> 00:06:59,860
+Those on U.S. military platforms, it says,
+
+198
+00:06:59,880 --> 00:07:02,538
+are not generally suited for identifying
+
+199
+00:07:02,558 --> 00:07:02,806
+UAP.
+
+200
+00:07:03,376 --> 00:07:05,375
+Cameras give some sense of size, shape,
+
+201
+00:07:05,395 --> 00:07:06,100
+and structure.
+
+202
+00:07:06,440 --> 00:07:08,523
+Radar gives better speed and range.
+
+203
+00:07:08,993 --> 00:07:11,312
+How many sensors see an object, and from
+
+204
+00:07:11,332 --> 00:07:13,125
+where, the report says, plays a
+
+205
+00:07:13,145 --> 00:07:15,581
+substantial role in telling UAP apart from
+
+206
+00:07:15,601 --> 00:07:16,400
+known objects.
+
+207
+00:07:16,969 --> 00:07:18,930
+Was any of it a foreign spy program?
+
+208
+00:07:19,450 --> 00:07:21,461
+The report said it currently lacked data
+
+209
+00:07:21,481 --> 00:07:22,323
+to indicate that.
+
+210
+00:07:22,793 --> 00:07:25,011
+But it would keep watching, because some
+
+211
+00:07:25,031 --> 00:07:26,969
+UAP had been detected near military
+
+212
+00:07:26,989 --> 00:07:29,151
+facilities, or by aircraft carrying the
+
+213
+00:07:29,171 --> 00:07:31,501
+government's most advanced sensor systems.
+
+214
+00:07:32,071 --> 00:07:34,016
+Its prescription was not dramatic.
+
+215
+00:07:34,356 --> 00:07:35,832
+Standardize the reporting.
+
+216
+00:07:36,172 --> 00:07:37,615
+Consolidate the data.
+
+217
+00:07:38,085 --> 00:07:40,246
+Then use machine learning to check new
+
+218
+00:07:40,266 --> 00:07:42,254
+reports against known objects, like
+
+219
+00:07:42,274 --> 00:07:44,607
+weather balloons, high-altitude balloons,
+
+220
+00:07:44,627 --> 00:07:45,353
+and wildlife.
+
+221
+00:07:45,923 --> 00:07:48,249
+The Air Force had started a six-month
+
+222
+00:07:48,269 --> 00:07:50,215
+pilot program in November 2020.
+
+223
+00:07:50,555 --> 00:07:52,677
+And the task force had begun receiving
+
+224
+00:07:52,697 --> 00:07:54,368
+data from the Federal Aviation
+
+225
+00:07:54,388 --> 00:07:55,214
+Administration.
+
+226
+00:07:56,134 --> 00:07:57,834
+The report asked for more data.
+
+227
+00:07:58,174 --> 00:07:58,935
+It got it.
+
+228
+00:07:59,555 --> 00:08:02,399
+In July 2022, the task force was replaced
+
+229
+00:08:02,419 --> 00:08:04,145
+by a new Pentagon office.
+
+230
+00:08:04,485 --> 00:08:06,900
+The All-domain Anomaly Resolution Office.
+
+231
+00:08:07,240 --> 00:08:08,145
+AARO.
+
+232
+00:08:08,615 --> 00:08:11,104
+Congress had required it in the defense
+
+233
+00:08:11,124 --> 00:08:13,677
+bill for fiscal year 2022, to coordinate
+
+234
+00:08:13,697 --> 00:08:15,993
+UAP work across the Pentagon and the
+
+235
+00:08:16,013 --> 00:08:17,472
+intelligence community.
+
+236
+00:08:18,042 --> 00:08:21,747
+In January 2023, the next annual report
+
+237
+00:08:21,767 --> 00:08:24,040
+counted 510 UAP reports.
+
+238
+00:08:24,380 --> 00:08:26,560
+More than three times the original number.
+
+239
+00:08:27,030 --> 00:08:29,012
+247 were new.
+
+240
+00:08:29,352 --> 00:08:32,629
+119 more were older cases, discovered or
+
+241
+00:08:32,649 --> 00:08:33,783
+reported late.
+
+242
+00:08:34,352 --> 00:08:36,385
+Part of the rise, the new report said,
+
+243
+00:08:36,405 --> 00:08:38,654
+came from reduced stigma around reporting.
+
+244
+00:08:39,124 --> 00:08:41,505
+And there had been no reported collisions
+
+245
+00:08:41,525 --> 00:08:43,261
+between U.S. aircraft and UAP.
+
+246
+00:08:43,832 --> 00:08:45,718
+This time, many had a likely answer.
+
+247
+00:08:46,058 --> 00:08:48,985
+163 were characterized as balloons, or
+
+248
+00:08:49,005 --> 00:08:49,993
+balloon-like.
+
+249
+00:08:50,333 --> 00:08:52,400
+26 as drones, or drone-like.
+
+250
+00:08:52,740 --> 00:08:53,800
+6 as clutter.
+
+251
+00:08:54,270 --> 00:08:57,223
+171 were still uncharacterized.
+
+252
+00:08:57,793 --> 00:08:59,269
+The report added a warning.
+
+253
+00:08:59,609 --> 00:09:01,863
+Initial characterization, it says, does
+
+254
+00:09:01,883 --> 00:09:03,554
+not mean positively resolved.
+
+255
+00:09:04,123 --> 00:09:06,741
+Weeks later, on February 4, 2023, U.S.
+
+256
+00:09:06,761 --> 00:09:09,448
+fighter aircraft brought down a Chinese
+
+257
+00:09:09,468 --> 00:09:12,155
+high-altitude surveillance balloon over
+
+258
+00:09:12,175 --> 00:09:14,516
+U.S. territorial waters, off South
+
+259
+00:09:14,536 --> 00:09:15,140
+Carolina.
+
+260
+00:09:15,710 --> 00:09:17,600
+Navy divers and sailors spent days
+
+261
+00:09:17,620 --> 00:09:19,790
+recovering what was left of it from the
+
+262
+00:09:19,810 --> 00:09:20,295
+Atlantic.
+
+263
+00:09:20,865 --> 00:09:22,989
+The first report's only answer had been a
+
+264
+00:09:23,009 --> 00:09:23,407
+balloon.
+
+265
+00:09:23,877 --> 00:09:25,932
+Now balloons were the largest group of
+
+266
+00:09:25,952 --> 00:09:26,750
+likely answers.
+
+267
+00:09:27,321 --> 00:09:30,191
+In 2026, the Pentagon launched a public
+
+268
+00:09:30,211 --> 00:09:31,821
+website for UAP files.
+
+269
+00:09:32,161 --> 00:09:34,564
+Among them, videos that the Navy's task
+
+270
+00:09:34,584 --> 00:09:37,049
+force had handed to its successor office
+
+271
+00:09:37,069 --> 00:09:37,546
+in 2022.
+
+272
+00:09:38,115 --> 00:09:40,655
+This one was filmed over the Pacific in
+
+273
+00:09:40,675 --> 00:09:40,983
+2019.
+
+274
+00:09:41,453 --> 00:09:42,907
+The release notes are blunt.
+
+275
+00:09:43,247 --> 00:09:45,355
+A hand-held recording of an infrared
+
+276
+00:09:45,375 --> 00:09:45,768
+screen.
+
+277
+00:09:46,108 --> 00:09:47,658
+Not native sensor data.
+
+278
+00:09:47,998 --> 00:09:50,282
+Digitally altered before it was reported,
+
+279
+00:09:50,302 --> 00:09:52,135
+and presented as it was received.
+
+280
+00:09:52,706 --> 00:09:54,992
+Its official title still carries one word.
+
+281
+00:09:55,332 --> 00:09:56,285
+Unresolved.
+
+282
+00:09:57,205 --> 00:09:59,280
+So what does that first report actually
+
+283
+00:09:59,300 --> 00:09:59,710
+tell us?
+
+284
+00:10:00,330 --> 00:10:02,450
+It does not say where these objects came
+
+285
+00:10:02,470 --> 00:10:02,718
+from.
+
+286
+00:10:03,188 --> 00:10:05,044
+It says most were probably physical
+
+287
+00:10:05,064 --> 00:10:07,187
+objects, that there are probably several
+
+288
+00:10:07,207 --> 00:10:09,331
+kinds, and that the data was too thin to
+
+289
+00:10:09,351 --> 00:10:10,349
+say what they were.
+
+290
+00:10:10,919 --> 00:10:12,976
+144 reports.
+
+291
+00:10:13,316 --> 00:10:14,525
+One explanation.
+
+292
+00:10:14,995 --> 00:10:17,134
+And a government admitting, on paper, how
+
+293
+00:10:17,154 --> 00:10:18,241
+much it did not know.
+
+294
+00:10:18,711 --> 00:10:20,870
+Nine pages could not answer the question.
+
+295
+00:10:21,210 --> 00:10:22,669
+But they put it on the record.
+
+296
+00:10:23,239 --> 00:10:25,109
+Every secret has a release date.
+
+297
+00:10:25,529 --> 00:10:27,736
+This one came with a line on page two.
+
+298
+00:10:28,318 --> 00:10:30,425
+Data continues to be collected and
+
+299
+00:10:30,445 --> 00:10:30,988
+analyzed.
+
+300
+00:10:31,809 --> 00:10:33,768
+If there's a government file you want us
+
+301
+00:10:33,788 --> 00:10:35,402
+to open, tell us in the comments.
+
+302
+00:10:35,972 --> 00:10:38,251
+Next time: the night two hydrogen bombs
+
+303
+00:10:38,271 --> 00:10:39,608
+fell on North Carolina.
+
+304
+00:10:39,948 --> 00:10:41,887
+Goldsboro, 1961.

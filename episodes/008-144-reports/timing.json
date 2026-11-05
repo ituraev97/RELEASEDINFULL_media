@@ -1,0 +1,888 @@
+{
+ "starts": [
+  0.6,
+  6.042999999999999,
+  14.594667,
+  21.557667,
+  24.744166999999997,
+  28.565833999999995,
+  38.892500999999996,
+  42.892500999999996,
+  46.492501,
+  49.121500999999995,
+  66.67783399999999,
+  77.709167,
+  90.81516699999999,
+  106.43316699999998,
+  119.52949999999998,
+  131.6255,
+  133.92916699999998,
+  146.40049999999997,
+  152.11249999999995,
+  164.73016699999997,
+  172.69283399999998,
+  187.45983399999997,
+  196.83816699999997,
+  207.05883399999996,
+  218.30916699999997,
+  220.64483399999997,
+  229.55933399999998,
+  237.11366699999996,
+  245.22033399999995,
+  258.74166699999995,
+  268.11533399999996,
+  281.25033399999995,
+  287.419001,
+  290.138668,
+  298.056335,
+  307.350002,
+  314.883669,
+  324.188002,
+  336.558002,
+  349.040002,
+  356.40000200000003,
+  366.842669,
+  370.122336,
+  377.426669,
+  383.712336,
+  390.926003,
+  398.917336,
+  409.479336,
+  413.967669,
+  423.375669,
+  436.969336,
+  452.071003,
+  465.923003,
+  476.134336,
+  479.555003,
+  498.04167,
+  514.352337,
+  523.83167,
+  537.79267,
+  544.123337,
+  555.710337,
+  560.865337,
+  567.32067,
+  578.115337,
+  592.7056699999999,
+  597.2050029999999,
+  600.3300029999999,
+  610.9186699999999,
+  623.2390029999999,
+  631.8085029999999,
+  635.9715029999999
+ ],
+ "durs": [
+  5.443,
+  8.551667,
+  6.963,
+  3.1864999999999997,
+  3.8216669999999997,
+  10.326667,
+  4.0,
+  3.6,
+  2.629,
+  17.556333000000002,
+  11.031333,
+  13.106,
+  15.618,
+  13.096333000000001,
+  12.096,
+  2.303667,
+  12.471333000000001,
+  5.712,
+  12.617667,
+  7.962667,
+  14.767000000000001,
+  9.378333000000001,
+  10.220667,
+  11.250333,
+  2.335667,
+  8.9145,
+  7.554333,
+  8.106667,
+  13.521333,
+  9.373667000000001,
+  13.135000000000002,
+  6.168667,
+  2.7196670000000003,
+  7.917667,
+  9.293667000000001,
+  7.5336669999999994,
+  9.304333000000002,
+  12.370000000000001,
+  12.482000000000001,
+  7.359999999999999,
+  10.442667,
+  3.279667,
+  7.304333,
+  6.285667,
+  7.213667,
+  7.991333,
+  10.562000000000001,
+  4.488333,
+  9.408000000000001,
+  13.593667,
+  15.101667,
+  13.852,
+  10.211333,
+  3.420667,
+  18.486667,
+  16.310667,
+  9.479333,
+  13.961,
+  6.330667,
+  11.587000000000002,
+  5.155,
+  6.4553329999999995,
+  10.794667,
+  14.590333000000001,
+  4.499333,
+  3.125,
+  10.588667000000001,
+  12.320333000000002,
+  8.5695,
+  4.163,
+  8.435333
+ ],
+ "vdur": [
+  4.893,
+  8.001667,
+  6.413,
+  2.6365,
+  3.271667,
+  9.776667,
+  1.293,
+  0.0,
+  2.029,
+  17.006333,
+  10.481333,
+  12.556,
+  15.068,
+  12.546333,
+  11.196,
+  1.703667,
+  11.921333,
+  5.162,
+  12.067667,
+  7.412667,
+  14.217,
+  8.828333,
+  9.670667,
+  10.350333,
+  1.735667,
+  8.3645,
+  7.004333,
+  7.556667,
+  12.971333,
+  8.823667,
+  12.585,
+  5.268667,
+  2.119667,
+  7.367667,
+  8.743667,
+  6.983667,
+  8.754333,
+  11.82,
+  11.932,
+  6.81,
+  9.542667,
+  2.679667,
+  6.754333,
+  5.735667,
+  6.663667,
+  7.441333,
+  10.012,
+  3.938333,
+  8.858,
+  13.043667,
+  14.551667,
+  13.302,
+  9.311333,
+  2.820667,
+  17.936667,
+  15.760667,
+  8.929333,
+  13.411,
+  5.780667,
+  11.037,
+  4.605,
+  5.905333,
+  10.244667,
+  14.040333,
+  3.599333,
+  2.525,
+  10.038667,
+  11.770333,
+  7.7695,
+  3.613,
+  5.935333
+ ],
+ "total": 644.8,
+ "segs": [
+  {
+   "t": 0.0,
+   "d": 6.033333333333333,
+   "src": "dv346026",
+   "ss": 3.0,
+   "line": 0,
+   "lab": "B-ROLL \u00b7 U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 6.033333333333333,
+   "d": 8.566666666666666,
+   "src": "dv1017805",
+   "ss": 3.0,
+   "line": 1,
+   "lab": "OFFICIAL UAP VIDEO \u00b7 DOW-UAP-PR123, \"UNRESOLVED UAP REPORT, PACIFIC OCEAN, 2019\" \u00b7 NAVY UAP TASK FORCE FILE, RELEASED 2026"
+  },
+  {
+   "t": 14.6,
+   "d": 6.966666666666667,
+   "src": "img:pa_one",
+   "ss": 0,
+   "line": 2,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 21.566666666666666,
+   "d": 3.1666666666666665,
+   "src": "img:pa_one",
+   "ss": 0,
+   "line": 3,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 24.733333333333334,
+   "d": 3.8333333333333335,
+   "src": "dv867753",
+   "ss": 42.5,
+   "line": 4,
+   "lab": "B-ROLL \u00b7 U.S. MARINES LAUNCH A WEATHER BALLOON, CAMP PENDLETON, CALIFORNIA, 2022 \u00b7 NOT THE BALLOON IN THE REPORT"
+  },
+  {
+   "t": 28.566666666666666,
+   "d": 10.333333333333334,
+   "src": "img:pa_cover",
+   "ss": 0,
+   "line": 5,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 38.9,
+   "d": 4.0,
+   "src": "g:intro",
+   "ss": 0,
+   "line": 6,
+   "lab": ""
+  },
+  {
+   "t": 42.9,
+   "d": 3.6,
+   "src": "g:title",
+   "ss": 0,
+   "line": 7,
+   "lab": ""
+  },
+  {
+   "t": 46.5,
+   "d": 2.6333333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 8,
+   "lab": ""
+  },
+  {
+   "t": 49.13333333333333,
+   "d": 8.766666666666667,
+   "src": "dv346026",
+   "ss": 12.0,
+   "line": 9,
+   "lab": "B-ROLL \u00b7 U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 57.9,
+   "d": 8.766666666666667,
+   "src": "dv346124",
+   "ss": 10.0,
+   "line": 9,
+   "lab": "B-ROLL \u00b7 THE WHITE HOUSE, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 66.66666666666667,
+   "d": 11.033333333333333,
+   "src": "img:pa_scope",
+   "ss": 0,
+   "line": 10,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 77.7,
+   "d": 13.1,
+   "src": "dv346124",
+   "ss": 30.0,
+   "line": 11,
+   "lab": "B-ROLL \u00b7 THE WHITE HOUSE, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 90.8,
+   "d": 7.833333333333333,
+   "src": "dv1001705",
+   "ss": 4.0,
+   "line": 12,
+   "lab": "B-ROLL \u00b7 FLIGHT OPERATIONS ABOARD THE USS NIMITZ, PACIFIC OCEAN, 2026"
+  },
+  {
+   "t": 98.63333333333334,
+   "d": 7.8,
+   "src": "dv1001705",
+   "ss": 31.0,
+   "line": 12,
+   "lab": "B-ROLL \u00b7 FLIGHT OPERATIONS ABOARD THE USS NIMITZ, PACIFIC OCEAN, 2026"
+  },
+  {
+   "t": 106.43333333333334,
+   "d": 13.1,
+   "src": "dv1026930",
+   "ss": 9.0,
+   "line": 13,
+   "lab": "B-ROLL \u00b7 FROM THE COCKPIT OF A U.S. AIR FORCE F-22 OVER WASHINGTON, D.C., 2026"
+  },
+  {
+   "t": 119.53333333333333,
+   "d": 6.033333333333333,
+   "src": "dv1026930",
+   "ss": 24.0,
+   "line": 14,
+   "lab": "B-ROLL \u00b7 FROM THE COCKPIT OF A U.S. AIR FORCE F-22 OVER WASHINGTON, D.C., 2026"
+  },
+  {
+   "t": 125.56666666666666,
+   "d": 6.066666666666666,
+   "src": "dv346026",
+   "ss": 20.0,
+   "line": 14,
+   "lab": "B-ROLL \u00b7 U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 131.63333333333333,
+   "d": 2.3,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 15,
+   "lab": ""
+  },
+  {
+   "t": 133.93333333333334,
+   "d": 12.466666666666667,
+   "src": "img:pa_exec",
+   "ss": 0,
+   "line": 16,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 146.4,
+   "d": 5.7,
+   "src": "dv1000301",
+   "ss": 10.0,
+   "line": 17,
+   "lab": "B-ROLL \u00b7 FLIGHT OPERATIONS ABOARD THE USS NIMITZ, PACIFIC OCEAN, 2026"
+  },
+  {
+   "t": 152.1,
+   "d": 12.633333333333333,
+   "src": "img:pa_navy",
+   "ss": 0,
+   "line": 18,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 164.73333333333332,
+   "d": 7.966666666666667,
+   "src": "img:pa_navy",
+   "ss": 0,
+   "line": 19,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 172.7,
+   "d": 7.366666666666666,
+   "src": "dv1015995",
+   "ss": 63.0,
+   "line": 20,
+   "lab": "B-ROLL \u00b7 U.S. NAVY F/A-18F SUPER HORNETS, KANEOHE BAY, HAWAII, 2026"
+  },
+  {
+   "t": 180.06666666666666,
+   "d": 7.4,
+   "src": "dv1015995",
+   "ss": 84.0,
+   "line": 20,
+   "lab": "B-ROLL \u00b7 U.S. NAVY F/A-18F SUPER HORNETS, KANEOHE BAY, HAWAII, 2026"
+  },
+  {
+   "t": 187.46666666666667,
+   "d": 9.366666666666667,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 21,
+   "lab": ""
+  },
+  {
+   "t": 196.83333333333334,
+   "d": 10.233333333333333,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 22,
+   "lab": ""
+  },
+  {
+   "t": 207.06666666666666,
+   "d": 11.233333333333333,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 23,
+   "lab": ""
+  },
+  {
+   "t": 218.3,
+   "d": 2.3333333333333335,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 24,
+   "lab": ""
+  },
+  {
+   "t": 220.63333333333333,
+   "d": 8.933333333333334,
+   "src": "dv1023102",
+   "ss": 44.0,
+   "line": 25,
+   "lab": "B-ROLL \u00b7 U.S. ARMY HIGH-ALTITUDE BALLOON LAUNCH, YAKIMA TRAINING CENTER, WASHINGTON, 2025 \u00b7 NOT THE BALLOON IN THE REPORT"
+  },
+  {
+   "t": 229.56666666666666,
+   "d": 7.533333333333333,
+   "src": "img:pa_one",
+   "ss": 0,
+   "line": 26,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 237.1,
+   "d": 8.133333333333333,
+   "src": "g:list",
+   "ss": 0,
+   "line": 27,
+   "lab": ""
+  },
+  {
+   "t": 245.23333333333332,
+   "d": 13.5,
+   "src": "img:pa_bins",
+   "ss": 0,
+   "line": 28,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 258.73333333333335,
+   "d": 9.366666666666667,
+   "src": "img:pa_bins",
+   "ss": 0,
+   "line": 29,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 268.1,
+   "d": 6.566666666666666,
+   "src": "dv1007494",
+   "ss": 93.2,
+   "line": 30,
+   "lab": "B-ROLL \u00b7 U.S. NAVY E-2D HAWKEYE RADAR AIRCRAFT, TYNDALL AIR FORCE BASE, FLORIDA, 2026"
+  },
+  {
+   "t": 274.6666666666667,
+   "d": 6.6,
+   "src": "dv1021582",
+   "ss": 29.2,
+   "line": 30,
+   "lab": "B-ROLL \u00b7 F/A-18 SUPER HORNETS ABOARD THE USS GEORGE WASHINGTON, 2026"
+  },
+  {
+   "t": 281.26666666666665,
+   "d": 6.166666666666667,
+   "src": "dv1007494",
+   "ss": 43.0,
+   "line": 31,
+   "lab": "B-ROLL \u00b7 U.S. NAVY E-2D HAWKEYE RADAR AIRCRAFT, TYNDALL AIR FORCE BASE, FLORIDA, 2026"
+  },
+  {
+   "t": 287.43333333333334,
+   "d": 2.7,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 32,
+   "lab": ""
+  },
+  {
+   "t": 290.1333333333333,
+   "d": 7.933333333333334,
+   "src": "img:pa_18",
+   "ss": 0,
+   "line": 33,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 298.06666666666666,
+   "d": 9.3,
+   "src": "img:pa_18",
+   "ss": 0,
+   "line": 34,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 307.3666666666667,
+   "d": 3.7666666666666666,
+   "src": "dv1021582",
+   "ss": 2.0,
+   "line": 35,
+   "lab": "B-ROLL \u00b7 F/A-18 SUPER HORNETS ABOARD THE USS GEORGE WASHINGTON, 2026"
+  },
+  {
+   "t": 311.1333333333333,
+   "d": 3.7666666666666666,
+   "src": "dv1021582",
+   "ss": 30.0,
+   "line": 35,
+   "lab": "B-ROLL \u00b7 F/A-18 SUPER HORNETS ABOARD THE USS GEORGE WASHINGTON, 2026"
+  },
+  {
+   "t": 314.9,
+   "d": 9.3,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 36,
+   "lab": ""
+  },
+  {
+   "t": 324.2,
+   "d": 12.366666666666667,
+   "src": "img:pa_sig",
+   "ss": 0,
+   "line": 37,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 336.56666666666666,
+   "d": 12.466666666666667,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 38,
+   "lab": ""
+  },
+  {
+   "t": 349.03333333333336,
+   "d": 7.366666666666666,
+   "src": "img:pa_cluster",
+   "ss": 0,
+   "line": 39,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 356.4,
+   "d": 5.233333333333333,
+   "src": "dv1001705",
+   "ss": 40.0,
+   "line": 40,
+   "lab": "B-ROLL \u00b7 FLIGHT OPERATIONS ABOARD THE USS NIMITZ, PACIFIC OCEAN, 2026"
+  },
+  {
+   "t": 361.6333333333333,
+   "d": 5.2,
+   "src": "dv1000301",
+   "ss": 33.0,
+   "line": 40,
+   "lab": "B-ROLL \u00b7 FLIGHT OPERATIONS ABOARD THE USS NIMITZ, PACIFIC OCEAN, 2026"
+  },
+  {
+   "t": 366.8333333333333,
+   "d": 3.3,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 41,
+   "lab": ""
+  },
+  {
+   "t": 370.1333333333333,
+   "d": 7.3,
+   "src": "img:pa_safety",
+   "ss": 0,
+   "line": 42,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 377.43333333333334,
+   "d": 6.266666666666667,
+   "src": "dv1021582",
+   "ss": 40.7,
+   "line": 43,
+   "lab": "B-ROLL \u00b7 F/A-18 SUPER HORNETS ABOARD THE USS GEORGE WASHINGTON, 2026"
+  },
+  {
+   "t": 383.7,
+   "d": 7.233333333333333,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 44,
+   "lab": ""
+  },
+  {
+   "t": 390.93333333333334,
+   "d": 8.0,
+   "src": "img:pa_near",
+   "ss": 0,
+   "line": 45,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 398.93333333333334,
+   "d": 10.533333333333333,
+   "src": "img:pa_stigma",
+   "ss": 0,
+   "line": 46,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 409.46666666666664,
+   "d": 4.5,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 47,
+   "lab": ""
+  },
+  {
+   "t": 413.96666666666664,
+   "d": 4.7,
+   "src": "dv1000301",
+   "ss": 50.0,
+   "line": 48,
+   "lab": "B-ROLL \u00b7 FLIGHT OPERATIONS ABOARD THE USS NIMITZ, PACIFIC OCEAN, 2026"
+  },
+  {
+   "t": 418.6666666666667,
+   "d": 4.7,
+   "src": "dv1021582",
+   "ss": 55.0,
+   "line": 48,
+   "lab": "B-ROLL \u00b7 F/A-18 SUPER HORNETS ABOARD THE USS GEORGE WASHINGTON, 2026"
+  },
+  {
+   "t": 423.3666666666667,
+   "d": 13.6,
+   "src": "dv1015995",
+   "ss": 100.8,
+   "line": 49,
+   "lab": "B-ROLL \u00b7 U.S. NAVY F/A-18F SUPER HORNETS, KANEOHE BAY, HAWAII, 2026"
+  },
+  {
+   "t": 436.96666666666664,
+   "d": 15.1,
+   "src": "img:pa_nsec",
+   "ss": 0,
+   "line": 50,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 452.06666666666666,
+   "d": 6.933333333333334,
+   "src": "dv867588",
+   "ss": 6.0,
+   "line": 51,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE WEATHER BALLOON RELEASED FROM USS PORTLAND, PACIFIC OCEAN, 2022 \u00b7 NOT THE BALLOON IN THE REPORT"
+  },
+  {
+   "t": 459.0,
+   "d": 6.933333333333334,
+   "src": "dv867588",
+   "ss": 30.0,
+   "line": 51,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE WEATHER BALLOON RELEASED FROM USS PORTLAND, PACIFIC OCEAN, 2022 \u00b7 NOT THE BALLOON IN THE REPORT"
+  },
+  {
+   "t": 465.93333333333334,
+   "d": 10.2,
+   "src": "dv1026930",
+   "ss": 38.0,
+   "line": 52,
+   "lab": "B-ROLL \u00b7 FROM THE COCKPIT OF A U.S. AIR FORCE F-22 OVER WASHINGTON, D.C., 2026"
+  },
+  {
+   "t": 476.1333333333333,
+   "d": 3.433333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 53,
+   "lab": ""
+  },
+  {
+   "t": 479.56666666666666,
+   "d": 18.466666666666665,
+   "src": "img:ar_aaro",
+   "ss": 0,
+   "line": 54,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"2022 ANNUAL REPORT ON UNIDENTIFIED AERIAL PHENOMENA\" (JAN. 2023)"
+  },
+  {
+   "t": 498.03333333333336,
+   "d": 16.333333333333332,
+   "src": "img:ar_510",
+   "ss": 0,
+   "line": 55,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"2022 ANNUAL REPORT ON UNIDENTIFIED AERIAL PHENOMENA\" (JAN. 2023)"
+  },
+  {
+   "t": 514.3666666666667,
+   "d": 9.466666666666667,
+   "src": "img:ar_coll",
+   "ss": 0,
+   "line": 56,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"2022 ANNUAL REPORT ON UNIDENTIFIED AERIAL PHENOMENA\" (JAN. 2023)"
+  },
+  {
+   "t": 523.8333333333334,
+   "d": 13.966666666666667,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 57,
+   "lab": ""
+  },
+  {
+   "t": 537.8,
+   "d": 6.333333333333333,
+   "src": "img:ar_163",
+   "ss": 0,
+   "line": 58,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"2022 ANNUAL REPORT ON UNIDENTIFIED AERIAL PHENOMENA\" (JAN. 2023)"
+  },
+  {
+   "t": 544.1333333333333,
+   "d": 5.8,
+   "src": "img:hab_f22",
+   "ss": 0,
+   "line": 59,
+   "lab": "U.S. AIR FORCE PHOTO \u00b7 AN F-22 TAKES OFF FROM JOINT BASE LANGLEY-EUSTIS, VIRGINIA, FEB. 4, 2023"
+  },
+  {
+   "t": 549.9333333333333,
+   "d": 5.766666666666667,
+   "src": "img:hab_debris",
+   "ss": 0,
+   "line": 59,
+   "lab": "U.S. NAVY PHOTO \u00b7 THE BALLOON'S DEBRIS FIELD, ATLANTIC OCEAN, FEB. 4, 2023"
+  },
+  {
+   "t": 555.7,
+   "d": 2.6,
+   "src": "img:hab_eod",
+   "ss": 0,
+   "line": 60,
+   "lab": "U.S. NAVY PHOTO \u00b7 SAILORS RECOVER THE BALLOON OFF MYRTLE BEACH, SOUTH CAROLINA, FEB. 5, 2023"
+  },
+  {
+   "t": 558.3,
+   "d": 2.566666666666667,
+   "src": "img:hab_lcac",
+   "ss": 0,
+   "line": 60,
+   "lab": "U.S. NAVY PHOTO \u00b7 RECOVERED BALLOON MATERIAL, VIRGINIA BEACH, VIRGINIA, FEB. 10, 2023"
+  },
+  {
+   "t": 560.8666666666667,
+   "d": 6.466666666666667,
+   "src": "img:hab_eod2",
+   "ss": 0,
+   "line": 61,
+   "lab": "U.S. NAVY PHOTO \u00b7 RECOVERY OF THE BALLOON OFF MYRTLE BEACH, SOUTH CAROLINA, FEB. 5, 2023"
+  },
+  {
+   "t": 567.3333333333334,
+   "d": 10.766666666666667,
+   "src": "dv1017805",
+   "ss": 44.0,
+   "line": 62,
+   "lab": "OFFICIAL UAP VIDEO \u00b7 DOW-UAP-PR123, \"UNRESOLVED UAP REPORT, PACIFIC OCEAN, 2019\" \u00b7 NAVY UAP TASK FORCE FILE, RELEASED 2026"
+  },
+  {
+   "t": 578.1,
+   "d": 7.3,
+   "src": "dv1017805",
+   "ss": 14.0,
+   "line": 63,
+   "lab": "OFFICIAL UAP VIDEO \u00b7 DOW-UAP-PR123, \"UNRESOLVED UAP REPORT, PACIFIC OCEAN, 2019\" \u00b7 NAVY UAP TASK FORCE FILE, RELEASED 2026"
+  },
+  {
+   "t": 585.4,
+   "d": 7.3,
+   "src": "dv1017805",
+   "ss": 34.0,
+   "line": 63,
+   "lab": "OFFICIAL UAP VIDEO \u00b7 DOW-UAP-PR123, \"UNRESOLVED UAP REPORT, PACIFIC OCEAN, 2019\" \u00b7 NAVY UAP TASK FORCE FILE, RELEASED 2026"
+  },
+  {
+   "t": 592.7,
+   "d": 4.5,
+   "src": "dv1017805",
+   "ss": 56.5,
+   "line": 64,
+   "lab": "OFFICIAL UAP VIDEO \u00b7 DOW-UAP-PR123, \"UNRESOLVED UAP REPORT, PACIFIC OCEAN, 2019\" \u00b7 NAVY UAP TASK FORCE FILE, RELEASED 2026"
+  },
+  {
+   "t": 597.2,
+   "d": 3.1333333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 65,
+   "lab": ""
+  },
+  {
+   "t": 600.3333333333334,
+   "d": 10.6,
+   "src": "img:pa_five",
+   "ss": 0,
+   "line": 66,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 610.9333333333333,
+   "d": 12.3,
+   "src": "img:pa_one",
+   "ss": 0,
+   "line": 67,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 623.2333333333333,
+   "d": 8.566666666666666,
+   "src": "img:pa_data",
+   "ss": 0,
+   "line": 68,
+   "lab": "ACTUAL DOCUMENT \u00b7 ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  },
+  {
+   "t": 631.8,
+   "d": 4.166666666666667,
+   "src": "dv1023102",
+   "ss": 50.0,
+   "line": 69,
+   "lab": "B-ROLL \u00b7 U.S. ARMY HIGH-ALTITUDE BALLOON LAUNCH, YAKIMA TRAINING CENTER, WASHINGTON, 2025 \u00b7 NOT THE BALLOON IN THE REPORT"
+  },
+  {
+   "t": 635.9666666666667,
+   "d": 8.833333333333334,
+   "src": "g:end",
+   "ss": 0,
+   "line": 70,
+   "lab": ""
+  }
+ ]
+}

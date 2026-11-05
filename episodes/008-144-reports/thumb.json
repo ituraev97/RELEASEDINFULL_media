@@ -1,0 +1,37 @@
+{
+ "image": "/home/claude/releasedinfull_media/episodes/008-144-reports/thumb_src.jpg",
+ "pos": "50% 45%",
+ "zoom": 112,
+ "hud": true,
+ "A": {
+  "big": "144 REPORTS<br><b>1</b> ANSWER",
+  "stamp": "ODNI \u00b7 JUNE 2021",
+  "size": 150,
+  "sy": 560,
+  "hx": 880,
+  "hy": 250,
+  "hs": 200
+ },
+ "B": {
+  "header": "ODNI \u00b7 JUNE 25, 2021",
+  "lines": [
+   "\"\u2026one reported UAP",
+   "with high confidence.",
+   "The others remain",
+   "{{unexplained.}}\""
+  ],
+  "size": 58,
+  "hx": 900,
+  "hy": 250,
+  "hs": 190
+ },
+ "C": {
+  "q": "WHAT WERE THE<br>OTHER <b>143</b>?",
+  "tag": "FILE 008 \u00b7 144 REPORTS",
+  "size": 130,
+  "w": 900,
+  "hx": 900,
+  "hy": 330,
+  "hs": 190
+ }
+}

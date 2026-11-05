@@ -1,0 +1,210 @@
+[
+ {
+  "key": "intro_32ab7f",
+  "name": "intro",
+  "opts": {
+   "n": "008"
+  }
+ },
+ {
+  "key": "title_155cf7",
+  "name": "title",
+  "opts": {
+   "n": "008",
+   "t": "144 Reports, 1 Explained",
+   "size": 150,
+   "sub": "U.S. Intelligence's First Public UAP Assessment"
+  }
+ },
+ {
+  "key": "chapter_e3a7d1",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Request"
+  }
+ },
+ {
+  "key": "chapter_49257c",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "The Dataset"
+  }
+ },
+ {
+  "key": "stat_f9b364",
+  "name": "stat",
+  "opts": {
+   "k": "THE DATASET \u00b7 NOV. 2004 \u2013 MAR. 2021",
+   "a": "144",
+   "size": 300,
+   "b": "UAP reports from U.S. Government sources",
+   "c": "80 involved observation with multiple sensors",
+   "source": "SOURCE: ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  }
+ },
+ {
+  "key": "quote_78d3bf",
+  "name": "quote",
+  "opts": {
+   "q": "Most of the UAP reported {{probably do represent physical objects}} given that a majority of UAP were registered across multiple sensors, to include radar, infrared, electro-optical, weapon seekers, and visual observation.",
+   "who": "Preliminary Assessment",
+   "role": "Executive summary \u00b7 June 25, 2021",
+   "size": 48,
+   "source": "SOURCE: ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  }
+ },
+ {
+  "key": "quote_aff360",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026an activity or object that {{interrupts pre-planned training or other military activity}} in a military operating area or restricted airspace.",
+   "who": "U.S. Navy aviators' definition of a \"range fouler\"",
+   "role": "Preliminary Assessment, Appendix A",
+   "size": 56,
+   "source": "SOURCE: ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  }
+ },
+ {
+  "key": "chapter_b41016",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "The One"
+  }
+ },
+ {
+  "key": "list_51d784",
+  "name": "list",
+  "opts": {
+   "kicker": "THE FIVE BINS",
+   "title": "Possible explanations",
+   "items": [
+    {
+     "n": "01",
+     "t": "Airborne clutter",
+     "s": "BIRDS \u00b7 BALLOONS \u00b7 DRONES \u00b7 PLASTIC BAGS"
+    },
+    {
+     "n": "02",
+     "t": "Natural atmospheric phenomena",
+     "s": "ICE CRYSTALS \u00b7 MOISTURE \u00b7 THERMAL FLUCTUATIONS"
+    },
+    {
+     "n": "03",
+     "t": "U.S. developmental programs",
+     "s": "GOVERNMENT OR INDUSTRY \u00b7 NONE CONFIRMED"
+    },
+    {
+     "n": "04",
+     "t": "Foreign adversary systems",
+     "s": "CHINA \u00b7 RUSSIA \u00b7 ANOTHER NATION \u00b7 NON-GOVERNMENTAL"
+    },
+    {
+     "n": "05",
+     "t": "\"Other\"",
+     "s": "A CATCHALL BIN"
+    }
+   ],
+   "source": "SOURCE: ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  }
+ },
+ {
+  "key": "chapter_6aeb1e",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "The Handful"
+  }
+ },
+ {
+  "key": "quote_84e978",
+  "name": "quote",
+  "opts": {
+   "q": "The UAPTF holds a small amount of data that appear to show UAP {{demonstrating acceleration or a degree of signature management.}}",
+   "who": "Preliminary Assessment",
+   "role": "June 25, 2021",
+   "size": 56,
+   "source": "SOURCE: ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  }
+ },
+ {
+  "key": "quote_baaa76",
+  "name": "quote",
+  "opts": {
+   "q": "These observations {{could be the result of sensor errors, spoofing, or observer misperception}} and require additional rigorous analysis.",
+   "who": "Preliminary Assessment",
+   "role": "Executive summary \u00b7 June 25, 2021",
+   "size": 58,
+   "source": "SOURCE: ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  }
+ },
+ {
+  "key": "chapter_bf5ba3",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "The Hazard"
+  }
+ },
+ {
+  "key": "stat_b5f127",
+  "name": "stat",
+  "opts": {
+   "k": "SAFETY OF FLIGHT",
+   "a": "11",
+   "size": 320,
+   "b": "documented near misses reported by pilots",
+   "c": "in the task force's dataset",
+   "source": "SOURCE: ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  }
+ },
+ {
+  "key": "quote_4688fa",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026{{reputational risk may keep many observers silent,}} complicating scientific pursuit of the topic.",
+   "who": "Preliminary Assessment",
+   "role": "\"UAP Collection Challenges\" \u00b7 June 25, 2021",
+   "size": 66,
+   "source": "SOURCE: ODNI, \"PRELIMINARY ASSESSMENT: UNIDENTIFIED AERIAL PHENOMENA\" (JUNE 25, 2021)"
+  }
+ },
+ {
+  "key": "chapter_2f0663",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "What Came Next"
+  }
+ },
+ {
+  "key": "stat_2ee59a",
+  "name": "stat",
+  "opts": {
+   "k": "366 NEWLY IDENTIFIED REPORTS \u00b7 INITIAL CHARACTERIZATION",
+   "a": "163",
+   "size": 300,
+   "b": "balloons or balloon-like entities",
+   "c": "26 drones or drone-like \u00b7 6 clutter \u00b7 171 uncharacterized",
+   "source": "SOURCE: ODNI, \"2022 ANNUAL REPORT ON UNIDENTIFIED AERIAL PHENOMENA\" (JAN. 2023)"
+  }
+ },
+ {
+  "key": "chapter_8d34f3",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "Still Unexplained"
+  }
+ },
+ {
+  "key": "end_1cd776",
+  "name": "end",
+  "opts": {
+   "n": "008",
+   "next": "Goldsboro 1961"
+  }
+ }
+]
