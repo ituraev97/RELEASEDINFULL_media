@@ -1,0 +1,9 @@
+{
+ "image": "/home/claude/releasedinfull_media/episodes/009-goldsboro/thumb_src.jpg",
+ "pos": "42% 50%",
+ "zoom": 172,
+ "hud": true,
+ "A": {"big": "2 H-BOMBS<br><b>1</b> SWITCH", "stamp": "NORTH CAROLINA · 1961", "size": 150, "sy": 560, "hx": 1020, "hy": 260, "hs": 170},
+ "B": {"header": "SANDIA · \"GOLDSBORO REVISITED\" · 1969", "lines": ["\"One simple, dynamo-", "technology, low voltage", "switch stood between", "the United States and", "{{a major catastrophe!}}\""], "size": 54, "hx": 1020, "hy": 260, "hs": 170},
+ "C": {"q": "HOW CLOSE<br>DID IT <b>COME</b>?", "tag": "FILE 009 · GOLDSBORO 1961", "size": 130, "w": 900, "hx": 1000, "hy": 360, "hs": 170}
+}

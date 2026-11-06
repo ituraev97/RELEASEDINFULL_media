@@ -1,0 +1,375 @@
+[
+ {
+  "key": "quote_d78dc5",
+  "name": "quote",
+  "opts": {
+   "q": "One simple, dynamo-technology, {{low voltage switch stood between the United States and a major catastrophe!}}",
+   "who": "Parker F. Jones",
+   "role": "Sandia \u00b7 \"Goldsboro Revisited\" \u00b7 1969",
+   "size": 60,
+   "source": "SOURCE: PARKER F. JONES, SANDIA, \"GOLDSBORO REVISITED\" (OCT. 22, 1969) \u00b7 EXCERPT, RECREATED"
+  }
+ },
+ {
+  "key": "intro_343749",
+  "name": "intro",
+  "opts": {
+   "n": "009"
+  }
+ },
+ {
+  "key": "title_7c4da8",
+  "name": "title",
+  "opts": {
+   "n": "009",
+   "t": "One Switch",
+   "size": 170,
+   "sub": "The Goldsboro Accident, 1961"
+  }
+ },
+ {
+  "key": "chapter_2a9487",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "Airborne Alert"
+  }
+ },
+ {
+  "key": "doc_6eb080",
+  "name": "doc",
+  "opts": {
+   "header": "JOINT CHIEFS OF STAFF \u00b7 MARCH 1958",
+   "title": "On sealed-pit nuclear weapons",
+   "lines": [
+    "\u2026a {{\"negligible factor.\"}}"
+   ],
+   "source": "SOURCE: JCS RECORDS (RG 218), AS QUOTED BY THE NATIONAL SECURITY ARCHIVE \u00b7 EXCERPT, RECREATED"
+  }
+ },
+ {
+  "key": "quote_e8259d",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026fundamentally {{a matter of playing percentages.}}",
+   "who": "Sandia Corporation",
+   "role": "Weapon safety study \u00b7 1959",
+   "size": 72,
+   "source": "SOURCE: SANDIA CORP. (1959), AS QUOTED BY THE NATIONAL SECURITY ARCHIVE (EBB 475)"
+  }
+ },
+ {
+  "key": "stat_e3687d",
+  "name": "stat",
+  "opts": {
+   "k": "SANDIA SAFETY STUDY \u00b7 1959",
+   "a": "1 IN 100,000,000",
+   "size": 150,
+   "b": "estimated risk of a spontaneous detonation, excluding human error",
+   "source": "SOURCE: SANDIA CORP. (1959), AS SUMMARIZED BY THE NATIONAL SECURITY ARCHIVE (EBB 475)"
+  }
+ },
+ {
+  "key": "chapter_adbbca",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "The Breakup"
+  }
+ },
+ {
+  "key": "stat_bbf650",
+  "name": "stat",
+  "opts": {
+   "k": "KEEP 19 \u00b7 JANUARY 24, 1961",
+   "a": "3",
+   "size": 300,
+   "b": "crewmen died",
+   "c": "Maj. Shelton \u00b7 Maj. Richards \u00b7 Sgt. Barnish",
+   "source": "SOURCE: NATIONAL ARCHIVES, \"BRUSH WITH CATASTROPHE\" (PIECES OF HISTORY, JAN. 22, 2021)"
+  }
+ },
+ {
+  "key": "map_a4e25e",
+  "name": "map",
+  "opts": {
+   "kicker": "JANUARY 24, 1961",
+   "title": "Wayne County, North Carolina",
+   "bounds": [
+    [
+     -78.12,
+     35.3
+    ],
+    [
+     -77.72,
+     35.58
+    ]
+   ],
+   "points": [
+    {
+     "ll": [
+      -77.993,
+      35.385
+     ],
+     "name": "Goldsboro",
+     "anchor": "end"
+    },
+    {
+     "ll": [
+      -77.962,
+      35.339
+     ],
+     "name": "Seymour Johnson AFB",
+     "sub": "BOMBER'S HOME BASE"
+    },
+    {
+     "ll": [
+      -77.88,
+      35.5
+     ],
+     "name": "Crash site",
+     "sub": "NEAR FARO \u00b7 APPROX."
+    },
+    {
+     "ll": [
+      -77.876,
+      35.542
+     ],
+     "name": "Eureka",
+     "anchor": "end",
+     "sub": "2012 STATE MARKER"
+    }
+   ],
+   "areas": [
+    {
+     "ll": [
+      -77.88,
+      35.5
+     ],
+     "r": 60
+    }
+   ],
+   "source": "SOURCES: NATIONAL ARCHIVES (2021); N.C. DEPT. OF NATURAL AND CULTURAL RESOURCES; N.C. HIGHWAY MARKER F-70 \u00b7 LOCATIONS APPROXIMATE"
+  }
+ },
+ {
+  "key": "chapter_c5073b",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "Two Bombs"
+  }
+ },
+ {
+  "key": "stat_277fd0",
+  "name": "stat",
+  "opts": {
+   "k": "MARK 39 \u00b7 EACH BOMB",
+   "a": "3-4 MEGATONS",
+   "size": 170,
+   "b": "about 250 times the Hiroshima bomb",
+   "c": "two aboard",
+   "source": "SOURCE: NATIONAL ARCHIVES, \"BRUSH WITH CATASTROPHE\" (PIECES OF HISTORY, JAN. 22, 2021)"
+  }
+ },
+ {
+  "key": "doc_bc8d97",
+  "name": "doc",
+  "opts": {
+   "header": "SANDIA CORPORATION \u00b7 SCDR 8-81 \u00b7 FEBRUARY 1961",
+   "title": "Report title",
+   "lines": [
+    "Analysis of the Safety Aspects of the MK 39 MOD 2 Bombs Involved in B-52G Crash Near {{Greensboro,}} North Carolina"
+   ],
+   "source": "SOURCE: NATIONAL SECURITY ARCHIVE, EBB 475 (2014) \u00b7 TITLE, RECREATED"
+  }
+ },
+ {
+  "key": "list_3d599a",
+  "name": "list",
+  "opts": {
+   "kicker": "BOMB ONE \u00b7 THE ARMING SEQUENCE",
+   "title": "What the crash set off",
+   "items": [
+    {
+     "n": "01",
+     "t": "Safing pins pulled",
+     "s": "BY LANYARDS, AS THE PLANE BROKE UP"
+    },
+    {
+     "n": "02",
+     "t": "Power source freed",
+     "s": "GENERATOR PINS PULLED"
+    },
+    {
+     "n": "03",
+     "t": "Parachute opened",
+     "s": "TIMER STARTED"
+    },
+    {
+     "n": "04",
+     "t": "Timer ran",
+     "s": "ACCORDING TO LATER ACCOUNTS"
+    },
+    {
+     "n": "05",
+     "t": "Arm/Safe switch",
+     "s": "STILL ON SAFE \u00b7 PREVENTED A NUCLEAR EXPLOSION"
+    }
+   ],
+   "source": "SOURCES: SANDIA SCDR 8-81 AS SUMMARIZED BY THE NATIONAL SECURITY ARCHIVE (EBB 475, 2014); DOD (1981) \u00b7 STEP 04: LATER ACCOUNTS"
+  }
+ },
+ {
+  "key": "stat_eaa390",
+  "name": "stat",
+  "opts": {
+   "k": "BOMB ONE \u00b7 THE LAST STEP",
+   "a": "SAFE",
+   "size": 280,
+   "b": "the Arm/Safe switch was still on safe",
+   "c": "it \"worked exactly as it was supposed to\"",
+   "source": "SOURCE: SANDIA CORP., SCDR 8-81 (FEB. 1961), AS SUMMARIZED BY THE NATIONAL SECURITY ARCHIVE (EBB 475, 2014)"
+  }
+ },
+ {
+  "key": "chapter_79e423",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "The Mud"
+  }
+ },
+ {
+  "key": "chapter_175c1d",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "One Switch"
+  }
+ },
+ {
+  "key": "quote_bcb02e",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026by the slightest margin of chance, {{literally the failure of two wires to cross,}} a nuclear explosion was averted.",
+   "who": "Robert S. McNamara",
+   "role": "Secretary of Defense",
+   "size": 60,
+   "source": "SOURCE: AS QUOTED BY THE NATIONAL SECURITY ARCHIVE, EBB 475 (2014)"
+  }
+ },
+ {
+  "key": "doc_311c26",
+  "name": "doc",
+  "opts": {
+   "header": "SANDIA LABORATORIES \u00b7 OCTOBER 22, 1969",
+   "title": "Goldsboro Revisited",
+   "lines": [
+    "The MK 39 Mod 2 bomb {{did not possess adequate safety}} for the airborne alert role in the B-52.",
+    "One simple, dynamo-technology, low voltage switch stood between the United States and a major catastrophe!"
+   ],
+   "source": "SOURCE: PARKER F. JONES, SANDIA, \"GOLDSBORO REVISITED\" (OCT. 22, 1969) \u00b7 EXCERPT, RECREATED"
+  }
+ },
+ {
+  "key": "quote_890094",
+  "name": "quote",
+  "opts": {
+   "q": "Official statements indicate that there was {{no danger of the bombs exploding\u2026}}",
+   "who": "National Archives",
+   "role": "\"Brush with Catastrophe\" \u00b7 2021",
+   "size": 62,
+   "source": "SOURCE: NATIONAL ARCHIVES, \"BRUSH WITH CATASTROPHE\" (PIECES OF HISTORY, JAN. 22, 2021)"
+  }
+ },
+ {
+  "key": "chapter_a1f259",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "After Goldsboro"
+  }
+ },
+ {
+  "key": "stat_db11cf",
+  "name": "stat",
+  "opts": {
+   "k": "SAFETY STANDARD \u00b7 LATE 1960s",
+   "a": "1 IN 1,000,000",
+   "size": 150,
+   "b": "maximum annual risk of an accidental detonation",
+   "c": "for a stockpile of 10,000 weapons or more",
+   "source": "SOURCE: NATIONAL SECURITY ARCHIVE, EBB 475 (2014)"
+  }
+ },
+ {
+  "key": "timeline_3e62b6",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE PAPER TRAIL",
+   "title": "More than half a century of the Goldsboro file",
+   "active": 2,
+   "events": [
+    {
+     "y": "1958",
+     "t": "\"Negligible factor\""
+    },
+    {
+     "y": "1959",
+     "t": "\"Playing percentages\""
+    },
+    {
+     "y": "FEB 1961",
+     "t": "Sandia analysis"
+    },
+    {
+     "y": "1969",
+     "t": "\"Goldsboro Revisited\""
+    },
+    {
+     "y": "1981",
+     "t": "DoD summary"
+    },
+    {
+     "y": "1987",
+     "t": "Sandia safety history"
+    },
+    {
+     "y": "2013-14",
+     "t": "Memo and report published"
+    }
+   ],
+   "source": "SOURCES: NATIONAL SECURITY ARCHIVE (EBB 475); DOD (1981); THE GUARDIAN (2013)"
+  }
+ },
+ {
+  "key": "chapter_dd3b68",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "The Marker"
+  }
+ },
+ {
+  "key": "doc_8c7122",
+  "name": "doc",
+  "opts": {
+   "header": "NORTH CAROLINA HIGHWAY HISTORICAL MARKER F-70 \u00b7 2012",
+   "title": "Nuclear Mishap",
+   "lines": [
+    "B-52 transporting two nuclear bombs crashed, Jan. 1961.",
+    "{{Widespread disaster averted;}} three crewmen died 3 mi. S."
+   ],
+   "source": "SOURCE: N.C. OFFICE OF ARCHIVES AND HISTORY (VIA THE HISTORICAL MARKER DATABASE) \u00b7 TEXT, RECREATED"
+  }
+ },
+ {
+  "key": "end_a6a6dd",
+  "name": "end",
+  "opts": {
+   "n": "009",
+   "next": "The Family Jewels"
+  }
+ }
+]

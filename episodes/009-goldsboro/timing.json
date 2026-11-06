@@ -1,0 +1,989 @@
+{
+ "starts": [
+  0.6,
+  9.163,
+  11.838000000000001,
+  20.341333,
+  28.4985,
+  37.466833,
+  44.643166,
+  48.643166,
+  52.243166,
+  56.088166,
+  65.93549900000001,
+  79.788166,
+  87.982166,
+  91.11583300000001,
+  101.02816600000001,
+  111.33416600000001,
+  121.87583300000001,
+  129.14716600000003,
+  136.95616600000002,
+  139.88383300000004,
+  157.12016600000004,
+  161.75483300000005,
+  168.33816600000006,
+  177.47183300000006,
+  181.18683300000006,
+  189.35466600000007,
+  196.68466600000008,
+  198.67699900000008,
+  205.88766600000008,
+  211.58616600000008,
+  221.42716600000008,
+  223.4908330000001,
+  234.8231660000001,
+  244.9158330000001,
+  248.8281660000001,
+  259.4778330000001,
+  266.1251660000001,
+  276.3884990000001,
+  280.97516600000006,
+  291.1293330000001,
+  297.0416660000001,
+  303.85966600000006,
+  313.8723330000001,
+  323.5383330000001,
+  326.42466600000006,
+  328.17899900000003,
+  339.594332,
+  343.367999,
+  353.044666,
+  357.39133300000003,
+  363.80933300000004,
+  375.688666,
+  384.510999,
+  386.53199900000004,
+  399.24866600000007,
+  414.4156660000001,
+  419.1493330000001,
+  426.3150000000001,
+  442.04500000000013,
+  451.1936670000001,
+  461.5156670000001,
+  475.2873340000001,
+  482.8690010000001,
+  491.5220010000001,
+  494.3056680000001,
+  512.1630010000001,
+  522.3593340000001,
+  530.095667,
+  543.062667,
+  556.633,
+  572.575333,
+  575.215,
+  583.106,
+  595.2465,
+  602.4454999999999,
+  610.554,
+  618.155833,
+  622.318833
+ ],
+ "durs": [
+  8.563,
+  2.675,
+  8.503333,
+  8.157167,
+  8.968333000000001,
+  7.176333,
+  4.0,
+  3.6,
+  3.845,
+  9.847333,
+  13.852667,
+  8.194,
+  3.133667,
+  9.912333,
+  10.306000000000001,
+  10.541667,
+  7.271332999999999,
+  7.809,
+  2.927667,
+  17.236333000000002,
+  4.634666999999999,
+  6.583333,
+  9.133667,
+  3.715,
+  8.167833,
+  7.33,
+  1.9923330000000001,
+  7.210667,
+  5.6985,
+  9.841000000000001,
+  2.063667,
+  11.332333,
+  10.092667,
+  3.9123330000000003,
+  10.649667,
+  6.647333,
+  10.263333000000001,
+  4.586666999999999,
+  10.154167000000001,
+  5.912332999999999,
+  6.818,
+  10.012667,
+  9.666,
+  2.886333,
+  1.754333,
+  11.415333,
+  3.7736669999999997,
+  9.676667,
+  4.346667,
+  6.418,
+  11.879333,
+  8.822333,
+  2.021,
+  12.716667000000001,
+  15.167000000000002,
+  4.733667,
+  7.165667,
+  15.73,
+  9.148667000000001,
+  10.322000000000001,
+  13.771667,
+  7.5816669999999995,
+  8.653,
+  2.783667,
+  17.857333,
+  10.196333000000001,
+  7.736333,
+  12.967,
+  13.570333000000002,
+  15.942333,
+  2.639667,
+  7.891,
+  12.140500000000001,
+  7.199,
+  8.108500000000001,
+  7.601833,
+  4.163,
+  8.142
+ ],
+ "vdur": [
+  8.013,
+  2.125,
+  7.953333,
+  7.607167,
+  8.418333,
+  6.626333,
+  3.366667,
+  0.0,
+  3.245,
+  9.297333,
+  13.302667,
+  7.644,
+  2.583667,
+  9.362333,
+  9.756,
+  9.991667,
+  6.721333,
+  6.909,
+  2.327667,
+  16.686333,
+  4.084667,
+  6.033333,
+  8.583667,
+  3.165,
+  7.617833,
+  6.78,
+  1.442333,
+  6.660667,
+  5.1485,
+  8.941,
+  1.463667,
+  10.782333,
+  9.542667,
+  3.362333,
+  10.099667,
+  6.097333,
+  9.713333,
+  4.036667,
+  9.604167,
+  5.362333,
+  6.268,
+  9.462667,
+  9.116,
+  1.986333,
+  1.154333,
+  10.865333,
+  3.223667,
+  9.126667,
+  3.796667,
+  5.868,
+  11.329333,
+  7.922333,
+  1.421,
+  12.166667,
+  14.617,
+  4.183667,
+  6.615667,
+  15.18,
+  8.598667,
+  9.772,
+  13.221667,
+  7.031667,
+  7.753,
+  2.183667,
+  17.307333,
+  9.646333,
+  7.186333,
+  12.417,
+  13.020333,
+  15.042333,
+  2.039667,
+  7.341,
+  11.5905,
+  6.649,
+  7.5585,
+  6.801833,
+  3.613,
+  5.642
+ ],
+ "total": 630.8666666666667,
+ "segs": [
+  {
+   "t": 0.0,
+   "d": 9.166666666666666,
+   "src": "dv943839",
+   "ss": 24.0,
+   "line": 0,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H NIGHT TAKEOFF, RAF FAIRFORD, ENGLAND, 2024 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 9.166666666666666,
+   "d": 2.6666666666666665,
+   "src": "img:h52load",
+   "ss": 0,
+   "line": 1,
+   "lab": "U.S. AIR FORCE PHOTO \u00b7 AIRMEN LOAD A BOMB INTO A B-52, DYESS AFB, TEXAS, 1960s \u00b7 NOT THE GOLDSBORO WEAPONS"
+  },
+  {
+   "t": 11.833333333333334,
+   "d": 2.8333333333333335,
+   "src": "dv150146",
+   "ss": 44.0,
+   "line": 2,
+   "lab": "B-ROLL \u00b7 NIGHT-VISION VIEW FROM A B-52 COCKPIT, NELLIS AIR FORCE BASE, NEVADA, 2012"
+  },
+  {
+   "t": 14.666666666666666,
+   "d": 2.8333333333333335,
+   "src": "dv739519",
+   "ss": 98.2,
+   "line": 2,
+   "lab": "B-ROLL \u00b7 PINE TREES AT SEYMOUR JOHNSON AIR FORCE BASE, NORTH CAROLINA, 2020 \u00b7 NOT THE CRASH SITE"
+  },
+  {
+   "t": 17.5,
+   "d": 2.8333333333333335,
+   "src": "img:nar_gb_bot",
+   "ss": 0,
+   "line": 2,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 20.333333333333332,
+   "d": 8.166666666666666,
+   "src": "img:nar_gb",
+   "ss": 0,
+   "line": 3,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 28.5,
+   "d": 4.466666666666667,
+   "src": "dv944524",
+   "ss": 30.0,
+   "line": 4,
+   "lab": "B-ROLL \u00b7 AIRMEN LOAD CONVENTIONAL BOMBS INTO A B-52H, RAF FAIRFORD, ENGLAND, 2024 \u00b7 NOT NUCLEAR WEAPONS"
+  },
+  {
+   "t": 32.96666666666667,
+   "d": 4.5,
+   "src": "dv1015133",
+   "ss": 40.0,
+   "line": 4,
+   "lab": "B-ROLL \u00b7 A B-52H AT MINOT AIR FORCE BASE, NORTH DAKOTA, 2026"
+  },
+  {
+   "t": 37.46666666666667,
+   "d": 7.166666666666667,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 5,
+   "lab": ""
+  },
+  {
+   "t": 44.63333333333333,
+   "d": 4.0,
+   "src": "g:intro",
+   "ss": 0,
+   "line": 6,
+   "lab": ""
+  },
+  {
+   "t": 48.63333333333333,
+   "d": 3.6,
+   "src": "g:title",
+   "ss": 0,
+   "line": 7,
+   "lab": ""
+  },
+  {
+   "t": 52.233333333333334,
+   "d": 3.8666666666666667,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 8,
+   "lab": ""
+  },
+  {
+   "t": 56.1,
+   "d": 4.9,
+   "src": "dv1006838",
+   "ss": 22.0,
+   "line": 9,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H TAKEOFF, EUROPE, 2026 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 61.0,
+   "d": 4.933333333333334,
+   "src": "dv1006838",
+   "ss": 30.0,
+   "line": 9,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H TAKEOFF, EUROPE, 2026 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 65.93333333333334,
+   "d": 13.866666666666667,
+   "src": "img:nar_cover",
+   "ss": 0,
+   "line": 10,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 79.8,
+   "d": 8.166666666666666,
+   "src": "dv1010076",
+   "ss": 4.0,
+   "line": 11,
+   "lab": "B-ROLL \u00b7 AN AIR NATIONAL GUARD KC-135 REFUELS A B-52, OVER THE U.S. MIDWEST, 2026"
+  },
+  {
+   "t": 87.96666666666667,
+   "d": 3.1333333333333333,
+   "src": "img:nb52",
+   "ss": 0,
+   "line": 12,
+   "lab": "NASA PHOTO \u00b7 THE NB-52A \"THE HIGH AND MIGHTY ONE\" CARRYING A NASA LIFTING-BODY RESEARCH PLANE, 1960s"
+  },
+  {
+   "t": 91.1,
+   "d": 9.933333333333334,
+   "src": "g:doc",
+   "ss": 0,
+   "line": 13,
+   "lab": ""
+  },
+  {
+   "t": 101.03333333333333,
+   "d": 10.3,
+   "src": "dv943839",
+   "ss": 30.0,
+   "line": 14,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H NIGHT TAKEOFF, RAF FAIRFORD, ENGLAND, 2024 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 111.33333333333333,
+   "d": 10.533333333333333,
+   "src": "dv944524",
+   "ss": 45.0,
+   "line": 15,
+   "lab": "B-ROLL \u00b7 AIRMEN LOAD CONVENTIONAL BOMBS INTO A B-52H, RAF FAIRFORD, ENGLAND, 2024 \u00b7 NOT NUCLEAR WEAPONS"
+  },
+  {
+   "t": 121.86666666666666,
+   "d": 7.266666666666667,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 16,
+   "lab": ""
+  },
+  {
+   "t": 129.13333333333333,
+   "d": 7.833333333333333,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 17,
+   "lab": ""
+  },
+  {
+   "t": 136.96666666666667,
+   "d": 2.933333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 18,
+   "lab": ""
+  },
+  {
+   "t": 139.9,
+   "d": 8.6,
+   "src": "dv1015133",
+   "ss": 20.0,
+   "line": 19,
+   "lab": "B-ROLL \u00b7 A B-52H AT MINOT AIR FORCE BASE, NORTH DAKOTA, 2026"
+  },
+  {
+   "t": 148.5,
+   "d": 8.633333333333333,
+   "src": "dv943839",
+   "ss": 10.0,
+   "line": 19,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H NIGHT TAKEOFF, RAF FAIRFORD, ENGLAND, 2024 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 157.13333333333333,
+   "d": 4.633333333333334,
+   "src": "dv149961",
+   "ss": 112.0,
+   "line": 20,
+   "lab": "B-ROLL \u00b7 B-52 CREW IN THE COCKPIT, RED FLAG EXERCISE, NELLIS AIR FORCE BASE, NEVADA, 2012"
+  },
+  {
+   "t": 161.76666666666668,
+   "d": 3.2666666666666666,
+   "src": "dv1010076",
+   "ss": 23.0,
+   "line": 21,
+   "lab": "B-ROLL \u00b7 AN AIR NATIONAL GUARD KC-135 REFUELS A B-52, OVER THE U.S. MIDWEST, 2026"
+  },
+  {
+   "t": 165.03333333333333,
+   "d": 3.3,
+   "src": "dv1010076",
+   "ss": 33.0,
+   "line": 21,
+   "lab": "B-ROLL \u00b7 AN AIR NATIONAL GUARD KC-135 REFUELS A B-52, OVER THE U.S. MIDWEST, 2026"
+  },
+  {
+   "t": 168.33333333333334,
+   "d": 9.133333333333333,
+   "src": "dv149961",
+   "ss": 179.0,
+   "line": 22,
+   "lab": "B-ROLL \u00b7 B-52 CREW IN THE COCKPIT, RED FLAG EXERCISE, NELLIS AIR FORCE BASE, NEVADA, 2012"
+  },
+  {
+   "t": 177.46666666666667,
+   "d": 3.7333333333333334,
+   "src": "dv150146",
+   "ss": 47.0,
+   "line": 23,
+   "lab": "B-ROLL \u00b7 NIGHT-VISION VIEW FROM A B-52 COCKPIT, NELLIS AIR FORCE BASE, NEVADA, 2012"
+  },
+  {
+   "t": 181.2,
+   "d": 8.166666666666666,
+   "src": "img:nar_gb_top",
+   "ss": 0,
+   "line": 24,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 189.36666666666667,
+   "d": 3.6666666666666665,
+   "src": "dv150146",
+   "ss": 122.0,
+   "line": 25,
+   "lab": "B-ROLL \u00b7 NIGHT-VISION VIEW FROM A B-52 COCKPIT, NELLIS AIR FORCE BASE, NEVADA, 2012"
+  },
+  {
+   "t": 193.03333333333333,
+   "d": 3.6666666666666665,
+   "src": "dv943839",
+   "ss": 32.0,
+   "line": 25,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H NIGHT TAKEOFF, RAF FAIRFORD, ENGLAND, 2024 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 196.7,
+   "d": 1.9666666666666666,
+   "src": "img:nar_gb",
+   "ss": 0,
+   "line": 26,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 198.66666666666666,
+   "d": 7.233333333333333,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 27,
+   "lab": ""
+  },
+  {
+   "t": 205.9,
+   "d": 5.7,
+   "src": "dv943839",
+   "ss": 44.0,
+   "line": 28,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H NIGHT TAKEOFF, RAF FAIRFORD, ENGLAND, 2024 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 211.6,
+   "d": 9.833333333333334,
+   "src": "g:map",
+   "ss": 0,
+   "line": 29,
+   "lab": ""
+  },
+  {
+   "t": 221.43333333333334,
+   "d": 2.066666666666667,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 30,
+   "lab": ""
+  },
+  {
+   "t": 223.5,
+   "d": 11.333333333333334,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 31,
+   "lab": ""
+  },
+  {
+   "t": 234.83333333333334,
+   "d": 10.066666666666666,
+   "src": "img:h52load",
+   "ss": 0,
+   "line": 32,
+   "lab": "U.S. AIR FORCE PHOTO \u00b7 AIRMEN LOAD A BOMB INTO A B-52, DYESS AFB, TEXAS, 1960s \u00b7 NOT THE GOLDSBORO WEAPONS"
+  },
+  {
+   "t": 244.9,
+   "d": 3.933333333333333,
+   "src": "img:nar_gb_top",
+   "ss": 0,
+   "line": 33,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 248.83333333333334,
+   "d": 10.633333333333333,
+   "src": "g:doc",
+   "ss": 0,
+   "line": 34,
+   "lab": ""
+  },
+  {
+   "t": 259.46666666666664,
+   "d": 6.666666666666667,
+   "src": "dv944524",
+   "ss": 95.0,
+   "line": 35,
+   "lab": "B-ROLL \u00b7 AIRMEN LOAD CONVENTIONAL BOMBS INTO A B-52H, RAF FAIRFORD, ENGLAND, 2024 \u00b7 NOT NUCLEAR WEAPONS"
+  },
+  {
+   "t": 266.1333333333333,
+   "d": 10.266666666666667,
+   "src": "g:list",
+   "ss": 0,
+   "line": 36,
+   "lab": ""
+  },
+  {
+   "t": 276.4,
+   "d": 4.566666666666666,
+   "src": "dv150146",
+   "ss": 126.0,
+   "line": 37,
+   "lab": "B-ROLL \u00b7 NIGHT-VISION VIEW FROM A B-52 COCKPIT, NELLIS AIR FORCE BASE, NEVADA, 2012"
+  },
+  {
+   "t": 280.96666666666664,
+   "d": 10.166666666666666,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 38,
+   "lab": ""
+  },
+  {
+   "t": 291.1333333333333,
+   "d": 2.966666666666667,
+   "src": "dv739519",
+   "ss": 98.2,
+   "line": 39,
+   "lab": "B-ROLL \u00b7 PINE TREES AT SEYMOUR JOHNSON AIR FORCE BASE, NORTH CAROLINA, 2020 \u00b7 NOT THE CRASH SITE"
+  },
+  {
+   "t": 294.1,
+   "d": 2.933333333333333,
+   "src": "dv1006838",
+   "ss": 24.0,
+   "line": 39,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H TAKEOFF, EUROPE, 2026 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 297.03333333333336,
+   "d": 6.833333333333333,
+   "src": "img:nar_gb_bot",
+   "ss": 0,
+   "line": 40,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 303.8666666666667,
+   "d": 10.0,
+   "src": "dv943839",
+   "ss": 26.0,
+   "line": 41,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H NIGHT TAKEOFF, RAF FAIRFORD, ENGLAND, 2024 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 313.8666666666667,
+   "d": 9.666666666666666,
+   "src": "dv1015133",
+   "ss": 4.0,
+   "line": 42,
+   "lab": "B-ROLL \u00b7 A B-52H AT MINOT AIR FORCE BASE, NORTH DAKOTA, 2026"
+  },
+  {
+   "t": 323.53333333333336,
+   "d": 2.9,
+   "src": "img:nar_gb",
+   "ss": 0,
+   "line": 43,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 326.43333333333334,
+   "d": 1.7333333333333334,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 44,
+   "lab": ""
+  },
+  {
+   "t": 328.1666666666667,
+   "d": 5.733333333333333,
+   "src": "dv944524",
+   "ss": 75.0,
+   "line": 45,
+   "lab": "B-ROLL \u00b7 AIRMEN LOAD CONVENTIONAL BOMBS INTO A B-52H, RAF FAIRFORD, ENGLAND, 2024 \u00b7 NOT NUCLEAR WEAPONS"
+  },
+  {
+   "t": 333.9,
+   "d": 5.7,
+   "src": "dv1015133",
+   "ss": 34.0,
+   "line": 45,
+   "lab": "B-ROLL \u00b7 A B-52H AT MINOT AIR FORCE BASE, NORTH DAKOTA, 2026"
+  },
+  {
+   "t": 339.6,
+   "d": 3.7666666666666666,
+   "src": "img:nar_gb_bot",
+   "ss": 0,
+   "line": 46,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 343.3666666666667,
+   "d": 9.666666666666666,
+   "src": "img:nar_gb_bot",
+   "ss": 0,
+   "line": 47,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 353.03333333333336,
+   "d": 4.366666666666666,
+   "src": "img:nar_gb_bot",
+   "ss": 0,
+   "line": 48,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 357.4,
+   "d": 6.4,
+   "src": "img:nar_gb_bot",
+   "ss": 0,
+   "line": 49,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 363.8,
+   "d": 11.9,
+   "src": "img:nar_policy",
+   "ss": 0,
+   "line": 50,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 375.7,
+   "d": 8.8,
+   "src": "img:nar_policy",
+   "ss": 0,
+   "line": 51,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 384.5,
+   "d": 2.033333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 52,
+   "lab": ""
+  },
+  {
+   "t": 386.53333333333336,
+   "d": 6.366666666666666,
+   "src": "dv150146",
+   "ss": 52.0,
+   "line": 53,
+   "lab": "B-ROLL \u00b7 NIGHT-VISION VIEW FROM A B-52 COCKPIT, NELLIS AIR FORCE BASE, NEVADA, 2012"
+  },
+  {
+   "t": 392.9,
+   "d": 6.333333333333333,
+   "src": "dv1006838",
+   "ss": 50.0,
+   "line": 53,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H TAKEOFF, EUROPE, 2026 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 399.23333333333335,
+   "d": 7.6,
+   "src": "dv944524",
+   "ss": 60.0,
+   "line": 54,
+   "lab": "B-ROLL \u00b7 AIRMEN LOAD CONVENTIONAL BOMBS INTO A B-52H, RAF FAIRFORD, ENGLAND, 2024 \u00b7 NOT NUCLEAR WEAPONS"
+  },
+  {
+   "t": 406.8333333333333,
+   "d": 7.566666666666666,
+   "src": "dv1010076",
+   "ss": 28.0,
+   "line": 54,
+   "lab": "B-ROLL \u00b7 AN AIR NATIONAL GUARD KC-135 REFUELS A B-52, OVER THE U.S. MIDWEST, 2026"
+  },
+  {
+   "t": 414.4,
+   "d": 4.733333333333333,
+   "src": "dv1006838",
+   "ss": 26.0,
+   "line": 55,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H TAKEOFF, EUROPE, 2026 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 419.1333333333333,
+   "d": 7.166666666666667,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 56,
+   "lab": ""
+  },
+  {
+   "t": 426.3,
+   "d": 7.866666666666666,
+   "src": "dv1015133",
+   "ss": 30.0,
+   "line": 57,
+   "lab": "B-ROLL \u00b7 A B-52H AT MINOT AIR FORCE BASE, NORTH DAKOTA, 2026"
+  },
+  {
+   "t": 434.1666666666667,
+   "d": 7.866666666666666,
+   "src": "dv943839",
+   "ss": 18.0,
+   "line": 57,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H NIGHT TAKEOFF, RAF FAIRFORD, ENGLAND, 2024 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 442.03333333333336,
+   "d": 9.166666666666666,
+   "src": "g:doc",
+   "ss": 0,
+   "line": 58,
+   "lab": ""
+  },
+  {
+   "t": 451.2,
+   "d": 5.166666666666667,
+   "src": "dv943839",
+   "ss": 40.0,
+   "line": 59,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H NIGHT TAKEOFF, RAF FAIRFORD, ENGLAND, 2024 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 456.3666666666667,
+   "d": 5.133333333333334,
+   "src": "dv1006838",
+   "ss": 62.0,
+   "line": 59,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H TAKEOFF, EUROPE, 2026 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 461.5,
+   "d": 13.8,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 60,
+   "lab": ""
+  },
+  {
+   "t": 475.3,
+   "d": 7.566666666666666,
+   "src": "img:nar_never",
+   "ss": 0,
+   "line": 61,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 482.8666666666667,
+   "d": 8.666666666666666,
+   "src": "dv1006838",
+   "ss": 34.0,
+   "line": 62,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H TAKEOFF, EUROPE, 2026 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 491.53333333333336,
+   "d": 2.7666666666666666,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 63,
+   "lab": ""
+  },
+  {
+   "t": 494.3,
+   "d": 8.933333333333334,
+   "src": "dv1010076",
+   "ss": 12.0,
+   "line": 64,
+   "lab": "B-ROLL \u00b7 AN AIR NATIONAL GUARD KC-135 REFUELS A B-52, OVER THE U.S. MIDWEST, 2026"
+  },
+  {
+   "t": 503.23333333333335,
+   "d": 8.933333333333334,
+   "src": "dv1006838",
+   "ss": 4.0,
+   "line": 64,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H TAKEOFF, EUROPE, 2026 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 512.1666666666666,
+   "d": 10.2,
+   "src": "dv1015133",
+   "ss": 0.5,
+   "line": 65,
+   "lab": "B-ROLL \u00b7 A B-52H AT MINOT AIR FORCE BASE, NORTH DAKOTA, 2026"
+  },
+  {
+   "t": 522.3666666666667,
+   "d": 7.733333333333333,
+   "src": "img:nar_never",
+   "ss": 0,
+   "line": 66,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 530.1,
+   "d": 12.966666666666667,
+   "src": "img:nar_alert",
+   "ss": 0,
+   "line": 67,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 543.0666666666667,
+   "d": 13.566666666666666,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 68,
+   "lab": ""
+  },
+  {
+   "t": 556.6333333333333,
+   "d": 15.933333333333334,
+   "src": "g:timeline",
+   "ss": 0,
+   "line": 69,
+   "lab": ""
+  },
+  {
+   "t": 572.5666666666667,
+   "d": 2.6333333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 70,
+   "lab": ""
+  },
+  {
+   "t": 575.2,
+   "d": 7.9,
+   "src": "dv1015133",
+   "ss": 50.0,
+   "line": 71,
+   "lab": "B-ROLL \u00b7 A B-52H AT MINOT AIR FORCE BASE, NORTH DAKOTA, 2026"
+  },
+  {
+   "t": 583.1,
+   "d": 12.133333333333333,
+   "src": "g:doc",
+   "ss": 0,
+   "line": 72,
+   "lab": ""
+  },
+  {
+   "t": 595.2333333333333,
+   "d": 3.6,
+   "src": "dv739519",
+   "ss": 98.2,
+   "line": 73,
+   "lab": "B-ROLL \u00b7 PINE TREES AT SEYMOUR JOHNSON AIR FORCE BASE, NORTH CAROLINA, 2020 \u00b7 NOT THE CRASH SITE"
+  },
+  {
+   "t": 598.8333333333334,
+   "d": 3.6,
+   "src": "dv943839",
+   "ss": 40.0,
+   "line": 73,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE B-52H NIGHT TAKEOFF, RAF FAIRFORD, ENGLAND, 2024 \u00b7 NOT THE 1961 AIRCRAFT"
+  },
+  {
+   "t": 602.4333333333333,
+   "d": 8.133333333333333,
+   "src": "img:nar_gb_bot",
+   "ss": 0,
+   "line": 74,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 610.5666666666667,
+   "d": 7.6,
+   "src": "img:nar_gb",
+   "ss": 0,
+   "line": 75,
+   "lab": "ACTUAL DOCUMENT \u00b7 DEPARTMENT OF DEFENSE, \"NARRATIVE SUMMARIES OF ACCIDENTS INVOLVING U.S. NUCLEAR WEAPONS 1950-1980\" (1981)"
+  },
+  {
+   "t": 618.1666666666666,
+   "d": 4.166666666666667,
+   "src": "dv1015133",
+   "ss": 44.0,
+   "line": 76,
+   "lab": "B-ROLL \u00b7 A B-52H AT MINOT AIR FORCE BASE, NORTH DAKOTA, 2026"
+  },
+  {
+   "t": 622.3333333333334,
+   "d": 8.533333333333333,
+   "src": "g:end",
+   "ss": 0,
+   "line": 77,
+   "lab": ""
+  }
+ ]
+}
