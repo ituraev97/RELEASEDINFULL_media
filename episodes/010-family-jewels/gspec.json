@@ -1,0 +1,283 @@
+[
+ {
+  "key": "intro_b7bd24",
+  "name": "intro",
+  "opts": {
+   "n": "010"
+  }
+ },
+ {
+  "key": "title_b1ea99",
+  "name": "title",
+  "opts": {
+   "n": "010",
+   "t": "The Family Jewels",
+   "size": 150,
+   "sub": "The CIA's List of Its Own Secrets"
+  }
+ },
+ {
+  "key": "chapter_8df980",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Order"
+  }
+ },
+ {
+  "key": "quote_db392e",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026I am determined that {{the law shall be respected\u2026}}",
+   "who": "James R. Schlesinger",
+   "role": "Director of Central Intelligence \u00b7 May 9, 1973",
+   "size": 66,
+   "source": "SOURCE: CIA, \"FAMILY JEWELS\" (1973; RELEASED JUNE 2007)"
+  }
+ },
+ {
+  "key": "chapter_8f517f",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "The List"
+  }
+ },
+ {
+  "key": "quote_c34d3d",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026still have a viable {{\"flap potential\"}} in that many of the people involved\u2026 are still alive\u2026",
+   "who": "Howard J. Osborn",
+   "role": "CIA Director of Security \u00b7 May 16, 1973",
+   "size": 60,
+   "source": "SOURCE: CIA, \"FAMILY JEWELS\" (1973; RELEASED JUNE 2007)"
+  }
+ },
+ {
+  "key": "stat_9e94d6",
+  "name": "stat",
+  "opts": {
+   "k": "THE FAMILY JEWELS \u00b7 RELEASED JUNE 2007",
+   "a": "702",
+   "to": 702,
+   "size": 300,
+   "b": "pages in the released collection",
+   "c": "first announced as 693 pages",
+   "source": "SOURCE: NATIONAL SECURITY ARCHIVE, \"THE CIA'S FAMILY JEWELS\" (EBB 222, 2007)"
+  }
+ },
+ {
+  "key": "chapter_765b76",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "The Wiretaps"
+  }
+ },
+ {
+  "key": "list_2a967f",
+  "name": "list",
+  "opts": {
+   "kicker": "OFFICE OF SECURITY \u00b7 SURVEILLANCE OF NEWSMEN",
+   "title": "As listed in the Family Jewels",
+   "items": [
+    {
+     "n": "1963",
+     "t": "Project MOCKINGBIRD",
+     "s": "TWO NEWSMEN \u00b7 PHONE TAPS"
+    },
+    {
+     "n": "1971",
+     "t": "CELOTEX I",
+     "s": "MICHAEL GETLER \u00b7 WASHINGTON POST"
+    },
+    {
+     "n": "1972",
+     "t": "CELOTEX II",
+     "s": "JACK ANDERSON AND HIS \"LEG MEN\""
+    }
+   ],
+   "source": "SOURCE: CIA, \"FAMILY JEWELS\" (1973; RELEASED JUNE 2007)"
+  }
+ },
+ {
+  "key": "chapter_3da056",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "The Mail"
+  }
+ },
+ {
+  "key": "stat_63ab24",
+  "name": "stat",
+  "opts": {
+   "k": "NEW YORK MAIL INTERCEPT \u00b7 ITS LAST YEAR",
+   "a": "8,700",
+   "to": 8700,
+   "size": 280,
+   "b": "items of mail opened",
+   "c": "33,000 envelopes photographed \u00b7 2,300,000 examined",
+   "source": "SOURCE: REPORT TO THE PRESIDENT BY THE COMMISSION ON CIA ACTIVITIES WITHIN THE UNITED STATES (JUNE 1975)"
+  }
+ },
+ {
+  "key": "doc_540036",
+  "name": "doc",
+  "opts": {
+   "header": "CIA MEMORANDUM \u00b7 1962 \u00b7 AS DESCRIBED BY THE ROCKEFELLER COMMISSION",
+   "title": "On the mail openings",
+   "lines": [
+    "\u2026the Agency was aware that the mail openings",
+    "{{would be viewed as violating federal criminal laws}}",
+    "prohibiting obstruction or delay of the mails."
+   ],
+   "source": "SOURCE: ROCKEFELLER COMMISSION REPORT (1975), P. 20 \u00b7 WORDING OF THE REPORT, RECREATED"
+  }
+ },
+ {
+  "key": "chapter_315608",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "Chaos"
+  }
+ },
+ {
+  "key": "stat_7962a4",
+  "name": "stat",
+  "opts": {
+   "k": "OPERATION CHAOS \u00b7 SIX YEARS",
+   "a": "300,000+",
+   "size": 250,
+   "b": "names in a computerized index",
+   "c": "13,000 files \u00b7 7,200 on American citizens",
+   "source": "SOURCE: REPORT TO THE PRESIDENT BY THE COMMISSION ON CIA ACTIVITIES WITHIN THE UNITED STATES (JUNE 1975)"
+  }
+ },
+ {
+  "key": "chapter_59f1e0",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "The Leak"
+  }
+ },
+ {
+  "key": "doc_ad65df",
+  "name": "doc",
+  "opts": {
+   "header": "THE NEW YORK TIMES \u00b7 DECEMBER 22, 1974 \u00b7 FRONT PAGE",
+   "title": "Headline",
+   "lines": [
+    "{{Huge C.I.A. Operation Reported in U.S.}}",
+    "Against Antiwar Forces, Other Dissidents",
+    "in Nixon Years"
+   ],
+   "source": "SOURCE: FRUS 1969-1976, VOL. XXXVIII, PART 2, DOC. 17 (EDITORIAL NOTE) \u00b7 HEADLINE, RECREATED"
+  }
+ },
+ {
+  "key": "quote_6c33b5",
+  "name": "quote",
+  "opts": {
+   "q": "{{The morale of the CIA must be terrible.}}",
+   "who": "Henry A. Kissinger",
+   "role": "To President Ford \u00b7 January 17, 1975",
+   "size": 72,
+   "source": "SOURCE: FRUS 1969-1976, VOL. XXXVIII, PART 2 (U.S. DEPARTMENT OF STATE), DOC. 29"
+  }
+ },
+ {
+  "key": "chapter_9ad6df",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "The Verdict"
+  }
+ },
+ {
+  "key": "quote_928038",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026the CIA's domestic mail opening programs {{were unlawful.}}",
+   "who": "Rockefeller Commission",
+   "role": "Report to the President \u00b7 June 1975",
+   "size": 66,
+   "source": "SOURCE: REPORT TO THE PRESIDENT BY THE COMMISSION ON CIA ACTIVITIES WITHIN THE UNITED STATES (JUNE 1975)"
+  }
+ },
+ {
+  "key": "doc_884057",
+  "name": "doc",
+  "opts": {
+   "header": "EXECUTIVE ORDER 11905 \u00b7 FEBRUARY 18, 1976 \u00b7 SEC. 5(g)",
+   "title": "Prohibition of Assassination",
+   "lines": [
+    "No employee of the United States Government",
+    "shall engage in, or conspire to engage in,",
+    "{{political assassination.}}"
+   ],
+   "source": "SOURCE: EXECUTIVE ORDER 11905, SIGNED BY GERALD R. FORD \u00b7 TEXT, RECREATED"
+  }
+ },
+ {
+  "key": "timeline_3d6cef",
+  "name": "timeline",
+  "opts": {
+   "kicker": "AFTER THE FAMILY JEWELS",
+   "title": "What changed",
+   "events": [
+    {
+     "y": "1975",
+     "t": "Rockefeller Commission"
+    },
+    {
+     "y": "1975",
+     "t": "Church Committee formed"
+    },
+    {
+     "y": "1976",
+     "t": "Ban on political assassination"
+    },
+    {
+     "y": "1976",
+     "t": "Senate Intelligence Committee"
+    },
+    {
+     "y": "1978",
+     "t": "FISA court warrants"
+    }
+   ],
+   "source": "SOURCES: ROCKEFELLER COMMISSION (1975); U.S. SENATE HISTORICAL OFFICE; EXECUTIVE ORDER 11905"
+  }
+ },
+ {
+  "key": "chapter_d16e7f",
+  "name": "chapter",
+  "opts": {
+   "n": "VIII",
+   "t": "The Release"
+  }
+ },
+ {
+  "key": "quote_45dafa",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026a glimpse of {{a very different time and a very different Agency.}}",
+   "who": "Michael V. Hayden",
+   "role": "CIA Director \u00b7 June 2007",
+   "size": 66,
+   "source": "SOURCE: NATIONAL SECURITY ARCHIVE, \"THE CIA'S FAMILY JEWELS\" (EBB 222, 2007)"
+  }
+ },
+ {
+  "key": "end_7d82fd",
+  "name": "end",
+  "opts": {
+   "n": "010",
+   "next": "Saucers Over the Capitol, 1952"
+  }
+ }
+]

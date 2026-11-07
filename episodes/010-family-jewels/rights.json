@@ -1,0 +1,50 @@
+{
+ "dv346026.mp4": {
+  "source": "https://www.dvidshub.net/video/346026",
+  "title": "DVIDS - Video - Capitol Building in Washington, D.C., B-Roll",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101768679/DOD_101768679-720x406-800k.mp4"
+ },
+ "dv346119.mp4": {
+  "source": "https://www.dvidshub.net/video/346119",
+  "title": "DVIDS - Video - B-Roll Footage Around Washington, D.C. Capitol 2",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101768997/DOD_101768997-720x406-800k.mp4"
+ },
+ "dv346124.mp4": {
+  "source": "https://www.dvidshub.net/video/346124",
+  "title": "DVIDS - Video - B-Roll Footage Around Washington, D.C., White House",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101769002/DOD_101769002-720x406-800k.mp4"
+ },
+ "dv1026930.mp4": {
+  "source": "https://www.dvidshub.net/video/1026930",
+  "title": "DVIDS - Video - From the Cockpit: America 250 Over Washington, D.C.",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083901/DOD_112083901.mp4",
+  "note": "trimmed from 22 s (20 s) and scaled to 1080p -> dv1026930t.mp4"
+ },
+ "dv884981.mp4": {
+  "source": "https://www.dvidshub.net/video/884981",
+  "title": "DVIDS - Video - Pentagon Aerial Footage",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2305/DOD_109667222/DOD_109667222.mp4"
+ },
+ "dv516411.mp4": {
+  "source": "https://www.dvidshub.net/video/516411",
+  "title": "DVIDS - Video - Pentagon Aerial View",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1703/DOD_104222373/DOD_104222373-1024x576-1769k.mp4"
+ },
+ "dv825871.mp4": {
+  "source": "https://www.dvidshub.net/video/825871",
+  "title": "DVIDS - Video - Joint Military Mail Terminal",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2111/DOD_108732264/DOD_108732264.mp4",
+  "note": "trimmed from 120 s (210 s) -> dv825871t.mp4"
+ },
+ "documents": {
+  "cia_family_jewels": "https://archive.org/details/cia-readingroom-document-0001451843 (CIA Reading Room 0001451843; U.S. government work)",
+  "rockefeller_report": "https://archive.org/details/reporttopresiden01unit (GPO 1975; U.S. government work)"
+ }
+}

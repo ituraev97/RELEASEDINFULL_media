@@ -49,6 +49,7 @@ python3 $R/pipeline/finish.py $EP $SRC         # overlays, SRT, music, SFX, -14 
 python3 $R/pipeline/qc_report.py $EP $EP/video_raw.mp4   # must say FAILS: 0
 # encode (≤ 95 MB), Shorts, thumbnails
 python3 $R/pipeline/shorts.py $EP $EP/shorts      # 4 cuts, 62–110 s each (--from-long re-cuts a published long.mp4)
+python3 $R/pipeline/shorts.py $EP $EP/shorts --platform youtube   # YouTube Shorts y1–y3, 30–45 s, from META["yshorts"] (owner rule 2026-11-06)
 (cd $R/pipeline && NODE_PATH=$(npm root -g) node thumb.mjs $EP/thumb.json $EP)
 ```
 bash $R/pipeline/encode.sh $EP 95       # -> long.mp4 (two-pass x265, overlay burned in, <= 95 MB)

@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 """Vertical Shorts / TikToks (1080x1920) cut from the finished episode, captions burned in.
-usage: shorts.py <episode_dir> <out_dir> [--from-long]
+usage: shorts.py <episode_dir> <out_dir> [--from-long] [--platform youtube]
 episode.META["shorts"] = [{"id": "s1", "lines": [first, last], "hook": "TEXT<br>[GREEN WORD]"}]  (1-indexed, inclusive)
 
 LENGTH RULE (owner, Nov 2026): every vertical cut is 62–110 s, so it qualifies for TikTok's Creator Rewards (> 1 min)
 and is still a YouTube Short (≤ 3 min). If the chosen lines run shorter than 62 s, the cut is extended line by line
 (following lines first, then preceding ones) until it reaches 62 s; it never stops mid-sentence.
+
+--platform youtube (owner rule 2026-11-06): YouTube Shorts y1–y3 of 30–45 s from episode.META["yshorts"]
+(same layout; the hook text is on screen from the first frame; CTA "THE FULL FILE IS ON OUR CHANNEL"). Default (TikTok) unchanged.
 
 Layout (TikTok + Shorts safe zones: nothing important below y≈1500 or in the right 130 px):
   brand stamp + hook at the top · the 16:9 picture over a blurred copy · word-group captions at y 1330 · CTA at y 1450.
@@ -14,7 +17,10 @@ Sources: default = video_raw.mp4 + overlay.ass + mix.wav + vo/phrases.json (fres
 import json, os, re, subprocess, sys, importlib.util
 EP = os.path.abspath(sys.argv[1]); OUT = os.path.abspath(sys.argv[2]); os.makedirs(OUT, exist_ok=True)
 FROM_LONG = "--from-long" in sys.argv
-MIN_D, MAX_D = 62.0, 110.0
+YT = "--platform" in sys.argv and sys.argv[sys.argv.index("--platform") + 1] == "youtube"
+MIN_D, MAX_D = (30.0, 45.0) if YT else (62.0, 110.0)
+KEY = "yshorts" if YT else "shorts"
+CTA = "THE FULL FILE IS ON OUR CHANNEL" if YT else "FOLLOW FOR THE NEXT FILE"
 spec = importlib.util.spec_from_file_location("episode", os.path.join(EP, "episode.py")); E = importlib.util.module_from_spec(spec); spec.loader.exec_module(E)
 T = json.load(open(f"{EP}/timing.json")); ST, VD = T["starts"], T["vdur"]; TOTAL = T["total"]; NL = len(E.LINES)
 SHORT = os.environ.get("RIF_SHORT", "RIF")
@@ -51,7 +57,7 @@ Style: CTA,Courier Prime,40,&H00B0F58C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
 def span(a, b): return max(0, ST[a] - 0.2), ST[b] + VD[b] + 0.7
-for sh in E.META.get("shorts", []):
+for sh in E.META.get(KEY, []):
     a, b = sh["lines"][0] - 1, sh["lines"][1] - 1
     t0, t1 = span(a, b)
     while t1 - t0 < MIN_D and (b + 1 < NL or a > 0):          # extend to >= 62 s, whole lines only
@@ -76,7 +82,7 @@ for sh in E.META.get("shorts", []):
             e = s + spn * len(g) / tot
             if 0 <= s < D: ev.append(f"Dialogue: 1,{ts(s)},{ts(min(D, e) - 0.01)},Cap,,0,0,0,,{{\\an5\\pos(530,1330)\\fscx94\\fscy94\\t(0,80,\\fscx100\\fscy100)}}{g.upper()}")
             s = e
-    ev.append(f"Dialogue: 3,{ts(D - 3.0)},{ts(D)},CTA,,0,0,0,,{{\\an5\\pos(530,1450)\\fad(200,0)}}FOLLOW FOR THE NEXT FILE")
+    ev.append(f"Dialogue: 3,{ts(D - 3.0)},{ts(D)},CTA,,0,0,0,,{{\\an5\\pos(530,1450)\\fad(200,0)}}{CTA}")
     ass = f"{OUT}/{sh['id']}.ass"; open(ass, "w", encoding="utf-8").write(HEAD + "\n".join(ev) + "\n")
     burn = "" if FROM_LONG else f"ass={EP}/overlay.ass,"
     vf = (f"[0:v]setpts=PTS+{t0:.3f}/TB,{burn}setpts=PTS-STARTPTS,split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,gblur=sigma=28,eq=brightness=-0.42:saturation=0.7[bg];"
@@ -89,4 +95,4 @@ for sh in E.META.get("shorts", []):
                     "-af", f"afade=t=in:d=0.15,afade=t=out:st={D - 0.5:.2f}:d=0.5,loudnorm=I=-14:TP=-1.5", "-c:v", "libx264", "-preset", "medium", "-crf", "20",
                     "-pix_fmt", "yuv420p", "-r", "30", "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-movflags", "+faststart", out], check=True)
     print(sh["id"], "lines", sh["lines_used"], round(D, 1), "s", out, flush=True)
-json.dump({s["id"]: s.get("lines_used") for s in E.META.get("shorts", [])}, open(f"{OUT}/lines_used.json", "w"))
+json.dump({s["id"]: s.get("lines_used") for s in E.META.get(KEY, [])}, open(f"{OUT}/{'y' if YT else ''}lines_used.json", "w"))

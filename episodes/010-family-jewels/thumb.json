@@ -1,0 +1,27 @@
+{
+ "image": "/home/claude/releasedinfull_media/episodes/010-family-jewels/thumb_src.jpg",
+ "pos": "38% 12%",
+ "zoom": 175,
+ "hud": false,
+ "A": {
+  "big": "THE CIA'S<br><b>OWN</b> LIST",
+  "stamp": "CIA \u00b7 1973",
+  "size": 150,
+  "sy": 540,
+  "ss": 50
+ },
+ "B": {
+  "header": "CIA \u00b7 MEMO \u00b7 16 MAY 1973",
+  "lines": [
+   "SUBJECT:",
+   "{{\"Family Jewels\"}}"
+  ],
+  "size": 76
+ },
+ "C": {
+  "q": "WHAT DID THE<br>CIA <b>ADMIT</b>?",
+  "tag": "FILE 010 \u00b7 CIA \u00b7 1973",
+  "size": 120,
+  "w": 1000
+ }
+}

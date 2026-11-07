@@ -13,7 +13,7 @@ Status: `todo` → `done YYYY-MM-DD` / `skip (reason)`. Take the first `todo` (d
 | 007 | Project Azorian | done 2026-11-05 |
 | 008 | 144 Reports, 1 Explained | done 2026-11-06 |
 | 009 | Goldsboro 1961 | done 2026-11-07 |
-| 010 | The Family Jewels | todo |
+| 010 | The Family Jewels | done 2026-11-08 |
 | 011 | UFOs over Washington, 1952 | todo |
 | 012 | Stargate | todo |
 | 013 | VENONA | todo |
