@@ -1,0 +1,27 @@
+{
+ "image": "/home/claude/releasedinfull_media/episodes/011-washington-1952/thumb_src.jpg",
+ "pos": "28% 18%",
+ "zoom": 175,
+ "hud": false,
+ "A": {
+  "big": "RADAR BLIPS<br>OVER <b>WASHINGTON</b>",
+  "stamp": "JULY 1952",
+  "size": 130,
+  "sy": 540,
+  "ss": 50
+ },
+ "B": {
+  "header": "AIR FORCE · BLUE BOOK CHART · 1952",
+  "lines": [
+   "HIGHLY PUBLICIZED INCIDENT",
+   "{{AT WASHINGTON D.C.}}"
+  ],
+  "size": 70
+ },
+ "C": {
+  "q": "WHAT DID<br>RADAR <b>SEE</b>?",
+  "tag": "FILE 011 · WASHINGTON · 1952",
+  "size": 130,
+  "w": 1000
+ }
+}

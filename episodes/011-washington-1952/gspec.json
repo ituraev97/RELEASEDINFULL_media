@@ -1,0 +1,241 @@
+[
+ {
+  "key": "intro_e4c053",
+  "name": "intro",
+  "opts": {
+   "n": "011"
+  }
+ },
+ {
+  "key": "title_e5001b",
+  "name": "title",
+  "opts": {
+   "n": "011",
+   "t": "Saucers Over the Capital",
+   "size": 140,
+   "sub": "Washington, 1952, in the Files"
+  }
+ },
+ {
+  "key": "chapter_c4f493",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Talk"
+  }
+ },
+ {
+  "key": "doc_0e3aff",
+  "name": "doc",
+  "opts": {
+   "header": "REEL-TO-REEL TAPE \u00b7 AS DESCRIBED BY REP. ERIC BURLISON, MAY 8, 2026",
+   "title": "How it is identified",
+   "lines": [
+    "AF-ATIC-FILM, 03/52",
+    "{{\"flying saucer talk\"}}"
+   ],
+   "source": "SOURCE: OFFICE OF REP. ERIC BURLISON, PRESS RELEASE, MAY 8, 2026 \u00b7 TEXT AS QUOTED, RECREATED"
+  }
+ },
+ {
+  "key": "stat_3fb1b6",
+  "name": "stat",
+  "opts": {
+   "k": "CAPT. EDWARD J. RUPPELT \u00b7 MARCH 1952",
+   "a": "20%",
+   "size": 300,
+   "b": "of about 800 cases remained unexplained",
+   "c": "as described in the 2026 release (DOW-UAP-PR160)",
+   "source": "SOURCE: DOW-UAP-PR159 / PR160 DESCRIPTIONS, U.S. DEPARTMENT OF WAR VIA DVIDS (SEPT. 18, 2026)"
+  }
+ },
+ {
+  "key": "chapter_e8a311",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "The Film"
+  }
+ },
+ {
+  "key": "quote_c9d2c9",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026not birds, balloons or aircraft, were {{\"not reflections\u2026\"}} and were, therefore, {{\"self-luminous\".}}",
+   "who": "U.S. Navy Photo Interpretation Laboratory",
+   "role": "As recorded by the CIA's scientific panel \u00b7 January 1953",
+   "size": 62,
+   "source": "SOURCE: CIA, REPORT OF MEETINGS OF SCIENTIFIC ADVISORY PANEL ON UFOS (1953), P. 12"
+  }
+ },
+ {
+  "key": "chapter_153f74",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "The Radar"
+  }
+ },
+ {
+  "key": "stat_22a262",
+  "name": "stat",
+  "opts": {
+   "k": "PROJECT BLUE BOOK \u00b7 JULY 1952",
+   "a": "440+",
+   "size": 300,
+   "b": "reports in a single month",
+   "c": "peak: 43 reports on July 28",
+   "source": "SOURCE: PROJECT BLUE BOOK STATUS REPORT NO. 8 (NATIONAL ARCHIVES)"
+  }
+ },
+ {
+  "key": "chapter_6ade62",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "The Answer"
+  }
+ },
+ {
+  "key": "quote_32913b",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026{{\"no pattern of anything remotely consistent with any menace to the United States\"}}\u2026",
+   "who": "Maj. Gen. John A. Samford",
+   "role": "Press conference, July 29, 1952 \u00b7 as summarized by the CIA",
+   "size": 60,
+   "source": "SOURCE: CIA MEMORANDUM \"FLYING SAUCERS,\" AUGUST 14, 1952 (CIA READING ROOM)"
+  }
+ },
+ {
+  "key": "chapter_be509b",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "The Agency"
+  }
+ },
+ {
+  "key": "quote_a91755",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026{{\"a number of incredible reports from credible observers.\"}}",
+   "who": "U.S. Air Force briefers",
+   "role": "To the CIA study group \u00b7 1952",
+   "size": 70,
+   "source": "SOURCE: CIA, \"THE CIA'S ROLE IN THE STUDY OF UFOS, 1947-90\" (G. K. HAINES, 1997)"
+  }
+ },
+ {
+  "key": "quote_d44157",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026only one chance in 10,000 that the phenomenon posed a threat\u2026 {{but even that chance could not be taken.}}",
+   "who": "Gen. Walter Bedell Smith",
+   "role": "Director of Central Intelligence \u00b7 1952",
+   "size": 60,
+   "source": "SOURCE: CIA, \"THE CIA'S ROLE IN THE STUDY OF UFOS, 1947-90\" (G. K. HAINES, 1997)"
+  }
+ },
+ {
+  "key": "quote_597145",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026we cannot, on an instant basis, {{distinguish hardware from phantom\u2026}}",
+   "who": "H. Marshall Chadwell",
+   "role": "CIA Assistant Director, Scientific Intelligence \u00b7 Sept. 24, 1952",
+   "size": 66,
+   "source": "SOURCE: CIA, H. MARSHALL CHADWELL TO THE DCI, \"FLYING SAUCERS,\" SEPTEMBER 24, 1952"
+  }
+ },
+ {
+  "key": "chapter_a2b75f",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "The Panel"
+  }
+ },
+ {
+  "key": "quote_27cc72",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026strip the Unidentified Flying Objects of the special status they have been given and {{the aura of mystery they have unfortunately acquired.}}",
+   "who": "The Robertson Panel",
+   "role": "Report of the Scientific Panel \u00b7 January 17, 1953",
+   "size": 56,
+   "source": "SOURCE: REPORT OF THE SCIENTIFIC PANEL ON UNIDENTIFIED FLYING OBJECTS, JANUARY 17, 1953 (CIA)"
+  }
+ },
+ {
+  "key": "chapter_a87aac",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "The Release"
+  }
+ },
+ {
+  "key": "stat_61d542",
+  "name": "stat",
+  "opts": {
+   "k": "PROJECT BLUE BOOK \u00b7 1947-1969",
+   "a": "701",
+   "to": 701,
+   "size": 300,
+   "b": "sightings still \"unidentified\"",
+   "c": "out of 12,618 reported",
+   "source": "SOURCE: USAF FACT SHEET 95-03, \"UNIDENTIFIED FLYING OBJECTS AND AIR FORCE PROJECT BLUE BOOK\""
+  }
+ },
+ {
+  "key": "quote_6b2bad",
+  "name": "quote",
+  "opts": {
+   "q": "The film's limited detail and lack of fixed reference points {{prevented a conclusive resolution.}}",
+   "who": "DOW-UAP-PR159",
+   "role": "Official description \u00b7 September 2026",
+   "size": 62,
+   "source": "SOURCE: DOW-UAP-PR159 / PR160 DESCRIPTIONS, U.S. DEPARTMENT OF WAR VIA DVIDS (SEPT. 18, 2026)"
+  }
+ },
+ {
+  "key": "timeline_36ca0f",
+  "name": "timeline",
+  "opts": {
+   "kicker": "1952, IN THE FILES",
+   "title": "The order of events",
+   "events": [
+    {
+     "y": "MAR",
+     "t": "Ruppelt's talk; Blue Book ordered"
+    },
+    {
+     "y": "JUL 2",
+     "t": "Tremonton film"
+    },
+    {
+     "y": "JUL 19-20",
+     "t": "Washington radar"
+    },
+    {
+     "y": "JUL 27",
+     "t": "Blips return"
+    },
+    {
+     "y": "JUL 29",
+     "t": "Samford press conference"
+    }
+   ],
+   "source": "SOURCES: DVIDS (2026); CIA, HAINES (1997); CIA MEMO, AUGUST 14, 1952; NATIONAL ARCHIVES"
+  }
+ },
+ {
+  "key": "end_f920dc",
+  "name": "end",
+  "opts": {
+   "n": "011",
+   "next": "Stargate: The Pentagon's Psychic Spies"
+  }
+ }
+]

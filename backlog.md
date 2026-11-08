@@ -14,7 +14,7 @@ Status: `todo` → `done YYYY-MM-DD` / `skip (reason)`. Take the first `todo` (d
 | 008 | 144 Reports, 1 Explained | done 2026-11-06 |
 | 009 | Goldsboro 1961 | done 2026-11-07 |
 | 010 | The Family Jewels | done 2026-11-08 |
-| 011 | UFOs over Washington, 1952 | todo |
+| 011 | UFOs over Washington, 1952 | done 2026-11-09 |
 | 012 | Stargate | todo |
 | 013 | VENONA | todo |
 | 014 | Kenneth Arnold, June 24, 1947 | todo |
