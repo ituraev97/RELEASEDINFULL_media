@@ -1,6 +1,6 @@
 # RELEASED IN FULL — production runbook
 
-One run = one long episode (~10 min, at least 10:00, English) + 4 vertical cuts from it (62–110 s each; posted to BOTH YouTube Shorts and TikTok), for one US day, uploaded here (drop branches) and scheduled in Metricool (brand RELEASED IN FULL, blogId 7743507).
+One run = one long episode (~10 min, at least 10:00, English) + 4 TikTok cuts (62–110 s) + 3 YouTube Shorts (30–45 s), covering a 2-day block D and D+1 (owner decision 2026-11-09: one long video EVERY OTHER DAY), uploaded here (drop branches) and scheduled in Metricool (brand RELEASED IN FULL, blogId 7743507).
 Episode 001 (`episodes/001-navy-videos/`) is the reference for structure, pacing and style. Channel bible: Claude Docs «RELEASED IN FULL — библия канала» and Projects doc `claude/released-in-full-bible.md`.
 
 ## 0. Rules that never bend
@@ -64,9 +64,11 @@ bash $R/pipeline/encode.sh $EP 95       # -> long.mp4 (two-pass x265, overlay bu
 - URL: `https://raw.githubusercontent.com/ituraev97/releasedinfull_media/drop-<day>/<file>`
 
 ## 7. Schedule in Metricool (blogId 7743507, timezone America/New_York)
-- Check getScheduledPosts for the target date first: if a long YouTube video is already scheduled, stop and report.
-- Long: 14:00 ET. youtubeData {title, type "video", privacy "public", madeForKids false, category "EDUCATION", isAiGeneratedContent false, tags}; text = youtube_description.txt; media [long.mp4 URL]; videoThumbnailUrl = thumb_A URL (retry once without it if rejected).
-- 4 vertical cuts: 09:30, 12:30, 16:30, 20:30 ET — ONE post per slot with providers [{"network":"youtube"},{"network":"tiktok"}]: youtubeData {title ≤ 90 chars, type "short", privacy "public", madeForKids false, category "EDUCATION", isAiGeneratedContent false, tags}; tiktokData {title ≤ 90 chars, privacyOption "PUBLIC_TO_EVERYONE", isAigc false}; text = 1–2 lines with search keywords + 4–5 hashtags (#declassified #history #coldwar …). If the combined post is rejected, create two posts (one per network) for the same slot.
+- Cadence (owner decision 2026-11-09, after the audit: 49 videos in 10 days, 152 views, 2 subscribers): one long video every other day. D = date of the last long video + 2 days (tomorrow if none in the last 3 days); if D is more than 2 days away, the run stops.
+- Long: D 14:00 ET. youtubeData {title, type "video", privacy "public", madeForKids false, category "EDUCATION", isAiGeneratedContent false, tags}; text = youtube_description.txt; media [long.mp4 URL]; videoThumbnailUrl = thumb_A URL (retry once without it if rejected).
+- YouTube Shorts y1–y3 (30–45 s, YouTube only): D 12:30, D 20:30, D+1 16:30 ET. type "short", isAiGeneratedContent false, title ≤ 60 chars = question or surprising claim, never a document quote, memo name or a leading year.
+- TikTok s1–s4 (62–110 s, TikTok only): D 12:30, D 20:30, D+1 12:30, D+1 20:30 ET. tiktokData {title ≤ 90 chars, privacyOption "PUBLIC_TO_EVERYONE", isAigc false}; text = 1–2 lines with search keywords + 4–5 hashtags.
+- Language: narration, titles and descriptions are English. Metricool cannot set the YouTube video language; the channel's upload default must be English (YouTube Studio → Settings → Upload defaults → Advanced → Video language).
 - Every vertical cut must be 62–110 s (TikTok Creator Rewards needs > 1 min; shorts.py auto-extends whole lines to ≥ 62 s), captions burned in, b-roll labels present, nothing important below y≈1500 or in the right 130 px (TikTok UI). Pick line ranges that make a complete mini-story (hook → reveal) of ~65–90 s.
 
 ## 8. Close the run
