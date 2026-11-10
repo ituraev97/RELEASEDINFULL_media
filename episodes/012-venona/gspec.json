@@ -1,0 +1,295 @@
+[
+ {
+  "key": "intro_3d1d4a",
+  "name": "intro",
+  "opts": {
+   "n": "012"
+  }
+ },
+ {
+  "key": "title_b148eb",
+  "name": "title",
+  "opts": {
+   "n": "012",
+   "t": "VENONA",
+   "size": 170,
+   "sub": "How Codebreakers Helped Catch Stalin's Atomic Spies"
+  }
+ },
+ {
+  "key": "chapter_7e8ed5",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Boxes"
+  }
+ },
+ {
+  "key": "list_7ddff6",
+  "name": "list",
+  "opts": {
+   "kicker": "VENONA \u00b7 FIVE SOVIET SYSTEMS",
+   "title": "Who was sending",
+   "items": [
+    {
+     "t": "Soviet trading companies"
+    },
+    {
+     "t": "The Foreign Ministry"
+    },
+    {
+     "t": "The KGB",
+     "s": "STATE INTELLIGENCE"
+    },
+    {
+     "t": "The GRU",
+     "s": "MILITARY INTELLIGENCE"
+    },
+    {
+     "t": "Naval intelligence"
+    }
+   ],
+   "source": "SOURCE: U.S. ARMY INTELLIGENCE CENTER OF EXCELLENCE, \"SIS UNCOVERS SOVIET INFILTRATION OF MANHATTAN PROJECT\" (2024)"
+  }
+ },
+ {
+  "key": "chapter_2babcd",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "The Mistake"
+  }
+ },
+ {
+  "key": "list_5083ea",
+  "name": "list",
+  "opts": {
+   "kicker": "HOW A VENONA MESSAGE WAS ENCIPHERED",
+   "title": "Three layers",
+   "items": [
+    {
+     "n": "01",
+     "t": "Code book",
+     "s": "WORD \u2192 4-DIGIT GROUP"
+    },
+    {
+     "n": "02",
+     "t": "Converted",
+     "s": "\u2192 5-DIGIT FIGURES"
+    },
+    {
+     "n": "03",
+     "t": "Key added",
+     "s": "FROM A ONE-TIME PAD"
+    }
+   ],
+   "source": "SOURCE: U.S. ARMY INTELLIGENCE CENTER OF EXCELLENCE, \"SIS UNCOVERS SOVIET INFILTRATION OF MANHATTAN PROJECT\" (2024)"
+  }
+ },
+ {
+  "key": "stat_52ecbb",
+  "name": "stat",
+  "opts": {
+   "k": "NSA \u00b7 VENONA: AN OVERVIEW",
+   "a": "35,000",
+   "to": 35000,
+   "size": 280,
+   "b": "pages of duplicate key",
+   "c": "a one-time pad, printed more than once",
+   "source": "SOURCE: NSA, CRYPTOLOGIC ALMANAC 50TH ANNIVERSARY SERIES, \"VENONA: AN OVERVIEW\""
+  }
+ },
+ {
+  "key": "stat_2926b8",
+  "name": "stat",
+  "opts": {
+   "k": "NSA \u00b7 VENONA MESSAGES, 1940-1948",
+   "a": "~3,000",
+   "size": 280,
+   "b": "even partially read and translated",
+   "c": "out of many thousands sent",
+   "source": "SOURCE: NSA, CRYPTOLOGIC ALMANAC 50TH ANNIVERSARY SERIES, \"VENONA: AN OVERVIEW\""
+  }
+ },
+ {
+  "key": "chapter_a8a283",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "The List"
+  }
+ },
+ {
+  "key": "chapter_405be1",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "The Bomb"
+  }
+ },
+ {
+  "key": "stat_0db09c",
+  "name": "stat",
+  "opts": {
+   "k": "CIA ESTIMATE \u00b7 FIRST SOVIET ATOMIC BOMB",
+   "a": "MID-1953",
+   "size": 240,
+   "b": "\"the most probable date\"",
+   "c": "earliest possible: mid-1950",
+   "source": "SOURCE: D. P. STEURY, \"HOW THE CIA MISSED STALIN'S BOMB,\" STUDIES IN INTELLIGENCE 49:1 (2005)"
+  }
+ },
+ {
+  "key": "stat_6fb47c",
+  "name": "stat",
+  "opts": {
+   "k": "FIRST SOVIET ATOMIC TEST",
+   "a": "AUG. 29, 1949",
+   "size": 190,
+   "b": "years ahead of the estimate",
+   "source": "SOURCE: D. P. STEURY, \"HOW THE CIA MISSED STALIN'S BOMB,\" STUDIES IN INTELLIGENCE 49:1 (2005)"
+  }
+ },
+ {
+  "key": "chapter_a42b8c",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "Charles"
+  }
+ },
+ {
+  "key": "stat_ae2b2c",
+  "name": "stat",
+  "opts": {
+   "k": "KLAUS FUCHS \u00b7 1950",
+   "a": "14 YEARS",
+   "size": 230,
+   "b": "the maximum under the Official Secrets Act",
+   "source": "SOURCE: FBI, \"ATOM SPY CASE/ROSENBERGS\" (FBI.GOV HISTORY)"
+  }
+ },
+ {
+  "key": "chapter_9670a0",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "Liberal"
+  }
+ },
+ {
+  "key": "quote_410d87",
+  "name": "quote",
+  "opts": {
+   "q": "The most active spy, at least as seen in VENONA messages, {{was LIBERAL.}}",
+   "who": "National Security Agency",
+   "role": "Summary of the Rosenberg case \u00b7 2018",
+   "size": 66,
+   "source": "SOURCE: NSA, \"A HIGHLY CONTROVERSIAL CASE OF ESPIONAGE: A SUMMARY\" (JUNE 19, 2018)"
+  }
+ },
+ {
+  "key": "quote_d4e7bc",
+  "name": "quote",
+  "opts": {
+   "q": "The decrypts {{do not suggest she committed any crimes worthy of capital punishment.}}",
+   "who": "National Security Agency",
+   "role": "On Ethel Rosenberg \u00b7 2018",
+   "size": 64,
+   "source": "SOURCE: NSA, \"A HIGHLY CONTROVERSIAL CASE OF ESPIONAGE: A SUMMARY\" (JUNE 19, 2018)"
+  }
+ },
+ {
+  "key": "timeline_dc07c4",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE ATOM SPY CASE",
+   "title": "From decrypt to verdict",
+   "events": [
+    {
+     "y": "DEC 1946",
+     "t": "Gardner reads the scientists' list"
+    },
+    {
+     "y": "AUG 1949",
+     "t": "First Soviet atomic test"
+    },
+    {
+     "y": "JAN 1950",
+     "t": "Fuchs confesses"
+    },
+    {
+     "y": "MAY 1950",
+     "t": "Gold arrested"
+    },
+    {
+     "y": "MAR 1951",
+     "t": "Rosenbergs convicted"
+    },
+    {
+     "y": "JUN 1953",
+     "t": "Rosenbergs executed"
+    }
+   ],
+   "source": "SOURCES: U.S. ARMY ICoE (2024); STUDIES IN INTELLIGENCE (2005); BENSON & WARNER (1996); FBI"
+  }
+ },
+ {
+  "key": "quote_625b7c",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026could be used to stimulate investigations\u2026 {{but never were to be used in court or otherwise made public.}}",
+   "who": "National Security Agency",
+   "role": "On the VENONA decrypts \u00b7 2018",
+   "size": 60,
+   "source": "SOURCE: NSA, \"A HIGHLY CONTROVERSIAL CASE OF ESPIONAGE: A SUMMARY\" (JUNE 19, 2018)"
+  }
+ },
+ {
+  "key": "chapter_d7a4ea",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "Youngster"
+  }
+ },
+ {
+  "key": "quote_875709",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026a case could not have been made {{without revealing AFSA's program.}}",
+   "who": "Benson & Warner, eds.",
+   "role": "VENONA: Soviet Espionage and the American Response \u00b7 NSA/CIA, 1996",
+   "size": 66,
+   "source": "SOURCE: R. L. BENSON & M. WARNER, EDS., VENONA: SOVIET ESPIONAGE AND THE AMERICAN RESPONSE (NSA/CIA, 1996)"
+  }
+ },
+ {
+  "key": "chapter_d16e7f",
+  "name": "chapter",
+  "opts": {
+   "n": "VIII",
+   "t": "The Release"
+  }
+ },
+ {
+  "key": "stat_f8ae71",
+  "name": "stat",
+  "opts": {
+   "k": "VENONA RELEASES \u00b7 1995-1997",
+   "a": "~2,900",
+   "size": 280,
+   "b": "Soviet messages made public",
+   "c": "nearly 350 American Communist Party members exposed as Soviet spies",
+   "source": "SOURCE: U.S. ARMY INTELLIGENCE CENTER OF EXCELLENCE, \"VENONA OFFICIALLY RELEASED TO THE PUBLIC\" (2026)"
+  }
+ },
+ {
+  "key": "end_29f968",
+  "name": "end",
+  "opts": {
+   "n": "012",
+   "next": "Another file, released in full"
+  }
+ }
+]

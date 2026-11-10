@@ -1,0 +1,84 @@
+{
+ "dv952451.mp4": {
+  "source": "https://www.dvidshub.net/video/952451",
+  "title": "DVIDS - Video - USAG Fort Hamilton Aerial Footage",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2502/DOD_110813853/DOD_110813853.mp4"
+ },
+ "dv346026.mp4": {
+  "source": "https://www.dvidshub.net/video/346026",
+  "title": "DVIDS - Video - Capitol Building in Washington, D.C., B-Roll",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101768679/DOD_101768679-720x406-800k.mp4"
+ },
+ "dv346119.mp4": {
+  "source": "https://www.dvidshub.net/video/346119",
+  "title": "DVIDS - Video - B-Roll Footage Around Washington, D.C. Capitol 2",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101768997/DOD_101768997-720x406-800k.mp4"
+ },
+ "dv346120.mp4": {
+  "source": "https://www.dvidshub.net/video/346120",
+  "title": "DVIDS - Video - B-Roll Footage Around Washington, D.C. Treasury",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101768998/DOD_101768998-720x406-800k.mp4"
+ },
+ "dv1026930.mp4": {
+  "source": "https://www.dvidshub.net/video/1026930",
+  "title": "DVIDS - Video - From the Cockpit: America 250 Over Washington, D.C.",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083901/DOD_112083901.mp4"
+ },
+ "dv974123.mp4": {
+  "source": "https://www.dvidshub.net/video/974123",
+  "title": "DVIDS - Video - FBI Headquarters",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2508/DOD_111241387/DOD_111241387.mp4"
+ },
+ "dv1027235.mp4": {
+  "source": "https://www.dvidshub.net/video/1027235",
+  "title": "DVIDS - Video - Doc arrives at McConnell",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112090354/DOD_112090354.mp4"
+ },
+ "dv395453.mp4": {
+  "source": "https://www.dvidshub.net/video/395453",
+  "title": "DVIDS - Video - Yesterday's Air Force: The Plane that Ended World War II",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d34w7g4gy10iej.cloudfront.net/video/1503/DOD_102306224/DOD_102306224-1024x576-1769k.mp4"
+ },
+ "dvimg8799384.jpg": {
+  "source": "https://www.dvidshub.net/image/8799384",
+  "title": "DVIDS - Images - SIS Uncovers Soviet Infiltration of Manhattan Project (20 DEC 1946)",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2412/8799384/1000w_q95.jpg"
+ },
+ "dvimg9948187.jpg": {
+  "source": "https://www.dvidshub.net/image/9948187",
+  "title": "DVIDS - Images - Venona Officially Released to the Public (11 JUL 1995)",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2609/9948187/1000w_q95.jpg"
+ },
+ "dvimg3856843.jpg": {
+  "source": "https://www.dvidshub.net/image/3856843",
+  "title": "DVIDS - Images - White Sands Missile Range opens Trinity Site to public [Image 3 of 14]",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1710/3856843/1000w_q95.jpg"
+ },
+ "dvimg2902844.jpg": {
+  "source": "https://www.dvidshub.net/image/2902844",
+  "title": "DVIDS - Images - WSMR holds Trinity Site open house [Image 2 of 7]",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1610/2902844/1000w_q95.jpg"
+ },
+ "dvimg4071168.jpg": {
+  "source": "https://www.dvidshub.net/image/4071168",
+  "title": "DVIDS - Images - 120110-F-VG042-0001 [Image 1 of 3]",
+  "license": "PUBLIC DOMAIN",
+  "file_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1801/4071168/1000w_q95.jpg"
+ },
+ "venona_translations": {
+  "source": "https://archive.org/details/nsia-venona (mirror of NSA VENONA release, 1995-97)",
+  "license": "U.S. GOVERNMENT WORK (NSA)"
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "image": "/home/claude/releasedinfull_media/episodes/012-venona/thumb_src.jpg",
+ "pos": "20% 45%",
+ "zoom": 170,
+ "hud": false,
+ "A": {
+  "big": "THEY READ<br>THE <b>KGB'S</b> MAIL",
+  "stamp": "VENONA \u00b7 1944",
+  "size": 130,
+  "sy": 540,
+  "ss": 50
+ },
+ "B": {
+  "header": "KGB CABLE \u00b7 NEW YORK TO MOSCOW \u00b7 1944",
+  "lines": [
+   "THEODORE HALL, 19 YEARS OLD",
+   "{{IN CHARGE OF A GROUP AT \"CAMP-2\"}}"
+  ],
+  "size": 66
+ },
+ "C": {
+  "q": "WHO GAVE STALIN<br>THE <b>BOMB</b>?",
+  "tag": "FILE 012 \u00b7 VENONA \u00b7 1944",
+  "size": 120,
+  "w": 1000
+ }
+}

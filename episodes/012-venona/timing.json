@@ -1,0 +1,940 @@
+{
+ "starts": [
+  0.6,
+  7.896999999999999,
+  16.444,
+  21.966,
+  29.913667,
+  38.971667,
+  47.410999999999994,
+  58.12133299999999,
+  62.12133299999999,
+  65.72133299999999,
+  68.88366599999999,
+  82.646666,
+  86.980333,
+  100.88633300000001,
+  107.94966600000001,
+  112.261999,
+  120.971332,
+  124.272332,
+  136.666999,
+  142.946332,
+  156.06883200000001,
+  165.60683200000003,
+  179.95016500000003,
+  192.61683200000002,
+  195.88049900000001,
+  208.750832,
+  215.98583200000002,
+  220.020832,
+  233.30183200000002,
+  240.472832,
+  263.527832,
+  266.391499,
+  278.740166,
+  286.060499,
+  290.596832,
+  301.110832,
+  308.873832,
+  312.828832,
+  319.65016499999996,
+  322.460498,
+  333.731831,
+  340.721498,
+  349.550165,
+  360.426832,
+  366.418165,
+  384.483165,
+  393.656498,
+  396.237498,
+  406.186165,
+  416.044165,
+  425.06383200000005,
+  430.70949900000005,
+  441.28699900000004,
+  455.98233200000004,
+  467.57899900000007,
+  475.97466600000007,
+  488.6616660000001,
+  491.4719990000001,
+  504.4649990000001,
+  510.4286660000001,
+  518.8669990000001,
+  532.5601660000001,
+  544.4341660000001,
+  553.1294990000001,
+  562.7134990000001,
+  566.0251660000001,
+  576.1871660000002,
+  592.6371660000002,
+  607.5821660000003,
+  617.6961660000003,
+  627.3994990000003,
+  634.3081660000004,
+  644.0866660000004,
+  651.2404990000003,
+  655.4034990000004
+ ],
+ "durs": [
+  7.297,
+  8.547,
+  5.522,
+  7.947667,
+  9.058,
+  8.439333,
+  10.710333,
+  4.0,
+  3.6,
+  3.1623330000000003,
+  13.763,
+  4.333667,
+  13.906,
+  7.063333,
+  4.312333,
+  8.709332999999999,
+  3.301,
+  12.394667,
+  6.279332999999999,
+  13.1225,
+  9.538,
+  14.343333000000001,
+  12.666667,
+  3.263667,
+  12.870333,
+  7.234999999999999,
+  4.035,
+  13.281,
+  7.171,
+  23.055,
+  2.863667,
+  12.348667,
+  7.320333,
+  4.536333,
+  10.514000000000001,
+  7.763,
+  3.955,
+  6.821333,
+  2.810333,
+  11.271333,
+  6.989667,
+  8.828667000000001,
+  10.876667000000001,
+  5.991333,
+  18.065,
+  9.173333,
+  2.581,
+  9.948667,
+  9.858,
+  9.019667,
+  5.6456669999999995,
+  10.5775,
+  14.695333000000002,
+  11.596667,
+  8.395667,
+  12.687000000000001,
+  2.810333,
+  12.993,
+  5.963667,
+  8.438333,
+  13.693167,
+  11.874,
+  8.695333000000002,
+  9.584,
+  3.311667,
+  10.162,
+  16.45,
+  14.945,
+  10.114,
+  9.703333,
+  6.9086669999999994,
+  9.778500000000001,
+  7.153833,
+  4.163,
+  6.0
+ ],
+ "vdur": [
+  6.747,
+  7.997,
+  4.972,
+  7.397667,
+  8.508,
+  7.889333,
+  10.160333,
+  1.293,
+  0.0,
+  2.562333,
+  13.213,
+  3.783667,
+  13.356,
+  6.513333,
+  3.762333,
+  7.809333,
+  2.701,
+  11.844667,
+  5.729333,
+  12.5725,
+  8.988,
+  13.793333,
+  11.766667,
+  2.663667,
+  12.320333,
+  6.685,
+  3.485,
+  12.731,
+  6.621,
+  22.155,
+  2.263667,
+  11.798667,
+  6.770333,
+  3.986333,
+  9.964,
+  7.213,
+  3.405,
+  5.921333,
+  2.210333,
+  10.721333,
+  6.439667,
+  8.278667,
+  10.326667,
+  5.441333,
+  17.515,
+  8.273333,
+  1.981,
+  9.398667,
+  9.308,
+  8.469667,
+  5.095667,
+  10.0275,
+  14.145333,
+  11.046667,
+  7.845667,
+  11.787,
+  2.210333,
+  12.443,
+  5.413667,
+  7.888333,
+  13.143167,
+  11.324,
+  8.145333,
+  8.684,
+  2.711667,
+  9.612,
+  15.9,
+  14.395,
+  9.564,
+  9.153333,
+  6.358667,
+  9.2285,
+  6.353833,
+  3.613,
+  2.322333
+ ],
+ "total": 661.8,
+ "segs": [
+  {
+   "t": 0.0,
+   "d": 7.9,
+   "src": "img:hall_head",
+   "ss": 0,
+   "line": 0,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: KGB NEW YORK TO MOSCOW, NO. 1585, NOV. 12, 1944 \u00b7 NSA TRANSLATION"
+  },
+  {
+   "t": 7.9,
+   "d": 8.533333333333333,
+   "src": "img:hall_19",
+   "ss": 0,
+   "line": 1,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: KGB NEW YORK TO MOSCOW, NO. 1585, NOV. 12, 1944 \u00b7 NSA TRANSLATION"
+  },
+  {
+   "t": 16.433333333333334,
+   "d": 5.533333333333333,
+   "src": "img:hall_19",
+   "ss": 0,
+   "line": 2,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: KGB NEW YORK TO MOSCOW, NO. 1585, NOV. 12, 1944 \u00b7 NSA TRANSLATION"
+  },
+  {
+   "t": 21.966666666666665,
+   "d": 3.966666666666667,
+   "src": "img:hall_camp",
+   "ss": 0,
+   "line": 3,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: KGB NEW YORK TO MOSCOW, NO. 1585, NOV. 12, 1944 \u00b7 NSA TRANSLATION"
+  },
+  {
+   "t": 25.933333333333334,
+   "d": 3.966666666666667,
+   "src": "img:hall_notes",
+   "ss": 0,
+   "line": 3,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA NO. 1585 (NOV. 12, 1944), TRANSLATORS' COMMENTS \u00b7 NSA"
+  },
+  {
+   "t": 29.9,
+   "d": 4.533333333333333,
+   "src": "img:hall_camp",
+   "ss": 0,
+   "line": 4,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: KGB NEW YORK TO MOSCOW, NO. 1585, NOV. 12, 1944 \u00b7 NSA TRANSLATION"
+  },
+  {
+   "t": 34.43333333333333,
+   "d": 4.533333333333333,
+   "src": "img:hall_notes",
+   "ss": 0,
+   "line": 4,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA NO. 1585 (NOV. 12, 1944), TRANSLATORS' COMMENTS \u00b7 NSA"
+  },
+  {
+   "t": 38.96666666666667,
+   "d": 8.433333333333334,
+   "src": "img:gardner",
+   "ss": 0,
+   "line": 5,
+   "lab": "PHOTO \u00b7 MEREDITH GARDNER (FAR LEFT) WITH ARMY SIGNAL INTELLIGENCE SERVICE CRYPTANALYSTS, 1940s"
+  },
+  {
+   "t": 47.4,
+   "d": 5.366666666666666,
+   "src": "img:hall_full",
+   "ss": 0,
+   "line": 6,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: KGB NEW YORK TO MOSCOW, NO. 1585, NOV. 12, 1944 \u00b7 NSA TRANSLATION"
+  },
+  {
+   "t": 52.766666666666666,
+   "d": 5.366666666666666,
+   "src": "img:trin_b",
+   "ss": 0,
+   "line": 6,
+   "lab": "ARCHIVAL FILM STILL \u00b7 TRINITY TEST, NEW MEXICO, JULY 1945 \u00b7 AS SHOWN IN A USAF VIDEO (2015)"
+  },
+  {
+   "t": 58.13333333333333,
+   "d": 4.0,
+   "src": "g:intro",
+   "ss": 0,
+   "line": 7,
+   "lab": ""
+  },
+  {
+   "t": 62.13333333333333,
+   "d": 3.6,
+   "src": "g:title",
+   "ss": 0,
+   "line": 8,
+   "lab": ""
+  },
+  {
+   "t": 65.73333333333333,
+   "d": 3.1666666666666665,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 9,
+   "lab": ""
+  },
+  {
+   "t": 68.9,
+   "d": 6.866666666666666,
+   "src": "dv952451",
+   "ss": 49.0,
+   "line": 10,
+   "lab": "B-ROLL \u00b7 AERIAL VIEW OF BROOKLYN, NEW YORK, 2025"
+  },
+  {
+   "t": 75.76666666666667,
+   "d": 6.866666666666666,
+   "src": "dv346026",
+   "ss": 4.0,
+   "line": 10,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C."
+  },
+  {
+   "t": 82.63333333333334,
+   "d": 4.333333333333333,
+   "src": "dv346119",
+   "ss": 14.0,
+   "line": 11,
+   "lab": "B-ROLL \u00b7 AVENUE LEADING TO THE U.S. CAPITOL, WASHINGTON, D.C."
+  },
+  {
+   "t": 86.96666666666667,
+   "d": 6.966666666666667,
+   "src": "dv346120",
+   "ss": 3.0,
+   "line": 12,
+   "lab": "B-ROLL \u00b7 THE TREASURY BUILDING, WASHINGTON, D.C."
+  },
+  {
+   "t": 93.93333333333334,
+   "d": 6.966666666666667,
+   "src": "dv1026930",
+   "ss": 20.0,
+   "line": 12,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., SEEN FROM AN F-22 COCKPIT, 2026"
+  },
+  {
+   "t": 100.9,
+   "d": 7.033333333333333,
+   "src": "img:hall_head",
+   "ss": 0,
+   "line": 13,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: KGB NEW YORK TO MOSCOW, NO. 1585, NOV. 12, 1944 \u00b7 NSA TRANSLATION"
+  },
+  {
+   "t": 107.93333333333334,
+   "d": 4.333333333333333,
+   "src": "g:list",
+   "ss": 0,
+   "line": 14,
+   "lab": ""
+  },
+  {
+   "t": 112.26666666666667,
+   "d": 8.7,
+   "src": "img:tina",
+   "ss": 0,
+   "line": 15,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: MOSCOW TO LONDON, SEPT. 16, 1945 \u00b7 NSA TRANSLATION (VIA DVIDS)"
+  },
+  {
+   "t": 120.96666666666667,
+   "d": 3.3,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 16,
+   "lab": ""
+  },
+  {
+   "t": 124.26666666666667,
+   "d": 12.4,
+   "src": "g:list",
+   "ss": 0,
+   "line": 17,
+   "lab": ""
+  },
+  {
+   "t": 136.66666666666666,
+   "d": 6.266666666666667,
+   "src": "img:hall_head",
+   "ss": 0,
+   "line": 18,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: KGB NEW YORK TO MOSCOW, NO. 1585, NOV. 12, 1944 \u00b7 NSA TRANSLATION"
+  },
+  {
+   "t": 142.93333333333334,
+   "d": 13.133333333333333,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 19,
+   "lab": ""
+  },
+  {
+   "t": 156.06666666666666,
+   "d": 9.533333333333333,
+   "src": "img:list_head",
+   "ss": 0,
+   "line": 20,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: NEW YORK TO MOSCOW, NO. 1699, DEC. 2, 1944 \u00b7 NSA TRANSLATION (1952)"
+  },
+  {
+   "t": 165.6,
+   "d": 14.366666666666667,
+   "src": "img:gardner",
+   "ss": 0,
+   "line": 21,
+   "lab": "PHOTO \u00b7 MEREDITH GARDNER (FAR LEFT) WITH ARMY SIGNAL INTELLIGENCE SERVICE CRYPTANALYSTS, 1940s"
+  },
+  {
+   "t": 179.96666666666667,
+   "d": 12.666666666666666,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 22,
+   "lab": ""
+  },
+  {
+   "t": 192.63333333333333,
+   "d": 3.2333333333333334,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 23,
+   "lab": ""
+  },
+  {
+   "t": 195.86666666666667,
+   "d": 6.433333333333334,
+   "src": "img:gardner",
+   "ss": 0,
+   "line": 24,
+   "lab": "PHOTO \u00b7 MEREDITH GARDNER (FAR LEFT) WITH ARMY SIGNAL INTELLIGENCE SERVICE CRYPTANALYSTS, 1940s"
+  },
+  {
+   "t": 202.3,
+   "d": 6.466666666666667,
+   "src": "dv346120",
+   "ss": 20.0,
+   "line": 24,
+   "lab": "B-ROLL \u00b7 THE TREASURY BUILDING, WASHINGTON, D.C."
+  },
+  {
+   "t": 208.76666666666668,
+   "d": 7.233333333333333,
+   "src": "img:list_head",
+   "ss": 0,
+   "line": 25,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: NEW YORK TO MOSCOW, NO. 1699, DEC. 2, 1944 \u00b7 NSA TRANSLATION (1952)"
+  },
+  {
+   "t": 216.0,
+   "d": 4.033333333333333,
+   "src": "img:list_names",
+   "ss": 0,
+   "line": 26,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: NEW YORK TO MOSCOW, NO. 1699, DEC. 2, 1944 \u00b7 NSA TRANSLATION (1952)"
+  },
+  {
+   "t": 220.03333333333333,
+   "d": 13.266666666666667,
+   "src": "img:list_names",
+   "ss": 0,
+   "line": 27,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: NEW YORK TO MOSCOW, NO. 1699, DEC. 2, 1944 \u00b7 NSA TRANSLATION (1952)"
+  },
+  {
+   "t": 233.3,
+   "d": 7.166666666666667,
+   "src": "dv395453",
+   "ss": 136.9,
+   "line": 28,
+   "lab": "B-ROLL \u00b7 \"FAT MAN\"-TYPE BOMB CASING ON DISPLAY, NATIONAL MUSEUM OF THE USAF (USAF VIDEO, 2015)"
+  },
+  {
+   "t": 240.46666666666667,
+   "d": 7.7,
+   "src": "dv974123",
+   "ss": 30.9,
+   "line": 29,
+   "lab": "B-ROLL \u00b7 J. EDGAR HOOVER FBI BUILDING, WASHINGTON, D.C., 2025"
+  },
+  {
+   "t": 248.16666666666666,
+   "d": 7.666666666666667,
+   "src": "dv974123",
+   "ss": 18.7,
+   "line": 29,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C. (FBI B-ROLL, 2025)"
+  },
+  {
+   "t": 255.83333333333334,
+   "d": 7.7,
+   "src": "img:gardner",
+   "ss": 0,
+   "line": 29,
+   "lab": "PHOTO \u00b7 MEREDITH GARDNER (FAR LEFT) WITH ARMY SIGNAL INTELLIGENCE SERVICE CRYPTANALYSTS, 1940s"
+  },
+  {
+   "t": 263.53333333333336,
+   "d": 2.8666666666666667,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 30,
+   "lab": ""
+  },
+  {
+   "t": 266.4,
+   "d": 12.333333333333334,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 31,
+   "lab": ""
+  },
+  {
+   "t": 278.73333333333335,
+   "d": 7.333333333333333,
+   "src": "dv346026",
+   "ss": 14.0,
+   "line": 32,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C."
+  },
+  {
+   "t": 286.06666666666666,
+   "d": 4.533333333333333,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 33,
+   "lab": ""
+  },
+  {
+   "t": 290.6,
+   "d": 5.266666666666667,
+   "src": "dv1027235",
+   "ss": 23.2,
+   "line": 34,
+   "lab": "B-ROLL \u00b7 B-29 \"DOC\", A RESTORED WWII BOMBER, McCONNELL AFB, KANSAS, 2026"
+  },
+  {
+   "t": 295.8666666666667,
+   "d": 5.233333333333333,
+   "src": "dv1027235",
+   "ss": 39.6,
+   "line": 34,
+   "lab": "B-ROLL \u00b7 B-29 \"DOC\", A RESTORED WWII BOMBER, McCONNELL AFB, KANSAS, 2026"
+  },
+  {
+   "t": 301.1,
+   "d": 7.766666666666667,
+   "src": "dv346119",
+   "ss": 14.0,
+   "line": 35,
+   "lab": "B-ROLL \u00b7 AVENUE LEADING TO THE U.S. CAPITOL, WASHINGTON, D.C."
+  },
+  {
+   "t": 308.8666666666667,
+   "d": 2.0,
+   "src": "img:trin_a",
+   "ss": 0,
+   "line": 36,
+   "lab": "ARCHIVAL FILM STILL \u00b7 TRINITY TEST, NEW MEXICO, JULY 1945 \u00b7 AS SHOWN IN A USAF VIDEO (2015)"
+  },
+  {
+   "t": 310.8666666666667,
+   "d": 1.9666666666666666,
+   "src": "img:trin_b",
+   "ss": 0,
+   "line": 36,
+   "lab": "ARCHIVAL FILM STILL \u00b7 TRINITY TEST, NEW MEXICO, JULY 1945 \u00b7 AS SHOWN IN A USAF VIDEO (2015)"
+  },
+  {
+   "t": 312.8333333333333,
+   "d": 6.833333333333333,
+   "src": "img:plaque",
+   "ss": 0,
+   "line": 37,
+   "lab": "PHOTO \u00b7 TRINITY SITE MARKER, WHITE SANDS MISSILE RANGE, NEW MEXICO, 2017"
+  },
+  {
+   "t": 319.6666666666667,
+   "d": 2.8,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 38,
+   "lab": ""
+  },
+  {
+   "t": 322.46666666666664,
+   "d": 11.266666666666667,
+   "src": "img:fuchs_notes",
+   "ss": 0,
+   "line": 39,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: NEW YORK TO MOSCOW, NO. 1606, NOV. 1944 \u00b7 NSA TRANSLATION (1957)"
+  },
+  {
+   "t": 333.73333333333335,
+   "d": 7.0,
+   "src": "img:trin_a",
+   "ss": 0,
+   "line": 40,
+   "lab": "ARCHIVAL FILM STILL \u00b7 TRINITY TEST, NEW MEXICO, JULY 1945 \u00b7 AS SHOWN IN A USAF VIDEO (2015)"
+  },
+  {
+   "t": 340.73333333333335,
+   "d": 8.833333333333334,
+   "src": "img:fuchs_cable",
+   "ss": 0,
+   "line": 41,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: NEW YORK TO MOSCOW, NO. 1606, NOV. 1944 \u00b7 NSA TRANSLATION (1957)"
+  },
+  {
+   "t": 349.56666666666666,
+   "d": 10.866666666666667,
+   "src": "img:fuchs_camp",
+   "ss": 0,
+   "line": 42,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: NEW YORK TO MOSCOW, NO. 1606, NOV. 1944 \u00b7 NSA TRANSLATION (1957)"
+  },
+  {
+   "t": 360.43333333333334,
+   "d": 6.0,
+   "src": "img:fuchs_cable",
+   "ss": 0,
+   "line": 43,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: NEW YORK TO MOSCOW, NO. 1606, NOV. 1944 \u00b7 NSA TRANSLATION (1957)"
+  },
+  {
+   "t": 366.43333333333334,
+   "d": 18.033333333333335,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 44,
+   "lab": ""
+  },
+  {
+   "t": 384.46666666666664,
+   "d": 4.6,
+   "src": "img:fuchs_notes",
+   "ss": 0,
+   "line": 45,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: NEW YORK TO MOSCOW, NO. 1606, NOV. 1944 \u00b7 NSA TRANSLATION (1957)"
+  },
+  {
+   "t": 389.06666666666666,
+   "d": 4.6,
+   "src": "dv974123",
+   "ss": 60.6,
+   "line": 45,
+   "lab": "B-ROLL \u00b7 J. EDGAR HOOVER FBI BUILDING, WASHINGTON, D.C., 2025"
+  },
+  {
+   "t": 393.6666666666667,
+   "d": 2.566666666666667,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 46,
+   "lab": ""
+  },
+  {
+   "t": 396.23333333333335,
+   "d": 9.966666666666667,
+   "src": "img:fatman",
+   "ss": 0,
+   "line": 47,
+   "lab": "PHOTO \u00b7 REPLICA \"FAT MAN\" BOMB CASING, TRAVIS AFB HERITAGE CENTER, CALIFORNIA (USAF PHOTO)"
+  },
+  {
+   "t": 406.2,
+   "d": 9.833333333333334,
+   "src": "img:osa",
+   "ss": 0,
+   "line": 48,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: NEW YORK TO MOSCOW, NO. 1600, NOV. 14, 1944 \u00b7 NSA REISSUE"
+  },
+  {
+   "t": 416.03333333333336,
+   "d": 4.533333333333333,
+   "src": "img:osa",
+   "ss": 0,
+   "line": 49,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: NEW YORK TO MOSCOW, NO. 1600, NOV. 14, 1944 \u00b7 NSA REISSUE"
+  },
+  {
+   "t": 420.56666666666666,
+   "d": 4.5,
+   "src": "img:lib_notes",
+   "ss": 0,
+   "line": 49,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: NEW YORK TO MOSCOW, NO. 1600, NOV. 14, 1944 \u00b7 NSA REISSUE"
+  },
+  {
+   "t": 425.06666666666666,
+   "d": 5.633333333333334,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 50,
+   "lab": ""
+  },
+  {
+   "t": 430.7,
+   "d": 10.6,
+   "src": "img:ethel",
+   "ss": 0,
+   "line": 51,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: NEW YORK TO MOSCOW, NO. 1657, NOV. 27, 1944 \u00b7 NSA REISSUE (1975)"
+  },
+  {
+   "t": 441.3,
+   "d": 14.666666666666666,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 52,
+   "lab": ""
+  },
+  {
+   "t": 455.96666666666664,
+   "d": 11.6,
+   "src": "g:timeline",
+   "ss": 0,
+   "line": 53,
+   "lab": ""
+  },
+  {
+   "t": 467.56666666666666,
+   "d": 8.4,
+   "src": "dv974123",
+   "ss": 100.9,
+   "line": 54,
+   "lab": "B-ROLL \u00b7 J. EDGAR HOOVER FBI BUILDING, WASHINGTON, D.C., 2025"
+  },
+  {
+   "t": 475.96666666666664,
+   "d": 12.7,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 55,
+   "lab": ""
+  },
+  {
+   "t": 488.6666666666667,
+   "d": 2.8,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 56,
+   "lab": ""
+  },
+  {
+   "t": 491.46666666666664,
+   "d": 13.0,
+   "src": "img:hall_full",
+   "ss": 0,
+   "line": 57,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: KGB NEW YORK TO MOSCOW, NO. 1585, NOV. 12, 1944 \u00b7 NSA TRANSLATION"
+  },
+  {
+   "t": 504.46666666666664,
+   "d": 5.966666666666667,
+   "src": "img:hall_full",
+   "ss": 0,
+   "line": 58,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: KGB NEW YORK TO MOSCOW, NO. 1585, NOV. 12, 1944 \u00b7 NSA TRANSLATION"
+  },
+  {
+   "t": 510.43333333333334,
+   "d": 4.2,
+   "src": "dv974123",
+   "ss": 110.0,
+   "line": 59,
+   "lab": "B-ROLL \u00b7 J. EDGAR HOOVER FBI BUILDING, WASHINGTON, D.C., 2025"
+  },
+  {
+   "t": 514.6333333333333,
+   "d": 4.233333333333333,
+   "src": "dv974123",
+   "ss": 121.0,
+   "line": 59,
+   "lab": "B-ROLL \u00b7 J. EDGAR HOOVER FBI BUILDING, WASHINGTON, D.C., 2025"
+  },
+  {
+   "t": 518.8666666666667,
+   "d": 13.7,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 60,
+   "lab": ""
+  },
+  {
+   "t": 532.5666666666667,
+   "d": 11.866666666666667,
+   "src": "dv346119",
+   "ss": 30.0,
+   "line": 61,
+   "lab": "B-ROLL \u00b7 AVENUE LEADING TO THE U.S. CAPITOL, WASHINGTON, D.C."
+  },
+  {
+   "t": 544.4333333333333,
+   "d": 8.7,
+   "src": "dv1026930",
+   "ss": 36.0,
+   "line": 62,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., SEEN FROM AN F-22 COCKPIT, 2026"
+  },
+  {
+   "t": 553.1333333333333,
+   "d": 9.566666666666666,
+   "src": "img:tina",
+   "ss": 0,
+   "line": 63,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: MOSCOW TO LONDON, SEPT. 16, 1945 \u00b7 NSA TRANSLATION (VIA DVIDS)"
+  },
+  {
+   "t": 562.7,
+   "d": 3.3333333333333335,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 64,
+   "lab": ""
+  },
+  {
+   "t": 566.0333333333333,
+   "d": 10.166666666666666,
+   "src": "dv974123",
+   "ss": 172.4,
+   "line": 65,
+   "lab": "B-ROLL \u00b7 J. EDGAR HOOVER FBI BUILDING, WASHINGTON, D.C., 2025"
+  },
+  {
+   "t": 576.2,
+   "d": 16.433333333333334,
+   "src": "img:tina",
+   "ss": 0,
+   "line": 66,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: MOSCOW TO LONDON, SEPT. 16, 1945 \u00b7 NSA TRANSLATION (VIA DVIDS)"
+  },
+  {
+   "t": 592.6333333333333,
+   "d": 14.933333333333334,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 67,
+   "lab": ""
+  },
+  {
+   "t": 607.5666666666667,
+   "d": 10.133333333333333,
+   "src": "img:list_names",
+   "ss": 0,
+   "line": 68,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: NEW YORK TO MOSCOW, NO. 1699, DEC. 2, 1944 \u00b7 NSA TRANSLATION (1952)"
+  },
+  {
+   "t": 617.7,
+   "d": 9.7,
+   "src": "dv974123",
+   "ss": 89.5,
+   "line": 69,
+   "lab": "B-ROLL \u00b7 J. EDGAR HOOVER FBI BUILDING, WASHINGTON, D.C., 2025"
+  },
+  {
+   "t": 627.4,
+   "d": 6.9,
+   "src": "img:fuchs_cable",
+   "ss": 0,
+   "line": 70,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: NEW YORK TO MOSCOW, NO. 1606, NOV. 1944 \u00b7 NSA TRANSLATION (1957)"
+  },
+  {
+   "t": 634.3,
+   "d": 9.8,
+   "src": "img:hall_19",
+   "ss": 0,
+   "line": 71,
+   "lab": "ACTUAL DOCUMENT \u00b7 VENONA: KGB NEW YORK TO MOSCOW, NO. 1585, NOV. 12, 1944 \u00b7 NSA TRANSLATION"
+  },
+  {
+   "t": 644.1,
+   "d": 7.133333333333334,
+   "src": "img:obelisk",
+   "ss": 0,
+   "line": 72,
+   "lab": "PHOTO \u00b7 TRINITY SITE OPEN HOUSE, WHITE SANDS MISSILE RANGE, NEW MEXICO, 2016"
+  },
+  {
+   "t": 651.2333333333333,
+   "d": 4.166666666666667,
+   "src": "dv1026930",
+   "ss": 40.5,
+   "line": 73,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., SEEN FROM AN F-22 COCKPIT, 2026"
+  },
+  {
+   "t": 655.4,
+   "d": 6.4,
+   "src": "g:end",
+   "ss": 0,
+   "line": 74,
+   "lab": ""
+  }
+ ]
+}

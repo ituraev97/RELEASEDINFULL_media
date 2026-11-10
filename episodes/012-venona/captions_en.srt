@@ -1,0 +1,1171 @@
+1
+00:00:00,600 --> 00:00:02,859
+How did America catch Stalin's atomic
+
+2
+00:00:02,879 --> 00:00:03,228
+spies?
+
+3
+00:00:03,698 --> 00:00:05,360
+Partly, by reading their mail.
+
+4
+00:00:05,830 --> 00:00:07,327
+This is one of the telegrams.
+
+5
+00:00:07,897 --> 00:00:11,138
+In November 1944, the KGB in New York sent
+
+6
+00:00:11,158 --> 00:00:14,399
+Moscow a coded message about a 19-year-old
+
+7
+00:00:14,419 --> 00:00:15,874
+American physicist.
+
+8
+00:00:16,444 --> 00:00:17,472
+Theodore Hall.
+
+9
+00:00:18,054 --> 00:00:19,354
+The son of a furrier.
+
+10
+00:00:19,936 --> 00:00:21,396
+A graduate of Harvard.
+
+11
+00:00:21,966 --> 00:00:24,218
+He was in charge of a group at a place the
+
+12
+00:00:24,238 --> 00:00:25,516
+telegram calls Camp Two.
+
+13
+00:00:25,986 --> 00:00:27,931
+The translators' notes identify it.
+
+14
+00:00:28,401 --> 00:00:29,344
+Los Alamos.
+
+15
+00:00:29,914 --> 00:00:32,126
+And he had handed over a report about the
+
+16
+00:00:32,146 --> 00:00:34,414
+camp, naming the key personnel employed on
+
+17
+00:00:34,434 --> 00:00:34,904
+ENORMOUS.
+
+18
+00:00:35,374 --> 00:00:37,872
+The KGB's cover name for the Manhattan
+
+19
+00:00:37,892 --> 00:00:38,402
+Project.
+
+20
+00:00:38,972 --> 00:00:41,297
+The Soviet system, the Army's historians
+
+21
+00:00:41,317 --> 00:00:43,701
+write, was widely considered unbreakable.
+
+22
+00:00:44,171 --> 00:00:46,403
+U.S. Army codebreakers broke into it
+
+23
+00:00:46,423 --> 00:00:46,841
+anyway.
+
+24
+00:00:47,411 --> 00:00:48,449
+This is VENONA.
+
+25
+00:00:48,919 --> 00:00:51,317
+How Army codebreakers helped expose the
+
+26
+00:00:51,337 --> 00:00:53,611
+spies inside the atomic bomb project.
+
+27
+00:00:54,081 --> 00:00:56,468
+And why the 19-year-old in this telegram
+
+28
+00:00:56,488 --> 00:00:57,551
+was never charged.
+
+29
+00:00:58,121 --> 00:00:59,394
+Let's open the file.
+
+30
+00:01:05,721 --> 00:01:07,991
+It began with stacks of paper nobody could
+
+31
+00:01:08,011 --> 00:01:08,263
+read.
+
+32
+00:01:08,884 --> 00:01:11,506
+As early as 1939, according to the Army's
+
+33
+00:01:11,526 --> 00:01:14,149
+historians, the Army had begun collecting
+
+34
+00:01:14,169 --> 00:01:16,663
+encrypted Soviet telegrams sent between
+
+35
+00:01:16,683 --> 00:01:19,370
+Moscow and its intelligence offices in New
+
+36
+00:01:19,390 --> 00:01:21,625
+York, Washington and other American
+
+37
+00:01:21,645 --> 00:01:22,077
+cities.
+
+38
+00:01:22,647 --> 00:01:24,875
+As they came in, they were put in storage
+
+39
+00:01:24,895 --> 00:01:26,411
+at Arlington Hall, Virginia.
+
+40
+00:01:26,980 --> 00:01:29,301
+On February 1, 1943, Colonel Carter
+
+41
+00:01:29,321 --> 00:01:31,306
+Clarke, of the Army's Military
+
+42
+00:01:31,326 --> 00:01:33,647
+Intelligence Division, ordered them
+
+43
+00:01:33,667 --> 00:01:34,248
+examined.
+
+44
+00:01:34,718 --> 00:01:36,662
+He feared they would reveal that the
+
+45
+00:01:36,682 --> 00:01:38,735
+Soviet Union and Germany were secretly
+
+46
+00:01:38,755 --> 00:01:40,316
+negotiating a separate peace.
+
+47
+00:01:40,886 --> 00:01:42,884
+The job went first to Gene Grabeel.
+
+48
+00:01:43,354 --> 00:01:45,679
+She was 23, a schoolteacher who had been
+
+49
+00:01:45,699 --> 00:01:47,379
+hired just six weeks earlier.
+
+50
+00:01:47,950 --> 00:01:50,235
+The traffic, the Army found, used five
+
+51
+00:01:50,255 --> 00:01:51,692
+separate Soviet systems.
+
+52
+00:01:52,262 --> 00:01:54,445
+The most valuable, the NSA says, would
+
+53
+00:01:54,465 --> 00:01:56,879
+turn out to be the secret agents' traffic.
+
+54
+00:01:57,349 --> 00:02:00,051
+The KGB and the two military services.
+
+55
+00:02:00,971 --> 00:02:02,721
+The system had been built so that this
+
+56
+00:02:02,741 --> 00:02:03,652
+could never be read.
+
+57
+00:02:04,272 --> 00:02:06,275
+A clerk looked up each word in a code
+
+58
+00:02:06,295 --> 00:02:08,406
+book, which turned it into a four-digit
+
+59
+00:02:08,426 --> 00:02:08,734
+group.
+
+60
+00:02:09,204 --> 00:02:11,547
+The numbers were converted into five-digit
+
+61
+00:02:11,567 --> 00:02:11,997
+figures.
+
+62
+00:02:12,467 --> 00:02:14,797
+Then a second set of numbers was added on
+
+63
+00:02:14,817 --> 00:02:15,026
+top.
+
+64
+00:02:15,496 --> 00:02:16,097
+The key.
+
+65
+00:02:16,667 --> 00:02:18,575
+The key came from a one-time pad.
+
+66
+00:02:19,045 --> 00:02:21,377
+Pages of random numbers, each page never
+
+67
+00:02:21,397 --> 00:02:22,376
+to be used again.
+
+68
+00:02:22,946 --> 00:02:24,502
+But the pads were used again.
+
+69
+00:02:25,084 --> 00:02:27,992
+Under wartime pressure, according to an
+
+70
+00:02:28,012 --> 00:02:31,070
+NSA history, the Soviet factory that made
+
+71
+00:02:31,090 --> 00:02:34,222
+the KGB's pads produced about 35,000 pages
+
+72
+00:02:34,242 --> 00:02:35,498
+of duplicate key.
+
+73
+00:02:36,069 --> 00:02:38,305
+Duplicate pages meant that some messages
+
+74
+00:02:38,325 --> 00:02:39,433
+shared the same key.
+
+75
+00:02:39,903 --> 00:02:42,526
+In October 1943, a team under Lieutenant
+
+76
+00:02:42,546 --> 00:02:45,037
+Richard Hallock found the first clues.
+
+77
+00:02:45,607 --> 00:02:48,546
+In 1944, the NSA says, Genevieve Feinstein
+
+78
+00:02:48,566 --> 00:02:51,153
+found a way to spot the messages that
+
+79
+00:02:51,173 --> 00:02:52,069
+shared a key.
+
+80
+00:02:52,539 --> 00:02:54,951
+According to the Army's historians, she
+
+81
+00:02:54,971 --> 00:02:57,259
+had made the first break into Japan's
+
+82
+00:02:57,279 --> 00:02:59,380
+PURPLE diplomatic cipher, in 1940.
+
+83
+00:02:59,950 --> 00:03:02,103
+Even then, the work was painfully slow.
+
+84
+00:03:02,573 --> 00:03:05,523
+Of the many thousands of messages sent
+
+85
+00:03:05,543 --> 00:03:08,415
+from 1940 to 1948, the NSA says, only
+
+86
+00:03:08,435 --> 00:03:11,697
+about 3,000 were ever even partially read.
+
+87
+00:03:12,617 --> 00:03:14,772
+The man who made the messages talk was a
+
+88
+00:03:14,792 --> 00:03:15,261
+linguist.
+
+89
+00:03:15,880 --> 00:03:18,222
+Meredith Gardner had taught German at a
+
+90
+00:03:18,242 --> 00:03:19,372
+university in Ohio.
+
+91
+00:03:19,842 --> 00:03:22,088
+In the Army, he taught himself Japanese in
+
+92
+00:03:22,108 --> 00:03:22,789
+three months.
+
+93
+00:03:23,259 --> 00:03:25,710
+After the war, he taught himself Russian,
+
+94
+00:03:25,730 --> 00:03:28,180
+and began rebuilding the KGB's code book.
+
+95
+00:03:28,751 --> 00:03:32,073
+On December 20, 1946, he broke into a KGB
+
+96
+00:03:32,093 --> 00:03:35,416
+message sent to Moscow two years earlier.
+
+97
+00:03:35,986 --> 00:03:38,131
+It contained a list of scientists working
+
+98
+00:03:38,151 --> 00:03:39,451
+on the Manhattan Project.
+
+99
+00:03:40,021 --> 00:03:43,123
+One New York message of December 1944, in
+
+100
+00:03:43,143 --> 00:03:46,169
+its NSA translation, lists them by name.
+
+101
+00:03:46,751 --> 00:03:47,789
+Hans Bethe.
+
+102
+00:03:48,372 --> 00:03:49,480
+Enrico Fermi.
+
+103
+00:03:50,062 --> 00:03:51,116
+Ernest Lawrence.
+
+104
+00:03:51,699 --> 00:03:52,732
+Edward Teller.
+
+105
+00:03:53,302 --> 00:03:55,585
+According to the Army's historians, that
+
+106
+00:03:55,605 --> 00:03:58,003
+discovery proved the Manhattan Project had
+
+107
+00:03:58,023 --> 00:03:59,903
+been infiltrated by Soviet spies.
+
+108
+00:04:00,473 --> 00:04:03,723
+In late summer 1947, the Army cautiously
+
+109
+00:04:03,743 --> 00:04:04,786
+told the FBI.
+
+110
+00:04:05,256 --> 00:04:07,769
+And from October 1948, an FBI agent,
+
+111
+00:04:07,789 --> 00:04:10,584
+Robert Lamphere, worked full time as the
+
+112
+00:04:10,604 --> 00:04:13,539
+Bureau's liaison to the project, alongside
+
+113
+00:04:13,559 --> 00:04:14,102
+Gardner.
+
+114
+00:04:14,572 --> 00:04:16,986
+The decrypts also helped confirm the story
+
+115
+00:04:17,006 --> 00:04:19,420
+of Elizabeth Bentley, a former courier for
+
+116
+00:04:19,440 --> 00:04:21,854
+Soviet intelligence, whose confessions had
+
+117
+00:04:21,874 --> 00:04:22,608
+been doubted.
+
+118
+00:04:23,528 --> 00:04:25,772
+In 1949, time ran out.
+
+119
+00:04:26,391 --> 00:04:29,500
+By 1948, the CIA's analysts had a date in
+
+120
+00:04:29,520 --> 00:04:32,400
+mind for the first Soviet atomic bomb.
+
+121
+00:04:32,982 --> 00:04:35,242
+Earliest possible, mid-1950.
+
+122
+00:04:35,825 --> 00:04:38,170
+Most probable, mid-1953.
+
+123
+00:04:38,740 --> 00:04:41,770
+According to a CIA history, a report sent
+
+124
+00:04:41,790 --> 00:04:44,672
+out on August 24, 1949, still gave that
+
+125
+00:04:44,692 --> 00:04:45,490
+projection.
+
+126
+00:04:46,060 --> 00:04:48,612
+Five days later, the Soviet Union tested
+
+127
+00:04:48,632 --> 00:04:50,026
+its first atomic bomb.
+
+128
+00:04:50,597 --> 00:04:52,233
+An American plane found out.
+
+129
+00:04:52,703 --> 00:04:55,161
+According to the Air Force, a B-29 flying
+
+130
+00:04:55,181 --> 00:04:57,639
+between Alaska and Japan, with a particle
+
+131
+00:04:57,659 --> 00:04:59,997
+sampler on board, picked up debris from
+
+132
+00:05:00,017 --> 00:05:00,541
+the test.
+
+133
+00:05:01,111 --> 00:05:03,074
+On September 23, President Truman
+
+134
+00:05:03,094 --> 00:05:05,238
+announced that the United States had
+
+135
+00:05:05,258 --> 00:05:07,522
+evidence of an atomic explosion in the
+
+136
+00:05:07,542 --> 00:05:08,304
+Soviet Union.
+
+137
+00:05:08,874 --> 00:05:10,989
+The Americans had built their bomb in
+
+138
+00:05:11,009 --> 00:05:12,259
+secret, at Los Alamos.
+
+139
+00:05:12,829 --> 00:05:14,776
+Now the question was who had carried its
+
+140
+00:05:14,796 --> 00:05:15,366
+secrets out.
+
+141
+00:05:15,836 --> 00:05:17,845
+And the answers were already sitting in
+
+142
+00:05:17,865 --> 00:05:18,730
+the old messages.
+
+143
+00:05:19,650 --> 00:05:21,840
+The first name to fall was a physicist.
+
+144
+00:05:22,460 --> 00:05:25,230
+In 1949, two cover names in the messages,
+
+145
+00:05:25,250 --> 00:05:28,088
+CHARLES and REST, were identified as Klaus
+
+146
+00:05:28,108 --> 00:05:28,496
+Fuchs.
+
+147
+00:05:28,966 --> 00:05:31,165
+One message, the official VENONA history
+
+148
+00:05:31,185 --> 00:05:33,161
+says, quoted a paper he had written.
+
+149
+00:05:33,732 --> 00:05:35,978
+Fuchs, the FBI says, was a member of a
+
+150
+00:05:35,998 --> 00:05:38,482
+British team working with the Americans on
+
+151
+00:05:38,502 --> 00:05:40,152
+the atom bomb at Los Alamos.
+
+152
+00:05:40,721 --> 00:05:43,534
+This message, from November 1944, shows
+
+153
+00:05:43,554 --> 00:05:45,567
+the KGB trying to reach him.
+
+154
+00:05:46,037 --> 00:05:47,973
+A contact called ARNO had visited
+
+155
+00:05:47,993 --> 00:05:48,980
+CHARLES's sister.
+
+156
+00:05:49,550 --> 00:05:52,139
+CHARLES, it reports, had not left for the
+
+157
+00:05:52,159 --> 00:05:54,748
+ISLAND, the KGB's word for Great Britain.
+
+158
+00:05:55,331 --> 00:05:56,849
+He was at Camp No. 2.
+
+159
+00:05:57,432 --> 00:05:59,368
+And he had promised to come on leave for
+
+160
+00:05:59,388 --> 00:05:59,857
+Christmas.
+
+161
+00:06:00,427 --> 00:06:02,361
+British authorities questioned Fuchs.
+
+162
+00:06:02,831 --> 00:06:05,848
+On January 24, 1950, he confessed.
+
+163
+00:06:06,418 --> 00:06:08,530
+He was arrested on February 2, and
+
+164
+00:06:08,550 --> 00:06:09,910
+sentenced to 14 years.
+
+165
+00:06:10,380 --> 00:06:12,386
+The maximum under Britain's Official
+
+166
+00:06:12,406 --> 00:06:13,061
+Secrets Act.
+
+167
+00:06:13,531 --> 00:06:15,476
+According to accounts cited in the
+
+168
+00:06:15,496 --> 00:06:17,845
+official VENONA history, Moscow had begun
+
+169
+00:06:17,865 --> 00:06:20,041
+advising American agents who had dealt
+
+170
+00:06:20,061 --> 00:06:22,295
+with Fuchs that they might have to flee
+
+171
+00:06:22,315 --> 00:06:23,913
+the country, through Mexico.
+
+172
+00:06:24,483 --> 00:06:25,889
+ARNO was the next link.
+
+173
+00:06:26,359 --> 00:06:29,142
+The FBI identified him as Harry Gold, a
+
+174
+00:06:29,162 --> 00:06:32,089
+Philadelphia chemist, and arrested him in
+
+175
+00:06:32,109 --> 00:06:32,736
+May 1950.
+
+176
+00:06:33,656 --> 00:06:35,617
+The trail led back to Los Alamos.
+
+177
+00:06:36,237 --> 00:06:39,273
+David Greenglass, the FBI says, was an
+
+178
+00:06:39,293 --> 00:06:42,490
+Army enlisted man assigned to Los Alamos
+
+179
+00:06:42,510 --> 00:06:43,857
+in 1944 and 1945.
+
+180
+00:06:44,327 --> 00:06:45,616
+And a Soviet agent.
+
+181
+00:06:46,186 --> 00:06:48,142
+In VENONA, he had a cover name too.
+
+182
+00:06:48,612 --> 00:06:50,866
+This message from November 14 says his
+
+183
+00:06:50,886 --> 00:06:53,260
+wife, cover name OSA, had agreed to help
+
+184
+00:06:53,280 --> 00:06:55,474
+draw him in, with a view to ENORMOUS.
+
+185
+00:06:56,044 --> 00:06:58,050
+Before she left, it says, a man called
+
+186
+00:06:58,070 --> 00:06:59,968
+LIBERAL would carry out two briefing
+
+187
+00:06:59,988 --> 00:07:00,448
+meetings.
+
+188
+00:07:00,918 --> 00:07:02,708
+The translators' notes name him.
+
+189
+00:07:03,178 --> 00:07:04,494
+Julius Rosenberg.
+
+190
+00:07:05,064 --> 00:07:07,788
+The NSA calls LIBERAL the most active spy,
+
+191
+00:07:07,808 --> 00:07:10,140
+at least as seen in VENONA messages.
+
+192
+00:07:10,709 --> 00:07:12,958
+Two weeks later, New York sent Moscow a
+
+193
+00:07:12,978 --> 00:07:14,702
+description of LIBERAL's wife.
+
+194
+00:07:15,284 --> 00:07:16,493
+First name, Ethel.
+
+195
+00:07:17,076 --> 00:07:18,477
+29 years old.
+
+196
+00:07:19,060 --> 00:07:20,716
+Knows about her husband's work.
+
+197
+00:07:21,287 --> 00:07:23,499
+The NSA's own summary is careful.
+
+198
+00:07:24,081 --> 00:07:26,464
+The decrypts, it says, show that Ethel was
+
+199
+00:07:26,484 --> 00:07:28,867
+a loyal communist, and that she knew about
+
+200
+00:07:28,887 --> 00:07:30,869
+her husband's espionage activities.
+
+201
+00:07:31,451 --> 00:07:33,449
+They do not suggest she committed any
+
+202
+00:07:33,469 --> 00:07:35,412
+crimes worthy of capital punishment.
+
+203
+00:07:35,982 --> 00:07:39,441
+On March 29, 1951, a jury found Julius and
+
+204
+00:07:39,461 --> 00:07:41,346
+Ethel Rosenberg guilty.
+
+205
+00:07:41,816 --> 00:07:44,743
+On June 19, 1953, both were executed at
+
+206
+00:07:44,763 --> 00:07:47,009
+Sing Sing Prison, in New York.
+
+207
+00:07:47,579 --> 00:07:49,637
+Greenglass testified against his sister
+
+208
+00:07:49,657 --> 00:07:50,649
+and brother-in-law.
+
+209
+00:07:51,119 --> 00:07:53,075
+He served about 10 years in prison.
+
+210
+00:07:53,545 --> 00:07:55,405
+Gold was released after 15.
+
+211
+00:07:55,975 --> 00:07:57,774
+And the codebreakers' work stayed out of
+
+212
+00:07:57,794 --> 00:07:58,411
+the courtroom.
+
+213
+00:07:58,881 --> 00:08:01,012
+Under an agreement, the NSA says, the
+
+214
+00:08:01,032 --> 00:08:03,047
+decrypts could be used to stimulate
+
+215
+00:08:03,067 --> 00:08:03,919
+investigations.
+
+216
+00:08:04,389 --> 00:08:06,444
+But they were never to be used in court,
+
+217
+00:08:06,464 --> 00:08:07,742
+or otherwise made public.
+
+218
+00:08:08,662 --> 00:08:10,852
+Which brings us back to the 19-year-old.
+
+219
+00:08:11,472 --> 00:08:14,124
+In the telegram, he gave the KGB more than
+
+220
+00:08:14,144 --> 00:08:14,697
+a report.
+
+221
+00:08:15,167 --> 00:08:17,086
+He left his photograph, and agreed on a
+
+222
+00:08:17,106 --> 00:08:17,981
+place for meeting.
+
+223
+00:08:18,451 --> 00:08:21,006
+The KGB's contact described him as having
+
+224
+00:08:21,026 --> 00:08:23,393
+an exceptionally keen mind and a broad
+
+225
+00:08:23,413 --> 00:08:23,895
+outlook.
+
+226
+00:08:24,465 --> 00:08:26,689
+In other VENONA messages, he had a cover
+
+227
+00:08:26,709 --> 00:08:26,970
+name.
+
+228
+00:08:27,440 --> 00:08:28,158
+MLAD.
+
+229
+00:08:28,628 --> 00:08:29,859
+Russian for Youngster.
+
+230
+00:08:30,429 --> 00:08:32,817
+The FBI matched the name to Theodore Hall.
+
+231
+00:08:33,287 --> 00:08:36,213
+Special agents questioned him in 1951.
+
+232
+00:08:36,683 --> 00:08:38,297
+But he was never prosecuted.
+
+233
+00:08:38,867 --> 00:08:41,708
+The likely reason is spelled out in the
+
+234
+00:08:41,728 --> 00:08:44,715
+official VENONA history, published by the
+
+235
+00:08:44,735 --> 00:08:46,476
+NSA and the CIA in 1996.
+
+236
+00:08:47,058 --> 00:08:49,191
+A case, it says, probably could not have
+
+237
+00:08:49,211 --> 00:08:50,860
+been made without revealing the
+
+238
+00:08:50,880 --> 00:08:51,990
+codebreaking program.
+
+239
+00:08:52,560 --> 00:08:54,596
+The program had already been betrayed.
+
+240
+00:08:55,066 --> 00:08:57,585
+According to the Army's historians, in
+
+241
+00:08:57,605 --> 00:09:00,056
+1948 an Army Security Agency employee
+
+242
+00:09:00,076 --> 00:09:02,862
+named William Weisband revealed the effort
+
+243
+00:09:02,882 --> 00:09:03,864
+to the Soviets.
+
+244
+00:09:04,434 --> 00:09:06,666
+Weisband always denied spying, and the
+
+245
+00:09:06,686 --> 00:09:08,976
+government never prosecuted him for it.
+
+246
+00:09:09,446 --> 00:09:11,813
+After 1948, no new messages were
+
+247
+00:09:11,833 --> 00:09:12,559
+collected.
+
+248
+00:09:13,129 --> 00:09:15,170
+But the work on the old ones continued.
+
+249
+00:09:15,640 --> 00:09:18,492
+At the Armed Forces Security Agency, and
+
+250
+00:09:18,512 --> 00:09:21,291
+from 1952, at the new National Security
+
+251
+00:09:21,311 --> 00:09:21,793
+Agency.
+
+252
+00:09:22,713 --> 00:09:25,405
+VENONA ran until October 1, 1980.
+
+253
+00:09:26,025 --> 00:09:27,671
+Even then, it stayed secret.
+
+254
+00:09:28,141 --> 00:09:30,794
+The first public mention of the name, the
+
+255
+00:09:30,814 --> 00:09:33,466
+Army says, came in 1986, in a book by the
+
+256
+00:09:33,486 --> 00:09:35,617
+former FBI agent Robert Lamphere.
+
+257
+00:09:36,187 --> 00:09:39,494
+On July 11, 1995, at a ceremony at the
+
+258
+00:09:39,514 --> 00:09:42,820
+CIA, the NSA, FBI and CIA released the
+
+259
+00:09:42,840 --> 00:09:45,359
+first 49 VENONA translations.
+
+260
+00:09:45,829 --> 00:09:48,300
+Copies went to the National Archives, the
+
+261
+00:09:48,320 --> 00:09:50,366
+Library of Congress, and the NSA's
+
+262
+00:09:50,386 --> 00:09:52,067
+National Cryptologic Museum.
+
+263
+00:09:52,637 --> 00:09:54,446
+Over the next two years, five more
+
+264
+00:09:54,466 --> 00:09:55,414
+releases followed.
+
+265
+00:09:55,884 --> 00:09:58,218
+About 2,900 messages in all.
+
+266
+00:09:58,688 --> 00:10:01,276
+According to the Army's historians, they
+
+267
+00:10:01,296 --> 00:10:04,014
+exposed nearly 350 American members of the
+
+268
+00:10:04,034 --> 00:10:06,621
+Communist Party who spied for the Soviet
+
+269
+00:10:06,641 --> 00:10:07,012
+Union.
+
+270
+00:10:07,582 --> 00:10:10,036
+So how did America catch Stalin's atomic
+
+271
+00:10:10,056 --> 00:10:10,407
+spies?
+
+272
+00:10:10,877 --> 00:10:13,316
+A Soviet shortcut with the one-time pads
+
+273
+00:10:13,336 --> 00:10:15,405
+let codebreakers read fragments of
+
+274
+00:10:15,425 --> 00:10:17,126
+messages sent years earlier.
+
+275
+00:10:17,696 --> 00:10:19,799
+Those fragments, the NSA says, could
+
+276
+00:10:19,819 --> 00:10:21,273
+stimulate investigations.
+
+277
+00:10:21,743 --> 00:10:24,066
+Once the spies were identified, the FBI
+
+278
+00:10:24,086 --> 00:10:26,409
+had to develop the evidence about their
+
+279
+00:10:26,429 --> 00:10:26,829
+crimes.
+
+280
+00:10:27,399 --> 00:10:28,912
+They pointed to Klaus Fuchs.
+
+281
+00:10:29,382 --> 00:10:31,326
+And the investigation that followed
+
+282
+00:10:31,346 --> 00:10:33,121
+reached Gold, Greenglass and the
+
+283
+00:10:33,141 --> 00:10:33,738
+Rosenbergs.
+
+284
+00:10:34,308 --> 00:10:36,527
+But the same secret that caught them also
+
+285
+00:10:36,547 --> 00:10:38,002
+kept one case out of court.
+
+286
+00:10:38,585 --> 00:10:41,395
+The 19-year-old in the November 1944
+
+287
+00:10:41,415 --> 00:10:43,517
+telegram was never charged.
+
+288
+00:10:44,087 --> 00:10:45,957
+Every secret has a release date.
+
+289
+00:10:46,540 --> 00:10:48,781
+For VENONA, it came about half a century
+
+290
+00:10:48,801 --> 00:10:50,421
+after the messages were sent.
+
+291
+00:10:51,240 --> 00:10:53,200
+If there's a government file you want us
+
+292
+00:10:53,220 --> 00:10:54,833
+to open, tell us in the comments.
+
+293
+00:10:55,403 --> 00:10:57,705
+Next time: another file, released in full.
