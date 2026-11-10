@@ -74,3 +74,14 @@ bash $R/pipeline/encode.sh $EP 95       # -> long.mp4 (two-pass x265, overlay bu
 ## 8. Close the run
 - Commit to main: episode folder (episode.py, research.md, factcheck.md, rights.json, thumb.json, youtube_description.txt, captions_en.srt), updated backlog.md. Never video files on main.
 - Report to the owner in Russian: title, FILE number, publish times (ET + Tashkent), 2-line summary, plannerUrls, thumb_B/C for Test & Compare, anything skipped.
+
+## Performance rules
+Weekly review (Metricool, last 28 days; YouTube rows only up to 2026-11-04 because of analytics lag; 22 TikTok cuts, 19 YouTube items). Each rule is backed by ≥ 3 videos. Never changes cadence, slots, AI-label settings or content rules.
+1. TikTok topic: US-vs-Soviet Cold War confrontation stories win. Cuba 1962 + Azorian cuts (n=8) median 319 views; CIA Family Jewels (n=4) 221; Goldsboro (n=4) 162; UAP/UFO cuts (n=6) median 130. When choosing between candidates, prefer a Cold War spy/confrontation story; for UAP topics, cut around a person and a moment, not a report.
+2. TikTok opening: start on a scene with a person acting or speaking (a Soviet ship radios "What are you doing here?" 957; Stevenson's yes-or-no question 1103; CIA wiretaps two reporters 278; CIA gives Hunt a wig 259). Openings on a report or a count (144 reports 185, 18 incidents 85, 43 reports 102, the 1973 directive 121) stay low.
+3. TikTok length: cuts of 62–72 s (n=13) median 185 views vs 73–95 s (n=9) median 137. Aim for 63–72 s; go longer only when the story needs it.
+4. YouTube Shorts titles: a plain intriguing statement ("Two Navy UFO Videos Are Still Unidentified" 35, "The CIA Blacked Out This Page. The Name Underneath: Area 51" 9, "The CIA Destroyed Its MKUltra Files in 1973. Seven Boxes Survived" 6); quote-led or memo-named titles get 0–2.
+5. YouTube long: average view duration is 7–46 s (FILE 001 46 s, 002 39 s, 003 7 s) — viewers decide in the first half-minute. The first 30 s must answer the searched question and show the most striking document/footage, no slow logo or setup.
+
+Changelog
+- 2026-11-10: section created from the first weekly review (rules 1–5).
