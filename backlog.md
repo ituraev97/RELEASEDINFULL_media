@@ -16,9 +16,9 @@ Status: `todo` → `done YYYY-MM-DD` / `skip (reason)`. Take the first `todo` (d
 | 010 | The Family Jewels | done 2026-11-08 |
 | 011 | UFOs over Washington, 1952 | done 2026-11-09 |
 | 012 | VENONA | done 2026-11-11 |
-| 013 | Stargate | todo |
-| 014 | Kenneth Arnold, June 24, 1947 | todo |
-| 015 | Operation Mongoose | todo |
+| 013 | Operation Mongoose | done 2026-11-13 |
+| 014 | Stargate | todo |
+| 015 | Kenneth Arnold, June 24, 1947 | todo |
 | 016 | Acoustic Kitty | todo |
 | 017 | The Robertson Panel | todo |
 | 018 | CORONA | todo |

@@ -1,0 +1,17 @@
+# FILE 013 — Operation Mongoose — research
+
+Full verbatim source notes: `sources_raw.md` (claim · verbatim quote · document · URL opened). Independent fact-check: `factcheck.md` (39 FIX items, all applied before rendering).
+
+## Primary sources (opened)
+- U.S. Senate, Select Committee (Church Committee), *Alleged Assassination Plots Involving Foreign Leaders*, S. Rep. 94-465, Nov. 20, 1975 — archive.org `allegedassassina00unit` (OCR: https://archive.org/download/allegedassassina00unit/allegedassassina00unit_djvu.txt; page scans https://archive.org/download/allegedassassina00unit/page/n{page+21}_w2000.jpg). Pages used on screen: 6, 7 (findings), 84 (Harvey, JM/WAVE, U-Haul), 140 (Task Force W ~400), 141 (Jan 19, 1962 meeting), 142 (32 tasks, touchdown play, Parrott fn. 2), 143 (Feb 20 six-phase plan, "Gangster elements"), 144 (SGA tabled the plan; Operation Bounty, 2¢; "gradients on the beach"), 161 (Aug 10, 1962 meeting), 162 (Harvey memo Aug 14), 71 ("at least eight plots"), 337 (Additional views of Sen. Howard Baker: Matahambre approved Aug 30, 1962; "sabotage continued").
+- FRUS 1961–1963 vol. X, Cuba (1997): docs 270 (editorial note: Nov 3, 1961 meeting, codename, RFK notes, "principal motive force"), 278 (Kennedy memo Nov 30, 1961), 291 (Lansdale review Jan 18, 1962), 292 (Helms memo Jan 19, 1962), 304 (Feb 20, 1962 six phases), 314 (guidelines Mar 14, 1962 + Johnson note), 367 (Stepped Up Course B, Aug 8, 1962 + Harvey attachment Aug 7), 386 (NSAM 181, Aug 23, 1962). https://history.state.gov/historicaldocuments/frus1961-63v10/dNNN (text verified from https://raw.githubusercontent.com/HistoryAtState/frus/master/volumes/frus1961-63v10.xml).
+- FRUS 1961–1963 vol. XI: docs 8 (Oct 4), 19 (Oct 16), 79 (ExComm Oct 26 a.m.), 82 (SGA Oct 26 p.m.), 84 (Khrushchev letter Oct 26), 217 (Nov 29), 261 (Bundy Jan 4, 1963). https://history.state.gov/historicaldocuments/frus1961-63v11/dNNN
+- National Security Archive, Briefing Book #687, "Kennedy and Cuba: Operation Mongoose" (Oct 3, 2019): https://nsarchive.gwu.edu/briefing-book/cuba/2019-10-03/kennedy-cuba-operation-mongoose (Matahambre team "not recovered"; editors' text, attributed on screen).
+- NARA, JFK records releases: https://aotus.blogs.archives.gov/2017/10/27/national-archives-releases-jfk-assassination-records (Oct 26, 2017); https://www.archives.gov/news/articles/jfk-records-release (Mar 18, 2025).
+- U-2 Mission 3101, Oct 14, 1962 (see FILE 006 research: CIA, *CIA Documents on the Cuban Missile Crisis, 1962*, archive.org DTIC_ADA498025, Lundahl memo Oct 16, 1962).
+- Bay of Pigs: https://history.state.gov/milestones/1961-1968/bay-of-pigs
+
+## Footage and stills (rights.json)
+- Universal Newsreel (archive.org, public domain), deinterlaced still frames only: 1959-01-05_Castro_Triumphs (9, 13, 21, 25, 105 s), 1960-10-31_Invasion_Scare (10, 19 s), 1961-04-19_Cuba_Invaded (4, 85 s), 1962-10-22_The_Red_Threat (4, 55 s). Avoided: 1959-01-22 (executions).
+- DVIDS (public domain): 908150 (U-2, Beale 2023; cuts precomputed streaming), 346124/346026/346119/346120 (Washington 2012), 884981/516411 (Pentagon), 1026930 (F-22 over D.C., 2026), 449861 (Guantanamo NE gate, 2015), 873616 (USCGC Bear, Florida Straits patrol, 2023), 929212 (illumination rounds, 2024), 1004651 (FLEX 2026 Key West, 4K60 → trims dv1004651a = 70–100 s, dv1004651b = 135–205 s, 1080p).
+- Rejected: 759655 (24p), 454833 (Arctic ice — wrong setting), 419484 (interviews), 317774 (unrelated), 986713 (vertical).

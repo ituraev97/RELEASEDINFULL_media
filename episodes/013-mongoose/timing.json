@@ -1,0 +1,958 @@
+{
+ "starts": [
+  0.6,
+  9.379667,
+  24.255333999999998,
+  29.361334,
+  35.977667,
+  48.568667,
+  52.568667,
+  56.168667,
+  58.184334,
+  67.103667,
+  73.362667,
+  83.482,
+  96.812,
+  105.896667,
+  120.308334,
+  132.947334,
+  134.98433400000002,
+  151.75333400000002,
+  165.06100100000003,
+  176.73666800000004,
+  192.07150100000004,
+  204.26550100000003,
+  208.17683400000004,
+  218.39550100000005,
+  220.27250100000006,
+  224.15283400000007,
+  235.09583400000008,
+  250.32500100000007,
+  258.1296680000001,
+  271.0116680000001,
+  281.3390010000001,
+  292.3630010000001,
+  296.0906680000001,
+  313.3513350000001,
+  325.6520020000001,
+  340.6193350000001,
+  346.5573350000001,
+  356.9806680000001,
+  367.3885010000001,
+  386.23550100000006,
+  399.80550100000005,
+  411.02783400000004,
+  413.64616700000005,
+  424.09950000000003,
+  437.658833,
+  449.660833,
+  459.74716600000005,
+  469.56833300000005,
+  478.2370000000001,
+  485.3386670000001,
+  492.4480000000001,
+  494.2823330000001,
+  504.3803330000001,
+  511.99400000000014,
+  523.4200000000002,
+  528.3563330000002,
+  543.3396660000002,
+  556.4829990000002,
+  565.6093320000002,
+  576.6546650000003,
+  579.3956650000002,
+  591.7763320000003,
+  596.2913320000002,
+  601.1626650000003,
+  615.9006650000003,
+  623.4823320000004,
+  644.7719990000004,
+  647.3903320000004,
+  666.5326650000004,
+  676.9933320000005,
+  689.1233320000005,
+  696.3571650000005,
+  700.5201650000005
+ ],
+ "durs": [
+  8.779667,
+  14.875667,
+  5.106,
+  6.616333,
+  12.591000000000001,
+  4.0,
+  3.6,
+  2.015667,
+  8.919333,
+  6.2589999999999995,
+  10.119333000000001,
+  13.33,
+  9.084667000000001,
+  14.411667000000001,
+  12.639000000000001,
+  2.037,
+  16.769000000000002,
+  13.307667,
+  11.675667,
+  15.334833000000001,
+  12.194,
+  3.911333,
+  10.218667,
+  1.8769999999999998,
+  3.8803330000000003,
+  10.943000000000001,
+  15.229167,
+  7.804667,
+  12.882000000000001,
+  10.327333000000001,
+  11.024000000000001,
+  3.7276670000000003,
+  17.260667,
+  12.300667,
+  14.967333,
+  5.938,
+  10.423333000000001,
+  10.407833,
+  18.847,
+  13.57,
+  11.222333,
+  2.6183330000000002,
+  10.453333,
+  13.559333,
+  12.002,
+  10.086333000000002,
+  9.821167,
+  8.668667000000001,
+  7.101667,
+  7.109333,
+  1.834333,
+  10.098,
+  7.6136669999999995,
+  11.426,
+  4.936332999999999,
+  14.983333,
+  13.143333,
+  9.126333,
+  11.045333000000001,
+  2.741,
+  12.380667,
+  4.515,
+  4.871333,
+  14.738000000000001,
+  7.5816669999999995,
+  21.289666999999998,
+  2.6183330000000002,
+  19.142333,
+  10.460667,
+  12.13,
+  7.233833,
+  4.163,
+  6.0
+ ],
+ "vdur": [
+  8.229667,
+  14.325667,
+  4.556,
+  6.066333,
+  12.041,
+  1.293,
+  0.0,
+  1.415667,
+  8.369333,
+  5.709,
+  9.569333,
+  12.78,
+  8.534667,
+  13.861667,
+  11.739,
+  1.437,
+  16.219,
+  12.757667,
+  11.125667,
+  14.784833,
+  11.644,
+  3.361333,
+  9.318667,
+  1.277,
+  3.330333,
+  10.393,
+  14.679167,
+  7.254667,
+  12.332,
+  9.777333,
+  10.124,
+  3.127667,
+  16.710667,
+  11.750667,
+  14.417333,
+  5.388,
+  9.873333,
+  9.857833,
+  18.297,
+  13.02,
+  10.322333,
+  2.018333,
+  9.903333,
+  13.009333,
+  11.452,
+  9.536333,
+  9.271167,
+  8.118667,
+  6.551667,
+  6.209333,
+  1.234333,
+  9.548,
+  7.063667,
+  10.876,
+  4.386333,
+  14.433333,
+  12.593333,
+  8.576333,
+  10.145333,
+  2.141,
+  11.830667,
+  3.965,
+  4.321333,
+  14.188,
+  7.031667,
+  20.389667,
+  2.018333,
+  18.592333,
+  9.910667,
+  11.58,
+  6.433833,
+  3.613,
+  2.322333
+ ],
+ "total": 706.9333333333333,
+ "segs": [
+  {
+   "t": 0.0,
+   "d": 9.366666666666667,
+   "src": "img:revolt",
+   "ss": 0,
+   "line": 0,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 143"
+  },
+  {
+   "t": 9.366666666666667,
+   "d": 14.9,
+   "src": "g:doc",
+   "ss": 0,
+   "line": 1,
+   "lab": ""
+  },
+  {
+   "t": 24.266666666666666,
+   "d": 5.1,
+   "src": "img:nr_castro_grp",
+   "ss": 0,
+   "line": 2,
+   "lab": "ARCHIVAL FILM STILL \u00b7 FIDEL CASTRO, CUBA, JANUARY 1959 \u00b7 UNIVERSAL NEWSREEL"
+  },
+  {
+   "t": 29.366666666666667,
+   "d": 6.6,
+   "src": "dv908150",
+   "ss": 166.0,
+   "line": 3,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE U-2 RECONNAISSANCE AIRCRAFT, BEALE AIR FORCE BASE, CALIF., 2023"
+  },
+  {
+   "t": 35.96666666666667,
+   "d": 6.3,
+   "src": "img:tasks32",
+   "ss": 0,
+   "line": 4,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 142"
+  },
+  {
+   "t": 42.266666666666666,
+   "d": 6.3,
+   "src": "dv346124",
+   "ss": 30.0,
+   "line": 4,
+   "lab": "B-ROLL \u00b7 THE WHITE HOUSE, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 48.56666666666667,
+   "d": 4.0,
+   "src": "g:intro",
+   "ss": 0,
+   "line": 5,
+   "lab": ""
+  },
+  {
+   "t": 52.56666666666667,
+   "d": 3.6,
+   "src": "g:title",
+   "ss": 0,
+   "line": 6,
+   "lab": ""
+  },
+  {
+   "t": 56.166666666666664,
+   "d": 2.033333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 7,
+   "lab": ""
+  },
+  {
+   "t": 58.2,
+   "d": 4.433333333333334,
+   "src": "img:nr_camp",
+   "ss": 0,
+   "line": 8,
+   "lab": "ARCHIVAL FILM STILL \u00b7 A TRAINING BASE IN GUATEMALA, AS SHOWN IN A 1961 NEWSREEL \u00b7 UNIVERSAL NEWSREEL"
+  },
+  {
+   "t": 62.63333333333333,
+   "d": 4.466666666666667,
+   "src": "img:nr_b26",
+   "ss": 0,
+   "line": 8,
+   "lab": "ARCHIVAL FILM STILL \u00b7 A B-26 BOMBER THAT LANDED IN FLORIDA, APRIL 1961 \u00b7 UNIVERSAL NEWSREEL"
+  },
+  {
+   "t": 67.1,
+   "d": 6.266666666666667,
+   "src": "dv346124",
+   "ss": 10.0,
+   "line": 9,
+   "lab": "B-ROLL \u00b7 THE WHITE HOUSE, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 73.36666666666666,
+   "d": 5.066666666666666,
+   "src": "dv346124",
+   "ss": 38.0,
+   "line": 10,
+   "lab": "B-ROLL \u00b7 THE WHITE HOUSE, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 78.43333333333334,
+   "d": 5.033333333333333,
+   "src": "dv1026930",
+   "ss": 20.0,
+   "line": 10,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., SEEN FROM AN F-22 COCKPIT, 2026"
+  },
+  {
+   "t": 83.46666666666667,
+   "d": 13.333333333333334,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 11,
+   "lab": ""
+  },
+  {
+   "t": 96.8,
+   "d": 9.1,
+   "src": "g:doc",
+   "ss": 0,
+   "line": 12,
+   "lab": ""
+  },
+  {
+   "t": 105.9,
+   "d": 7.2,
+   "src": "dv884981",
+   "ss": 12.0,
+   "line": 13,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, ARLINGTON, VIRGINIA, 2023"
+  },
+  {
+   "t": 113.1,
+   "d": 7.2,
+   "src": "dv884981",
+   "ss": 160.0,
+   "line": 13,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, ARLINGTON, VIRGINIA, 2023"
+  },
+  {
+   "t": 120.3,
+   "d": 12.633333333333333,
+   "src": "img:tfw",
+   "ss": 0,
+   "line": 14,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 140"
+  },
+  {
+   "t": 132.93333333333334,
+   "d": 2.066666666666667,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 15,
+   "lab": ""
+  },
+  {
+   "t": 135.0,
+   "d": 16.766666666666666,
+   "src": "img:tasks32",
+   "ss": 0,
+   "line": 16,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 142"
+  },
+  {
+   "t": 151.76666666666668,
+   "d": 13.3,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 17,
+   "lab": ""
+  },
+  {
+   "t": 165.06666666666666,
+   "d": 11.666666666666666,
+   "src": "img:nr_havana_street",
+   "ss": 0,
+   "line": 18,
+   "lab": "ARCHIVAL FILM STILL \u00b7 HAVANA, JANUARY 1959 \u00b7 UNIVERSAL NEWSREEL"
+  },
+  {
+   "t": 176.73333333333332,
+   "d": 7.666666666666667,
+   "src": "img:jan19",
+   "ss": 0,
+   "line": 19,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 141"
+  },
+  {
+   "t": 184.4,
+   "d": 7.666666666666667,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 19,
+   "lab": ""
+  },
+  {
+   "t": 192.06666666666666,
+   "d": 12.2,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 20,
+   "lab": ""
+  },
+  {
+   "t": 204.26666666666668,
+   "d": 3.9,
+   "src": "g:map",
+   "ss": 0,
+   "line": 21,
+   "lab": ""
+  },
+  {
+   "t": 208.16666666666666,
+   "d": 5.133333333333334,
+   "src": "img:beach",
+   "ss": 0,
+   "line": 22,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 144"
+  },
+  {
+   "t": 213.3,
+   "d": 5.1,
+   "src": "dv1004651b",
+   "ss": 18.3,
+   "line": 22,
+   "lab": "B-ROLL \u00b7 NAVY EXERCISE OFF KEY WEST, FLORIDA, 2026"
+  },
+  {
+   "t": 218.4,
+   "d": 1.8666666666666667,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 23,
+   "lab": ""
+  },
+  {
+   "t": 220.26666666666668,
+   "d": 3.9,
+   "src": "g:timeline",
+   "ss": 0,
+   "line": 24,
+   "lab": ""
+  },
+  {
+   "t": 224.16666666666666,
+   "d": 10.933333333333334,
+   "src": "img:revolt",
+   "ss": 0,
+   "line": 25,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 143"
+  },
+  {
+   "t": 235.1,
+   "d": 15.233333333333333,
+   "src": "img:revolt",
+   "ss": 0,
+   "line": 26,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 143"
+  },
+  {
+   "t": 250.33333333333334,
+   "d": 7.8,
+   "src": "dv516411",
+   "ss": 60.0,
+   "line": 27,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, ARLINGTON, VIRGINIA, 2017"
+  },
+  {
+   "t": 258.1333333333333,
+   "d": 12.866666666666667,
+   "src": "g:doc",
+   "ss": 0,
+   "line": 28,
+   "lab": ""
+  },
+  {
+   "t": 271.0,
+   "d": 5.166666666666667,
+   "src": "dv346124",
+   "ss": 20.0,
+   "line": 29,
+   "lab": "B-ROLL \u00b7 THE WHITE HOUSE, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 276.1666666666667,
+   "d": 5.166666666666667,
+   "src": "dv346119",
+   "ss": 30.0,
+   "line": 29,
+   "lab": "B-ROLL \u00b7 AVENUE LEADING TO THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 281.3333333333333,
+   "d": 5.533333333333333,
+   "src": "dv346120",
+   "ss": 3.0,
+   "line": 30,
+   "lab": "B-ROLL \u00b7 THE TREASURY BUILDING, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 286.8666666666667,
+   "d": 5.5,
+   "src": "dv1026930",
+   "ss": 30.0,
+   "line": 30,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., SEEN FROM AN F-22 COCKPIT, 2026"
+  },
+  {
+   "t": 292.3666666666667,
+   "d": 3.7333333333333334,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 31,
+   "lab": ""
+  },
+  {
+   "t": 296.1,
+   "d": 17.266666666666666,
+   "src": "img:touchdown",
+   "ss": 0,
+   "line": 32,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 142"
+  },
+  {
+   "t": 313.3666666666667,
+   "d": 12.3,
+   "src": "img:bounty144",
+   "ss": 0,
+   "line": 33,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 144"
+  },
+  {
+   "t": 325.6666666666667,
+   "d": 14.966666666666667,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 34,
+   "lab": ""
+  },
+  {
+   "t": 340.6333333333333,
+   "d": 5.933333333333334,
+   "src": "img:bounty144",
+   "ss": 0,
+   "line": 35,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 144"
+  },
+  {
+   "t": 346.56666666666666,
+   "d": 10.4,
+   "src": "img:illum",
+   "ss": 0,
+   "line": 36,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 142, FOOTNOTE"
+  },
+  {
+   "t": 356.96666666666664,
+   "d": 5.233333333333333,
+   "src": "dv929212",
+   "ss": 1.5,
+   "line": 37,
+   "lab": "B-ROLL \u00b7 ILLUMINATION ROUNDS AT NIGHT, U.S. ARMY TRAINING, 2024"
+  },
+  {
+   "t": 362.2,
+   "d": 5.2,
+   "src": "dv1004651a",
+   "ss": 9.6,
+   "line": 37,
+   "lab": "B-ROLL \u00b7 OPEN SEA FROM A U.S. NAVY SHIP OFF KEY WEST, FLORIDA, 2026"
+  },
+  {
+   "t": 367.4,
+   "d": 18.833333333333332,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 38,
+   "lab": ""
+  },
+  {
+   "t": 386.23333333333335,
+   "d": 6.8,
+   "src": "dv516411",
+   "ss": 120.0,
+   "line": 39,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, ARLINGTON, VIRGINIA, 2017"
+  },
+  {
+   "t": 393.03333333333336,
+   "d": 6.766666666666667,
+   "src": "img:uhaul",
+   "ss": 0,
+   "line": 39,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 84"
+  },
+  {
+   "t": 399.8,
+   "d": 11.233333333333333,
+   "src": "img:uhaul",
+   "ss": 0,
+   "line": 40,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 84"
+  },
+  {
+   "t": 411.03333333333336,
+   "d": 2.6,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 41,
+   "lab": ""
+  },
+  {
+   "t": 413.6333333333333,
+   "d": 5.233333333333333,
+   "src": "dv1004651b",
+   "ss": 58.0,
+   "line": 42,
+   "lab": "B-ROLL \u00b7 NAVY EXERCISE OFF KEY WEST, FLORIDA, 2026"
+  },
+  {
+   "t": 418.8666666666667,
+   "d": 5.233333333333333,
+   "src": "dv449861",
+   "ss": 12.0,
+   "line": 42,
+   "lab": "B-ROLL \u00b7 NORTHEAST GATE, U.S. NAVAL BASE GUANTANAMO BAY, CUBA, 2015"
+  },
+  {
+   "t": 424.1,
+   "d": 13.566666666666666,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 43,
+   "lab": ""
+  },
+  {
+   "t": 437.6666666666667,
+   "d": 12.0,
+   "src": "img:liquid",
+   "ss": 0,
+   "line": 44,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 161"
+  },
+  {
+   "t": 449.6666666666667,
+   "d": 10.066666666666666,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 45,
+   "lab": ""
+  },
+  {
+   "t": 459.73333333333335,
+   "d": 9.833333333333334,
+   "src": "g:doc",
+   "ss": 0,
+   "line": 46,
+   "lab": ""
+  },
+  {
+   "t": 469.56666666666666,
+   "d": 8.666666666666666,
+   "src": "img:nr_militia60",
+   "ss": 0,
+   "line": 47,
+   "lab": "ARCHIVAL FILM STILL \u00b7 CUBAN MILITIA, 1960 \u00b7 UNIVERSAL NEWSREEL"
+  },
+  {
+   "t": 478.23333333333335,
+   "d": 7.1,
+   "src": "img:nr_castro60",
+   "ss": 0,
+   "line": 48,
+   "lab": "ARCHIVAL FILM STILL \u00b7 FIDEL CASTRO IN A CROWD, CUBA, 1960 \u00b7 UNIVERSAL NEWSREEL"
+  },
+  {
+   "t": 485.3333333333333,
+   "d": 7.1,
+   "src": "img:matah",
+   "ss": 0,
+   "line": 49,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE REPORT (1975), P. 337 \u00b7 ADDITIONAL VIEWS OF SEN. HOWARD BAKER"
+  },
+  {
+   "t": 492.43333333333334,
+   "d": 1.8333333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 50,
+   "lab": ""
+  },
+  {
+   "t": 494.26666666666665,
+   "d": 5.066666666666666,
+   "src": "dv346026",
+   "ss": 14.0,
+   "line": 51,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 499.3333333333333,
+   "d": 5.033333333333333,
+   "src": "dv346120",
+   "ss": 20.0,
+   "line": 51,
+   "lab": "B-ROLL \u00b7 THE TREASURY BUILDING, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 504.3666666666667,
+   "d": 7.633333333333334,
+   "src": "dv908150",
+   "ss": 194.0,
+   "line": 52,
+   "lab": "B-ROLL \u00b7 U.S. AIR FORCE U-2 RECONNAISSANCE AIRCRAFT, BEALE AIR FORCE BASE, CALIF., 2023"
+  },
+  {
+   "t": 512.0,
+   "d": 11.433333333333334,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 53,
+   "lab": ""
+  },
+  {
+   "t": 523.4333333333333,
+   "d": 4.933333333333334,
+   "src": "img:jfk62a",
+   "ss": 0,
+   "line": 54,
+   "lab": "ARCHIVAL FILM STILL \u00b7 PRESIDENT KENNEDY'S TV ADDRESS ON CUBA, OCTOBER 22, 1962 \u00b7 UNIVERSAL NEWSREEL"
+  },
+  {
+   "t": 528.3666666666667,
+   "d": 7.466666666666667,
+   "src": "dv873616",
+   "ss": 2.0,
+   "line": 55,
+   "lab": "B-ROLL \u00b7 U.S. COAST GUARD CUTTER BEAR, BACK FROM THE FLORIDA STRAITS, 2023"
+  },
+  {
+   "t": 535.8333333333334,
+   "d": 7.5,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 55,
+   "lab": ""
+  },
+  {
+   "t": 543.3333333333334,
+   "d": 6.566666666666666,
+   "src": "dv1004651b",
+   "ss": 40.0,
+   "line": 56,
+   "lab": "B-ROLL \u00b7 NAVY EXERCISE OFF KEY WEST, FLORIDA, 2026"
+  },
+  {
+   "t": 549.9,
+   "d": 6.566666666666666,
+   "src": "dv873616",
+   "ss": 9.0,
+   "line": 56,
+   "lab": "B-ROLL \u00b7 U.S. COAST GUARD CUTTER BEAR, BACK FROM THE FLORIDA STRAITS, 2023"
+  },
+  {
+   "t": 556.4666666666667,
+   "d": 9.133333333333333,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 57,
+   "lab": ""
+  },
+  {
+   "t": 565.6,
+   "d": 5.533333333333333,
+   "src": "img:jfk62c",
+   "ss": 0,
+   "line": 58,
+   "lab": "ARCHIVAL FILM STILL \u00b7 PRESIDENT KENNEDY'S TV ADDRESS ON CUBA, OCTOBER 22, 1962 \u00b7 UNIVERSAL NEWSREEL"
+  },
+  {
+   "t": 571.1333333333333,
+   "d": 5.533333333333333,
+   "src": "g:map",
+   "ss": 0,
+   "line": 58,
+   "lab": ""
+  },
+  {
+   "t": 576.6666666666666,
+   "d": 2.7333333333333334,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 59,
+   "lab": ""
+  },
+  {
+   "t": 579.4,
+   "d": 6.2,
+   "src": "dv346119",
+   "ss": 14.0,
+   "line": 60,
+   "lab": "B-ROLL \u00b7 AVENUE LEADING TO THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 585.6,
+   "d": 6.166666666666667,
+   "src": "dv884981",
+   "ss": 100.0,
+   "line": 60,
+   "lab": "B-ROLL \u00b7 THE PENTAGON, ARLINGTON, VIRGINIA, 2023"
+  },
+  {
+   "t": 591.7666666666667,
+   "d": 4.533333333333333,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 61,
+   "lab": ""
+  },
+  {
+   "t": 596.3,
+   "d": 4.866666666666666,
+   "src": "img:matah2",
+   "ss": 0,
+   "line": 62,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE REPORT (1975), P. 337 \u00b7 ADDITIONAL VIEWS OF SEN. HOWARD BAKER"
+  },
+  {
+   "t": 601.1666666666666,
+   "d": 14.733333333333333,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 63,
+   "lab": ""
+  },
+  {
+   "t": 615.9,
+   "d": 7.566666666666666,
+   "src": "img:ctx6",
+   "ss": 0,
+   "line": 64,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 6"
+  },
+  {
+   "t": 623.4666666666667,
+   "d": 10.666666666666666,
+   "src": "img:find6",
+   "ss": 0,
+   "line": 65,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 6"
+  },
+  {
+   "t": 634.1333333333333,
+   "d": 10.633333333333333,
+   "src": "img:find7",
+   "ss": 0,
+   "line": 65,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 7"
+  },
+  {
+   "t": 644.7666666666667,
+   "d": 2.6333333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 66,
+   "lab": ""
+  },
+  {
+   "t": 647.4,
+   "d": 19.133333333333333,
+   "src": "g:timeline",
+   "ss": 0,
+   "line": 67,
+   "lab": ""
+  },
+  {
+   "t": 666.5333333333333,
+   "d": 10.466666666666667,
+   "src": "img:nr_castro_rifle",
+   "ss": 0,
+   "line": 68,
+   "lab": "ARCHIVAL FILM STILL \u00b7 FIDEL CASTRO, CUBA, JANUARY 1959 \u00b7 UNIVERSAL NEWSREEL"
+  },
+  {
+   "t": 677.0,
+   "d": 6.066666666666666,
+   "src": "img:revolt",
+   "ss": 0,
+   "line": 69,
+   "lab": "ACTUAL DOCUMENT \u00b7 CHURCH COMMITTEE, \"ALLEGED ASSASSINATION PLOTS\" (S. REP. 94-465, 1975), P. 143"
+  },
+  {
+   "t": 683.0666666666667,
+   "d": 6.066666666666666,
+   "src": "dv449861",
+   "ss": 40.5,
+   "line": 69,
+   "lab": "B-ROLL \u00b7 NORTHEAST GATE, U.S. NAVAL BASE GUANTANAMO BAY, CUBA, 2015"
+  },
+  {
+   "t": 689.1333333333333,
+   "d": 7.233333333333333,
+   "src": "img:nr_havana_cap",
+   "ss": 0,
+   "line": 70,
+   "lab": "ARCHIVAL FILM STILL \u00b7 HAVANA, JANUARY 1959 \u00b7 UNIVERSAL NEWSREEL"
+  },
+  {
+   "t": 696.3666666666667,
+   "d": 4.166666666666667,
+   "src": "dv1026930",
+   "ss": 40.5,
+   "line": 71,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., SEEN FROM AN F-22 COCKPIT, 2026"
+  },
+  {
+   "t": 700.5333333333333,
+   "d": 6.4,
+   "src": "g:end",
+   "ss": 0,
+   "line": 72,
+   "lab": ""
+  }
+ ]
+}

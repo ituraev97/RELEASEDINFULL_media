@@ -1,0 +1,412 @@
+[
+ {
+  "key": "doc_4c3bdc",
+  "name": "doc",
+  "opts": {
+   "header": "OPERATION MONGOOSE \u00b7 PROGRAM REVIEW \u00b7 FEBRUARY 20, 1962",
+   "title": "The Cuba Project",
+   "lines": [
+    "Phase V, Revolt, first two weeks of October 1962.",
+    "{{Open revolt and overthrow}}",
+    "{{of the Communist regime.}}"
+   ],
+   "source": "SOURCE: FRUS 1961-1963, VOL. X, DOC. 304 \u00b7 TEXT, RECREATED"
+  }
+ },
+ {
+  "key": "intro_a09f82",
+  "name": "intro",
+  "opts": {
+   "n": "013"
+  }
+ },
+ {
+  "key": "title_efdaf4",
+  "name": "title",
+  "opts": {
+   "n": "013",
+   "t": "OPERATION MONGOOSE",
+   "size": 150,
+   "sub": "The Secret Plan to Topple Castro by October 1962"
+  }
+ },
+ {
+  "key": "chapter_8df980",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Order"
+  }
+ },
+ {
+  "key": "quote_e60c18",
+  "name": "quote",
+  "opts": {
+   "q": "My idea is to stir things up on island {{with espionage, sabotage, general disorder}}",
+   "who": "Robert F. Kennedy",
+   "role": "Handwritten notes \u00b7 November 1961",
+   "size": 66,
+   "source": "SOURCE: FOREIGN RELATIONS OF THE UNITED STATES, 1961-1963, VOL. X, CUBA (STATE DEPT., 1997), DOC. 270"
+  }
+ },
+ {
+  "key": "doc_1d64c8",
+  "name": "doc",
+  "opts": {
+   "header": "MEMORANDUM FROM PRESIDENT KENNEDY \u00b7 NOVEMBER 30, 1961 \u00b7 TOP SECRET",
+   "title": "The Cuba Operation",
+   "lines": [
+    "We will use our available assets",
+    "to go ahead with the discussed project",
+    "{{in order to help Cuba overthrow}}",
+    "{{the communist regime.}}"
+   ],
+   "source": "SOURCE: FRUS 1961-1963, VOL. X, DOC. 278 \u00b7 TEXT, RECREATED"
+  }
+ },
+ {
+  "key": "chapter_82fd29",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "The Tasks"
+  }
+ },
+ {
+  "key": "quote_e57205",
+  "name": "quote",
+  "opts": {
+   "q": "Such support will include {{military force, as necessary.}}",
+   "who": "Edward Lansdale",
+   "role": "Program review, Operation Mongoose \u00b7 January 18, 1962",
+   "size": 70,
+   "source": "SOURCE: FOREIGN RELATIONS OF THE UNITED STATES, 1961-1963, VOL. X, CUBA (STATE DEPT., 1997), DOC. 291"
+  }
+ },
+ {
+  "key": "quote_32c8c7",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026all else is secondary\u2014 {{no time, money, effort, or manpower is to be spared.}}",
+   "who": "Robert F. Kennedy, as recorded by the CIA",
+   "role": "Meeting on Cuba \u00b7 January 19, 1962",
+   "size": 60,
+   "source": "SOURCE: FOREIGN RELATIONS OF THE UNITED STATES, 1961-1963, VOL. X, CUBA (STATE DEPT., 1997), DOC. 292"
+  }
+ },
+ {
+  "key": "stat_405f26",
+  "name": "stat",
+  "opts": {
+   "k": "CIA TASK FORCE W \u00b7 1962",
+   "a": "~400",
+   "size": 300,
+   "b": "people at CIA headquarters and its Miami station",
+   "source": "SOURCE: CHURCH COMMITTEE, ALLEGED ASSASSINATION PLOTS INVOLVING FOREIGN LEADERS (S. REP. 94-465, 1975), P. 140"
+  }
+ },
+ {
+  "key": "map_d42751",
+  "name": "map",
+  "opts": {
+   "kicker": "1961 \u2013 1962",
+   "title": "Florida and Cuba",
+   "bounds": [
+    [
+     -87.5,
+     18.8
+    ],
+    [
+     -73.5,
+     31.0
+    ]
+   ],
+   "points": [
+    {
+     "ll": [
+      -80.19,
+      25.76
+     ],
+     "name": "Miami",
+     "sub": "CIA STATION JM/WAVE"
+    },
+    {
+     "ll": [
+      -81.78,
+      24.56
+     ],
+     "name": "Key West"
+    },
+    {
+     "ll": [
+      -82.37,
+      23.13
+     ],
+     "name": "Havana"
+    },
+    {
+     "ll": [
+      -83.95,
+      22.48
+     ],
+     "name": "Matahambre",
+     "sub": "COPPER MINE",
+     "anchor": "end",
+     "color": "#F2D04B"
+    }
+   ],
+   "source": "SOURCE: CHURCH COMMITTEE REPORT (1975); NATIONAL SECURITY ARCHIVE (2019) \u00b7 MAP: NATURAL EARTH"
+  }
+ },
+ {
+  "key": "chapter_0da976",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "The Timetable"
+  }
+ },
+ {
+  "key": "timeline_e22831",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE CUBA PROJECT \u00b7 FEBRUARY 20, 1962",
+   "title": "Six phases to October",
+   "events": [
+    {
+     "y": "MAR",
+     "t": "Action"
+    },
+    {
+     "y": "APR\u2013JUL",
+     "t": "Build-up"
+    },
+    {
+     "y": "AUG 1",
+     "t": "Readiness"
+    },
+    {
+     "y": "AUG\u2013SEP",
+     "t": "Resistance"
+    },
+    {
+     "y": "OCT 1\u201314",
+     "t": "Revolt"
+    },
+    {
+     "y": "OCT",
+     "t": "New government"
+    }
+   ],
+   "source": "SOURCE: FRUS 1961-1963, VOL. X, DOC. 304"
+  }
+ },
+ {
+  "key": "doc_423445",
+  "name": "doc",
+  "opts": {
+   "header": "GUIDELINES FOR OPERATION MONGOOSE \u00b7 MARCH 14, 1962",
+   "title": "Guidelines",
+   "lines": [
+    "\u2026recognizes that",
+    "{{final success will require}}",
+    "{{decisive U.S. military intervention.}}"
+   ],
+   "source": "SOURCE: FRUS 1961-1963, VOL. X, DOC. 314 \u00b7 TEXT, RECREATED"
+  }
+ },
+ {
+  "key": "chapter_f25f8d",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "The Ideas"
+  }
+ },
+ {
+  "key": "stat_1871ce",
+  "name": "stat",
+  "opts": {
+   "k": "OPERATION BOUNTY \u00b7 JANUARY 30, 1962",
+   "a": "2\u00a2",
+   "size": 320,
+   "b": "the reward listed for Castro himself",
+   "c": "meant \"to denigrate\" him, Lansdale testified",
+   "source": "SOURCE: CHURCH COMMITTEE, ALLEGED ASSASSINATION PLOTS INVOLVING FOREIGN LEADERS (S. REP. 94-465, 1975), P. 144"
+  }
+ },
+ {
+  "key": "quote_2783f9",
+  "name": "quote",
+  "opts": {
+   "q": "Some wag called this operation\u2026 {{Elimination by Illumination.}}",
+   "who": "Thomas Parrott, testimony",
+   "role": "Senate Select Committee \u00b7 July 10, 1975",
+   "size": 70,
+   "source": "SOURCE: CHURCH COMMITTEE, ALLEGED ASSASSINATION PLOTS INVOLVING FOREIGN LEADERS (S. REP. 94-465, 1975), P. 142, FN. 2"
+  }
+ },
+ {
+  "key": "chapter_7650e4",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "Plan B Plus"
+  }
+ },
+ {
+  "key": "quote_0b41e7",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026the use of U.S. military force {{in the final stage must be anticipated, for success.}}",
+   "who": "Edward Lansdale, reporting the CIA operators' view",
+   "role": "\"Stepped Up Course B\" \u00b7 August 8, 1962",
+   "size": 62,
+   "source": "SOURCE: FOREIGN RELATIONS OF THE UNITED STATES, 1961-1963, VOL. X, CUBA (STATE DEPT., 1997), DOC. 367"
+  }
+ },
+ {
+  "key": "quote_6c282e",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026the inadmissability and {{stupidity of putting this type of comment in writing}}",
+   "who": "William Harvey, CIA",
+   "role": "Memo to Richard Helms \u00b7 August 14, 1962",
+   "size": 62,
+   "source": "SOURCE: CHURCH COMMITTEE, ALLEGED ASSASSINATION PLOTS INVOLVING FOREIGN LEADERS (S. REP. 94-465, 1975), P. 162"
+  }
+ },
+ {
+  "key": "doc_1e63b1",
+  "name": "doc",
+  "opts": {
+   "header": "NATIONAL SECURITY ACTION MEMORANDUM NO. 181 \u00b7 AUGUST 23, 1962",
+   "title": "NSAM 181",
+   "lines": [
+    "The line of activity projected for",
+    "{{Operation Mongoose Plan B plus}}",
+    "{{should be developed with all possible speed.}}"
+   ],
+   "source": "SOURCE: FRUS 1961-1963, VOL. X, DOC. 386 \u00b7 TEXT, RECREATED"
+  }
+ },
+ {
+  "key": "chapter_6e67a6",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "October"
+  }
+ },
+ {
+  "key": "quote_e19667",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026the {{\"general dissatisfaction of the President\"}} with Operation Mongoose.",
+   "who": "Richard Helms, CIA",
+   "role": "Memo on the Mongoose meeting \u00b7 October 16, 1962",
+   "size": 62,
+   "source": "SOURCE: FOREIGN RELATIONS OF THE UNITED STATES, 1961-1963, VOL. XI (STATE DEPT.), DOC. 19"
+  }
+ },
+ {
+  "key": "stat_2c7fda",
+  "name": "stat",
+  "opts": {
+   "k": "OCTOBER 26, 1962",
+   "a": "10 TEAMS",
+   "size": 230,
+   "b": "50 people, to go into Cuba by submarine \u2014 stood down",
+   "source": "SOURCE: FOREIGN RELATIONS OF THE UNITED STATES, 1961-1963, VOL. XI (STATE DEPT.), DOCS. 79, 82"
+  }
+ },
+ {
+  "key": "quote_ae8059",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026the threat of armed attack, aggression, {{has constantly hung\u2026 over Cuba.}}",
+   "who": "Nikita Khrushchev to President Kennedy",
+   "role": "Letter \u00b7 October 26, 1962 \u00b7 U.S. Embassy translation",
+   "size": 62,
+   "source": "SOURCE: FOREIGN RELATIONS OF THE UNITED STATES, 1961-1963, VOL. XI (STATE DEPT.), DOC. 84"
+  }
+ },
+ {
+  "key": "chapter_dedbb7",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "Dead End"
+  }
+ },
+ {
+  "key": "quote_14fe0e",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026there is well nigh universal agreement that {{Mongoose is at a dead end.}}",
+   "who": "McGeorge Bundy to President Kennedy",
+   "role": "Memorandum \u00b7 January 4, 1963",
+   "size": 70,
+   "source": "SOURCE: FOREIGN RELATIONS OF THE UNITED STATES, 1961-1963, VOL. XI (STATE DEPT.), DOC. 261"
+  }
+ },
+ {
+  "key": "stat_b6e837",
+  "name": "stat",
+  "opts": {
+   "k": "CHURCH COMMITTEE \u00b7 NOVEMBER 20, 1975",
+   "a": "8",
+   "size": 360,
+   "b": "plots involving the CIA to kill Castro",
+   "c": "1960\u20131965 \u00b7 \"concrete evidence of at least eight\"",
+   "source": "SOURCE: CHURCH COMMITTEE, ALLEGED ASSASSINATION PLOTS INVOLVING FOREIGN LEADERS (S. REP. 94-465, 1975), P. 71"
+  }
+ },
+ {
+  "key": "chapter_d16e7f",
+  "name": "chapter",
+  "opts": {
+   "n": "VIII",
+   "t": "The Release"
+  }
+ },
+ {
+  "key": "timeline_e960ae",
+  "name": "timeline",
+  "opts": {
+   "kicker": "OPERATION MONGOOSE",
+   "title": "How the file came out",
+   "events": [
+    {
+     "y": "1975",
+     "t": "Church Committee report"
+    },
+    {
+     "y": "1997",
+     "t": "FRUS vol. X: Cuba"
+    },
+    {
+     "y": "2017",
+     "t": "JFK records release"
+    },
+    {
+     "y": "2019",
+     "t": "National Security Archive collection"
+    },
+    {
+     "y": "2025",
+     "t": "JFK records release"
+    }
+   ],
+   "source": "SOURCES: S. REP. 94-465; U.S. DEPT. OF STATE; NATIONAL ARCHIVES; NATIONAL SECURITY ARCHIVE"
+  }
+ },
+ {
+  "key": "end_0cf4da",
+  "name": "end",
+  "opts": {
+   "n": "013",
+   "next": "Another file, released in full"
+  }
+ }
+]

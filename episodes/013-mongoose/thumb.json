@@ -1,0 +1,27 @@
+{
+ "image": "/home/claude/releasedinfull_media/episodes/013-mongoose/thumb_src.jpg",
+ "pos": "50% 30%",
+ "zoom": 130,
+ "hud": false,
+ "A": {
+  "big": "TOPPLE CASTRO<br>BY <b>OCTOBER</b>",
+  "stamp": "OPERATION MONGOOSE · 1962",
+  "size": 125,
+  "sy": 540,
+  "ss": 46
+ },
+ "B": {
+  "header": "OPERATION MONGOOSE · FEB. 20, 1962",
+  "lines": [
+   "PHASE V, REVOLT, FIRST TWO WEEKS OF OCTOBER 1962.",
+   "{{OPEN REVOLT AND OVERTHROW}}"
+  ],
+  "size": 60
+ },
+ "C": {
+  "q": "WHAT WAS<br>OPERATION <b>MONGOOSE</b>?",
+  "tag": "FILE 013 · MONGOOSE · 1962",
+  "size": 110,
+  "w": 1000
+ }
+}
