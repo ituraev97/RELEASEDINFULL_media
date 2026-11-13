@@ -1,0 +1,1263 @@
+1
+00:00:00,600 --> 00:00:01,953
+What was the Berlin Tunnel?
+
+2
+00:00:02,423 --> 00:00:04,561
+It was a secret passage the CIA and
+
+3
+00:00:04,581 --> 00:00:07,089
+British intelligence dug under the border
+
+4
+00:00:07,109 --> 00:00:09,679
+into Soviet East Berlin, to tap the Soviet
+
+5
+00:00:09,699 --> 00:00:11,344
+military's telephone lines.
+
+6
+00:00:11,914 --> 00:00:14,819
+It was 1,476 feet long.
+
+7
+00:00:15,289 --> 00:00:17,735
+For 11 months and 11 days, it listened.
+
+8
+00:00:18,305 --> 00:00:21,256
+Then, at about two in the morning on April
+
+9
+00:00:21,276 --> 00:00:23,944
+22, 1956, Soviet and East German crews
+
+10
+00:00:23,964 --> 00:00:26,773
+digging up a faulty cable broke into the
+
+11
+00:00:26,793 --> 00:00:27,621
+tap chamber.
+
+12
+00:00:28,091 --> 00:00:29,953
+A hidden microphone picked up their
+
+13
+00:00:29,973 --> 00:00:30,329
+voices.
+
+14
+00:00:30,899 --> 00:00:33,066
+For more than 13 hours it recorded them
+
+15
+00:00:33,086 --> 00:00:34,860
+working out what they had found.
+
+16
+00:00:35,330 --> 00:00:36,534
+The cable is tapped.
+
+17
+00:00:37,004 --> 00:00:39,135
+Unless one had seen it for oneself, nobody
+
+18
+00:00:39,155 --> 00:00:40,005
+would believe it.
+
+19
+00:00:40,575 --> 00:00:42,856
+But the CIA later learned something worse.
+
+20
+00:00:43,439 --> 00:00:45,493
+The Soviets had known about the tunnel
+
+21
+00:00:45,513 --> 00:00:47,512
+months before the digging even began.
+
+22
+00:00:48,082 --> 00:00:50,016
+This is the file on the Berlin Tunnel.
+
+23
+00:00:50,486 --> 00:00:53,171
+The CIA's own secret history of the
+
+24
+00:00:53,191 --> 00:00:55,258
+operation, written in 1968.
+
+25
+00:00:55,828 --> 00:00:57,101
+Let's open the file.
+
+26
+00:01:03,428 --> 00:01:04,621
+It started with a gap.
+
+27
+00:01:05,241 --> 00:01:08,122
+In the late 1940s, the CIA's history says,
+
+28
+00:01:08,142 --> 00:01:10,747
+American intelligence lost some of its
+
+29
+00:01:10,767 --> 00:01:13,511
+sources, just as the Cold War escalated.
+
+30
+00:01:13,981 --> 00:01:16,202
+Tapping Soviet phone lines might fill the
+
+31
+00:01:16,222 --> 00:01:16,476
+gaps.
+
+32
+00:01:17,045 --> 00:01:18,654
+Berlin was the place to try.
+
+33
+00:01:19,124 --> 00:01:21,448
+The city sat deep inside the Soviet zone
+
+34
+00:01:21,468 --> 00:01:22,093
+of Germany.
+
+35
+00:01:22,563 --> 00:01:25,029
+And according to the CIA, East Berlin was
+
+36
+00:01:25,049 --> 00:01:26,908
+a hub of Soviet communications.
+
+37
+00:01:27,478 --> 00:01:30,160
+In 1951, an agent network got inside the
+
+38
+00:01:30,180 --> 00:01:32,660
+East Berlin office of the East German
+
+39
+00:01:32,680 --> 00:01:33,876
+telephone service.
+
+40
+00:01:34,346 --> 00:01:36,355
+It delivered the details of the Soviet
+
+41
+00:01:36,375 --> 00:01:36,835
+circuits.
+
+42
+00:01:37,305 --> 00:01:39,144
+Subsequent events, the history says,
+
+43
+00:01:39,164 --> 00:01:40,744
+proved them completely correct.
+
+44
+00:01:41,314 --> 00:01:43,738
+A test tap recorded samples for about six
+
+45
+00:01:43,758 --> 00:01:44,155
+months.
+
+46
+00:01:44,625 --> 00:01:46,784
+Somewhat ironically, the first actual
+
+47
+00:01:46,804 --> 00:01:49,081
+material recovered was a recording of a
+
+48
+00:01:49,101 --> 00:01:51,496
+student teletypist practicing on the home
+
+49
+00:01:51,516 --> 00:01:51,791
+keys.
+
+50
+00:01:52,361 --> 00:01:54,055
+The British had done this before.
+
+51
+00:01:54,525 --> 00:01:57,104
+In 1951, they told the CIA they had been
+
+52
+00:01:57,124 --> 00:01:59,703
+tapping Soviet cables through tunnels in
+
+53
+00:01:59,723 --> 00:02:01,132
+Vienna for some years.
+
+54
+00:02:01,602 --> 00:02:03,627
+Berlin, they suggested, might offer the
+
+55
+00:02:03,647 --> 00:02:04,256
+same chance.
+
+56
+00:02:05,176 --> 00:02:06,641
+The answer was a warehouse.
+
+57
+00:02:07,261 --> 00:02:09,566
+The site was in Rudow, on the southeastern
+
+58
+00:02:09,586 --> 00:02:11,115
+edge of the American sector.
+
+59
+00:02:11,585 --> 00:02:13,969
+Just across the border, under a main road
+
+60
+00:02:13,989 --> 00:02:16,198
+to Schoenefeld airport, ran the target
+
+61
+00:02:16,218 --> 00:02:16,608
+cables.
+
+62
+00:02:17,178 --> 00:02:18,531
+Three questions remained.
+
+63
+00:02:19,001 --> 00:02:21,525
+Could a tunnel of about 1,500 feet be dug
+
+64
+00:02:21,545 --> 00:02:23,759
+in secret, under a heavily patrolled
+
+65
+00:02:23,779 --> 00:02:24,194
+border?
+
+66
+00:02:24,664 --> 00:02:26,796
+Where would 3,000 tons of sand go?
+
+67
+00:02:27,266 --> 00:02:29,246
+And what could stand there without raising
+
+68
+00:02:29,266 --> 00:02:29,723
+suspicion?
+
+69
+00:02:30,293 --> 00:02:32,225
+The sand, the history says, haunted the
+
+70
+00:02:32,245 --> 00:02:33,427
+planners for many weeks.
+
+71
+00:02:33,897 --> 00:02:36,090
+Until someone suggested, facetiously, that
+
+72
+00:02:36,110 --> 00:02:38,146
+they dig a hole and put the dirt in it.
+
+73
+00:02:38,716 --> 00:02:40,757
+Local engineers were told it had been
+
+74
+00:02:40,777 --> 00:02:42,930
+decided to try a new type of warehouse,
+
+75
+00:02:42,950 --> 00:02:44,992
+half above the ground and half below.
+
+76
+00:02:45,462 --> 00:02:47,536
+So the basement was dug under the eyes of
+
+77
+00:02:47,556 --> 00:02:49,630
+the border guards, and we had our hole to
+
+78
+00:02:49,650 --> 00:02:50,447
+put the dirt in.
+
+79
+00:02:51,017 --> 00:02:53,683
+The CIA's later account says the compound
+
+80
+00:02:53,703 --> 00:02:56,239
+was presented as a U.S. Air Force radar
+
+81
+00:02:56,259 --> 00:02:56,567
+site.
+
+82
+00:02:57,137 --> 00:02:58,906
+The other side watched it closely.
+
+83
+00:02:59,376 --> 00:03:01,719
+The sight of the Soviets and East Germans
+
+84
+00:03:01,739 --> 00:03:04,081
+standing on top of the tunnel, binoculars
+
+85
+00:03:04,101 --> 00:03:06,271
+focused on the roof, the history says,
+
+86
+00:03:06,291 --> 00:03:08,461
+provided considerable amusement to the
+
+87
+00:03:08,481 --> 00:03:09,268
+people inside.
+
+88
+00:03:10,188 --> 00:03:11,370
+Then they had to dig.
+
+89
+00:03:11,990 --> 00:03:14,388
+In December 1953, CIA Director Allen
+
+90
+00:03:14,408 --> 00:03:17,076
+Dulles approved the terms for talks with
+
+91
+00:03:17,096 --> 00:03:17,882
+the British.
+
+92
+00:03:18,352 --> 00:03:20,450
+The Americans would build the site, drive
+
+93
+00:03:20,470 --> 00:03:22,206
+the tunnel and record the signals.
+
+94
+00:03:22,676 --> 00:03:24,226
+The British would make the taps.
+
+95
+00:03:24,796 --> 00:03:26,752
+For the digging, Dulles went to the Army.
+
+96
+00:03:27,222 --> 00:03:29,715
+It chose Lieutenant Colonel Leslie Gross,
+
+97
+00:03:29,735 --> 00:03:32,289
+who built a practice tunnel some 150 yards
+
+98
+00:03:32,309 --> 00:03:34,434
+long at a high-security base in New
+
+99
+00:03:34,454 --> 00:03:34,863
+Mexico.
+
+100
+00:03:35,433 --> 00:03:37,944
+One hundred 25 tons of steel tunnel liner
+
+101
+00:03:37,964 --> 00:03:40,290
+crossed East Germany by freight train.
+
+102
+00:03:40,760 --> 00:03:42,738
+The loss of any package, the history says,
+
+103
+00:03:42,758 --> 00:03:44,118
+could have blown the project.
+
+104
+00:03:44,688 --> 00:03:47,249
+In late August 1954, a shaft was started
+
+105
+00:03:47,269 --> 00:03:48,926
+in the warehouse basement.
+
+106
+00:03:49,396 --> 00:03:51,973
+Ground water appeared at 16 feet, instead
+
+107
+00:03:51,993 --> 00:03:53,240
+of the predicted 32.
+
+108
+00:03:53,810 --> 00:03:56,094
+The diggers worked behind a steel shield,
+
+109
+00:03:56,114 --> 00:03:58,286
+with horizontal blinds to stop the sand
+
+110
+00:03:58,306 --> 00:03:58,848
+caving in.
+
+111
+00:03:59,318 --> 00:04:01,546
+Hydraulic jacks pushed it forward, and a
+
+112
+00:04:01,566 --> 00:04:03,625
+new ring of steel liner was bolted in
+
+113
+00:04:03,645 --> 00:04:03,962
+place.
+
+114
+00:04:04,532 --> 00:04:06,695
+Each time East German guards walked their
+
+115
+00:04:06,715 --> 00:04:08,558
+patrol over the tunnel, the digging
+
+116
+00:04:08,578 --> 00:04:08,984
+stopped.
+
+117
+00:04:09,454 --> 00:04:11,482
+The sand rode back to the basement on
+
+118
+00:04:11,502 --> 00:04:13,585
+trailers behind a converted fork lift.
+
+119
+00:04:14,155 --> 00:04:16,314
+To fix their position, the engineers
+
+120
+00:04:16,334 --> 00:04:18,857
+organized a baseball game, to knock a ball
+
+121
+00:04:18,877 --> 00:04:21,156
+as far into the East Zone as possible.
+
+122
+00:04:21,738 --> 00:04:23,851
+It failed, the history says, because of
+
+123
+00:04:23,870 --> 00:04:25,764
+the friendliness of the East German
+
+124
+00:04:25,784 --> 00:04:27,951
+guards, who kept returning the baseball.
+
+125
+00:04:28,521 --> 00:04:31,944
+The tunnel was completed on February 28,
+
+126
+00:04:31,964 --> 00:04:32,375
+1955.
+
+127
+00:04:32,845 --> 00:04:35,012
+One thousand four hundred seventy-six
+
+128
+00:04:35,032 --> 00:04:35,308
+feet.
+
+129
+00:04:35,778 --> 00:04:37,333
+More than a quarter of a mile.
+
+130
+00:04:37,903 --> 00:04:40,104
+No one, the history says, had ever
+
+131
+00:04:40,124 --> 00:04:42,782
+tunneled that far in secret, expecting to
+
+132
+00:04:42,802 --> 00:04:45,329
+hit a target two inches in diameter, 27
+
+133
+00:04:45,349 --> 00:04:48,072
+inches below a main German Soviet highway.
+
+134
+00:04:48,992 --> 00:04:50,030
+Now came the tap.
+
+135
+00:04:50,650 --> 00:04:52,876
+British engineers dug the final shaft up
+
+136
+00:04:52,896 --> 00:04:53,774
+toward the road.
+
+137
+00:04:54,244 --> 00:04:57,261
+By March 28, 1955, the three target cables
+
+138
+00:04:57,281 --> 00:05:00,226
+lay exposed in a chamber just beneath it.
+
+139
+00:05:00,796 --> 00:05:03,003
+The chamber was insulated so it would not
+
+140
+00:05:03,023 --> 00:05:03,872
+act like a drum.
+
+141
+00:05:04,342 --> 00:05:06,771
+Even so, the history says, it was a weird
+
+142
+00:05:06,791 --> 00:05:09,161
+sensation to be inside when an iron-shod
+
+143
+00:05:09,181 --> 00:05:10,415
+horse trotted across.
+
+144
+00:05:10,985 --> 00:05:13,238
+One foggy morning, the chamber microphone
+
+145
+00:05:13,258 --> 00:05:14,402
+picked up dull thuds.
+
+146
+00:05:14,872 --> 00:05:16,943
+When the fog burned away, East German
+
+147
+00:05:16,963 --> 00:05:19,146
+police had set up a checkpoint right on
+
+148
+00:05:19,166 --> 00:05:19,372
+top.
+
+149
+00:05:19,842 --> 00:05:21,966
+The officer in charge was stomping his
+
+150
+00:05:21,986 --> 00:05:22,981
+feet to keep warm.
+
+151
+00:05:23,551 --> 00:05:25,336
+Everyone knew it would end one day.
+
+152
+00:05:25,806 --> 00:05:27,748
+The tunnel was mined with demolition
+
+153
+00:05:27,768 --> 00:05:28,946
+charges at the border.
+
+154
+00:05:29,416 --> 00:05:31,546
+And if it was found, the American posture
+
+155
+00:05:31,566 --> 00:05:33,643
+would be flat denial of any knowledge of
+
+156
+00:05:33,663 --> 00:05:34,219
+the tunnel.
+
+157
+00:05:34,790 --> 00:05:37,058
+A heavy steel and concrete door sealed the
+
+158
+00:05:37,078 --> 00:05:38,148
+tunnel near its end.
+
+159
+00:05:38,731 --> 00:05:40,872
+It carried a sign, neatly lettered in
+
+160
+00:05:40,892 --> 00:05:42,041
+German and Cyrillic.
+
+161
+00:05:42,624 --> 00:05:44,555
+Entry is forbidden by order of the
+
+162
+00:05:44,575 --> 00:05:45,646
+Commanding General.
+
+163
+00:05:46,216 --> 00:05:49,456
+The three cables were tapped on May 11,
+
+164
+00:05:49,476 --> 00:05:51,713
+May 21, and August 2, 1955.
+
+165
+00:05:52,633 --> 00:05:53,714
+And then they listened.
+
+166
+00:05:54,334 --> 00:05:57,722
+The three cables held 273 pairs of wires,
+
+167
+00:05:57,742 --> 00:05:59,468
+about 1,200 channels.
+
+168
+00:05:59,938 --> 00:06:02,589
+On average, 121 voice circuits and 28
+
+169
+00:06:02,609 --> 00:06:04,827
+teletype circuits were recorded
+
+170
+00:06:04,847 --> 00:06:05,766
+continuously.
+
+171
+00:06:06,336 --> 00:06:08,997
+About 50,000 reels of magnetic tape were
+
+172
+00:06:09,017 --> 00:06:09,332
+used.
+
+173
+00:06:09,802 --> 00:06:11,139
+Some 25 tons.
+
+174
+00:06:11,708 --> 00:06:14,547
+In London, at the peak, 317 people worked
+
+175
+00:06:14,567 --> 00:06:15,872
+on the voice tapes.
+
+176
+00:06:16,342 --> 00:06:18,645
+Three hundred sixty-eight thousand Soviet
+
+177
+00:06:18,665 --> 00:06:20,740
+conversations were fully transcribed.
+
+178
+00:06:21,210 --> 00:06:23,911
+In Washington, 350 people worked on the
+
+179
+00:06:23,931 --> 00:06:25,096
+teletype traffic.
+
+180
+00:06:25,667 --> 00:06:28,028
+The reports, code-named Regal, covered
+
+181
+00:06:28,048 --> 00:06:30,597
+Soviet forces in East Germany and Poland,
+
+182
+00:06:30,617 --> 00:06:32,979
+and identified several thousand Soviet
+
+183
+00:06:32,999 --> 00:06:33,543
+officers.
+
+184
+00:06:34,112 --> 00:06:36,754
+Processing went on until September 1958,
+
+185
+00:06:36,774 --> 00:06:39,149
+more than two years after the tunnel
+
+186
+00:06:39,169 --> 00:06:39,614
+closed.
+
+187
+00:06:40,084 --> 00:06:43,098
+The total cost of the project was $6.7
+
+188
+00:06:43,118 --> 00:06:43,736
+million.
+
+189
+00:06:44,656 --> 00:06:45,865
+It ended with rain.
+
+190
+00:06:46,485 --> 00:06:49,325
+In April 1956, after heavy rains, cables
+
+191
+00:06:49,345 --> 00:06:52,185
+around Berlin flooded and began to fail.
+
+192
+00:06:52,655 --> 00:06:54,673
+Soviet signal troops and East German
+
+193
+00:06:54,693 --> 00:06:56,824
+technicians worked frantically to keep
+
+194
+00:06:56,844 --> 00:06:58,125
+communications running.
+
+195
+00:06:58,695 --> 00:07:01,433
+At about 12:50 on the morning of April 22,
+
+196
+00:07:01,453 --> 00:07:04,125
+the watchers at the site saw 40 or 50 men
+
+197
+00:07:04,145 --> 00:07:06,619
+digging along the road, right over the
+
+198
+00:07:06,639 --> 00:07:07,013
+cable.
+
+199
+00:07:07,584 --> 00:07:09,577
+At two o'clock, they found the roof of the
+
+200
+00:07:09,597 --> 00:07:10,153
+tap chamber.
+
+201
+00:07:10,623 --> 00:07:12,876
+At 2:10, Russian speech came through the
+
+202
+00:07:12,896 --> 00:07:13,501
+microphone.
+
+203
+00:07:13,971 --> 00:07:15,811
+At first, they thought it was a manhole
+
+204
+00:07:15,831 --> 00:07:17,052
+covering a repeater point.
+
+205
+00:07:17,622 --> 00:07:19,588
+By 4:15, the tone had changed.
+
+206
+00:07:20,058 --> 00:07:22,496
+One Soviet signals officer told another on
+
+207
+00:07:22,516 --> 00:07:24,720
+the phone, when we speak we must do so
+
+208
+00:07:24,740 --> 00:07:25,305
+carefully.
+
+209
+00:07:25,775 --> 00:07:27,144
+We know what the matter is.
+
+210
+00:07:27,714 --> 00:07:29,576
+Early that morning, someone at the hole
+
+211
+00:07:29,596 --> 00:07:30,880
+said it for the first time.
+
+212
+00:07:31,463 --> 00:07:32,688
+The cable is tapped.
+
+213
+00:07:33,257 --> 00:07:35,484
+They feared a box on the floor was a booby
+
+214
+00:07:35,504 --> 00:07:35,751
+trap.
+
+215
+00:07:36,221 --> 00:07:38,485
+One officer suggested tearing it away with
+
+216
+00:07:38,505 --> 00:07:39,409
+a grappling iron.
+
+217
+00:07:39,879 --> 00:07:42,078
+If there is no explosion, he said, then we
+
+218
+00:07:42,098 --> 00:07:44,032
+can calmly go ahead and deal with it.
+
+219
+00:07:44,602 --> 00:07:46,847
+Twice they noticed the microphone, and did
+
+220
+00:07:46,867 --> 00:07:47,763
+not recognize it.
+
+221
+00:07:48,233 --> 00:07:50,438
+The first time, someone said, that is not
+
+222
+00:07:50,458 --> 00:07:51,143
+a microphone.
+
+223
+00:07:51,714 --> 00:07:53,605
+Just before noon, a German worker
+
+224
+00:07:53,625 --> 00:07:56,038
+exclaimed, the box is an entry to a shaft!
+
+225
+00:07:56,508 --> 00:07:58,358
+The padlock on the trap door was
+
+226
+00:07:58,378 --> 00:08:00,229
+identified as of English origin.
+
+227
+00:08:00,798 --> 00:08:02,498
+Once inside, they were impressed.
+
+228
+00:08:02,968 --> 00:08:04,916
+It must have cost a pretty penny, one
+
+229
+00:08:04,936 --> 00:08:05,553
+German said.
+
+230
+00:08:06,023 --> 00:08:08,018
+How neatly and tidily they have done it,
+
+231
+00:08:08,038 --> 00:08:08,672
+said another.
+
+232
+00:08:09,242 --> 00:08:11,602
+One German indignantly called it a filthy
+
+233
+00:08:11,622 --> 00:08:11,950
+trick.
+
+234
+00:08:12,420 --> 00:08:14,484
+Another replied, unless one had seen it
+
+235
+00:08:14,504 --> 00:08:16,461
+for oneself, nobody would believe it.
+
+236
+00:08:17,031 --> 00:08:19,056
+That afternoon, the tap wires were cut.
+
+237
+00:08:19,526 --> 00:08:21,853
+At about 3:50, they started dismantling
+
+238
+00:08:21,873 --> 00:08:22,756
+the microphone.
+
+239
+00:08:23,226 --> 00:08:24,862
+Shortly afterward, it went dead.
+
+240
+00:08:25,782 --> 00:08:26,900
+Then came the twist.
+
+241
+00:08:27,520 --> 00:08:29,623
+The planners expected Moscow to keep
+
+242
+00:08:29,643 --> 00:08:29,977
+quiet.
+
+243
+00:08:30,447 --> 00:08:32,930
+Instead, the acting Soviet commandant in
+
+244
+00:08:32,950 --> 00:08:35,558
+Berlin, Colonel Ivan Kotsyuba, invited the
+
+245
+00:08:35,578 --> 00:08:37,373
+Berlin press corps on a tour.
+
+246
+00:08:37,943 --> 00:08:40,229
+It became, the history says, the most
+
+247
+00:08:40,249 --> 00:08:42,534
+highly publicized peacetime espionage
+
+248
+00:08:42,554 --> 00:08:45,088
+enterprise in modern times before the U-2
+
+249
+00:08:45,108 --> 00:08:45,648
+incident.
+
+250
+00:08:46,118 --> 00:08:48,189
+Worldwide reaction was outstandingly
+
+251
+00:08:48,209 --> 00:08:49,988
+favorable to American prestige.
+
+252
+00:08:50,559 --> 00:08:52,809
+The tunnel's staff concluded the discovery
+
+253
+00:08:52,829 --> 00:08:53,512
+was bad luck.
+
+254
+00:08:53,982 --> 00:08:56,595
+One old cable in very poor condition, and
+
+255
+00:08:56,615 --> 00:08:59,036
+a long period of unusually heavy rain.
+
+256
+00:08:59,606 --> 00:09:02,461
+But in 1961, British intelligence officer
+
+257
+00:09:02,481 --> 00:09:05,055
+George Blake was arrested as a Soviet
+
+258
+00:09:05,075 --> 00:09:05,476
+agent.
+
+259
+00:09:05,946 --> 00:09:08,547
+According to the CIA history, he had been
+
+260
+00:09:08,567 --> 00:09:11,167
+recruited while a prisoner in North Korea
+
+261
+00:09:11,187 --> 00:09:11,678
+in 1952.
+
+262
+00:09:12,248 --> 00:09:14,275
+Blake was privy to the tunnel from the
+
+263
+00:09:14,295 --> 00:09:15,622
+earliest planning stages.
+
+264
+00:09:16,205 --> 00:09:19,141
+He said he told his Soviet contact about
+
+265
+00:09:19,161 --> 00:09:21,948
+it in late 1953, when its location was
+
+266
+00:09:21,968 --> 00:09:22,539
+decided.
+
+267
+00:09:23,109 --> 00:09:25,138
+So why did the Soviets let it run for
+
+268
+00:09:25,158 --> 00:09:25,913
+nearly a year?
+
+269
+00:09:26,383 --> 00:09:28,871
+It is most probable, the CIA wrote in
+
+270
+00:09:28,891 --> 00:09:30,904
+1968, that we will never know.
+
+271
+00:09:31,474 --> 00:09:33,995
+In 2024, the agency went further.
+
+272
+00:09:34,465 --> 00:09:36,965
+Its public account says the KGB let the
+
+273
+00:09:36,985 --> 00:09:39,614
+tunnel run, then staged the discovery for
+
+274
+00:09:39,634 --> 00:09:40,325
+propaganda.
+
+275
+00:09:40,895 --> 00:09:43,269
+A 2020 review by a member of the CIA's
+
+276
+00:09:43,289 --> 00:09:45,726
+History Staff agrees with a recent book
+
+277
+00:09:45,746 --> 00:09:48,246
+that the Soviets decided they had to let
+
+278
+00:09:48,266 --> 00:09:50,829
+it operate, to avoid a premature exposure
+
+279
+00:09:50,849 --> 00:09:51,837
+of their source.
+
+280
+00:09:52,307 --> 00:09:54,532
+And the 1968 history says there was no
+
+281
+00:09:54,552 --> 00:09:56,837
+evidence that the Soviets ever tried to
+
+282
+00:09:56,857 --> 00:09:58,905
+feed deception material through the
+
+283
+00:09:58,925 --> 00:09:59,319
+cables.
+
+284
+00:09:59,889 --> 00:10:02,421
+Blake was sentenced to 42 years in prison.
+
+285
+00:10:02,891 --> 00:10:05,608
+In 1966 he escaped from a London prison,
+
+286
+00:10:05,628 --> 00:10:07,593
+and fled to the Soviet Union.
+
+287
+00:10:08,063 --> 00:10:10,093
+He died in Moscow in 2020.
+
+288
+00:10:11,013 --> 00:10:13,081
+The paper trail was thin by design.
+
+289
+00:10:13,701 --> 00:10:15,927
+Allen Dulles had ordered that as little as
+
+290
+00:10:15,947 --> 00:10:17,853
+possible about the project be put in
+
+291
+00:10:17,873 --> 00:10:18,281
+writing.
+
+292
+00:10:18,751 --> 00:10:20,743
+It is probable, the history's author
+
+293
+00:10:20,763 --> 00:10:22,700
+noted, that few orders have been so
+
+294
+00:10:22,720 --> 00:10:23,986
+conscientiously obeyed.
+
+295
+00:10:24,556 --> 00:10:26,986
+The history was written in 1968.
+
+296
+00:10:27,456 --> 00:10:30,484
+A declassified version came out in 2007.
+
+297
+00:10:30,954 --> 00:10:34,047
+More of it was declassified on appeal in
+
+298
+00:10:34,067 --> 00:10:37,315
+2022, and the CIA released another copy in
+
+299
+00:10:37,335 --> 00:10:37,704
+2023.
+
+300
+00:10:38,274 --> 00:10:39,808
+So what was the Berlin Tunnel?
+
+301
+00:10:40,278 --> 00:10:42,611
+A joint American and British wiretap, dug
+
+302
+00:10:42,631 --> 00:10:44,734
+under the border of East Berlin, that
+
+303
+00:10:44,754 --> 00:10:47,030
+recorded hundreds of thousands of Soviet
+
+304
+00:10:47,050 --> 00:10:48,751
+and East German conversations.
+
+305
+00:10:49,322 --> 00:10:50,984
+Betrayed before it was dug.
+
+306
+00:10:51,567 --> 00:10:53,752
+Found after a long spell of heavy rain.
+
+307
+00:10:54,334 --> 00:10:56,807
+And, as far as the CIA could tell, never
+
+308
+00:10:56,827 --> 00:10:59,051
+used by the Soviets to feed it false
+
+309
+00:10:59,071 --> 00:10:59,799
+information.
+
+310
+00:11:00,369 --> 00:11:02,239
+Every secret has a release date.
+
+311
+00:11:02,822 --> 00:11:05,553
+For the Berlin Tunnel, the first one came
+
+312
+00:11:05,573 --> 00:11:08,036
+from the Soviets themselves, in April
+
+313
+00:11:08,056 --> 00:11:08,372
+1956.
+
+314
+00:11:09,192 --> 00:11:11,152
+If there's a government file you want us
+
+315
+00:11:11,172 --> 00:11:12,785
+to open, tell us in the comments.
+
+316
+00:11:13,355 --> 00:11:15,657
+Next time: another file, released in full.

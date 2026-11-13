@@ -1,0 +1,1009 @@
+{
+ "starts": [
+  0.6,
+  11.914,
+  18.305332999999997,
+  30.899333,
+  40.575,
+  48.081500000000005,
+  55.82750000000001,
+  59.82750000000001,
+  63.42750000000001,
+  65.24050000000001,
+  77.045167,
+  87.47816700000001,
+  101.31383400000001,
+  112.36116700000001,
+  125.176167,
+  127.261167,
+  137.177834,
+  150.292501,
+  158.71583399999997,
+  171.01650099999998,
+  177.13683399999996,
+  190.18750099999997,
+  191.98983399999997,
+  204.79616699999997,
+  215.43283399999996,
+  224.68816699999996,
+  233.81016699999998,
+  244.532167,
+  254.1555,
+  268.520667,
+  277.903,
+  288.992,
+  290.65033300000005,
+  300.79633300000006,
+  310.98500000000007,
+  323.55133300000006,
+  334.78966600000007,
+  346.21566600000006,
+  352.63266600000003,
+  354.33366600000005,
+  366.33566600000006,
+  371.70833300000004,
+  385.666666,
+  394.11233300000004,
+  404.656333,
+  406.485333,
+  418.695333,
+  427.583666,
+  437.621999,
+  447.713666,
+  453.257499,
+  464.602499,
+  471.713832,
+  480.79849900000005,
+  489.24216600000005,
+  497.03083300000003,
+  505.781833,
+  507.520166,
+  517.943499,
+  530.5588319999999,
+  539.6061649999999,
+  552.248165,
+  563.109332,
+  571.473999,
+  580.894666,
+  599.8886660000001,
+  611.012999,
+  613.7006660000001,
+  624.555999,
+  638.2743320000001,
+  649.321665,
+  660.368998,
+  669.192165,
+  673.355165
+ ],
+ "durs": [
+  11.314,
+  6.3913329999999995,
+  12.594000000000001,
+  9.675667,
+  7.5065,
+  7.7459999999999996,
+  4.0,
+  3.6,
+  1.8130000000000002,
+  11.804667,
+  10.433,
+  13.835667,
+  11.047333,
+  12.815,
+  2.085,
+  9.916667,
+  13.114667,
+  8.423333,
+  12.300667,
+  6.120333,
+  13.050667,
+  1.802333,
+  12.806333,
+  10.636667000000001,
+  9.255333,
+  9.122,
+  10.722000000000001,
+  9.623333,
+  14.365167000000001,
+  9.382333000000001,
+  11.089,
+  1.6583329999999998,
+  10.146,
+  10.188667,
+  12.566333,
+  11.238333,
+  11.426,
+  6.417000000000001,
+  1.701,
+  12.002,
+  5.372667,
+  13.958333000000001,
+  8.445667,
+  10.544,
+  1.8290000000000002,
+  12.21,
+  8.888333000000001,
+  10.038333000000002,
+  10.091667000000001,
+  5.543833,
+  11.345,
+  7.111333,
+  9.084667000000001,
+  8.443667,
+  7.788667,
+  8.751,
+  1.738333,
+  10.423333000000001,
+  12.615333000000001,
+  9.047333,
+  12.642000000000001,
+  10.861167,
+  8.364667,
+  9.420667,
+  18.994,
+  11.124333,
+  2.6876670000000003,
+  10.855333,
+  13.718333000000001,
+  11.047333,
+  11.047333,
+  8.823167000000002,
+  4.163,
+  6.0
+ ],
+ "vdur": [
+  10.764,
+  5.841333,
+  12.044,
+  9.125667,
+  6.9565,
+  7.196,
+  1.293,
+  0.0,
+  1.213,
+  11.254667,
+  9.883,
+  13.285667,
+  10.497333,
+  11.915,
+  1.485,
+  9.366667,
+  12.564667,
+  7.873333,
+  11.750667,
+  5.570333,
+  12.150667,
+  1.202333,
+  12.256333,
+  10.086667,
+  8.705333,
+  8.572,
+  10.172,
+  9.073333,
+  13.815167,
+  8.832333,
+  10.189,
+  1.058333,
+  9.596,
+  9.638667,
+  12.016333,
+  10.688333,
+  10.876,
+  5.517,
+  1.101,
+  11.452,
+  4.822667,
+  13.408333,
+  7.895667,
+  9.644,
+  1.229,
+  11.66,
+  8.338333,
+  9.488333,
+  9.541667,
+  4.993833,
+  10.795,
+  6.561333,
+  8.534667,
+  7.893667,
+  7.238667,
+  7.851,
+  1.138333,
+  9.873333,
+  12.065333,
+  8.497333,
+  12.092,
+  10.311167,
+  7.814667,
+  8.870667,
+  18.444,
+  10.224333,
+  2.087667,
+  10.305333,
+  13.168333,
+  10.497333,
+  10.497333,
+  8.023167,
+  3.613,
+  2.322333
+ ],
+ "total": 679.7666666666667,
+ "segs": [
+  {
+   "t": 0.0,
+   "d": 11.9,
+   "src": "img:fig9",
+   "ss": 0,
+   "line": 0,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 9 \u00b7 VIEW OF THE COMPLETED TUNNEL"
+  },
+  {
+   "t": 11.9,
+   "d": 6.4,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 1,
+   "lab": ""
+  },
+  {
+   "t": 18.3,
+   "d": 12.6,
+   "src": "img:t_0050",
+   "ss": 0,
+   "line": 2,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), APPENDIX A \u00b7 PDF P. 61"
+  },
+  {
+   "t": 30.9,
+   "d": 4.833333333333333,
+   "src": "img:fig15",
+   "ss": 0,
+   "line": 3,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 15 \u00b7 TARGET CABLES EXPOSED"
+  },
+  {
+   "t": 35.733333333333334,
+   "d": 4.833333333333333,
+   "src": "img:t_filthy",
+   "ss": 0,
+   "line": 3,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), APPENDIX A \u00b7 PDF P. 71"
+  },
+  {
+   "t": 40.56666666666667,
+   "d": 7.5,
+   "src": "img:t_blake2",
+   "ss": 0,
+   "line": 4,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 48"
+  },
+  {
+   "t": 48.06666666666667,
+   "d": 7.766666666666667,
+   "src": "img:cover",
+   "ss": 0,
+   "line": 5,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 1 \u00b7 COVER PAGE"
+  },
+  {
+   "t": 55.833333333333336,
+   "d": 4.0,
+   "src": "g:intro",
+   "ss": 0,
+   "line": 6,
+   "lab": ""
+  },
+  {
+   "t": 59.833333333333336,
+   "d": 3.6,
+   "src": "g:title",
+   "ss": 0,
+   "line": 7,
+   "lab": ""
+  },
+  {
+   "t": 63.43333333333333,
+   "d": 1.8,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 8,
+   "lab": ""
+  },
+  {
+   "t": 65.23333333333333,
+   "d": 11.8,
+   "src": "img:nr_c54sky",
+   "ss": 0,
+   "line": 9,
+   "lab": "ARCHIVAL FILM STILL \u00b7 A U.S. TRANSPORT PLANE, BERLIN AIRLIFT, 1948 \u00b7 UNIVERSAL NEWSREEL"
+  },
+  {
+   "t": 77.03333333333333,
+   "d": 10.433333333333334,
+   "src": "img:fig1",
+   "ss": 0,
+   "line": 10,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 1 \u00b7 MAP OF BERLIN"
+  },
+  {
+   "t": 87.46666666666667,
+   "d": 6.933333333333334,
+   "src": "img:nr_crowd53",
+   "ss": 0,
+   "line": 11,
+   "lab": "ARCHIVAL FILM STILL \u00b7 CROWD IN BERLIN, JUNE 1953, AS SHOWN IN A UNIVERSAL NEWSREEL"
+  },
+  {
+   "t": 94.4,
+   "d": 6.9,
+   "src": "img:t_agents",
+   "ss": 0,
+   "line": 11,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 7"
+  },
+  {
+   "t": 101.3,
+   "d": 11.066666666666666,
+   "src": "img:t_home",
+   "ss": 0,
+   "line": 12,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 9"
+  },
+  {
+   "t": 112.36666666666666,
+   "d": 6.4,
+   "src": "img:t_vienna",
+   "ss": 0,
+   "line": 13,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 9"
+  },
+  {
+   "t": 118.76666666666667,
+   "d": 6.4,
+   "src": "dv372209",
+   "ss": 57.5,
+   "line": 13,
+   "lab": "B-ROLL \u00b7 THE ALLIED MUSEUM, BERLIN, 2014"
+  },
+  {
+   "t": 125.16666666666667,
+   "d": 2.1,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 14,
+   "lab": ""
+  },
+  {
+   "t": 127.26666666666667,
+   "d": 9.9,
+   "src": "img:fig3",
+   "ss": 0,
+   "line": 15,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 3 \u00b7 AERIAL VIEW OF RUDOW SECTION, BERLIN"
+  },
+  {
+   "t": 137.16666666666666,
+   "d": 13.133333333333333,
+   "src": "img:t_q3",
+   "ss": 0,
+   "line": 16,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 15"
+  },
+  {
+   "t": 150.3,
+   "d": 4.2,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 17,
+   "lab": ""
+  },
+  {
+   "t": 154.5,
+   "d": 4.2,
+   "src": "img:t_dirt",
+   "ss": 0,
+   "line": 17,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 15"
+  },
+  {
+   "t": 158.7,
+   "d": 6.166666666666667,
+   "src": "img:fig4",
+   "ss": 0,
+   "line": 18,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 4 \u00b7 DIRT IN THE BASEMENT"
+  },
+  {
+   "t": 164.86666666666667,
+   "d": 6.133333333333334,
+   "src": "img:t_ware",
+   "ss": 0,
+   "line": 18,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 16"
+  },
+  {
+   "t": 171.0,
+   "d": 6.133333333333334,
+   "src": "img:fig6",
+   "ss": 0,
+   "line": 19,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 6 \u00b7 EAST GERMAN VIEW OF THE COMPOUND"
+  },
+  {
+   "t": 177.13333333333333,
+   "d": 6.533333333333333,
+   "src": "img:fig5",
+   "ss": 0,
+   "line": 20,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 5 \u00b7 VOPOS STUDYING THE INSTALLATION"
+  },
+  {
+   "t": 183.66666666666666,
+   "d": 6.533333333333333,
+   "src": "img:t_bin",
+   "ss": 0,
+   "line": 20,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 19"
+  },
+  {
+   "t": 190.2,
+   "d": 1.8,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 21,
+   "lab": ""
+  },
+  {
+   "t": 192.0,
+   "d": 6.4,
+   "src": "dv346124",
+   "ss": 12.0,
+   "line": 22,
+   "lab": "B-ROLL \u00b7 THE WHITE HOUSE, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 198.4,
+   "d": 6.4,
+   "src": "img:t_dec53",
+   "ss": 0,
+   "line": 22,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 19"
+  },
+  {
+   "t": 204.8,
+   "d": 5.3,
+   "src": "img:t_gross",
+   "ss": 0,
+   "line": 23,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 23"
+  },
+  {
+   "t": 210.1,
+   "d": 5.333333333333333,
+   "src": "dv346026",
+   "ss": 6.0,
+   "line": 23,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 215.43333333333334,
+   "d": 9.266666666666667,
+   "src": "img:t_steel",
+   "ss": 0,
+   "line": 24,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 34"
+  },
+  {
+   "t": 224.7,
+   "d": 9.1,
+   "src": "img:fig13",
+   "ss": 0,
+   "line": 25,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 13 \u00b7 SHAFT AND TUNNEL ENTRANCE IN WAREHOUSE BASEMENT"
+  },
+  {
+   "t": 233.8,
+   "d": 5.366666666666666,
+   "src": "img:fig7",
+   "ss": 0,
+   "line": 26,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 7 \u00b7 BLINDS ON THE SHIELD"
+  },
+  {
+   "t": 239.16666666666666,
+   "d": 5.366666666666666,
+   "src": "img:fig8",
+   "ss": 0,
+   "line": 26,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 8 \u00b7 EXCAVATING USING THE BLINDS"
+  },
+  {
+   "t": 244.53333333333333,
+   "d": 4.8,
+   "src": "img:t_patrol",
+   "ss": 0,
+   "line": 27,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 37"
+  },
+  {
+   "t": 249.33333333333334,
+   "d": 4.833333333333333,
+   "src": "img:fig14",
+   "ss": 0,
+   "line": 27,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 14 \u00b7 CONVERTED FORK LIFT AND DIRT BOX"
+  },
+  {
+   "t": 254.16666666666666,
+   "d": 14.366666666666667,
+   "src": "img:t_base",
+   "ss": 0,
+   "line": 28,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 40"
+  },
+  {
+   "t": 268.53333333333336,
+   "d": 4.666666666666667,
+   "src": "img:fig16",
+   "ss": 0,
+   "line": 29,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 16 \u00b7 SCHEMATIC VIEW OF TUNNEL"
+  },
+  {
+   "t": 273.2,
+   "d": 4.7,
+   "src": "img:fig9",
+   "ss": 0,
+   "line": 29,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 9 \u00b7 VIEW OF THE COMPLETED TUNNEL"
+  },
+  {
+   "t": 277.9,
+   "d": 11.1,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 30,
+   "lab": ""
+  },
+  {
+   "t": 289.0,
+   "d": 1.6666666666666667,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 31,
+   "lab": ""
+  },
+  {
+   "t": 290.6666666666667,
+   "d": 5.066666666666666,
+   "src": "img:fig10",
+   "ss": 0,
+   "line": 32,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 10 \u00b7 CONSTRUCTION OF THE VERTICAL SHAFT"
+  },
+  {
+   "t": 295.73333333333335,
+   "d": 5.066666666666666,
+   "src": "img:fig12",
+   "ss": 0,
+   "line": 32,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 12 \u00b7 VIEW OF CABLES AND TAPS"
+  },
+  {
+   "t": 300.8,
+   "d": 10.2,
+   "src": "img:t_horse",
+   "ss": 0,
+   "line": 33,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 32 \u00b7 FOOTNOTE"
+  },
+  {
+   "t": 311.0,
+   "d": 6.266666666666667,
+   "src": "dv567511",
+   "ss": 24.5,
+   "line": 34,
+   "lab": "B-ROLL \u00b7 AIR NATIONAL GUARD TECHNICIANS WORK IN A CABLE MANHOLE, PENNSYLVANIA, 2017"
+  },
+  {
+   "t": 317.26666666666665,
+   "d": 6.3,
+   "src": "img:t_horse",
+   "ss": 0,
+   "line": 34,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 32 \u00b7 FOOTNOTE"
+  },
+  {
+   "t": 323.56666666666666,
+   "d": 5.6,
+   "src": "img:fig16",
+   "ss": 0,
+   "line": 35,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 16 \u00b7 SCHEMATIC VIEW OF TUNNEL"
+  },
+  {
+   "t": 329.1666666666667,
+   "d": 5.633333333333334,
+   "src": "img:t_denial",
+   "ss": 0,
+   "line": 35,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 43"
+  },
+  {
+   "t": 334.8,
+   "d": 11.4,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 36,
+   "lab": ""
+  },
+  {
+   "t": 346.2,
+   "d": 3.2333333333333334,
+   "src": "img:fig19",
+   "ss": 0,
+   "line": 37,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 19 \u00b7 TAPPING BRIDLE"
+  },
+  {
+   "t": 349.43333333333334,
+   "d": 3.2,
+   "src": "img:fig18",
+   "ss": 0,
+   "line": 37,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 18 \u00b7 PRE-AMP CHAMBER"
+  },
+  {
+   "t": 352.6333333333333,
+   "d": 1.7,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 38,
+   "lab": ""
+  },
+  {
+   "t": 354.3333333333333,
+   "d": 12.0,
+   "src": "img:t_stats",
+   "ss": 0,
+   "line": 39,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 51"
+  },
+  {
+   "t": 366.3333333333333,
+   "d": 5.366666666666666,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 40,
+   "lab": ""
+  },
+  {
+   "t": 371.7,
+   "d": 7.0,
+   "src": "img:t_london",
+   "ss": 0,
+   "line": 41,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 51"
+  },
+  {
+   "t": 378.7,
+   "d": 6.966666666666667,
+   "src": "dv346124",
+   "ss": 30.0,
+   "line": 41,
+   "lab": "B-ROLL \u00b7 THE WHITE HOUSE, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 385.6666666666667,
+   "d": 4.233333333333333,
+   "src": "img:nr_tanks53a",
+   "ss": 0,
+   "line": 42,
+   "lab": "ARCHIVAL FILM STILL \u00b7 SOVIET TANKS IN EAST BERLIN, JUNE 1953, AS SHOWN IN A UNIVERSAL NEWSREEL"
+  },
+  {
+   "t": 389.9,
+   "d": 4.2,
+   "src": "img:t_officers",
+   "ss": 0,
+   "line": 42,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 76 \u00b7 APPENDIX B"
+  },
+  {
+   "t": 394.1,
+   "d": 5.3,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 43,
+   "lab": ""
+  },
+  {
+   "t": 399.4,
+   "d": 5.266666666666667,
+   "src": "img:t_cost",
+   "ss": 0,
+   "line": 43,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 52"
+  },
+  {
+   "t": 404.6666666666667,
+   "d": 1.8333333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 44,
+   "lab": ""
+  },
+  {
+   "t": 406.5,
+   "d": 6.1,
+   "src": "dv373122",
+   "ss": 5.5,
+   "line": 45,
+   "lab": "B-ROLL \u00b7 BERLIN AT NIGHT, NOVEMBER 2014"
+  },
+  {
+   "t": 412.6,
+   "d": 6.1,
+   "src": "img:t_rain",
+   "ss": 0,
+   "line": 45,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), APPENDIX A \u00b7 PDF P. 58"
+  },
+  {
+   "t": 418.7,
+   "d": 8.9,
+   "src": "img:t_0050",
+   "ss": 0,
+   "line": 46,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), APPENDIX A \u00b7 PDF P. 61"
+  },
+  {
+   "t": 427.6,
+   "d": 10.033333333333333,
+   "src": "img:fig17",
+   "ss": 0,
+   "line": 47,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 17 \u00b7 INITIAL STAGE OF CONSTRUCTION OF PRE-AMP CHAMBER"
+  },
+  {
+   "t": 437.6333333333333,
+   "d": 10.066666666666666,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 48,
+   "lab": ""
+  },
+  {
+   "t": 447.7,
+   "d": 5.566666666666666,
+   "src": "img:t_tapped",
+   "ss": 0,
+   "line": 49,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), APPENDIX A \u00b7 PDF P. 66"
+  },
+  {
+   "t": 453.26666666666665,
+   "d": 11.333333333333334,
+   "src": "img:t_boom",
+   "ss": 0,
+   "line": 50,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), APPENDIX A \u00b7 PDF P. 68"
+  },
+  {
+   "t": 464.6,
+   "d": 7.1,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 51,
+   "lab": ""
+  },
+  {
+   "t": 471.7,
+   "d": 4.566666666666666,
+   "src": "img:t_shaft",
+   "ss": 0,
+   "line": 52,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), APPENDIX A \u00b7 PDF P. 69"
+  },
+  {
+   "t": 476.26666666666665,
+   "d": 4.533333333333333,
+   "src": "img:t_eng",
+   "ss": 0,
+   "line": 52,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), APPENDIX A \u00b7 PDF P. 70"
+  },
+  {
+   "t": 480.8,
+   "d": 4.233333333333333,
+   "src": "img:fig18",
+   "ss": 0,
+   "line": 53,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 18 \u00b7 PRE-AMP CHAMBER"
+  },
+  {
+   "t": 485.03333333333336,
+   "d": 4.2,
+   "src": "img:t_penny",
+   "ss": 0,
+   "line": 53,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), APPENDIX A \u00b7 PDF P. 71"
+  },
+  {
+   "t": 489.23333333333335,
+   "d": 7.8,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 54,
+   "lab": ""
+  },
+  {
+   "t": 497.03333333333336,
+   "d": 8.733333333333333,
+   "src": "img:t_dead",
+   "ss": 0,
+   "line": 55,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), APPENDIX A \u00b7 PDF P. 72"
+  },
+  {
+   "t": 505.76666666666665,
+   "d": 1.7666666666666666,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 56,
+   "lab": ""
+  },
+  {
+   "t": 507.53333333333336,
+   "d": 5.2,
+   "src": "img:t_kots",
+   "ss": 0,
+   "line": 57,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 53"
+  },
+  {
+   "t": 512.7333333333333,
+   "d": 5.2,
+   "src": "img:fig21",
+   "ss": 0,
+   "line": 57,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 21 \u00b7 SOVIET PRESS BRIEFING"
+  },
+  {
+   "t": 517.9333333333333,
+   "d": 12.633333333333333,
+   "src": "img:t_pub",
+   "ss": 0,
+   "line": 58,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 54"
+  },
+  {
+   "t": 530.5666666666667,
+   "d": 9.033333333333333,
+   "src": "img:t_bad",
+   "ss": 0,
+   "line": 59,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 48"
+  },
+  {
+   "t": 539.6,
+   "d": 12.633333333333333,
+   "src": "img:t_blake2",
+   "ss": 0,
+   "line": 60,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 48"
+  },
+  {
+   "t": 552.2333333333333,
+   "d": 10.866666666666667,
+   "src": "img:t_blake2",
+   "ss": 0,
+   "line": 61,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 48"
+  },
+  {
+   "t": 563.1,
+   "d": 8.366666666666667,
+   "src": "img:t_never",
+   "ss": 0,
+   "line": 62,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 50"
+  },
+  {
+   "t": 571.4666666666667,
+   "d": 9.433333333333334,
+   "src": "dv372209",
+   "ss": 44.2,
+   "line": 63,
+   "lab": "B-ROLL \u00b7 THE ALLIED MUSEUM, BERLIN, 2014"
+  },
+  {
+   "t": 580.9,
+   "d": 19.0,
+   "src": "img:t_nodec",
+   "ss": 0,
+   "line": 64,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 52"
+  },
+  {
+   "t": 599.9,
+   "d": 11.1,
+   "src": "dv373122",
+   "ss": 19.0,
+   "line": 65,
+   "lab": "B-ROLL \u00b7 LIGHTS MARKING THE ROUTE OF THE BERLIN WALL, BERLIN, NOVEMBER 2014"
+  },
+  {
+   "t": 611.0,
+   "d": 2.7,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 66,
+   "lab": ""
+  },
+  {
+   "t": 613.7,
+   "d": 10.866666666666667,
+   "src": "img:t_dulles",
+   "ss": 0,
+   "line": 67,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA, \"THE BERLIN TUNNEL OPERATION 1952-1956\" (1968) \u00b7 PDF P. 3 \u00b7 PREFACE"
+  },
+  {
+   "t": 624.5666666666667,
+   "d": 13.7,
+   "src": "g:timeline",
+   "ss": 0,
+   "line": 68,
+   "lab": ""
+  },
+  {
+   "t": 638.2666666666667,
+   "d": 11.066666666666666,
+   "src": "img:fig9",
+   "ss": 0,
+   "line": 69,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 9 \u00b7 VIEW OF THE COMPLETED TUNNEL"
+  },
+  {
+   "t": 649.3333333333334,
+   "d": 5.5,
+   "src": "img:fig21",
+   "ss": 0,
+   "line": 70,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA HISTORY (1968), FIG. 21 \u00b7 SOVIET PRESS BRIEFING"
+  },
+  {
+   "t": 654.8333333333334,
+   "d": 5.533333333333333,
+   "src": "dv373122",
+   "ss": 6.0,
+   "line": 70,
+   "lab": "B-ROLL \u00b7 BERLIN AT NIGHT, NOVEMBER 2014"
+  },
+  {
+   "t": 660.3666666666667,
+   "d": 8.833333333333334,
+   "src": "img:nr_tanks53b",
+   "ss": 0,
+   "line": 71,
+   "lab": "ARCHIVAL FILM STILL \u00b7 SOVIET TANKS IN EAST BERLIN, JUNE 1953, AS SHOWN IN A UNIVERSAL NEWSREEL"
+  },
+  {
+   "t": 669.2,
+   "d": 4.166666666666667,
+   "src": "dv567511",
+   "ss": 130.0,
+   "line": 72,
+   "lab": "B-ROLL \u00b7 AIR NATIONAL GUARD TECHNICIANS WORK IN A CABLE MANHOLE, PENNSYLVANIA, 2017"
+  },
+  {
+   "t": 673.3666666666667,
+   "d": 6.4,
+   "src": "g:end",
+   "ss": 0,
+   "line": 73,
+   "lab": ""
+  }
+ ]
+}

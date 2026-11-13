@@ -1,0 +1,27 @@
+{
+ "image": "/home/claude/releasedinfull_media/episodes/014-berlin-tunnel/thumb_src.jpg",
+ "pos": "50% 45%",
+ "zoom": 120,
+ "hud": false,
+ "A": {
+  "big": "THE SOVIETS<br><b>KNEW</b>",
+  "stamp": "THE BERLIN TUNNEL · 1955",
+  "size": 140,
+  "sy": 540,
+  "ss": 46
+ },
+ "B": {
+  "header": "CIA HISTORY · THE BERLIN TUNNEL · 1968",
+  "lines": [
+   "BLAKE STATED THAT HE HAD INFORMED HIS SOVIET CONTACT",
+   "{{OF THE PLANNED TUNNEL}}"
+  ],
+  "size": 56
+ },
+ "C": {
+  "q": "WHAT WAS THE<br><b>BERLIN TUNNEL</b>?",
+  "tag": "FILE 014 · BERLIN · 1955",
+  "size": 110,
+  "w": 1000
+ }
+}

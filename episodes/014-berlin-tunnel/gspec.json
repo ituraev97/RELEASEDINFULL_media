@@ -1,0 +1,222 @@
+[
+ {
+  "key": "stat_fd1aa7",
+  "name": "stat",
+  "opts": {
+   "k": "THE BERLIN TUNNEL \u00b7 1955-1956",
+   "a": "1,476 FT",
+   "size": 260,
+   "b": "dug in secret under the border of East Berlin",
+   "c": "in operation for 11 months and 11 days",
+   "source": "SOURCE: CIA, CLANDESTINE SERVICES HISTORY, THE BERLIN TUNNEL OPERATION 1952-1956 (1968; ISCAP RELEASE 2022)"
+  }
+ },
+ {
+  "key": "intro_d8b49a",
+  "name": "intro",
+  "opts": {
+   "n": "014"
+  }
+ },
+ {
+  "key": "title_cc19f9",
+  "name": "title",
+  "opts": {
+   "n": "014",
+   "t": "THE BERLIN TUNNEL",
+   "size": 150,
+   "sub": "The CIA's Spy Tunnel the Soviets Already Knew About"
+  }
+ },
+ {
+  "key": "chapter_3b437b",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Gap"
+  }
+ },
+ {
+  "key": "chapter_d9046d",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "The Warehouse"
+  }
+ },
+ {
+  "key": "quote_bb3f26",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026the suggestion was made facetiously that we {{\"dig a hole and put the dirt in it.\"}}",
+   "who": "CIA history of the Berlin Tunnel",
+   "role": "Written 1967-68",
+   "size": 68,
+   "source": "SOURCE: CIA, CLANDESTINE SERVICES HISTORY, THE BERLIN TUNNEL OPERATION 1952-1956 (1968; ISCAP RELEASE 2022), P. 7"
+  }
+ },
+ {
+  "key": "chapter_16ca3d",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "The Dig"
+  }
+ },
+ {
+  "key": "quote_d62b44",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026hitting a target {{two inches in diameter and 27 inches below}} a main German/Soviet highway.",
+   "who": "CIA history of the Berlin Tunnel",
+   "role": "Written 1967-68",
+   "size": 62,
+   "source": "SOURCE: CIA, CLANDESTINE SERVICES HISTORY, THE BERLIN TUNNEL OPERATION 1952-1956 (1968; ISCAP RELEASE 2022), P. 18"
+  }
+ },
+ {
+  "key": "chapter_f14eaf",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "The Tap"
+  }
+ },
+ {
+  "key": "quote_1c0982",
+  "name": "quote",
+  "opts": {
+   "q": "{{\"Entry is forbidden by order of the Commanding General.\"}}",
+   "who": "Inscription on the tunnel's \"anti-personnel\" door",
+   "role": "In German and Cyrillic \u00b7 as recorded in the CIA history",
+   "size": 72,
+   "source": "SOURCE: CIA, CLANDESTINE SERVICES HISTORY, THE BERLIN TUNNEL OPERATION 1952-1956 (1968; ISCAP RELEASE 2022), P. 21, FN. 4"
+  }
+ },
+ {
+  "key": "chapter_c9f60a",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "The Take"
+  }
+ },
+ {
+  "key": "stat_0974ff",
+  "name": "stat",
+  "opts": {
+   "k": "THE BERLIN TUNNEL \u00b7 1955-1956",
+   "a": "50,000",
+   "size": 300,
+   "b": "reels of magnetic tape \u2014 some 25 tons",
+   "source": "SOURCE: CIA, CLANDESTINE SERVICES HISTORY, THE BERLIN TUNNEL OPERATION 1952-1956 (1968; ISCAP RELEASE 2022), P. 25"
+  }
+ },
+ {
+  "key": "stat_8aa403",
+  "name": "stat",
+  "opts": {
+   "k": "TOTAL COST OF THE PROJECT",
+   "a": "$6.7M",
+   "size": 320,
+   "b": "processing continued until September 30, 1958",
+   "source": "SOURCE: CIA, CLANDESTINE SERVICES HISTORY, THE BERLIN TUNNEL OPERATION 1952-1956 (1968; ISCAP RELEASE 2022), P. 26"
+  }
+ },
+ {
+  "key": "chapter_2427ab",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "The Night"
+  }
+ },
+ {
+  "key": "quote_a370ca",
+  "name": "quote",
+  "opts": {
+   "q": "\"When we speak we must do so carefully. {{We know what the matter is,}} so we will speak carefully.\"",
+   "who": "Lt. Col. Vyunik, Soviet signals officer, by telephone",
+   "role": "About 4:15 a.m., April 22, 1956 \u00b7 as recorded in the CIA history",
+   "size": 58,
+   "source": "SOURCE: CIA, CLANDESTINE SERVICES HISTORY, THE BERLIN TUNNEL OPERATION 1952-1956 (1968; ISCAP RELEASE 2022), APPENDIX A, P. 8"
+  }
+ },
+ {
+  "key": "quote_504f62",
+  "name": "quote",
+  "opts": {
+   "q": "{{\"That is not a microphone.\"}}",
+   "who": "Unidentified voice at the tap chamber",
+   "role": "April 22, 1956 \u00b7 as recorded in the CIA history",
+   "size": 86,
+   "source": "SOURCE: CIA, CLANDESTINE SERVICES HISTORY, THE BERLIN TUNNEL OPERATION 1952-1956 (1968; ISCAP RELEASE 2022), APPENDIX A, P. 12"
+  }
+ },
+ {
+  "key": "quote_f05069",
+  "name": "quote",
+  "opts": {
+   "q": "\"What a filthy trick\u2026\" \u2014 {{\"Unless one had seen it for oneself, nobody would believe it.\"}}",
+   "who": "Two East German workers at the tap chamber",
+   "role": "April 22, 1956 \u00b7 as recorded in the CIA history",
+   "size": 58,
+   "source": "SOURCE: CIA, CLANDESTINE SERVICES HISTORY, THE BERLIN TUNNEL OPERATION 1952-1956 (1968; ISCAP RELEASE 2022), APPENDIX A, P. 14"
+  }
+ },
+ {
+  "key": "chapter_7f24d5",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "The Mole"
+  }
+ },
+ {
+  "key": "chapter_d16e7f",
+  "name": "chapter",
+  "opts": {
+   "n": "VIII",
+   "t": "The Release"
+  }
+ },
+ {
+  "key": "timeline_775e24",
+  "name": "timeline",
+  "opts": {
+   "kicker": "CLANDESTINE SERVICES HISTORY NO. 150",
+   "title": "How the file came out",
+   "events": [
+    {
+     "y": "1968",
+     "t": "History written"
+    },
+    {
+     "y": "2007",
+     "t": "First release"
+    },
+    {
+     "y": "2022",
+     "t": "ISCAP declassification"
+    },
+    {
+     "y": "2023",
+     "t": "CIA re-release"
+    },
+    {
+     "y": "2024",
+     "t": "CIA public account"
+    }
+   ],
+   "source": "SOURCES: CIA; ISCAP APPEAL 2014-032; FEDERATION OF AMERICAN SCIENTISTS (2007)"
+  }
+ },
+ {
+  "key": "end_7d0743",
+  "name": "end",
+  "opts": {
+   "n": "014",
+   "next": "Another file, released in full"
+  }
+ }
+]
