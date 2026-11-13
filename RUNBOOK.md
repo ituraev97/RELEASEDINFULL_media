@@ -36,7 +36,7 @@ Node scripts need `NODE_PATH=$(npm root -g)` (global Playwright).
 ## 3. Script → `episodes/NNN-slug/episode.py`
 - `LINES = [(spoken, shots, opts)]`; `C(clip, start, lab=…)`, `G(graphic, …)`; opts: `slow`, `gap`, `sil`, `tag`.
 - `PRON` (how TTS says it) and `DISPLAY` (subtitle spelling). Write numbers as words.
-- 1,650–1,750 words → 10:00–10:45 (default pause 0.55 s between lines). Must stay ≥ 10:00. Graphics: intro, title, chapter, doc, quote, stat, list, timeline, map, annot, geom, end (see pipeline/graphics.mjs).
+- 2,300–2,900 words → 15–20 min (owner 2026-11-14; default pause 0.55 s between lines). Length comes from more real material, never padding. Graphics: intro, title, chapter, doc, quote, stat, list, timeline, map, annot, geom, end (see pipeline/graphics.mjs).
 - Lines with more than ~7 s of footage get 2–3 shots from different clips.
 
 ## 4. Build
@@ -74,6 +74,25 @@ bash $R/pipeline/encode.sh $EP 95       # -> long.mp4 (two-pass x265, overlay bu
 ## 8. Close the run
 - Commit to main: episode folder (episode.py, research.md, factcheck.md, rights.json, thumb.json, youtube_description.txt, captions_en.srt), updated backlog.md. Never video files on main.
 - Report to the owner in Russian: title, FILE number, publish times (ET + Tashkent), 2-line summary, plannerUrls, thumb_B/C for Test & Compare, anything skipped.
+
+## Growth playbook (owner 2026-11-14 — grow aggressively, never look like a farm)
+- Studio baseline (28 days to 2026-11-13): long CTR 3.4 %, avg view duration 2:01 (~19 %), 206 impressions; Shorts 43.6 % stayed to watch, 91.8 % of Shorts views from search, 8.2 % from the feed. Targets: CTR ≥ 6 %, retention ≥ 35 %, Shorts stayed ≥ 60 %.
+- Freshness first: scan official releases of the last 14 days every run; at least every other episode is fresh (or has a fresh hook stated in the first 30 s). Epstein series: 3–4 episodes from official records only, interleaved with other topics.
+- Titles: curiosity gap about an object/person/question with the searched keyword ("Where Is the Lost H-Bomb Now?", "What the Epstein Files Actually Show"). Never start with a date, agency code, operation name or FILE number. Strong but true.
+- Thumbnails: one huge subject, thick red circle/arrow, 2–3 huge yellow/red words with black outline, bright and high-contrast; no small text, no agency stamp, no dark empty background. A/B/C variations for Test & Compare.
+- Opening: the most shocking verified fact + the question in the first 5 s; no bumper before 0:10; a new turn every 60–90 s; open loops; payoff in the last act.
+- Verticals: frame 0 bright + huge hook text, voice on the hook word at 0.0 s; YouTube Shorts 20–30 s, TikTok 62–110 s; QA a frame at 0.3 s.
+- Anti-farm: rotate opening types and structures, vary chapters and thumbnail compositions, a different template per Short, a description written for the episode, a genuine question for viewers.
+
+## Legal safety (absolute — the channel belongs to the owner's sister in the USA)
+- Facts only from official records (DOJ/FBI, court filings, IG reports, congressional reports, transcripts) or major outlets quoting them; every claim → opened URL in research.md.
+- A living person is named only if convicted/charged/acting as a public official, or if named in an official record — then say exactly what the record says, plus "Appearing in these records is not evidence of wrongdoing." No guilt by association, sequencing, music or rhetorical questions. No photos of living non-convicted people. When in doubt, leave the name out.
+- "Alleged", "accused", "according to …" for anything unproven; mention acquittals, dropped charges, denials, settlements without admission.
+- Victims/minors: never named or shown; no description of sexual acts; court-summary level only.
+- Politics: neutral, both parties' statements and votes.
+- Copyright: public-domain government material and our own RECREATED graphics only; never news footage or third-party photos.
+- Mandatory legal review (separate agent, legal_review.md, PASS/FIX per named person and claim) for any episode naming a living person or touching a criminal case; apply every FIX, cut anything doubtful.
+- Description line for such episodes: "This video reports on official public records. Inclusion of a name in released records does not imply wrongdoing. Allegations are unproven unless stated otherwise."
 
 ## Performance rules
 Weekly review (Metricool, last 28 days; YouTube rows only up to 2026-11-04 because of analytics lag; 22 TikTok cuts, 19 YouTube items). Each rule is backed by ≥ 3 videos. Never changes cadence, slots, AI-label settings or content rules.
