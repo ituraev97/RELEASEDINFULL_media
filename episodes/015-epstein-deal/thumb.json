@@ -1,0 +1,42 @@
+{
+ "bold": [
+  {
+   "id": "A",
+   "img": "/home/claude/releasedinfull_media/episodes/015-epstein-deal/thumbA_src.jpg",
+   "words": "13<br>MONTHS",
+   "size": 165,
+   "sub": "THE EPSTEIN DEAL",
+   "subtop": 360,
+   "label": "DOJ OPR REPORT, 2020 \u00b7 ANNOTATED",
+   "pw": 660
+  },
+  {
+   "id": "B",
+   "img": "/home/claude/releasedinfull_media/episodes/015-epstein-deal/thumbB_src.jpg",
+   "words": "NOT<br>TOLD",
+   "size": 190,
+   "sub": "THE 2007 EPSTEIN DEAL",
+   "subtop": 420,
+   "label": "DOJ OPR REPORT, 2020 \u00b7 ANNOTATED",
+   "pw": 620,
+   "bg": "#f0a400",
+   "bg2": "#c45a00",
+   "rot": -2
+  },
+  {
+   "id": "C",
+   "img": "/home/claude/releasedinfull_media/episodes/015-epstein-deal/thumbC_src.jpg",
+   "words": "60 \u2192 13",
+   "size": 170,
+   "w": 760,
+   "sub": "COUNTS DRAFTED \u2192 MONTHS SERVED",
+   "subtop": 220,
+   "subsize": 34,
+   "label": "DOJ OPR REPORT, 2020 \u00b7 ANNOTATED",
+   "pw": 600,
+   "ay": 300,
+   "qy": 420,
+   "ty": 420
+  }
+ ]
+}

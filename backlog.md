@@ -18,20 +18,23 @@ Status: `todo` → `done YYYY-MM-DD` / `skip (reason)`. Take the first `todo` (d
 | 012 | VENONA | done 2026-11-11 |
 | 013 | Operation Mongoose | done 2026-11-13 |
 | 014 | The Berlin Tunnel (CIA/MI6, 1954–56) | done 2026-11-15 |
-| 015 | Stargate | todo |
-| 016 | Kenneth Arnold, June 24, 1947 | todo |
-| 017 | Acoustic Kitty | todo |
-| 018 | The Robertson Panel | todo |
-| 019 | CORONA | todo |
-| 020 | Church Committee: assassination report | todo |
-| 021 | AARO historical report | todo |
-| 022 | COINTELPRO | todo |
-| 023 | Able Archer 83 | todo |
-| 024 | Socorro 1964 | todo |
-| 025 | Operation Paperclip | todo |
-| 026 | The Hottel memo | todo |
-| 027 | Starfish Prime | todo |
-| 028 | Mockingbird | todo |
-| 029 | Condon and the end of Blue Book | todo |
-| 030 | The Pentagon Papers | todo |
-| 031 | NASA, AARO and the official answer | todo |
+| 015 | The Epstein deal: the 2007 non-prosecution agreement (Epstein series 1/4) | done 2026-11-17 |
+| 016 | Stargate | todo |
+| 017 | Kenneth Arnold, June 24, 1947 | todo |
+| 018 | Acoustic Kitty | todo |
+| 019 | The Robertson Panel | todo |
+| 020 | CORONA | todo |
+| 021 | Church Committee: assassination report | todo |
+| 022 | AARO historical report | todo |
+| 023 | COINTELPRO | todo |
+| 024 | Able Archer 83 | todo |
+| 025 | Socorro 1964 | todo |
+| 026 | Operation Paperclip | todo |
+| 027 | The Hottel memo | todo |
+| 028 | Starfish Prime | todo |
+| 029 | Mockingbird | todo |
+| 030 | Condon and the end of Blue Book | todo |
+| 031 | The Pentagon Papers | todo |
+| 032 | NASA, AARO and the official answer | todo |
+
+Epstein series (official records only, interleaved): 1 the 2007 deal (FILE 015, done); 2 the death in custody and the DOJ Inspector General report; 3 what the 2026 DOJ release contains and what stayed redacted; 4 the congressional fight over the files (both parties' votes).

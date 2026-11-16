@@ -7,7 +7,7 @@ LENGTH RULE (owner, Nov 2026): every vertical cut is 62–110 s, so it qualifies
 and is still a YouTube Short (≤ 3 min). If the chosen lines run shorter than 62 s, the cut is extended line by line
 (following lines first, then preceding ones) until it reaches 62 s; it never stops mid-sentence.
 
---platform youtube (owner rule 2026-11-06): YouTube Shorts y1–y3 of 30–45 s from episode.META["yshorts"]
+--platform youtube (owner rules 2026-11-06, 2026-11-14): YouTube Shorts y1–y3 of 20–30 s from episode.META["yshorts"]
 (same layout; the hook text is on screen from the first frame; CTA "THE FULL FILE IS ON OUR CHANNEL"). Default (TikTok) unchanged.
 
 Layout (TikTok + Shorts safe zones: nothing important below y≈1500 or in the right 130 px):
@@ -18,7 +18,7 @@ import json, os, re, subprocess, sys, importlib.util
 EP = os.path.abspath(sys.argv[1]); OUT = os.path.abspath(sys.argv[2]); os.makedirs(OUT, exist_ok=True)
 FROM_LONG = "--from-long" in sys.argv
 YT = "--platform" in sys.argv and sys.argv[sys.argv.index("--platform") + 1] == "youtube"
-MIN_D, MAX_D = (30.0, 45.0) if YT else (62.0, 110.0)
+MIN_D, MAX_D = (20.0, 30.0) if YT else (62.0, 110.0)   # YouTube Shorts 20-30 s (owner 2026-11-14)
 KEY = "yshorts" if YT else "shorts"
 CTA = "THE FULL FILE IS ON OUR CHANNEL" if YT else "FOLLOW FOR THE NEXT FILE"
 spec = importlib.util.spec_from_file_location("episode", os.path.join(EP, "episode.py")); E = importlib.util.module_from_spec(spec); spec.loader.exec_module(E)
@@ -49,14 +49,14 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Hook,Big Shoulders Stencil Display Thin Black,112,&H00CAE0E8,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,0,6,8,70,130,300,1
+Style: Hook,Big Shoulders Stencil Display Thin Black,128,&H00000000,&H00FFFFFF,&H0000D4FF,&H00000000,0,0,0,0,100,100,2,0,3,22,0,8,70,130,120,1
 Style: Cap,Archivo SemiBold ExtraBold,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,5,90,150,0,1
-Style: Brand,Big Shoulders Stencil Display Thin Black,58,&H00C44727,&H00FFFFFF,&H00C44727,&H00000000,0,0,0,0,100,100,6,0,1,0,0,8,60,130,190,1
+Style: Brand,Big Shoulders Stencil Display Thin Black,44,&H00C44727,&H00FFFFFF,&H00C44727,&H00000000,0,0,0,0,100,100,6,0,1,0,0,8,60,130,190,1
 Style: CTA,Courier Prime,40,&H00B0F58C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,3,0,5,60,130,0,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
-def span(a, b): return max(0, ST[a] - 0.2), ST[b] + VD[b] + 0.7
+def span(a, b): return ST[a], ST[b] + VD[b] + 0.7   # voice starts on the hook word at 0.0 s (owner 2026-11-14)
 for sh in E.META.get(KEY, []):
     a, b = sh["lines"][0] - 1, sh["lines"][1] - 1
     t0, t1 = span(a, b)
@@ -71,9 +71,16 @@ for sh in E.META.get(KEY, []):
     if D > MAX_D: print("WARN", sh["id"], "long", round(D, 1), "s — choose fewer lines")
     sh["lines_used"] = [a + 1, b + 1]
     ev = []
-    hook = sh["hook"].replace("<br>", r"\N"); hook = re.sub(r"\[(.+?)\]", r"{\\c&HB0F58C&}\1{\\c&HCAE0E8&}", hook)
-    ev.append(f"Dialogue: 2,{ts(0)},{ts(D)},Hook,,0,0,0,,{{\\fad(150,0)}}{hook}")
-    ev.append(f"Dialogue: 2,{ts(0)},{ts(D)},Brand,,0,0,0,,{{\\frz4\\bord4\\3c&HC44727&}} {SHORT} ")
+    # hook templates (each Short a different look; frame 0 already shows the huge hook on a bright box, no fade-in)
+    TPL = {"yellow": ("&H00000000&", "&H0000D4FF&", "&H001B10E3&"),   # black text on yellow box, [accent] red
+           "red":    ("&H00FFFFFF&", "&H001B10E3&", "&H0000D4FF&"),   # white on red, [accent] yellow
+           "white":  ("&H00000000&", "&H00FFFFFF&", "&H001B10E3&"),   # black on white, [accent] red
+           "blue":   ("&H00FFFFFF&", "&H00C44727&", "&H0000D4FF&")}   # white on stamp blue, [accent] yellow
+    keys = list(TPL); tpl = sh.get("tpl") or keys[E.META.get(KEY, []).index(sh) % len(keys)]
+    c1, c3, acc = TPL[tpl]
+    hook = sh["hook"].replace("<br>", r"\N"); hook = re.sub(r"\[(.+?)\]", r"{\\1c" + acc + r"}\1{\\1c" + c1 + r"}", hook)
+    ev.append(f"Dialogue: 2,{ts(0)},{ts(D)},Hook,,0,0,0,,{{\\an8\\pos(540,{sh.get('hy', 110)})\\1c{c1}\\3c{c3}\\fs{sh.get('hs', 128)}}}{hook}")
+    ev.append(f"Dialogue: 2,{ts(0)},{ts(D)},Brand,,0,0,0,,{{\\an2\\pos(540,1600)\\bord3\\3c&HC44727&}} {SHORT} ")
     for (ca, cb, txt) in CAP:
         if cb <= t0 or ca >= t1: continue
         words = txt.split(); groups = [" ".join(words[k:k + 3]) for k in range(0, len(words), 3)]
@@ -85,14 +92,14 @@ for sh in E.META.get(KEY, []):
     ev.append(f"Dialogue: 3,{ts(D - 3.0)},{ts(D)},CTA,,0,0,0,,{{\\an5\\pos(530,1450)\\fad(200,0)}}{CTA}")
     ass = f"{OUT}/{sh['id']}.ass"; open(ass, "w", encoding="utf-8").write(HEAD + "\n".join(ev) + "\n")
     burn = "" if FROM_LONG else f"ass={EP}/overlay.ass,"
-    vf = (f"[0:v]setpts=PTS+{t0:.3f}/TB,{burn}setpts=PTS-STARTPTS,split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,gblur=sigma=28,eq=brightness=-0.42:saturation=0.7[bg];"
-          f"[b]scale=1080:-2:flags=lanczos[fg];[bg][fg]overlay=0:(H-h)/2-60,ass={ass},fade=t=in:st=0:d=0.25,fade=t=out:st={D - 0.45:.2f}:d=0.45[v]")
+    vf = (f"[0:v]setpts=PTS+{t0:.3f}/TB,{burn}setpts=PTS-STARTPTS,split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,gblur=sigma=28,eq=brightness=-0.10:saturation=1.1[bg];"
+          f"[b]scale=1080:-2:flags=lanczos[fg];[bg][fg]overlay=0:(H-h)/2-60,ass={ass},fade=t=out:st={D - 0.45:.2f}:d=0.45[v]")
     vin = f"{EP}/long.mp4" if FROM_LONG else f"{EP}/video_raw.mp4"
     ain = ["-ss", f"{t0:.3f}", "-t", f"{D:.3f}", "-i", f"{EP}/long.mp4" if FROM_LONG else f"{EP}/mix.wav"]
     out = f"{OUT}/{sh['id']}.mp4"
     subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-ss", f"{t0:.3f}", "-t", f"{D:.3f}", "-i", vin] + ain +
                    ["-filter_complex", vf, "-map", "[v]", "-map", "1:a",
-                    "-af", f"afade=t=in:d=0.15,afade=t=out:st={D - 0.5:.2f}:d=0.5,loudnorm=I=-14:TP=-1.5", "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+                    "-af", f"afade=t=in:d=0.02,afade=t=out:st={D - 0.5:.2f}:d=0.5,loudnorm=I=-14:TP=-1.5", "-c:v", "libx264", "-preset", "medium", "-crf", "20",
                     "-pix_fmt", "yuv420p", "-r", "30", "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-movflags", "+faststart", out], check=True)
     print(sh["id"], "lines", sh["lines_used"], round(D, 1), "s", out, flush=True)
 json.dump({s["id"]: s.get("lines_used") for s in E.META.get(KEY, [])}, open(f"{OUT}/{'y' if YT else ''}lines_used.json", "w"))

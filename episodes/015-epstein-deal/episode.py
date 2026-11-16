@@ -1,0 +1,346 @@
+# FILE 015 — How Epstein Got 13 Months: The Deal the DOJ Called "Poor Judgment"
+# Epstein series, part 1 of 4 (the 2007 Florida non-prosecution agreement). Fresh hook: House Oversight report (Nov 10, 2026)
+#   and the second Epstein files discharge petition reaching 218 signatures (Nov 11, 2026).
+# LEGAL: facts only from official records (DOJ OPR report 2020, court records) and AP/NPR/ABC reporting of them.
+#   Named living people: only public officials acting in role (Acosta, Judge Marra, Reps. Massie, Comer, Garcia, Garamendi,
+#   Khanna) and the convicted Ghislaine Maxwell. Line prosecutors, defense lawyers, assistants and victims are NOT named.
+#   No photos of any person. No victim details beyond court-summary level.
+# Main document: DOJ Office of Professional Responsibility, "Investigation into the U.S. Attorney's Office for the Southern
+#   District of Florida's Resolution of its 2006-2008 Federal Criminal Investigation of Jeffrey Epstein..." (Nov. 2020),
+#   archive.org item epsteindocs (PDF page numbers). Crops: whole lines, padded 16:9, via /home/claude/tools/crop.py.
+C = lambda i, s, **k: (str(i), s, k)
+G = lambda name, **k: ("g:" + name, 0, k)
+I = lambda key, **k: ("img:" + key, 0, k)
+
+D = "/home/claude/src/img/doc/"
+
+P = "ACTUAL DOCUMENT · DOJ OFFICE OF PROFESSIONAL RESPONSIBILITY REPORT (NOV. 2020) · PDF P. "
+IND = "ACTUAL DOCUMENT · U.S. v. JEFFREY EPSTEIN, SEALED INDICTMENT, S.D.N.Y. (JULY 2019) · P. "
+MAR = "ACTUAL DOCUMENT · JANE DOE 1 AND JANE DOE 2 v. UNITED STATES, OPINION AND ORDER (S.D. FLA., SEPT. 16, 2019) · P. "
+CAP = "B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+DCA = "B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026"
+
+S_O = "SOURCE: DOJ OFFICE OF PROFESSIONAL RESPONSIBILITY, REPORT ON THE 2006-2008 EPSTEIN INVESTIGATION (NOV. 2020)"
+S_H = "SOURCE: HOUSE OVERSIGHT COMMITTEE REPORT (NOV. 10, 2026), AS REPORTED BY AP, NPR AND AL JAZEERA"
+S_R = "SOURCE: ROLL CALL (NOV. 11, 2026); EPSTEIN FILES TRANSPARENCY ACT (2025)"
+S_A = "SOURCE: AP (JAN. 30, 2026)"
+S_2 = "SOURCE: U.S. v. MAXWELL, NO. 22-1426 (2D CIR. SEPT. 17, 2024); AP (DEC. 29, 2021; OCT. 6, 2025)"
+S_11 = "SOURCE: IN RE WILD, NO. 19-13843 (11TH CIR. EN BANC, APRIL 15, 2021)"
+S_N = "SOURCE: NPR (JULY 12, 2019); DOJ OPR REPORT (2020)"
+
+DISC = "Appearing in these records is not evidence of wrongdoing."
+
+LINES = [
+ # ---------------- COLD OPEN (document reveal) ----------------
+ ("In two thousand seven, federal prosecutors in Florida drafted a sixty-count indictment against Jeffrey Epstein. | It was never filed.",
+  [I("t_60", kb="in", focus=[0.5, 0.5], lab=P + "51")], dict(tag=("WEST PALM BEACH, FLORIDA", "MAY 2007"))),
+ ("Instead, he pleaded guilty to two state charges and served less than thirteen months, | and for most of that time, he was allowed to leave the jail for up to twelve hours a day, six days a week, on work release.",
+  [G("stat", k="SENTENCE: 18 MONTHS · SERVED: UNDER 13", a="UP TO 12 HRS", size=220, b="a day, six days a week, on work release",
+     c="according to the Justice Department's own review", source=S_O)], {}),
+ ("The Justice Department later investigated how that deal was made. | It found no professional misconduct. | But it called the deal, in two words, poor judgment.",
+  [I("t_poor", kb="in", focus=[0.5, 0.5], lab=P + "12")], dict(slow=True)),
+ ("And last week, the deal was back in Congress. | On November tenth, twenty twenty-six, a House committee released a report, and its Republican chairman said the federal government had failed Epstein's victims at nearly every turn.",
+  [C("dv346026", 3.0, lab=CAP)], dict(tag=("WASHINGTON, D.C.", "NOVEMBER 2026"))),
+ ("So how does a sixty-count draft indictment end in thirteen months in a county jail? | The answer is in the government's own files.",
+  [I("cover", kb="in", focus=[0.5, 0.4], lab=P + "1 · COVER PAGE")], {}),
+ ("Let's open the file.",
+  [G("intro", n="015")], dict(gap=0.2)),
+ ("",
+  [G("title", n="015", t="THE EPSTEIN DEAL", size=150, sub="How a 60-Count Draft Became 13 Months")], dict(gap=0.4)),
+
+ # ---------------- I. THE COMPLAINT ----------------
+ ("It began with one phone call.",
+  [G("chapter", n="I", t="The Complaint")], {}),
+ ("In March two thousand five, the parents of a fourteen-year-old girl told the Palm Beach police that a man had paid their daughter three hundred dollars to give him a massage at his home.",
+  [I("t_march05", kb="in", focus=[0.5, 0.5], lab=P + "37")], dict(tag=("PALM BEACH, FLORIDA", "MARCH 2005"))),
+ ("The man was Jeffrey Epstein, a multi-millionaire financier with homes in Palm Beach, New York City and abroad.",
+  [I("t_exec1", kb="in", focus=[0.5, 0.4], lab=P + "3")], {}),
+ ("The police investigation grew. | According to the Justice Department's later report, Epstein used personal assistants to recruit girls to give him massages, and in many instances those massages led to sexual activity.",
+  [I("t_exec2", kb="in", focus=[0.5, 0.5], lab=P + "3")], {}),
+ ("In October two thousand five, police searched his Palm Beach house. | According to the report, they found computer monitors and keyboards, and disconnected surveillance cameras, | but the computer equipment itself was gone.",
+  [I("t_search", kb="in", focus=[0.5, 0.5], lab=P + "39-40")], dict(tag=("PALM BEACH, FLORIDA", "OCTOBER 20, 2005"))),
+ ("The case went to the State Attorney. | His office told the Justice Department's investigators there were witness problems, and offered Epstein five years of probation. | He turned it down.",
+  [I("t_prob", kb="in", focus=[0.5, 0.5], lab=P + "40")], {}),
+ ("On July nineteenth, two thousand six, a state grand jury indicted him on a single count: felony solicitation of prostitution. | The indictment did not mention that the people solicited were minors.",
+  [I("t_gj", kb="in", focus=[0.5, 0.5], lab=P + "46")], dict(tag=("PALM BEACH COUNTY, FLORIDA", "JULY 19, 2006"))),
+ ("Even before that indictment, the Palm Beach police chief and the lead detective had grown dissatisfied with how the State Attorney was handling the case. | In May two thousand six, they took it to the F B I.",
+  [I("t_fbi", kb="in", focus=[0.5, 0.5], lab=P + "3")], dict(gap=0.9, sil=True)),
+
+ # ---------------- II. SIXTY COUNTS ----------------
+ ("Now it was a federal case.",
+  [G("chapter", n="II", t="Sixty Counts")], {}),
+ ("An assistant U S attorney in West Palm Beach opened a file, with the knowledge of the man who ran the office: | U S Attorney Alexander Acosta.",
+  [I("t_ausa", kb="in", focus=[0.5, 0.5], lab=P + "3")], {}),
+ ("Working with two F B I agents, she found more victims. | By May two thousand seven, she had written an eighty-two-page prosecution memo, | and a draft indictment with sixty counts.",
+  [I("t_60", kb="down", focus=[0.5, 0.5], lab=P + "51"),
+   G("stat", k="DRAFT FEDERAL INDICTMENT · MAY 2007", a="60", size=360, b="counts, backed by an 82-page prosecution memo",
+     c="never filed", source=S_O)], {}),
+ ("Her immediate supervisor read it and, according to the report, viewed the case as prosecutable. | But the decision would not be made in West Palm Beach. | It went to the front office in Miami.",
+  [I("t_front", kb="in", focus=[0.5, 0.5], lab=P + "51")], {}),
+ ("The managers there had concerns, the report says: | about legal issues, about how witnesses would hold up, and about what a trial would do to the victims.",
+  [I("t_concerns", kb="in", focus=[0.5, 0.5], lab=P + "12")], {}),
+ ("Acosta had another concern. | In his view, a case like this belonged first to the state. | The federal role, he told investigators, was to be a backstop.",
+  [G("quote", q="…the federal responsibility in this situation was to serve as a {{\"backstop\"}} to state authorities by encouraging them to do more.",
+     who="DOJ Office of Professional Responsibility", role="Describing Acosta's view · 2020", size=60, source=S_O + ", PDF P. 12")], {}),
+ ("A backstop, he explained, was a polite way of saying: encouraging the state to do a little bit more.",
+  [I("t_polite", kb="in", focus=[0.5, 0.5], lab=P + "174")], dict(slow=True)),
+ ("On July thirty-first, two thousand seven, the office made Epstein's lawyers an offer. | End the federal investigation, | if he pleaded guilty to state charges, served at least two years, registered as a sex offender, | and agreed to a way for victims to get money damages.",
+  [I("t_offer", kb="in", focus=[0.5, 0.5], lab=P + "3"),
+   G("list", kicker="THE OFFER · JULY 31, 2007", title="End the federal case, if Epstein:", items=[
+      dict(t="Pleads guilty to state charges"), dict(t="Serves at least two years"), dict(t="Registers as a sexual offender"),
+      dict(t="Agrees to a way for victims to get damages")], source=S_O + ", PDF P. 3")], {}),
+ ("The defense then tried to drop the sex offender registration. | Acosta refused. | Alex will not agree to a non-registration offense, a supervisor told the prosecutor to pass on.",
+  [I("t_nonreg", kb="in", focus=[0.5, 0.5], lab=P + "105")], {}),
+ ("His lawyers kept pushing. | What followed were weeks of negotiations, and a document that would follow everyone involved for nearly two decades.",
+  [C("dv1026930c", 7.5, lab=DCA)], dict(gap=0.9, sil=True)),
+
+ # ---------------- III. THE AGREEMENT ----------------
+ ("It was called a non-prosecution agreement.",
+  [G("chapter", n="III", t="The Agreement")], {}),
+ ("Shortly after midnight on September twenty-fourth, two thousand seven, Acosta sent his final small edits. | That afternoon, Epstein's signed copy came back. | The prosecutor emailed her colleagues: It is done.",
+  [I("t_done", kb="in", focus=[0.5, 0.5], lab=P + "110")], dict(tag=("MIAMI, FLORIDA", "SEPTEMBER 24, 2007"))),
+ ("Under the deal, Epstein would plead guilty in state court to two charges, including procuring a minor for prostitution. | The binding recommendation: eighteen months in county jail, then twelve months of community control.",
+  [I("t_terms", kb="in", focus=[0.5, 0.5], lab=P + "4")], {}),
+ ("In return, federal prosecutors in South Florida would not prosecute him. | And not only him.",
+  [G("doc", header="NON-PROSECUTION AGREEMENT · SEPT. 24, 2007 · AS DESCRIBED BY DOJ OPR",
+     title="The U.S. Attorney's Office (S.D. Fla.) agreed not to prosecute:",
+     lines=["Jeffrey Epstein", "Four named individuals", "{{\"any potential co-conspirators\"}}"],
+     stamp="RECREATED", source=S_O + ", PDF P. 4, 105-106")], dict(slow=True)),
+ ("The deal also covered four named people, and, in the words of the agreement, any potential co-conspirators.",
+  [I("t_cocon", kb="in", focus=[0.5, 0.5], lab=P + "105")], {}),
+ ("That exact phrase, the report says, came from a defense draft, which built on language from the prosecutor's own earlier draft. | She kept it. | I don't think it hurts us, she wrote.",
+  [I("t_hurt", kb="in", focus=[0.5, 0.5], lab=P + "106")], {}),
+ ("Years later, a supervisor told investigators he did not recall why the office agreed to it, | though he believed at the time that it benefited the government in some way.",
+  [I("t_recall", kb="in", focus=[0.5, 0.5], lab=P + "106")], {}),
+ ("There was one more clause. | The defense asked for it, and in the prosecutor's revised wording it went into the final deal: | The parties anticipate that this agreement will not be made part of any public record.",
+  [I("t_public", kb="in", focus=[0.5, 0.5], lab=P + "110"),
+   G("quote", q="The parties anticipate that this agreement {{will not be made part of any public record.}}",
+     who="Non-prosecution agreement", role="Sept. 24, 2007 · as quoted by DOJ OPR", size=64, source=S_O + ", PDF P. 110")], {}),
+ ("It did not stay secret forever. | In September two thousand nine, after victims and news organizations sued, a state judge ordered the agreement made public.",
+  [I("t_sept09", kb="in", focus=[0.5, 0.5], lab=P + "5")], {}),
+ ("But back in two thousand seven, the victims? | According to the report, they were not informed of, or consulted about, the agreement before it was signed.",
+  [I("t_notinf", kb="in", focus=[0.5, 0.5], lab=P + "4")], dict(gap=0.9, sil=True)),
+
+ # ---------------- IV. NINE MONTHS ----------------
+ ("The deal was signed. | It still had to happen.",
+  [G("chapter", n="IV", t="Nine Months")], {}),
+ ("For the next nine months, the report says, Epstein deployed his extensive team of prominent attorneys to change the terms his own team had negotiated.",
+  [I("t_nine", kb="in", focus=[0.5, 0.5], lab=P + "4")], {}),
+ ("At the same time, they tried to have the whole agreement thrown out, | arguing to senior Justice Department officials in Washington that this was a quintessentially state matter.",
+  [C("dv1026930c", 11.0, lab=DCA)], dict(tag=("WASHINGTON, D.C.", "2008"))),
+ ("Meanwhile, after the signing, some victims got letters from the F B I describing the case as under investigation. | The report found the statement was not false, | but said the letters risked misleading the victims.",
+  [I("t_letters", kb="in", focus=[0.5, 0.5], lab=P + "13"), I("t_letters2", kb="in", focus=[0.5, 0.5], lab=P + "13")], {}),
+ ("In June two thousand eight, the office of the Deputy Attorney General answered the defense. | It would not intervene. | And it added one more sentence.",
+  [I("t_roth", kb="in", focus=[0.5, 0.45], lab=P + "136")], dict(tag=("WASHINGTON, D.C.", "JUNE 23, 2008"))),
+ ("Even if we were to substitute our judgment for that of the U S Attorney, we believe that federal prosecution of this case is appropriate.",
+  [G("quote", q="Even if we were to substitute our judgment for that of the U.S. Attorney, we believe that {{federal prosecution of this case is appropriate.}}",
+     who="Office of the Deputy Attorney General", role="Letter to Epstein's lawyers · June 23, 2008", size=56, source=S_O + ", PDF P. 136")], dict(slow=True)),
+ ("A week later, on June thirtieth, two thousand eight, Epstein stood in a Palm Beach courtroom and pleaded guilty. | Twelve months for one charge, six months for the other, then a year of community control. | He would have to register as a sex offender when he got out.",
+  [I("t_plea", kb="in", focus=[0.5, 0.5], lab=P + "4"),
+   G("timeline", kicker="THE ROAD TO A STATE PLEA", title="2005 - 2008", active=4, events=[
+      dict(y="MAR 2005", t="Police complaint"), dict(y="JUL 2006", t="One state count"), dict(y="MAY 2007", t="60-count draft"),
+      dict(y="SEP 2007", t="Agreement signed"), dict(y="JUN 2008", t="Guilty plea")], source=S_O)], dict(tag=("PALM BEACH, FLORIDA", "JUNE 30, 2008"))),
+ ("That same day he began his sentence, in a minimum-security county facility called the Stockade. | Less than three and a half months later, the sheriff's office put him on work release.",
+  [I("t_stock", kb="in", focus=[0.5, 0.5], lab=P + "4")], dict(gap=0.9, sil=True)),
+
+ # ---------------- V. THE FOUNDATION ----------------
+ ("He had somewhere to go.",
+  [G("chapter", n="V", t="The Foundation")], {}),
+ ("The sheriff's work release program let him leave for up to twelve hours a day, six days a week, | to work at an office called the Florida Science Foundation.",
+  [I("t_wr", kb="in", focus=[0.5, 0.5], lab=P + "140-141")], dict(tag=("WEST PALM BEACH, FLORIDA", "OCTOBER 2008"))),
+ ("At his plea hearing, Epstein had told the court he was its president, that it had existed for fifteen years, and that he worked there every day.",
+  [I("t_pres", kb="in", focus=[0.5, 0.5], lab=P + "140 · FOOTNOTE")], {}),
+ ("According to the federal prosecutor, that entity did not even exist until November two thousand seven, | two months after the deal was signed. | And the address he gave was his lawyer's office.",
+  [I("t_exist", kb="in", focus=[0.5, 0.5], lab=P + "140")], {}),
+ ("The prosecutor had tried to stop exactly this. | Her office had expected eighteen months behind bars, | and the report says it never got notice of his work release application.",
+  [I("t_notice", kb="in", focus=[0.5, 0.5], lab=P + "140")], {}),
+ ("In mid-November two thousand eight, she found out he was on work release. | She emailed her bosses a five-word question.",
+  [I("t_indict", kb="in", focus=[0.5, 0.3], lab=P + "141")], {}),
+ ("Can I indict him now?",
+  [G("quote", q="{{\"Can I indict him now?\"}}", who="The federal prosecutor on the case", role="Email to her supervisors · November 2008", size=96,
+     source=S_O + ", PDF P. 141")], dict(slow=True, gap=1.0)),
+ ("Her office sent the defense a letter. | Eighteen months, it said, meant confinement twenty-four hours a day. | Epstein was in breach.",
+  [I("t_breach", kb="in", focus=[0.5, 0.5], lab=P + "141")], {}),
+ ("His lawyers answered that the agreement did not prohibit work release, and that Florida law treated it as part of confinement.",
+  [I("t_black", kb="in", focus=[0.5, 0.5], lab=P + "141-142")], {}),
+ ("She wrote to the sheriff's office too, pointing out that the foundation's phone number on his application was his lawyer's law firm. | The report says the sheriff's office neither acknowledged nor responded.",
+  [I("t_phone", kb="in", focus=[0.5, 0.5], lab=P + "142"), I("t_noresp", kb="in", focus=[0.5, 0.5], lab=P + "143")], {}),
+ ("No federal charges followed. | On July twenty-second, two thousand nine, almost thirteen months after he began his sentence, Epstein was released to home confinement.",
+  [I("t_release", kb="in", focus=[0.5, 0.5], lab=P + "143")], dict(tag=("PALM BEACH, FLORIDA", "JULY 22, 2009"))),
+ ("Eighteen months on paper. | Under thirteen in custody, with time off for good behavior. | And for most of them, days spent outside.",
+  [G("stat", k="THE 2008 SENTENCE", a="18 → <13", size=260, b="months on paper, months in custody", c="work release from October 2008", source=S_O)], dict(gap=0.9, sil=True)),
+
+ # ---------------- VI. THE LAWSUIT ----------------
+ ("But two of his victims had already gone to court.",
+  [G("chapter", n="VI", t="The Lawsuit")], {}),
+ ("A week after his plea, on July seventh, two thousand eight, one of his victims went to federal court as Jane Doe. | A second woman later joined her as Jane Doe two. | Their claim: the government broke the Crime Victims' Rights Act by resolving the case without consulting victims.",
+  [I("t_doe", kb="in", focus=[0.5, 0.5], lab=P + "4")], dict(tag=("WEST PALM BEACH, FLORIDA", "JULY 7, 2008"))),
+ ("The case moved slowly. | For a decade, the deal drew little press attention, | and Epstein, the report says, was otherwise able to resume his lavish lifestyle.",
+  [I("t_lavish", kb="in", focus=[0.5, 0.5], lab=P + "5")], {}),
+ ("By mid twenty ten, the report says, Epstein had reportedly settled multiple civil lawsuits brought by victims, including the two women in that case.",
+  [I("t_settle", kb="in", focus=[0.5, 0.5], lab=P + "5")], {}),
+ ("Then, in November two thousand eighteen, the Miami Herald published an investigation into the deal. | The report says it led to public outrage.",
+  [I("t_herald", kb="in", focus=[0.5, 0.5], lab=P + "5-6")], {}),
+ ("On February twenty-first, twenty nineteen, U S District Judge Kenneth Marra ruled. | The government had violated the Crime Victims' Rights Act by failing to tell the victims it intended to enter the agreement.",
+  [I("t_feb19", kb="in", focus=[0.5, 0.5], lab=P + "6")], dict(tag=("WEST PALM BEACH, FLORIDA", "FEBRUARY 21, 2019"))),
+ ("When the Government gives information to victims, the judge wrote, it cannot be misleading.",
+  [G("quote", q="When the Government gives information to victims, {{it cannot be misleading.}}",
+     who="U.S. District Judge Kenneth Marra", role="Order · February 21, 2019 · as reported by CNBC", size=66,
+     source="SOURCE: CNBC (FEB. 21, 2019); DOJ OPR REPORT (2020), PDF P. 6")], dict(slow=True)),
+ ("That same month, the Justice Department's Office of Professional Responsibility opened its own investigation.",
+  [I("cover", kb="down", focus=[0.5, 0.45], lab=P + "1 · COVER PAGE")], dict(gap=0.9, sil=True)),
+
+ # ---------------- VII. NEW YORK ----------------
+ ("And then, New York.",
+  [G("chapter", n="VII", t="New York")], {}),
+ ("On July sixth, twenty nineteen, Epstein's private plane landed from Paris at Teterboro Airport in New Jersey. | He was arrested.",
+  [G("map", kicker="JULY 6, 2019", title="Two prosecutors' offices", bounds=[[-82, 25.5], [-72, 41.5]],
+     points=[dict(ll=[-74.06, 40.86], name="Teterboro, N.J.", sub="ARREST · JULY 6, 2019", anchor="end"),
+             dict(ll=[-74.0, 40.71], name="New York (S.D.N.Y.)", sub="2019 INDICTMENT"),
+             dict(ll=[-80.05, 26.71], name="Palm Beach", sub="2005 COMPLAINT", anchor="end"),
+             dict(ll=[-80.19, 25.77], name="Miami (S.D. Fla.)", sub="2007 AGREEMENT")],
+     source="SOURCE: AP/NPR MEMBER STATIONS (JULY 8, 2019); DOJ OPR REPORT (2020)")], dict(tag=("TETERBORO, NEW JERSEY", "JULY 6, 2019"))),
+ ("Federal prosecutors in Manhattan charged him with sex trafficking and sex trafficking conspiracy. | The indictment alleged he sexually abused dozens of minor girls in New York and Palm Beach. | He pleaded not guilty.",
+  [I("ind1", kb="in", focus=[0.5, 0.35], lab=IND + "1"), I("ind_dozens", kb="in", focus=[0.5, 0.5], lab=IND + "1")], dict(tag=("NEW YORK, NEW YORK", "JULY 8, 2019"))),
+ ("What about the Florida deal? | The U S Attorney in Manhattan said it only binds the Southern District of Florida.",
+  [G("quote", q="The Southern District of New York is {{not bound by that agreement}} and is not a signatory to that agreement.",
+     who="U.S. Attorney, Southern District of New York", role="July 8, 2019 · as reported by AP/WUSF", size=58,
+     source="SOURCE: WUSF / AP (JULY 8, 2019)")], {}),
+ ("Two days later, Acosta, by then the Secretary of Labor, defended the deal at a press conference. | Without his office, he said, the state was ready to allow Epstein to walk free with no jail time, nothing. | His office, he said, had put Epstein in jail, forced him to register as a sex offender, and given victims a way to get damages. | The former Palm Beach State Attorney said Acosta was completely wrong.",
+  [I("t_walk", kb="in", focus=[0.5, 0.5], lab=P + "6")], dict(tag=("WASHINGTON, D.C.", "JULY 10, 2019"))),
+ ("Two days after that, he resigned. | The right thing, he said, was to step aside.",
+  [C("dv1026930c", 14.0, lab=DCA),
+   G("quote", q="The right thing was {{to step aside.}}", who="Alexander Acosta", role="Resigning as Secretary of Labor · July 12, 2019", size=84, source=S_N)], {}),
+ ("Epstein never stood trial. | On August tenth, twenty nineteen, he died in federal custody in Manhattan. His death was ruled a suicide. | Later that month, a judge dismissed the charges against him.",
+  [G("stat", k="AUGUST 10, 2019", a="NO TRIAL", size=220, b="Epstein died in federal custody before the case was tried",
+     c="the charges were dismissed after his death and never proven in court", source="SOURCE: AP (AUG. 29, 2019); HOUSE OVERSIGHT COMMITTEE REPORT (2026)")], dict(slow=True)),
+ ("The circumstances of his death are their own file. | We will open it in this series.",
+  [C("dv346026", 14.0, lab=CAP)], dict(gap=0.9, sil=True)),
+
+ # ---------------- VIII. THE VERDICT ----------------
+ ("The government's own review came next.",
+  [G("chapter", n="VIII", t="The Review")], {}),
+ ("On November twelfth, twenty twenty, the Justice Department announced the findings of its Office of Professional Responsibility. | The full report runs three hundred forty-eight pages.",
+  [I("cover", kb="in", focus=[0.5, 0.5], lab=P + "1 · COVER PAGE")], dict(tag=("WASHINGTON, D.C.", "NOVEMBER 12, 2020"))),
+ ("First, what the report did not find. | The report found no professional misconduct by any of the five prosecutors it examined.",
+  [I("t_nomisc", kb="in", focus=[0.5, 0.5], lab=P + "12")], {}),
+ ("It found no evidence that the decision was based on corruption, | or on Epstein's wealth, status or associations. | And it said Acosta refused to drop the jail time and the sex offender registration.",
+  [I("t_corrupt", kb="in", focus=[0.5, 0.5], lab=P + "12")], {}),
+ ("Then the other part. | Acosta's decision to resolve the case through the agreement, the report concluded, constitutes poor judgment.",
+  [I("t_poor", kb="in", focus=[0.5, 0.5], lab=P + "12"),
+   G("quote", q="…Acosta's decision to resolve the federal investigation through the NPA {{constitutes poor judgment.}}",
+     who="DOJ Office of Professional Responsibility", role="November 2020", size=62, source=S_O + ", PDF P. 12")], dict(slow=True)),
+ ("His view of federalism was too expansive, it said. | His view of the federal interest was too narrow. | His understanding of the state system was too imperfect.",
+  [I("t_toomuch", kb="in", focus=[0.5, 0.5], lab=P + "12")], {}),
+ ("And on the victims: they were not treated with the forthrightness and sensitivity expected by the Department.",
+  [I("t_forth", kb="in", focus=[0.5, 0.5], lab=P + "14")], {}),
+ ("Months later, the full appeals court in Atlanta ruled against Jane Doe one, who had carried the case for almost thirteen years. | Because no federal charge had ever been filed, it held, the law gave her no case to bring.",
+  [G("doc", header="ELEVENTH CIRCUIT · EN BANC · APRIL 15, 2021", title="In re Wild — the holding, in short",
+     lines=["The Crime Victims' Rights Act does not let victims", "bring a stand-alone suit", "when no federal charges were ever filed.",
+            "{{The victims' case ended there.}}"], stamp="RECREATED", source=S_11)], dict(tag=("ATLANTA, GEORGIA", "APRIL 15, 2021"))),
+ ("And the clause about any potential co-conspirators? | It was tested in court.",
+  [I("t_cocon", kb="down", focus=[0.5, 0.5], lab=P + "105")], {}),
+ ("In December twenty twenty-one, a jury in Manhattan convicted Epstein's former girlfriend, Ghislaine Maxwell, on five of six counts, including sex trafficking of a minor. | She was acquitted on the sixth. | She was sentenced to twenty years. Her lawyers say she is innocent.",
+  [G("stat", k="UNITED STATES v. MAXWELL · S.D.N.Y.", a="20 YEARS", size=240, b="convicted on five of six counts, incl. sex trafficking of a minor; acquitted on one",
+     c="her lawyers maintain she is innocent", source=S_2)], dict(tag=("NEW YORK, NEW YORK", "DECEMBER 29, 2021"))),
+ ("Her appeal argued that the Florida agreement protected her. | In twenty twenty-four, the federal appeals court in New York answered in one sentence.",
+  [G("quote", q="We hold that the NPA with USAO-SDFL {{does not bind USAO-SDNY.}}", who="U.S. Court of Appeals for the Second Circuit",
+     role="United States v. Maxwell · Sept. 17, 2024", size=64, source=S_2)], dict(slow=True)),
+ ("In October twenty twenty-five, the Supreme Court declined to hear her case.",
+  [C("dv346026", 20.0, lab=CAP)], dict(gap=0.9, sil=True)),
+
+ # ---------------- IX. THE RELEASE ----------------
+ ("That brings us to now.",
+  [G("chapter", n="IX", t="The Release")], {}),
+ ("In November twenty twenty-five, Congress passed the Epstein Files Transparency Act. | The House vote was four hundred twenty-seven to one. | The law ordered the Justice Department to release its files on Epstein and Maxwell.",
+  [G("stat", k="EPSTEIN FILES TRANSPARENCY ACT · HOUSE VOTE", a="427-1", size=300, b="led by Rep. Thomas Massie (R-Ky.) and Rep. Ro Khanna (D-Calif.)",
+     c="passed the Senate days later and was signed into law", source=S_R)], dict(tag=("WASHINGTON, D.C.", "NOVEMBER 2025"))),
+ ("The department missed the December nineteenth deadline. | Then, on January thirtieth, twenty twenty-six, it released more than three million pages, more than two thousand videos, and one hundred eighty thousand images.",
+  [G("list", kicker="DOJ RELEASE · JANUARY 30, 2026", title="The largest batch at the time", items=[
+      dict(n="3M+", t="pages of documents"), dict(n="2,000+", t="videos"), dict(n="180,000", t="images")],
+     source=S_A)], {}),
+ ("Many names appear in those records. | Appearing in these records is not evidence of wrongdoing. | And the House committee report would later say deficient redactions in the released files exposed sensitive information about victims.",
+  [G("doc", header="A NOTE ON THE RECORDS", title="What a name in the files means",
+     lines=["The released files mention many people.", "{{" + DISC + "}}", "Allegations are unproven unless stated otherwise."],
+     source="SOURCE: RELEASED IN FULL")], dict(slow=True)),
+ ("On November tenth, twenty twenty-six, the House Oversight Committee, led by Republican chairman James Comer, released a report of more than one hundred thirty pages.",
+  [C("dv1026930c", 3.0, lab=DCA)], dict(tag=("WASHINGTON, D.C.", "NOVEMBER 10, 2026"))),
+ ("It blamed the outcome on poor judgment and on Epstein's influence. | It faulted Acosta's hands-off approach. | And it said that without federal failures, crimes after two thousand five could have been prevented.",
+  [G("list", kicker="HOUSE OVERSIGHT REPORT · NOV. 10, 2026", title="What the committee's report says", items=[
+      dict(t="\"Poor judgment\" and Epstein's influence"), dict(t="Acosta's \"hands-off approach\""),
+      dict(t="Crimes after 2005 could have been prevented"), dict(t="Justice Dept. should re-interview witnesses")], source=S_H)], {}),
+ ("The top Democrat on the committee, Robert Garcia, called it partisan, | based on an incomplete investigation and zero public hearings. | The Justice Department said the recommendations had already been addressed, and that the case is not closed.",
+  [G("doc", header="REACTIONS · NOVEMBER 10, 2026", title="Both sides, on the record",
+     lines=["Rep. Robert Garcia (D-Calif.): an \"incomplete investigation\" with \"zero public hearings.\"",
+            "Justice Department: the recommendations \"have already been addressed.\"", "{{The case \"is not closed.\"}}"],
+     stamp="RECREATED", source="SOURCE: ABC NEWS / NPR (NOV. 10, 2026)")], {}),
+ ("One day later, Representative Massie's petition to force a vote on a second Epstein files bill reached two hundred eighteen signatures, | from members of both parties.",
+  [G("stat", k="DISCHARGE PETITION · NOVEMBER 11, 2026", a="218", size=320, b="signatures: enough to force a House floor vote",
+     c="the 218th came from Rep. John Garamendi (D-Calif.)", source=S_R)], dict(tag=("WASHINGTON, D.C.", "NOVEMBER 11, 2026"))),
+ ("The new bill would let state attorneys general, local prosecutors and victims sue over withheld Epstein records, | and let victims privately view unredacted versions of records that mention them.",
+  [C("dv346026", 9.0, lab=CAP)], {}),
+
+ # ---------------- CLOSE ----------------
+ ("So, how did a sixty-count draft indictment become thirteen months? | According to the government's own review: | a U S Attorney's call that a state case was enough, | an agreement victims were not told about before it was signed, | and a work release program that let him leave six days a week.",
+  [G("timeline", kicker="FROM SIXTY COUNTS TO THIRTEEN MONTHS", title="The paper trail", events=[
+      dict(y="MAY 2007", t="60-count draft"), dict(y="SEP 2007", t="Confidential agreement"), dict(y="JUN 2008", t="State plea"),
+      dict(y="OCT 2008", t="Work release"), dict(y="JUL 2009", t="Released"), dict(y="NOV 2020", t="\"Poor judgment\"")], source=S_O)], dict(slow=True)),
+ ("The review found poor judgment, not misconduct. | Whether the full record is out yet is the question Congress is still voting on.",
+  [I("t_poor", kb="down", focus=[0.5, 0.5], lab=P + "12")], {}),
+ ("Every secret has a release date. | Much of this file is now public. | What comes next is still being decided.",
+  [C("dv1026930c", 9.5, lab=DCA)], dict(slow=True, gap=0.8)),
+ ("Here is our question for you. | Should the Justice Department have to release every remaining Epstein record, with victims' names protected? | Tell us in the comments.",
+  [I("cover", kb="in", focus=[0.5, 0.5], lab=P + "1 · COVER PAGE")], {}),
+ ("Next in this series: the night in the federal jail, and what the Inspector General found.",
+  [G("end", n="015", next="The night in the federal jail")], dict(gap=2.5)),
+]
+
+PRON = [("Acosta", "Uh-coast-uh"), ("Marra", "Mara"), ("Teterboro", "Teter-borough"), ("Comer", "Comer"), ("Garamendi", "Gara-mendy"),
+        ("Khanna", "Kahna"), ("Maxwell", "Maxwell"), ("Ghislaine", "Ghee-lane"), ("F B I", "F B I"), ("U S", "U S"), ("in Manhattan", "in Manhattan")]
+
+DISPLAY = [
+ ("F B I", "FBI"), ("U S District Judge", "U.S. District Judge"), ("U S Attorney", "U.S. Attorney"), ("U S attorney", "U.S. attorney"),
+ ("U S", "U.S."),
+ ("sixty-count", "60-count"), ("sixty federal counts", "60 federal counts"), ("sixty counts", "60 counts"), ("sixty", "60"),
+ ("eighty-two-page", "82-page"), ("three hundred dollars", "$300"), ("fourteen-year-old", "14-year-old"),
+ ("twelve hours a day, six days a week", "12 hours a day, six days a week"), ("twelve hours", "12 hours"),
+ ("almost thirteen years", "almost 13 years"), ("less than thirteen months", "less than 13 months"), ("thirteen months", "13 months"), ("Under thirteen", "Under 13"), ("thirteen", "13"),
+ ("eighteen months", "18 months"), ("Eighteen months", "18 months"), ("eighteen years", "18 years"), ("twelve months", "12 months"), ("Twelve months", "12 months"),
+ ("twenty-four hours", "24 hours"), ("fifteen years", "15 years"), ("twenty years", "20 years"),
+ ("Three hundred forty-eight pages", "348 pages"), ("one hundred thirty pages", "130 pages"), ("five of six", "five of six"),
+ ("four hundred twenty-seven to one", "427 to 1"), ("two hundred eighteen", "218"),
+ ("more than three million pages, more than two thousand videos, and one hundred eighty thousand images", "more than 3 million pages, more than 2,000 videos, and 180,000 images"),
+ ("Jane Doe one and Jane Doe two", "Jane Doe 1 and Jane Doe 2"), ("Jane Doe one", "Jane Doe 1"), ("Jane Doe two", "Jane Doe 2"),
+ ("March two thousand five", "March 2005"), ("October two thousand five", "October 2005"), ("July nineteenth, two thousand six", "July 19, 2006"),
+ ("May two thousand seven", "May 2007"), ("July thirty-first, two thousand seven", "July 31, 2007"), ("September twenty-fourth, two thousand seven", "September 24, 2007"),
+ ("November two thousand seven", "November 2007"), ("June two thousand eight", "June 2008"), ("June thirtieth, two thousand eight", "June 30, 2008"),
+ ("July seventh, two thousand eight", "July 7, 2008"), ("May two thousand six", "May 2006"), ("July two thousand eight", "July 2008"), ("September two thousand nine", "September 2009"), ("mid twenty ten", "mid-2010"), ("mid-November two thousand eight", "mid-November 2008"), ("July twenty-second, two thousand nine", "July 22, 2009"),
+ ("November two thousand eighteen", "November 2018"), ("February twenty-first, twenty nineteen", "February 21, 2019"),
+ ("July sixth, twenty nineteen", "July 6, 2019"), ("August tenth, twenty nineteen", "August 10, 2019"), ("November twelfth, twenty twenty", "November 12, 2020"),
+ ("December twenty twenty-one", "December 2021"), ("twenty twenty-four", "2024"), ("October twenty twenty-five", "October 2025"), ("November twenty twenty-five", "November 2025"),
+ ("December nineteenth", "December 19"), ("January thirtieth, twenty twenty-six", "January 30, 2026"), ("November tenth, twenty twenty-six", "November 10, 2026"),
+ ("after two thousand five", "after 2005"), ("two thousand seven", "2007"), ("two thousand eight", "2008"),
+ (" | ", " "), ("|", ""),
+]
+
+META = dict(
+    n="015", title="How Epstein Got 13 Months: The Deal the DOJ Called \"Poor Judgment\"",
+    imgs={k: D + k + ".jpg" for k in ["cover", "t_60", "t_poor", "t_march05", "t_exec1", "t_exec2", "t_search", "t_prob", "t_gj", "t_fbi",
+                                      "t_ausa", "t_front", "t_concerns", "t_polite", "t_offer", "t_done", "t_terms", "t_cocon", "t_hurt",
+                                      "t_recall", "t_public", "t_notinf", "t_letters", "t_roth", "t_plea", "t_stock", "t_wr", "t_pres",
+                                      "t_exist", "t_notice", "t_indict", "t_breach", "t_black", "t_phone", "t_noresp", "t_release", "t_doe",
+                                      "t_lavish", "t_herald", "t_letters2", "t_nonreg", "t_sept09", "t_nine", "t_settle", "t_feb19", "t_walk", "t_nomisc", "t_corrupt", "t_toomuch", "t_forth",
+                                      "ind1", "ind_dozens"]},
+    credit="Documents: DOJ Office of Professional Responsibility report (2020); U.S. v. Epstein indictment (S.D.N.Y. 2019).\\NB-roll: DoD via DVIDS; modern b-roll does not show the events described. Graphics marked RECREATED are our own summaries. No endorsement implied.",
+    shorts=[
+        dict(id="s1", lines=[45, 52], tpl="yellow", hook="HE LEFT<br>JAIL 6 DAYS<br>[A WEEK]", hs=190),
+        dict(id="s2", lines=[27, 33], tpl="white", hook="WHAT THE<br>2007 DEAL<br>[ACTUALLY SAID]", hs=180),
+        dict(id="s3", lines=[37, 42], tpl="red", hook="DOJ, 2008:<br>PROSECUTION<br>[APPROPRIATE]", hs=180),
+        dict(id="s4", lines=[66, 71], tpl="blue", hook="THE DEAL<br>DIDN'T COVER<br>[NEW YORK]", hs=185),
+    ],
+    yshorts=[
+        dict(id="y1", lines=[49, 51], tpl="red", hook="\"CAN I<br>INDICT HIM<br>[NOW?\"]", hs=195),
+        dict(id="y2", lines=[46, 47], tpl="yellow", hook="HIS<br>'FOUNDATION':<br>[15 YEARS OLD?]", hs=180),
+        dict(id="y3", lines=[76, 77], tpl="white", hook="DOJ'S<br>VERDICT:<br>[POOR JUDGMENT]", hs=180),
+    ],
+)

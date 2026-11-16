@@ -1,0 +1,533 @@
+[
+ {
+  "key": "stat_6803d9",
+  "name": "stat",
+  "opts": {
+   "k": "SENTENCE: 18 MONTHS \u00b7 SERVED: UNDER 13",
+   "a": "UP TO 12 HRS",
+   "size": 220,
+   "b": "a day, six days a week, on work release",
+   "c": "according to the Justice Department's own review",
+   "source": "SOURCE: DOJ OFFICE OF PROFESSIONAL RESPONSIBILITY, REPORT ON THE 2006-2008 EPSTEIN INVESTIGATION (NOV. 2020)"
+  }
+ },
+ {
+  "key": "intro_2d406b",
+  "name": "intro",
+  "opts": {
+   "n": "015"
+  }
+ },
+ {
+  "key": "title_ff6630",
+  "name": "title",
+  "opts": {
+   "n": "015",
+   "t": "THE EPSTEIN DEAL",
+   "size": 150,
+   "sub": "How a 60-Count Draft Became 13 Months"
+  }
+ },
+ {
+  "key": "chapter_95fd55",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Complaint"
+  }
+ },
+ {
+  "key": "chapter_49808e",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "Sixty Counts"
+  }
+ },
+ {
+  "key": "stat_aed78f",
+  "name": "stat",
+  "opts": {
+   "k": "DRAFT FEDERAL INDICTMENT \u00b7 MAY 2007",
+   "a": "60",
+   "size": 360,
+   "b": "counts, backed by an 82-page prosecution memo",
+   "c": "never filed",
+   "source": "SOURCE: DOJ OFFICE OF PROFESSIONAL RESPONSIBILITY, REPORT ON THE 2006-2008 EPSTEIN INVESTIGATION (NOV. 2020)"
+  }
+ },
+ {
+  "key": "quote_4b9c71",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026the federal responsibility in this situation was to serve as a {{\"backstop\"}} to state authorities by encouraging them to do more.",
+   "who": "DOJ Office of Professional Responsibility",
+   "role": "Describing Acosta's view \u00b7 2020",
+   "size": 60,
+   "source": "SOURCE: DOJ OFFICE OF PROFESSIONAL RESPONSIBILITY, REPORT ON THE 2006-2008 EPSTEIN INVESTIGATION (NOV. 2020), PDF P. 12"
+  }
+ },
+ {
+  "key": "list_55343b",
+  "name": "list",
+  "opts": {
+   "kicker": "THE OFFER \u00b7 JULY 31, 2007",
+   "title": "End the federal case, if Epstein:",
+   "items": [
+    {
+     "t": "Pleads guilty to state charges"
+    },
+    {
+     "t": "Serves at least two years"
+    },
+    {
+     "t": "Registers as a sexual offender"
+    },
+    {
+     "t": "Agrees to a way for victims to get damages"
+    }
+   ],
+   "source": "SOURCE: DOJ OFFICE OF PROFESSIONAL RESPONSIBILITY, REPORT ON THE 2006-2008 EPSTEIN INVESTIGATION (NOV. 2020), PDF P. 3"
+  }
+ },
+ {
+  "key": "chapter_5d1408",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "The Agreement"
+  }
+ },
+ {
+  "key": "doc_b89e51",
+  "name": "doc",
+  "opts": {
+   "header": "NON-PROSECUTION AGREEMENT \u00b7 SEPT. 24, 2007 \u00b7 AS DESCRIBED BY DOJ OPR",
+   "title": "The U.S. Attorney's Office (S.D. Fla.) agreed not to prosecute:",
+   "lines": [
+    "Jeffrey Epstein",
+    "Four named individuals",
+    "{{\"any potential co-conspirators\"}}"
+   ],
+   "stamp": "RECREATED",
+   "source": "SOURCE: DOJ OFFICE OF PROFESSIONAL RESPONSIBILITY, REPORT ON THE 2006-2008 EPSTEIN INVESTIGATION (NOV. 2020), PDF P. 4, 105-106"
+  }
+ },
+ {
+  "key": "quote_4a5a1a",
+  "name": "quote",
+  "opts": {
+   "q": "The parties anticipate that this agreement {{will not be made part of any public record.}}",
+   "who": "Non-prosecution agreement",
+   "role": "Sept. 24, 2007 \u00b7 as quoted by DOJ OPR",
+   "size": 64,
+   "source": "SOURCE: DOJ OFFICE OF PROFESSIONAL RESPONSIBILITY, REPORT ON THE 2006-2008 EPSTEIN INVESTIGATION (NOV. 2020), PDF P. 110"
+  }
+ },
+ {
+  "key": "chapter_60bcfa",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "Nine Months"
+  }
+ },
+ {
+  "key": "quote_f67a2a",
+  "name": "quote",
+  "opts": {
+   "q": "Even if we were to substitute our judgment for that of the U.S. Attorney, we believe that {{federal prosecution of this case is appropriate.}}",
+   "who": "Office of the Deputy Attorney General",
+   "role": "Letter to Epstein's lawyers \u00b7 June 23, 2008",
+   "size": 56,
+   "source": "SOURCE: DOJ OFFICE OF PROFESSIONAL RESPONSIBILITY, REPORT ON THE 2006-2008 EPSTEIN INVESTIGATION (NOV. 2020), PDF P. 136"
+  }
+ },
+ {
+  "key": "timeline_85c10a",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE ROAD TO A STATE PLEA",
+   "title": "2005 - 2008",
+   "active": 4,
+   "events": [
+    {
+     "y": "MAR 2005",
+     "t": "Police complaint"
+    },
+    {
+     "y": "JUL 2006",
+     "t": "One state count"
+    },
+    {
+     "y": "MAY 2007",
+     "t": "60-count draft"
+    },
+    {
+     "y": "SEP 2007",
+     "t": "Agreement signed"
+    },
+    {
+     "y": "JUN 2008",
+     "t": "Guilty plea"
+    }
+   ],
+   "source": "SOURCE: DOJ OFFICE OF PROFESSIONAL RESPONSIBILITY, REPORT ON THE 2006-2008 EPSTEIN INVESTIGATION (NOV. 2020)"
+  }
+ },
+ {
+  "key": "chapter_6f9fa6",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "The Foundation"
+  }
+ },
+ {
+  "key": "quote_d8ffbd",
+  "name": "quote",
+  "opts": {
+   "q": "{{\"Can I indict him now?\"}}",
+   "who": "The federal prosecutor on the case",
+   "role": "Email to her supervisors \u00b7 November 2008",
+   "size": 96,
+   "source": "SOURCE: DOJ OFFICE OF PROFESSIONAL RESPONSIBILITY, REPORT ON THE 2006-2008 EPSTEIN INVESTIGATION (NOV. 2020), PDF P. 141"
+  }
+ },
+ {
+  "key": "stat_bf4fc1",
+  "name": "stat",
+  "opts": {
+   "k": "THE 2008 SENTENCE",
+   "a": "18 \u2192 <13",
+   "size": 260,
+   "b": "months on paper, months in custody",
+   "c": "work release from October 2008",
+   "source": "SOURCE: DOJ OFFICE OF PROFESSIONAL RESPONSIBILITY, REPORT ON THE 2006-2008 EPSTEIN INVESTIGATION (NOV. 2020)"
+  }
+ },
+ {
+  "key": "chapter_0639dd",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "The Lawsuit"
+  }
+ },
+ {
+  "key": "quote_592c06",
+  "name": "quote",
+  "opts": {
+   "q": "When the Government gives information to victims, {{it cannot be misleading.}}",
+   "who": "U.S. District Judge Kenneth Marra",
+   "role": "Order \u00b7 February 21, 2019 \u00b7 as reported by CNBC",
+   "size": 66,
+   "source": "SOURCE: CNBC (FEB. 21, 2019); DOJ OPR REPORT (2020), PDF P. 6"
+  }
+ },
+ {
+  "key": "chapter_5236be",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "New York"
+  }
+ },
+ {
+  "key": "map_6f8979",
+  "name": "map",
+  "opts": {
+   "kicker": "JULY 6, 2019",
+   "title": "Two prosecutors' offices",
+   "bounds": [
+    [
+     -82,
+     25.5
+    ],
+    [
+     -72,
+     41.5
+    ]
+   ],
+   "points": [
+    {
+     "ll": [
+      -74.06,
+      40.86
+     ],
+     "name": "Teterboro, N.J.",
+     "sub": "ARREST \u00b7 JULY 6, 2019",
+     "anchor": "end"
+    },
+    {
+     "ll": [
+      -74.0,
+      40.71
+     ],
+     "name": "New York (S.D.N.Y.)",
+     "sub": "2019 INDICTMENT"
+    },
+    {
+     "ll": [
+      -80.05,
+      26.71
+     ],
+     "name": "Palm Beach",
+     "sub": "2005 COMPLAINT",
+     "anchor": "end"
+    },
+    {
+     "ll": [
+      -80.19,
+      25.77
+     ],
+     "name": "Miami (S.D. Fla.)",
+     "sub": "2007 AGREEMENT"
+    }
+   ],
+   "source": "SOURCE: AP/NPR MEMBER STATIONS (JULY 8, 2019); DOJ OPR REPORT (2020)"
+  }
+ },
+ {
+  "key": "quote_63d39d",
+  "name": "quote",
+  "opts": {
+   "q": "The Southern District of New York is {{not bound by that agreement}} and is not a signatory to that agreement.",
+   "who": "U.S. Attorney, Southern District of New York",
+   "role": "July 8, 2019 \u00b7 as reported by AP/WUSF",
+   "size": 58,
+   "source": "SOURCE: WUSF / AP (JULY 8, 2019)"
+  }
+ },
+ {
+  "key": "quote_125aba",
+  "name": "quote",
+  "opts": {
+   "q": "The right thing was {{to step aside.}}",
+   "who": "Alexander Acosta",
+   "role": "Resigning as Secretary of Labor \u00b7 July 12, 2019",
+   "size": 84,
+   "source": "SOURCE: NPR (JULY 12, 2019); DOJ OPR REPORT (2020)"
+  }
+ },
+ {
+  "key": "stat_4266b5",
+  "name": "stat",
+  "opts": {
+   "k": "AUGUST 10, 2019",
+   "a": "NO TRIAL",
+   "size": 220,
+   "b": "Epstein died in federal custody before the case was tried",
+   "c": "the charges were dismissed after his death and never proven in court",
+   "source": "SOURCE: AP (AUG. 29, 2019); HOUSE OVERSIGHT COMMITTEE REPORT (2026)"
+  }
+ },
+ {
+  "key": "chapter_8ef51d",
+  "name": "chapter",
+  "opts": {
+   "n": "VIII",
+   "t": "The Review"
+  }
+ },
+ {
+  "key": "quote_db2472",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026Acosta's decision to resolve the federal investigation through the NPA {{constitutes poor judgment.}}",
+   "who": "DOJ Office of Professional Responsibility",
+   "role": "November 2020",
+   "size": 62,
+   "source": "SOURCE: DOJ OFFICE OF PROFESSIONAL RESPONSIBILITY, REPORT ON THE 2006-2008 EPSTEIN INVESTIGATION (NOV. 2020), PDF P. 12"
+  }
+ },
+ {
+  "key": "doc_9dc74a",
+  "name": "doc",
+  "opts": {
+   "header": "ELEVENTH CIRCUIT \u00b7 EN BANC \u00b7 APRIL 15, 2021",
+   "title": "In re Wild \u2014 the holding, in short",
+   "lines": [
+    "The Crime Victims' Rights Act does not let victims",
+    "bring a stand-alone suit",
+    "when no federal charges were ever filed.",
+    "{{The victims' case ended there.}}"
+   ],
+   "stamp": "RECREATED",
+   "source": "SOURCE: IN RE WILD, NO. 19-13843 (11TH CIR. EN BANC, APRIL 15, 2021)"
+  }
+ },
+ {
+  "key": "stat_2adf03",
+  "name": "stat",
+  "opts": {
+   "k": "UNITED STATES v. MAXWELL \u00b7 S.D.N.Y.",
+   "a": "20 YEARS",
+   "size": 240,
+   "b": "convicted on five of six counts, incl. sex trafficking of a minor; acquitted on one",
+   "c": "her lawyers maintain she is innocent",
+   "source": "SOURCE: U.S. v. MAXWELL, NO. 22-1426 (2D CIR. SEPT. 17, 2024); AP (DEC. 29, 2021; OCT. 6, 2025)"
+  }
+ },
+ {
+  "key": "quote_7eea78",
+  "name": "quote",
+  "opts": {
+   "q": "We hold that the NPA with USAO-SDFL {{does not bind USAO-SDNY.}}",
+   "who": "U.S. Court of Appeals for the Second Circuit",
+   "role": "United States v. Maxwell \u00b7 Sept. 17, 2024",
+   "size": 64,
+   "source": "SOURCE: U.S. v. MAXWELL, NO. 22-1426 (2D CIR. SEPT. 17, 2024); AP (DEC. 29, 2021; OCT. 6, 2025)"
+  }
+ },
+ {
+  "key": "chapter_2f7e9d",
+  "name": "chapter",
+  "opts": {
+   "n": "IX",
+   "t": "The Release"
+  }
+ },
+ {
+  "key": "stat_87fdcd",
+  "name": "stat",
+  "opts": {
+   "k": "EPSTEIN FILES TRANSPARENCY ACT \u00b7 HOUSE VOTE",
+   "a": "427-1",
+   "size": 300,
+   "b": "led by Rep. Thomas Massie (R-Ky.) and Rep. Ro Khanna (D-Calif.)",
+   "c": "passed the Senate days later and was signed into law",
+   "source": "SOURCE: ROLL CALL (NOV. 11, 2026); EPSTEIN FILES TRANSPARENCY ACT (2025)"
+  }
+ },
+ {
+  "key": "list_c8296a",
+  "name": "list",
+  "opts": {
+   "kicker": "DOJ RELEASE \u00b7 JANUARY 30, 2026",
+   "title": "The largest batch at the time",
+   "items": [
+    {
+     "n": "3M+",
+     "t": "pages of documents"
+    },
+    {
+     "n": "2,000+",
+     "t": "videos"
+    },
+    {
+     "n": "180,000",
+     "t": "images"
+    }
+   ],
+   "source": "SOURCE: AP (JAN. 30, 2026)"
+  }
+ },
+ {
+  "key": "doc_ac3274",
+  "name": "doc",
+  "opts": {
+   "header": "A NOTE ON THE RECORDS",
+   "title": "What a name in the files means",
+   "lines": [
+    "The released files mention many people.",
+    "{{Appearing in these records is not evidence of wrongdoing.}}",
+    "Allegations are unproven unless stated otherwise."
+   ],
+   "source": "SOURCE: RELEASED IN FULL"
+  }
+ },
+ {
+  "key": "list_e9973b",
+  "name": "list",
+  "opts": {
+   "kicker": "HOUSE OVERSIGHT REPORT \u00b7 NOV. 10, 2026",
+   "title": "What the committee's report says",
+   "items": [
+    {
+     "t": "\"Poor judgment\" and Epstein's influence"
+    },
+    {
+     "t": "Acosta's \"hands-off approach\""
+    },
+    {
+     "t": "Crimes after 2005 could have been prevented"
+    },
+    {
+     "t": "Justice Dept. should re-interview witnesses"
+    }
+   ],
+   "source": "SOURCE: HOUSE OVERSIGHT COMMITTEE REPORT (NOV. 10, 2026), AS REPORTED BY AP, NPR AND AL JAZEERA"
+  }
+ },
+ {
+  "key": "doc_a3f26b",
+  "name": "doc",
+  "opts": {
+   "header": "REACTIONS \u00b7 NOVEMBER 10, 2026",
+   "title": "Both sides, on the record",
+   "lines": [
+    "Rep. Robert Garcia (D-Calif.): an \"incomplete investigation\" with \"zero public hearings.\"",
+    "Justice Department: the recommendations \"have already been addressed.\"",
+    "{{The case \"is not closed.\"}}"
+   ],
+   "stamp": "RECREATED",
+   "source": "SOURCE: ABC NEWS / NPR (NOV. 10, 2026)"
+  }
+ },
+ {
+  "key": "stat_77d33b",
+  "name": "stat",
+  "opts": {
+   "k": "DISCHARGE PETITION \u00b7 NOVEMBER 11, 2026",
+   "a": "218",
+   "size": 320,
+   "b": "signatures: enough to force a House floor vote",
+   "c": "the 218th came from Rep. John Garamendi (D-Calif.)",
+   "source": "SOURCE: ROLL CALL (NOV. 11, 2026); EPSTEIN FILES TRANSPARENCY ACT (2025)"
+  }
+ },
+ {
+  "key": "timeline_3e815c",
+  "name": "timeline",
+  "opts": {
+   "kicker": "FROM SIXTY COUNTS TO THIRTEEN MONTHS",
+   "title": "The paper trail",
+   "events": [
+    {
+     "y": "MAY 2007",
+     "t": "60-count draft"
+    },
+    {
+     "y": "SEP 2007",
+     "t": "Confidential agreement"
+    },
+    {
+     "y": "JUN 2008",
+     "t": "State plea"
+    },
+    {
+     "y": "OCT 2008",
+     "t": "Work release"
+    },
+    {
+     "y": "JUL 2009",
+     "t": "Released"
+    },
+    {
+     "y": "NOV 2020",
+     "t": "\"Poor judgment\""
+    }
+   ],
+   "source": "SOURCE: DOJ OFFICE OF PROFESSIONAL RESPONSIBILITY, REPORT ON THE 2006-2008 EPSTEIN INVESTIGATION (NOV. 2020)"
+  }
+ },
+ {
+  "key": "end_c10b31",
+  "name": "end",
+  "opts": {
+   "n": "015",
+   "next": "The night in the federal jail"
+  }
+ }
+]

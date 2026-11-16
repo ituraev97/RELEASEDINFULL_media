@@ -5,7 +5,7 @@ Music: synthesised (sound.music), ducked under the voice, drops out on lines mar
 Effects: synthesised (sound.py), placed by graphic type — sparse by design."""
 import json, os, re, subprocess, sys, importlib.util
 import numpy as np, soundfile as sf
-from scipy.signal import fftconvolve, butter, sosfilt
+from scipy.signal import oaconvolve as fftconvolve, butter, sosfilt  # overlap-add: low memory
 P = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, P); import sound as S
 EP = os.path.abspath(sys.argv[1]); SRC = os.path.abspath(sys.argv[2])
 spec = importlib.util.spec_from_file_location("episode", os.path.join(EP, "episode.py")); E = importlib.util.module_from_spec(spec); spec.loader.exec_module(E)
@@ -72,7 +72,7 @@ open("overlay.ass", "w", encoding="utf-8").write(HEAD + "\n".join(ev) + "\n")
 
 # ---------------- audio ----------------
 N = int(TOTAL * SR) + SR
-voice = np.zeros(N)
+voice = np.zeros(N, np.float32)
 for i in range(len(LINES)):
     if not LINES[i][0].strip(): continue
     x, sr = sf.read(f"vo/l_{i + 1:02d}.wav")
@@ -86,7 +86,24 @@ sections.append((ST[-1] - 2, "end"))
 sil = []
 for i, (_, sh, o) in enumerate(LINES):
     if o.get("sil"): sil.append((ST[i] + VD[i] + 0.1, ST[i] + DU[i] + 0.6))
-music = S.music(TOTAL + 1, sections, silences=sil)
+def music_long(total, sections, sil, chunk=240.0, ov=4.0):
+    """Long episodes (15-20 min): synthesise the score in 4-minute chunks with 4 s crossfades (memory-safe on small machines)."""
+    if total <= chunk + ov: return S.music(total, sections, silences=sil)
+    out = np.zeros((int(total * SR) + SR, 2), np.float32); a = 0.0; k = 0
+    while a < total:
+        b = min(total, a + chunk + ov); ln = b - a
+        sec = [(max(0.0, t - a), kd) for t, kd in sections if t < b]
+        sec = [s_ for j, s_ in enumerate(sec) if j == len(sec) - 1 or sec[j + 1][0] > 0]  # keep the section active at a
+        sl = [(x - a, y - a) for x, y in sil if y > a and x < b]
+        m = S.music(ln, sec, silences=sl, seed=7 + k)
+        i0 = int(a * SR); n = min(len(m), len(out) - i0)
+        w = np.ones(n, np.float32); f = int(ov * SR)
+        if k > 0: w[:f] = np.linspace(0, 1, f)
+        if b < total: w[n - f:] = np.minimum(w[n - f:], np.linspace(1, 0, f))
+        out[i0:i0 + n] += m[:n] * w[:, None]; del m
+        a += chunk; k += 1
+    return out
+music = music_long(TOTAL + 1, sections, sil)
 music = np.pad(music, ((0, max(0, N - len(music))), (0, 0)))[:N]
 # ducking: smooth voice envelope -> gain
 L = int(0.05 * SR); env = np.sqrt(np.convolve(voice ** 2, np.ones(L) / L, mode="same"))
@@ -95,7 +112,7 @@ k = int(0.35 * SR); on = np.convolve(on, np.ones(k) / k, mode="same")  # ~350 ms
 duck = 1 - 0.62 * np.clip(on * 1.6, 0, 1)
 music = music * duck[:, None]
 # effects, placed by graphic type
-fx = np.zeros(N)
+fx = np.zeros(N, np.float32)
 def put(x, at, g=1.0):
     i0 = int(max(0, at) * SR); j = min(N, i0 + len(x)); fx[i0:j] += x[:j - i0] * g
 intro_audio = None
@@ -136,7 +153,7 @@ for k_, sg in enumerate(SEGS):
 lst.close()
 run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", "nat/list.txt", "-af", "dynaudnorm=f=250:g=15:m=6", "nat.wav"])
 nat, _ = sf.read("nat.wav"); nat = np.pad(nat, (0, max(0, N - len(nat))))[:N]
-depth = np.full(N, 0.75)
+depth = np.full(N, 0.75, np.float32)
 for sg in SEGS:
     if sg["src"] == "gimbal": depth[int(sg["t"] * SR):int((sg["t"] + sg["d"]) * SR)] = 0.35  # cockpit voices stay audible
 nat = nat * (1 - depth * np.clip(on * 1.6, 0, 1))  # under the voice

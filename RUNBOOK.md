@@ -1,6 +1,6 @@
 # RELEASED IN FULL — production runbook
 
-One run = one long episode (~10 min, at least 10:00, English) + 4 TikTok cuts (62–110 s) + 3 YouTube Shorts (30–45 s), covering a 2-day block D and D+1 (owner decision 2026-11-09: one long video EVERY OTHER DAY), uploaded here (drop branches) and scheduled in Metricool (brand RELEASED IN FULL, blogId 7743507).
+One run = one long episode (15–20 min, English; owner 2026-11-14) + 4 TikTok cuts (62–110 s) + 3 YouTube Shorts (20–30 s), covering a 2-day block D and D+1 (owner decision 2026-11-09: one long video EVERY OTHER DAY), uploaded here (drop branches) and scheduled in Metricool (brand RELEASED IN FULL, blogId 7743507).
 Episode 001 (`episodes/001-navy-videos/`) is the reference for structure, pacing and style. Channel bible: Claude Docs «RELEASED IN FULL — библия канала» and Projects doc `claude/released-in-full-bible.md`.
 
 ## 0. Rules that never bend
@@ -49,10 +49,13 @@ python3 $R/pipeline/finish.py $EP $SRC         # overlays, SRT, music, SFX, -14 
 python3 $R/pipeline/qc_report.py $EP $EP/video_raw.mp4   # must say FAILS: 0
 # encode (≤ 95 MB), Shorts, thumbnails
 python3 $R/pipeline/shorts.py $EP $EP/shorts      # 4 cuts, 62–110 s each (--from-long re-cuts a published long.mp4)
-python3 $R/pipeline/shorts.py $EP $EP/shorts --platform youtube   # YouTube Shorts y1–y3, 30–45 s, from META["yshorts"] (owner rule 2026-11-06)
+python3 $R/pipeline/shorts.py $EP $EP/shorts --platform youtube   # YouTube Shorts y1–y3, 20–30 s, from META["yshorts"] (owner rule 2026-11-06)
 (cd $R/pipeline && NODE_PATH=$(npm root -g) node thumb.mjs $EP/thumb.json $EP)
 ```
 bash $R/pipeline/encode.sh $EP 95       # -> long.mp4 (two-pass x265, overlay burned in, <= 95 MB)
+
+Document crops (2026-11-16): `pipeline/doc_crop.py <pdf> <page> "<first-line phrase>" "<last-line phrase>" out.jpg` crops whole lines tightly (no slivers of neighbouring lines), pads to 16:9 and black-bars personal names in its NAMES list (Epstein series rule: only Epstein, Acosta and other public officials stay visible) with the note "BLACK BARS: NAMES WITHHELD BY RELEASED IN FULL". `pipeline/phrase_crop.py` makes the tight phrase crop + box JSON used by the bold thumbnail. After replacing images, delete seg/*.sig of img segments before build.py.
+Memory (2026-11-16): finish.py synthesises the score in 4-minute chunks and uses overlap-add convolution so 15-20 min episodes fit in 8 GB RAM. Long steps (tts ~45 min, build ~35 min, encode ~40 min on 2 cores) run with nohup and are polled.
 
 ## 5. QC (blockers)
 - qc_report: graphic holds perfectly still, 0 stutters, 0 flash cuts (source edits within 1 s of our cut).
@@ -66,7 +69,7 @@ bash $R/pipeline/encode.sh $EP 95       # -> long.mp4 (two-pass x265, overlay bu
 ## 7. Schedule in Metricool (blogId 7743507, timezone America/New_York)
 - Cadence (owner decision 2026-11-09, after the audit: 49 videos in 10 days, 152 views, 2 subscribers): one long video every other day. D = date of the last long video + 2 days (tomorrow if none in the last 3 days); if D is more than 2 days away, the run stops.
 - Long: D 14:00 ET. youtubeData {title, type "video", privacy "public", madeForKids false, category "EDUCATION", isAiGeneratedContent false, tags}; text = youtube_description.txt; media [long.mp4 URL]; videoThumbnailUrl = thumb_A URL (retry once without it if rejected).
-- YouTube Shorts y1–y3 (30–45 s, YouTube only): D 12:30, D 20:30, D+1 16:30 ET. type "short", isAiGeneratedContent false, title ≤ 60 chars = question or surprising claim, never a document quote, memo name or a leading year.
+- YouTube Shorts y1–y3 (20–30 s, YouTube only): D 12:30, D 20:30, D+1 16:30 ET. type "short", isAiGeneratedContent false, title ≤ 60 chars = question or surprising claim, never a document quote, memo name or a leading year.
 - TikTok s1–s4 (62–110 s, TikTok only): D 12:30, D 20:30, D+1 12:30, D+1 20:30 ET. tiktokData {title ≤ 90 chars, privacyOption "PUBLIC_TO_EVERYONE", isAigc false}; text = 1–2 lines with search keywords + 4–5 hashtags.
 - Language: narration, titles and descriptions are English. Metricool cannot set the YouTube video language; the channel's upload default must be English (YouTube Studio → Settings → Upload defaults → Advanced → Video language).
 - Every vertical cut must be 62–110 s (TikTok Creator Rewards needs > 1 min; shorts.py auto-extends whole lines to ≥ 62 s), captions burned in, b-roll labels present, nothing important below y≈1500 or in the right 130 px (TikTok UI). Pick line ranges that make a complete mini-story (hook → reveal) of ~65–90 s.
@@ -95,12 +98,14 @@ bash $R/pipeline/encode.sh $EP 95       # -> long.mp4 (two-pass x265, overlay bu
 - Description line for such episodes: "This video reports on official public records. Inclusion of a name in released records does not imply wrongdoing. Allegations are unproven unless stated otherwise."
 
 ## Performance rules
-Weekly review (Metricool, last 28 days; YouTube rows only up to 2026-11-04 because of analytics lag; 22 TikTok cuts, 19 YouTube items). Each rule is backed by ≥ 3 videos. Never changes cadence, slots, AI-label settings or content rules.
-1. TikTok topic: US-vs-Soviet Cold War confrontation stories win. Cuba 1962 + Azorian cuts (n=8) median 319 views; CIA Family Jewels (n=4) 221; Goldsboro (n=4) 162; UAP/UFO cuts (n=6) median 130. When choosing between candidates, prefer a Cold War spy/confrontation story; for UAP topics, cut around a person and a moment, not a report.
-2. TikTok opening: start on a scene with a person acting or speaking (a Soviet ship radios "What are you doing here?" 957; Stevenson's yes-or-no question 1103; CIA wiretaps two reporters 278; CIA gives Hunt a wig 259). Openings on a report or a count (144 reports 185, 18 incidents 85, 43 reports 102, the 1973 directive 121) stay low.
-3. TikTok length: cuts of 62–72 s (n=13) median 185 views vs 73–95 s (n=9) median 137. Aim for 63–72 s; go longer only when the story needs it.
-4. YouTube Shorts titles: a plain intriguing statement ("Two Navy UFO Videos Are Still Unidentified" 35, "The CIA Blacked Out This Page. The Name Underneath: Area 51" 9, "The CIA Destroyed Its MKUltra Files in 1973. Seven Boxes Survived" 6); quote-led or memo-named titles get 0–2.
-5. YouTube long: average view duration is 7–46 s (FILE 001 46 s, 002 39 s, 003 7 s) — viewers decide in the first half-minute. The first 30 s must answer the searched question and show the most striking document/footage, no slow logo or setup.
+Weekly review 2026-11-16 (Metricool, 28 days; YouTube rows only up to 2026-11-09 because of analytics lag; 33 TikTok cuts, 38 YouTube items). Targets: long CTR ≥ 6 %, retention ≥ 35 %, Shorts stayed ≥ 60 % (Studio baseline 3.4 % / 19 % / 43.6 %). Each rule is backed by ≥ 3 videos. Never changes cadence, slots, AI-label settings, legal or content rules.
+1. TikTok topic: Cold War confrontation and spy stories keep winning (Azorian ship 962, Stevenson 1106, K-129 605, RFK on Oct 16 391, Hunt's wig 380); median of all 33 cuts is 192. UFO cuts now do well only when built on one object or person (CIA saucer memo 372, Tremonton film 347) and stay low as report counts (18 incidents 86, 510 reports 129, 43 reports 163).
+2. TikTok opening: start on a person doing or saying something. Person/moment openings (Stevenson 1106, Soviet ship radio 962, RFK 391, Hunt 380, Theodore Hall 320) beat openings on a programme name or a memo (NSAM 181 / "Course B" 125, 1973 directive 123, Rosenbergs code names 138).
+3. TikTok length: 62–72 s cuts (n=22) median 222 views vs 73 s+ (n=11) median 189. Default to 63–72 s.
+4. YouTube Shorts titles: a plain intriguing statement or a question with the object in it ("Two Navy UFO Videos Are Still Unidentified" 35, "Roswell's 'Bodies'? … Test Dummies" 19, "11 Near Misses…" 15); quote-led or memo-named titles get 0–2. From 2026-11-16 Shorts are 20–30 s with a huge boxed hook on frame 0 (watch "stayed to watch").
+5. YouTube long: the only long video with real watch time (FILE 009 Goldsboro, avg 248 s on 4 views) opened on the event itself; FILE 001–005 averaged 7–79 s. Open on the most striking verified fact + the question; no logo before 0:10 (done from FILE 015).
+6. Packaging (from the 2026-11-14 owner brief, to verify next review): bold thumbnail template (thumb.mjs `bold`), curiosity titles about an object/person; compare FILE 015+ CTR with the 3.4 % baseline.
 
 Changelog
 - 2026-11-10: section created from the first weekly review (rules 1–5).
+- 2026-11-16: second weekly review — rules rewritten (TikTok person/moment openings, 62–72 s, object-led UFO cuts; Shorts 20–30 s with frame-0 hook; long-video opening; bold thumbnails to verify).

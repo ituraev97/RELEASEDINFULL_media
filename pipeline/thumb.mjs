@@ -3,12 +3,13 @@
 //  "A":{"big":"NAVY<br>UFO <b>TAPES</b>","stamp":"RELEASED 2020"},           // big stencil words + stamp
 //  "B":{"header":"DEPT. OF DEFENSE · 2020","lines":["[[9]] [[6]] remain","{{UNIDENTIFIED}}"]},  // document excerpt
 //  "C":{"q":"WHAT DID THE <b>PILOTS</b> SEE?","tag":"OFFICIAL VIDEO · FLIR1"}}  // question over full-bleed frame
+// cfg.bold: see BOLD below (default template since 2026-11-16; A/B/C kept as fallback).
 // Rules: ≤ 5 words of big text, nothing in bottom-right (duration badge), no seals/badges, no gore, honest promise.
 import fs from "fs"; import path from "path"; import { createRequire } from "module";
 import { page, C, NAME, SHORT } from "./brand.css.mjs";
 const require = createRequire(import.meta.url); const { chromium } = require("playwright");
 const cfg = JSON.parse(fs.readFileSync(process.argv[2])); const out = process.argv[3]; fs.mkdirSync(out, { recursive: true });
-const img = `data:image/jpeg;base64,${fs.readFileSync(cfg.image).toString("base64")}`;
+const img = cfg.image ? `data:image/jpeg;base64,${fs.readFileSync(cfg.image).toString("base64")}` : "";
 const b_ = (s) => s.replace(/<b>/g, `<span style="color:${C.phosphor}">`).replace(/<\/b>/g, "</span>");
 const rich = (s) => s.replace(/\[\[(\d+)\]\]/g, (_, n) => `<span style="display:inline-block;width:${n * .55}em;height:.8em;background:#0b0b0c;vertical-align:-.05em"></span>`)
   .replace(/\{\{(.+?)\}\}/g, (_, x) => `<span style="background:${C.highlight};padding:0 .12em">${x}</span>`);
@@ -44,10 +45,37 @@ const V = {
       ${o.tag ? `<div class="courier" style="display:inline-block;font-weight:700;font-size:28px;letter-spacing:.18em;color:${C.carbon};background:${C.phosphor};padding:6px 14px 4px">${o.tag}</div>` : ""}
       <div class="stencil" style="font-size:${o.size || 132}px;color:${C.paper};margin-top:16px;text-shadow:0 6px 0 rgba(0,0,0,.5)">${b_(o.q)}</div></div>${logo}</div>`,
 };
+
+// BOLD template (owner growth playbook 2026-11-14): one huge subject on a paper card, thick red ellipse on the key words,
+// a red arrow, 2-3 huge yellow words with heavy black outline on a bright red field. cfg.bold = [{id, img, box, words, sub, label, scale, rot}]
+// img: tight crop (tools/phrase_crop.py) + <img>.json with the phrase box; the phrase is scaled to ~640 px wide.
+const BOLD = (o) => {
+  const b = JSON.parse(fs.readFileSync(o.img + ".json")); const k = (o.pw || 640) / b.w;
+  const cw = o.cw || 700, ch = o.ch || 360, cx = o.cx || 540, cy = o.cy || 190;  // card
+  const ix = cw / 2 - (b.x + b.w / 2) * k, iy = ch / 2 - (b.y + b.h / 2) * k;
+  const src = `data:image/jpeg;base64,${fs.readFileSync(o.img).toString("base64")}`;
+  const ew = b.w * k + 70, eh = b.h * k + 60;
+  return `<div class="t" style="background:radial-gradient(ellipse at 30% 40%, ${o.bg || "#e0161f"} 0%, ${o.bg2 || "#a70b12"} 75%)">
+   <div style="position:absolute;left:${cx}px;top:${cy}px;width:${cw}px;height:${ch}px;transform:rotate(${o.rot ?? 2.5}deg);background:#f6f3ea;box-shadow:0 26px 60px rgba(0,0,0,.55);overflow:hidden;border:6px solid #fff">
+     <img src="${src}" style="position:absolute;left:${ix}px;top:${iy}px;width:${b.W * k}px;height:${b.H * k}px;filter:contrast(1.25)">
+     <div style="position:absolute;left:${cw / 2 - ew / 2}px;top:${ch / 2 - eh / 2}px;width:${ew}px;height:${eh}px;border:11px solid #e3101b;border-radius:50%;box-shadow:0 0 0 3px rgba(255,255,255,.6)"></div>
+   </div>
+   <svg width="1280" height="720" style="position:absolute;inset:0"><defs><marker id="ah" markerWidth="5" markerHeight="5" refX="2.5" refY="2.5" orient="auto"><path d="M0,0 L5,2.5 L0,5 z" fill="#FFD400" stroke="#000" stroke-width=".5"/></marker></defs>
+     <path d="M ${o.ax ?? 330} ${o.ay ?? 560} Q ${o.qx ?? 520} ${o.qy ?? 640} ${o.tx ?? 700} ${o.ty ?? 470}" fill="none" stroke="#000" stroke-width="26" stroke-linecap="round"/>
+     <path d="M ${o.ax ?? 330} ${o.ay ?? 560} Q ${o.qx ?? 520} ${o.qy ?? 640} ${o.tx ?? 700} ${o.ty ?? 470}" fill="none" stroke="#FFD400" stroke-width="15" stroke-linecap="round" marker-end="url(#ah)"/></svg>
+   <div class="stencil" style="position:absolute;left:34px;top:${o.top ?? 40}px;width:${o.w || 560}px;font-size:${o.size || 150}px;line-height:.92;color:#FFD400;-webkit-text-stroke:9px #000;paint-order:stroke fill;text-shadow:0 8px 0 rgba(0,0,0,.6)">${o.words}</div>
+   ${o.sub ? `<div class="sans" style="position:absolute;left:38px;top:${o.subtop ?? 420}px;font-weight:800;font-size:${o.subsize || 46}px;color:#fff;-webkit-text-stroke:2px #000;paint-order:stroke fill;text-transform:uppercase">${o.sub}</div>` : ""}
+   ${o.label ? `<div class="courier" style="position:absolute;left:${cx + 20}px;top:${cy + ch + 34}px;font-weight:700;font-size:22px;letter-spacing:.12em;color:#fff;background:rgba(0,0,0,.55);padding:4px 10px">${o.label}</div>` : ""}
+   ${logo}</div>`;
+};
 const br = await chromium.launch(); const pg = await br.newPage({ viewport: { width: 1280, height: 720 } });
 for (const k of ["A", "B", "C"]) {
   if (!cfg[k]) continue;
   await pg.setContent(page(V[k](cfg[k]), X)); await pg.evaluate(() => document.fonts.ready); await pg.waitForTimeout(150);
   await pg.screenshot({ path: path.join(out, `thumb_${k}.jpg`), type: "jpeg", quality: 92 }); console.log("thumb", k);
+}
+for (const o of cfg.bold || []) {
+  await pg.setContent(page(BOLD(o), X)); await pg.evaluate(() => document.fonts.ready); await pg.waitForTimeout(150);
+  await pg.screenshot({ path: path.join(out, `thumb_${o.id}.jpg`), type: "jpeg", quality: 92 }); console.log("thumb bold", o.id);
 }
 await br.close();

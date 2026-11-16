@@ -3,7 +3,7 @@
 import sound as S; S.typewriter(n_keys), S.stamp(), S.paper(), S.static(sec), S.projector(sec), S.whoosh(), S.ping()
 music(total_sec, cues) -> stereo bed. All functions return float32 mono/stereo arrays at SR=48000."""
 import numpy as np
-from scipy.signal import butter, sosfilt, fftconvolve
+from scipy.signal import butter, sosfilt, oaconvolve as fftconvolve  # overlap-add: low memory on 15-20 min episodes
 SR = 48000
 rng = np.random.default_rng(20261029)
 def lp(x, f, o=4): return sosfilt(butter(o, f, "low", fs=SR, output="sos"), x)
@@ -141,6 +141,7 @@ def music(total, sections, silences=(), seed=7):
         g[ia:ib] = 0; g[ib:ib + fi] = np.minimum(g[ib:ib + fi], np.linspace(0, 1, len(g[ib:ib + fi])))
     fade = np.minimum(1, np.minimum(t / 3.0, np.maximum(0, total - t) / 5.0))
     mono = mono * g * fade
+    del drone, pad, bells, tick, g, fade, lvl, pul, bright
     rv = fftconvolve(mono, room(3.0, 3500))[:N]
     L_ = mono + rv * 0.35; R_ = np.roll(mono, int(0.011 * SR)) + np.roll(rv, int(0.023 * SR)) * 0.35  # slight width
     return np.stack([L_, R_], 1)[:int(total * SR)].astype(np.float32)
