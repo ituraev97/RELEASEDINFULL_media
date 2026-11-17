@@ -92,7 +92,14 @@ If any line fails: fix and rebuild; if it cannot be fixed, do not publish and re
 - Studio baseline (28 days to 2026-11-13): long CTR 3.4 %, avg view duration 2:01 (~19 %), 206 impressions; Shorts 43.6 % stayed to watch, 91.8 % of Shorts views from search, 8.2 % from the feed. Targets: CTR ≥ 6 %, retention ≥ 35 %, Shorts stayed ≥ 60 %.
 - Freshness first: scan official releases of the last 14 days every run; at least every other episode is fresh (or has a fresh hook stated in the first 30 s). Epstein series: 3–4 episodes from official records only, interleaved with other topics.
 - Titles: curiosity gap about an object/person/question with the searched keyword ("Where Is the Lost H-Bomb Now?", "What the Epstein Files Actually Show"). Never start with a date, agency code, operation name or FILE number. Strong but true.
-- Thumbnails: one huge subject, thick red circle/arrow, 2–3 huge yellow/red words with black outline, bright and high-contrast; no small text, no agency stamp, no dark empty background. A/B/C variations for Test & Compare.
+- Thumbnails (owner 2026-11-17: "same as SWORN — bright and eye-catching; ours were unreadable") = `pipeline/thumb_bold.cjs` with `<ep>/thumb_bold.json` (`NODE_PATH=$(npm root -g) node pipeline/thumb_bold.cjs <ep>/thumb_bold.json <ep> <ep>`), port of SWORN thumb2.js v3. The old thumb.mjs is retired.
+  - A = real photo left (aircraft, ship, place, archival photo of a historical/convicted/public-official person) + document right with the key lines highlighted yellow and a stamp (NEVER RECOVERED / DECLASSIFIED / REDACTED / CLASSIFIED), tag top-left, line1 white + line2 red.
+  - B = question panel `{"q": ["STILL","IN THE","GROUND?"]}` left + strongest photo right, no bottom lines.
+  - C = document left + photo right, line1 white + line2 yellow.
+  - ≤ 5 words per line, every word true to the documents; photos bright and colourful (sunset, night lights, blue sky) — never grey/backlit; documents highlighted with a yellow band on the exact sentence (draw it in PIL before rendering).
+  - Legal: never a photo of a living person who is not convicted, charged or acting as a public official; never victims; no news/TV frames.
+  - QA: look at all three at full size AND at 168×94 — the big words must read.
+  - Reference: `reference/thumb_bold_demo/thumb_bold.json` (Goldsboro).
 - Opening: the most shocking verified fact + the question in the first 5 s; no bumper before 0:10; a new turn every 60–90 s; open loops; payoff in the last act.
 - Verticals: frame 0 bright + huge hook text, voice on the hook word at 0.0 s; YouTube Shorts 20–30 s, TikTok 62–110 s; QA a frame at 0.3 s.
 - Anti-farm: rotate opening types and structures, vary chapters and thumbnail compositions, a different template per Short, a description written for the episode, a genuine question for viewers.

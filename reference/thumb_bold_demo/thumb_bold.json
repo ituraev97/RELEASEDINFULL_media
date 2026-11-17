@@ -1,0 +1,58 @@
+{
+ "A": {
+  "left": {
+   "img": "img/c10054944.jpg",
+   "cover": true,
+   "pos": "50% 60%"
+  },
+  "right": {
+   "img": "img/doc_hl.jpg",
+   "cover": true,
+   "pos": "0% 50%",
+   "stamp": "NEVER RECOVERED",
+   "stampPos": "left:50%;top:22%"
+  },
+  "split": 0.5,
+  "tag": "DECLASSIFIED",
+  "line1": "2 H-BOMBS FELL ON NC",
+  "line2": "PART OF ONE IS STILL THERE",
+  "line2color": "red",
+  "size1": 100,
+  "size2": 84
+ },
+ "B": {
+  "left": {
+   "q": [
+    "STILL",
+    "IN THE",
+    "GROUND?"
+   ]
+  },
+  "right": {
+   "img": "img/c7257592.jpg",
+   "cover": true,
+   "pos": "50% 50%"
+  },
+  "split": 0.5,
+  "tag": "DECLASSIFIED"
+ },
+ "C": {
+  "left": {
+   "img": "img/doc_hl.jpg",
+   "cover": true,
+   "pos": "0% 50%"
+  },
+  "right": {
+   "img": "img/c7257592.jpg",
+   "cover": true,
+   "pos": "50% 50%"
+  },
+  "split": 0.5,
+  "tag": "DECLASSIFIED",
+  "line1": "THE LOST H-BOMB",
+  "line2": "STILL UNDER A FARM",
+  "line2color": "yellow",
+  "size1": 112,
+  "size2": 116
+ }
+}
