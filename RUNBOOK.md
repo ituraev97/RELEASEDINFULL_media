@@ -42,7 +42,7 @@ Node scripts need `NODE_PATH=$(npm root -g)` (global Playwright).
 ## 4. Build
 ```bash
 R=/home/claude/releasedinfull_media; EP=$R/episodes/NNN-slug; SRC=/home/claude/src
-python3 $R/pipeline/tts.py $EP "am_eric:0.6+am_fenrir:0.4" 1.0      # voice B (owner's choice)
+python3 $R/pipeline/tts.py $EP "am_puck" 1.0      # voice C, owner choice 2026-11-17 (was am_eric:0.6+am_fenrir:0.4)
 python3 $R/pipeline/make_gspec.py $EP && (cd $R/pipeline && NODE_PATH=$(npm root -g) node graphics.mjs $EP/gspec.json $EP/gfx)
 python3 $R/pipeline/build.py $EP $SRC          # frame-exact 30 fps, cached segments
 python3 $R/pipeline/finish.py $EP $SRC         # overlays, SRT, music, SFX, -14 LUFS
@@ -77,6 +77,16 @@ Memory (2026-11-16): finish.py synthesises the score in 4-minute chunks and uses
 ## 8. Close the run
 - Commit to main: episode folder (episode.py, research.md, factcheck.md, rights.json, thumb.json, youtube_description.txt, captions_en.srt), updated backlog.md. Never video files on main.
 - Report to the owner in Russian: title, FILE number, publish times (ET + Tashkent), 2-line summary, plannerUrls, thumb_B/C for Test & Compare, anything skipped.
+
+## Pre-publish gate (blocker — nothing is scheduled until every line passes)
+- long.mp4 duration 15:00–20:00 (ffprobe).
+- Title ≤ 70 chars, does not start with a date, a year, an agency code, an operation/program name or "FILE"; it is a question or curiosity gap containing the searched keyword.
+- thumb_A uses the bold template (huge subject, red circle/arrow, 2–3 huge words); look at it at 320 px wide — the words must be readable.
+- First 5 s of narration = the most shocking verified fact + the question.
+- Every YouTube Short 20–30 s, every TikTok cut 62–110 s; frame at 0.3 s is bright with the hook text.
+- Narration voice is "am_puck" (Kokoro), speed 1.0.
+- factcheck.md applied; legal_review.md all PASS where required.
+If any line fails: fix and rebuild; if it cannot be fixed, do not publish and report why.
 
 ## Growth playbook (owner 2026-11-14 — grow aggressively, never look like a farm)
 - Studio baseline (28 days to 2026-11-13): long CTR 3.4 %, avg view duration 2:01 (~19 %), 206 impressions; Shorts 43.6 % stayed to watch, 91.8 % of Shorts views from search, 8.2 % from the feed. Targets: CTR ≥ 6 %, retention ≥ 35 %, Shorts stayed ≥ 60 %.
