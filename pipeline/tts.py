@@ -7,7 +7,7 @@ opts.slow=True reads the line ~7% slower (reveals). Questions get +3% speed (nat
 Writes <ep>/vo/raw_NN.wav (24 kHz) and vo/phrases.json (phrase timings, used for subtitles)."""
 import sys, os, re, json, importlib.util, numpy as np, soundfile as sf, librosa
 from kokoro_onnx import Kokoro
-ep = os.path.abspath(sys.argv[1]); voice = sys.argv[2] if len(sys.argv) > 2 else "am_fenrir"
+ep = os.path.abspath(sys.argv[1]); voice = sys.argv[2] if len(sys.argv) > 2 else "am_puck"
 base = float(sys.argv[3]) if len(sys.argv) > 3 else 1.0
 spec = importlib.util.spec_from_file_location("episode", os.path.join(ep, "episode.py")); E = importlib.util.module_from_spec(spec); spec.loader.exec_module(E)
 K = Kokoro("/home/claude/tts/kokoro-v1.0.onnx", "/home/claude/tts/voices-v1.0.bin")
@@ -15,7 +15,7 @@ def vstyle(v):
     if ":" not in v: return v
     acc = None
     for part in v.split("+"):
-        n, w = part.split(":"); x = K.get_voice_style(n) * float(w); acc = x if acc is None else acc + x
+        n, w = (part.split(":") + ["1"])[:2]; x = K.get_voice_style(n) * float(w); acc = x if acc is None else acc + x
     return acc
 STY = vstyle(voice)
 PAUSE = {".": 0.32, "?": 0.5, "!": 0.4, "|": 0.45, "…": 0.75, ",": 0.0}
