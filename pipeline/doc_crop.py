@@ -26,6 +26,14 @@ tmp = tempfile.mkdtemp(); subprocess.run(["pdftoppm", "-f", str(page), "-l", str
 im = Image.open([os.path.join(tmp, f) for f in os.listdir(tmp)][0]).convert("RGB"); s = im.width / pw
 from PIL import ImageDraw, ImageFont
 dr = ImageDraw.Draw(im); nred = 0
+# 2026-11-18: blank words of neighbouring lines that poke into the crop (no slivers)
+for l in lines:
+    if l in sel: continue
+    ys0 = min(q[1] for q in sel); ys1 = max(q[3] for q in sel)
+    if l[1] >= ys1 - 4 and l[1] < y1 + 3:   # line below: blank only what lies below the selected text
+        dr.rectangle([l[0] * s - 2, (ys1 + 0.4) * s, l[2] * s + 2, (y1 + 3) * s], fill=(255, 255, 255))
+    elif l[1] < ys0 - 2 and l[3] > y0 - 3:  # line above
+        dr.rectangle([l[0] * s - 2, (y0 - 3) * s, l[2] * s + 2, (ys0 + float(os.environ.get("TOPCUT", "0.9"))) * s], fill=(255, 255, 255))
 for (wa, wb, wc, wd, t) in words_all:
     tl = t.lower().strip(".,;:’'\"“”()")
     if wb >= y0 - 2 and wd <= y1 + 2 and any((tl.startswith(n) if n in ('black','roth','andy','senior','jay','marie','jack','alex','michael','starr') else n in tl) for n in NAMES) and not tl.startswith('[a]lex') and not (tl == "black" and os.environ.get("KEEPBLACK")) and not (tl == "senior" and not os.environ.get("REDSENIOR")):

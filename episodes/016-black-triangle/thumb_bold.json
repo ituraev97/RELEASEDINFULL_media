@@ -1,0 +1,31 @@
+{
+ "A": {
+  "left": {"img": "img/tri.jpg", "cover": true, "pos": "50% 40%", "chip": "FBI DEPICTION, 2026"},
+  "right": {"img": "img/docA.jpg", "cover": true, "pos": "50% 50%", "stamp": "UNIDENTIFIED", "stampPos": "left:50%;top:26%"},
+  "split": 0.5,
+  "tag": "RELEASED OCT. 2026",
+  "circle": {"x": 318, "y": 292, "r": 105},
+  "line1": "NO SOUND. NO WRECKAGE.",
+  "line2": "STILL UNIDENTIFIED",
+  "line2color": "red",
+  "size1": 96, "size2": 104
+ },
+ "B": {
+  "left": {"q": ["WHAT", "DID THEY", "SEE?"]},
+  "right": {"img": "img/tri.jpg", "cover": true, "pos": "50% 40%", "chip": "FBI DEPICTION"},
+  "split": 0.5,
+  "tag": "RELEASED OCT. 2026",
+  "circle": {"x": 960, "y": 300, "r": 115}
+ },
+ "C": {
+  "left": {"img": "img/docC.jpg", "cover": true, "pos": "50% 50%"},
+  "right": {"img": "img/tri.jpg", "cover": true, "pos": "50% 40%", "chip": "FBI DEPICTION"},
+  "split": 0.5,
+  "tag": "FBI FILE, 2026",
+  "arrow": {"x": 925, "y": 300, "rot": 28},
+  "line1": "\"DARK BLACK TRIANGULAR\"",
+  "line2": "3 SECONDS OR 30?",
+  "line2color": "yellow",
+  "size1": 92, "size2": 112
+ }
+}

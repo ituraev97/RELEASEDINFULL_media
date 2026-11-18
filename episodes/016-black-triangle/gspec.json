@@ -1,0 +1,280 @@
+[
+ {
+  "key": "intro_be996a",
+  "name": "intro",
+  "opts": {
+   "n": "016"
+  }
+ },
+ {
+  "key": "title_0fdab1",
+  "name": "title",
+  "opts": {
+   "n": "016",
+   "t": "THE BLACK TRIANGLE",
+   "size": 150,
+   "sub": "What the Seventh UFO Release Actually Says"
+  }
+ },
+ {
+  "key": "chapter_3aba47",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Ridge"
+  }
+ },
+ {
+  "key": "chapter_ad3db2",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "Thirty Seconds"
+  }
+ },
+ {
+  "key": "stat_36243f",
+  "name": "stat",
+  "opts": {
+   "k": "AS ESTIMATED BY THE WITNESSES",
+   "a": "13-15 FT",
+   "size": 230,
+   "b": "wingspan \u00b7 6-9 ft long \u00b7 1-2 ft thick",
+   "c": "matte black, nonreflective, \"featureless\"",
+   "source": "SOURCE: AARO MEMORANDUM FOR RECORD (2026), DOW-UAP-D176"
+  }
+ },
+ {
+  "key": "chapter_2aee63",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "The Other Statement"
+  }
+ },
+ {
+  "key": "list_33f6db",
+  "name": "list",
+  "opts": {
+   "kicker": "SAME EVENING \u00b7 TWO OFFICIAL RECORDS",
+   "title": "Where the accounts differ",
+   "items": [
+    {
+     "n": "AARO",
+     "t": "Climb ~10 s \u00b7 hover ~20 s \u00b7 dash 2-3 s",
+     "s": "13-15 ft wingspan"
+    },
+    {
+     "n": "FBI",
+     "t": "\"approximately three seconds\" in total",
+     "s": "9-15 ft wingspan"
+    },
+    {
+     "n": "AARO",
+     "t": "\"unidentified craft\"",
+     "s": "what it was called"
+    },
+    {
+     "n": "FBI",
+     "t": "\"most resembling a delta wing drone\"",
+     "s": "what it was called"
+    }
+   ],
+   "source": "SOURCE: AARO MEMORANDUM FOR RECORD (2026), DOW-UAP-D176; SOURCE: FBI FD-302 (2026), FBI-UAP-D043"
+  }
+ },
+ {
+  "key": "chapter_75ac31",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "The Canyon"
+  }
+ },
+ {
+  "key": "chapter_d8424d",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "Same Words, 1952"
+  }
+ },
+ {
+  "key": "map_58e4d3",
+  "name": "map",
+  "opts": {
+   "kicker": "PURSUE RELEASE 07",
+   "title": "Where the files come from",
+   "bounds": [
+    [
+     -175,
+     15
+    ],
+    [
+     55,
+     70
+    ]
+   ],
+   "points": [
+    {
+     "ll": [
+      -118.42,
+      33.39
+     ],
+     "name": "Catalina 1952-55",
+     "anchor": "end"
+    },
+    {
+     "ll": [
+      -85.89,
+      38.96
+     ],
+     "name": "Indiana 1954"
+    },
+    {
+     "ll": [
+      -171.7,
+      63.78
+     ],
+     "name": "Alaska 1953"
+    },
+    {
+     "ll": [
+      13.77,
+      56.16
+     ],
+     "name": "Sweden 1953",
+     "anchor": "end"
+    },
+    {
+     "ll": [
+      -6.8,
+      34.0
+     ],
+     "name": "Morocco 1953",
+     "anchor": "end"
+    },
+    {
+     "ll": [
+      47.0,
+      27.0
+     ],
+     "name": "Saudi Arabia 1957",
+     "anchor": "end"
+    },
+    {
+     "ll": [
+      -110.0,
+      40.3
+     ],
+     "name": "Utah 2010",
+     "sub": "RANCH REPORT"
+    }
+   ],
+   "source": "SOURCE: DEPARTMENT OF WAR, PURSUE RELEASE 07 (OCT. 23, 2026), 28 FILES; EARTHSKY; THE NATIONAL DESK (OCT. 2026)"
+  }
+ },
+ {
+  "key": "chapter_99e985",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "The Bomber"
+  }
+ },
+ {
+  "key": "chapter_a346f1",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "Who Gets the Pieces"
+  }
+ },
+ {
+  "key": "stat_cfe3cb",
+  "name": "stat",
+  "opts": {
+   "k": "1962-1963 \u00b7 NATIONAL AERONAUTICS AND SPACE COUNCIL",
+   "a": "WHO GETS",
+   "size": 200,
+   "b": "the pieces when space hardware falls to Earth?",
+   "c": "Executive Office of the President",
+   "source": "SOURCE: USG-UAP-D002, SPACE-FRAGMENT CORRESPONDENCE 1962-1964 (PURSUE RELEASE 07)"
+  }
+ },
+ {
+  "key": "doc_423cae",
+  "name": "doc",
+  "opts": {
+   "top": 60,
+   "w": 1400,
+   "header": "RECREATED \u00b7 DRAFT, MARCH 1963 \u00b7 VERBATIM EXCERPTS",
+   "title": "Guidelines for interagency handling of space vehicle fragments",
+   "lines": [
+    "The National Aeronautics and Space Administration (NASA) is designated as the agency responsible for receiving and identifying fragments, or suspected fragments of space vehicles.",
+    "... fragments {{(including whole vehicles)}} which are readily identifiable or suspect as coming from vehicles launched from foreign countries ...",
+    "Such foreign fragments which come initially into possession of the DoD {{will be retained by DoD for analysis.}}"
+   ],
+   "source": "SOURCE: USG-UAP-D002 (PURSUE RELEASE 07) \u00b7 RECREATED, WORDING VERBATIM"
+  }
+ },
+ {
+  "key": "chapter_1dc767",
+  "name": "chapter",
+  "opts": {
+   "n": "VIII",
+   "t": "The Ranch"
+  }
+ },
+ {
+  "key": "chapter_124485",
+  "name": "chapter",
+  "opts": {
+   "n": "IX",
+   "t": "Still Unresolved"
+  }
+ },
+ {
+  "key": "timeline_b30fbd",
+  "name": "timeline",
+  "opts": {
+   "kicker": "PURSUE RELEASE 07",
+   "title": "What the files concluded",
+   "events": [
+    {
+     "y": "1952",
+     "t": "Catalina: no conclusion"
+    },
+    {
+     "y": "1953",
+     "t": "Morocco: maybe storks"
+    },
+    {
+     "y": "1955",
+     "t": "Catalina: probable meteor"
+    },
+    {
+     "y": "1957",
+     "t": "B-52: unidentified"
+    },
+    {
+     "y": "2010",
+     "t": "Ranch: dog, raccoon"
+    },
+    {
+     "y": "2026",
+     "t": "Triangle: open"
+    }
+   ],
+   "active": 5,
+   "source": "SOURCE: DEPARTMENT OF WAR, PURSUE RELEASE 07 (OCT. 23, 2026), 28 FILES; EARTHSKY; THE NATIONAL DESK (OCT. 2026)"
+  }
+ },
+ {
+  "key": "end_be996a",
+  "name": "end",
+  "opts": {
+   "n": "016"
+  }
+ }
+]
