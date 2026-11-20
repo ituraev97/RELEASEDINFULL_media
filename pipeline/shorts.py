@@ -57,7 +57,9 @@ Style: CTA,Courier Prime,40,&H00B0F58C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
 def span(a, b): return ST[a], ST[b] + VD[b] + 0.7   # voice starts on the hook word at 0.0 s (owner 2026-11-14)
+ONLY = sys.argv[sys.argv.index("--only") + 1].split(",") if "--only" in sys.argv else None  # 2026-11-20: re-cut selected ids
 for sh in E.META.get(KEY, []):
+    if ONLY and sh["id"] not in ONLY: continue
     a, b = sh["lines"][0] - 1, sh["lines"][1] - 1
     t0, t1 = span(a, b)
     while t1 - t0 < MIN_D and (b + 1 < NL or a > 0):          # extend to >= 62 s, whole lines only

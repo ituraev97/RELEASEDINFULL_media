@@ -1,0 +1,347 @@
+[
+ {
+  "key": "stat_1a5de3",
+  "name": "stat",
+  "opts": {
+   "k": "NYC OFFICE OF CHIEF MEDICAL EXAMINER \u00b7 NOV. 2026",
+   "a": "STANDS BY",
+   "size": 210,
+   "b": "its determination: suicide by hanging",
+   "c": "as reported by CNN",
+   "source": "SOURCE: CNN VIA WISN (NOV. 17, 2026); AL JAZEERA (NOV. 18-19, 2026)"
+  }
+ },
+ {
+  "key": "intro_962666",
+  "name": "intro",
+  "opts": {
+   "n": "017"
+  }
+ },
+ {
+  "key": "title_439b58",
+  "name": "title",
+  "opts": {
+   "n": "017",
+   "t": "THE LAST NIGHT",
+   "size": 160,
+   "sub": "What the Inspector General Found"
+  }
+ },
+ {
+  "key": "chapter_5816f8",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "Ninth Floor"
+  }
+ },
+ {
+  "key": "list_8cf032",
+  "name": "list",
+  "opts": {
+   "kicker": "SPECIAL HOUSING UNIT \u00b7 THE RULES",
+   "title": "What BOP and jail rules required",
+   "items": [
+    {
+     "t": "Observe every inmate twice an hour",
+     "s": "30-MINUTE ROUNDS"
+    },
+    {
+     "t": "Multiple inmate counts every 24 hours"
+    },
+    {
+     "t": "A lieutenant's round every shift"
+    },
+    {
+     "t": "Search common areas and 5+ cells daily"
+    }
+   ],
+   "source": "SOURCE: DOJ OFFICE OF THE INSPECTOR GENERAL, REPORT 23-085 (JUNE 2023), EXECUTIVE SUMMARY"
+  }
+ },
+ {
+  "key": "chapter_c1358d",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "July 23"
+  }
+ },
+ {
+  "key": "chapter_beaa71",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "The Email"
+  }
+ },
+ {
+  "key": "doc_f115b7",
+  "name": "doc",
+  "opts": {
+   "header": "EMAIL \u00b7 STAFF PSYCHOLOGIST \u00b7 JULY 30, 2019 \u00b7 AS QUOTED BY DOJ OIG",
+   "title": "To: over 70 MCC New York staff",
+   "lines": [
+    "\"Inmate Epstein #76318-054 is being taken off Psych Observation",
+    "and {{needs to be housed with an appropriate cellmate.}}\""
+   ],
+   "stamp": "RECREATED",
+   "source": "SOURCE: DOJ OFFICE OF THE INSPECTOR GENERAL, REPORT 23-085 (JUNE 2023), P. 32"
+  }
+ },
+ {
+  "key": "stat_785088",
+  "name": "stat",
+  "opts": {
+   "k": "AUGUST 9, 2019",
+   "a": "0",
+   "size": 360,
+   "b": "new cellmates assigned",
+   "c": "despite the psychology department's directive",
+   "source": "SOURCE: DOJ OFFICE OF THE INSPECTOR GENERAL, REPORT 23-085 (JUNE 2023)"
+  }
+ },
+ {
+  "key": "chapter_ce533e",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "The Cameras"
+  }
+ },
+ {
+  "key": "stat_359ee4",
+  "name": "stat",
+  "opts": {
+   "k": "CAMERA REPLACEMENT \u00b7 CONTRACTED SEPT. 2018",
+   "a": "$730,000+",
+   "size": 230,
+   "b": "new system still not finished when Epstein died",
+   "c": "nor by August 2021, the report found",
+   "source": "SOURCE: DOJ OFFICE OF THE INSPECTOR GENERAL, REPORT 23-085 (JUNE 2023), P. 109"
+  }
+ },
+ {
+  "key": "chapter_83a17a",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "August 9"
+  }
+ },
+ {
+  "key": "chapter_3b899d",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "The Count"
+  }
+ },
+ {
+  "key": "stat_a0ef45",
+  "name": "stat",
+  "opts": {
+   "k": "AT THE 10 P.M. COUNT, AUGUST 9",
+   "a": "22",
+   "size": 380,
+   "b": "consecutive hours on duty",
+   "c": "one of the two staff members in the unit",
+   "source": "SOURCE: DOJ OFFICE OF THE INSPECTOR GENERAL, REPORT 23-085 (JUNE 2023), P. 63"
+  }
+ },
+ {
+  "key": "chapter_5bb27b",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "6:30 A.M."
+  }
+ },
+ {
+  "key": "doc_d23fda",
+  "name": "doc",
+  "opts": {
+   "header": "OFFICE OF CHIEF MEDICAL EXAMINER, CITY OF NEW YORK \u00b7 AUG. 11, 2019 \u00b7 AS REPORTED BY DOJ OIG",
+   "title": "Autopsy findings",
+   "lines": [
+    "Cause of death: {{hanging}}",
+    "Manner of death: {{suicide}}",
+    "Toxicology: no medications or illegal drugs"
+   ],
+   "stamp": "RECREATED",
+   "source": "SOURCE: DOJ OFFICE OF THE INSPECTOR GENERAL, REPORT 23-085 (JUNE 2023), EXECUTIVE SUMMARY"
+  }
+ },
+ {
+  "key": "chapter_975949",
+  "name": "chapter",
+  "opts": {
+   "n": "VIII",
+   "t": "The Findings"
+  }
+ },
+ {
+  "key": "chapter_b7fc2c",
+  "name": "chapter",
+  "opts": {
+   "n": "IX",
+   "t": "The Missing Minute"
+  }
+ },
+ {
+  "key": "quote_c83d85",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026from the time Epstein was locked in his cell at around 10:40 pm on August 9, 2019, until around 6:30 am the next morning, {{nobody entered any of the tiers in the SHU.}}",
+   "who": "DOJ / FBI memo",
+   "role": "July 2025 \u00b7 as quoted by The National News Desk",
+   "size": 52,
+   "source": "SOURCE: DOJ/FBI MEMO (JULY 2025), AS REPORTED BY AXIOS AND THE NATIONAL NEWS DESK; CBS NEWS (SEPT. 2025, FEB. 2026)"
+  }
+ },
+ {
+  "key": "stat_83ae59",
+  "name": "stat",
+  "opts": {
+   "k": "RELEASED JAIL VIDEO \u00b7 JULY 2025",
+   "a": "11:58:58 \u2192 12:00",
+   "size": 170,
+   "b": "a gap of about one minute",
+   "c": "as reported by CBS News",
+   "source": "SOURCE: DOJ/FBI MEMO (JULY 2025), AS REPORTED BY AXIOS AND THE NATIONAL NEWS DESK; CBS NEWS (SEPT. 2025, FEB. 2026)"
+  }
+ },
+ {
+  "key": "chapter_450174",
+  "name": "chapter",
+  "opts": {
+   "n": "X",
+   "t": "The Dispute"
+  }
+ },
+ {
+  "key": "quote_8ba49f",
+  "name": "quote",
+  "opts": {
+   "q": "The ligature marks are {{most consistent with homicidal strangulation from behind\u2026}}",
+   "who": "Three forensic experts",
+   "role": "Presentation in London, Nov. 16, 2026 \u00b7 a claim, not an official finding",
+   "size": 58,
+   "source": "SOURCE: CNN VIA WISN (NOV. 17, 2026); AL JAZEERA (NOV. 18-19, 2026)"
+  }
+ },
+ {
+  "key": "list_33c509",
+  "name": "list",
+  "opts": {
+   "kicker": "WEIGHING THE NEW CLAIM",
+   "title": "What we know about it",
+   "items": [
+    {
+     "t": "Presented publicly, Nov. 16, 2026"
+    },
+    {
+     "t": "Not yet peer-reviewed",
+     "s": "CNN"
+    },
+    {
+     "t": "Based on the autopsy file and records"
+    },
+    {
+     "t": "The medical examiner stands by its ruling"
+    }
+   ],
+   "source": "SOURCE: CNN VIA WISN (NOV. 17, 2026); AL JAZEERA (NOV. 18-19, 2026)"
+  }
+ },
+ {
+  "key": "quote_f9bd3a",
+  "name": "quote",
+  "opts": {
+   "q": "The Department of Justice must interview key witnesses, {{investigate everyone who participated in or facilitated these crimes.}}",
+   "who": "Rep. James Comer (R-Ky.)",
+   "role": "Chairman, House Oversight Committee \u00b7 Nov. 2026",
+   "size": 54,
+   "source": "SOURCE: NPR (NOV. 10 AND 18, 2026); ABC NEWS AND AXIOS (NOV. 11, 2026)"
+  }
+ },
+ {
+  "key": "quote_6d9556",
+  "name": "quote",
+  "opts": {
+   "q": "{{Partisan and incomplete.}}",
+   "who": "Rep. Robert Garcia (D-Calif.)",
+   "role": "Top Democrat, House Oversight Committee \u00b7 Nov. 2026",
+   "size": 80,
+   "source": "SOURCE: NPR (NOV. 10 AND 18, 2026); ABC NEWS AND AXIOS (NOV. 11, 2026)"
+  }
+ },
+ {
+  "key": "stat_2d8288",
+  "name": "stat",
+  "opts": {
+   "k": "EPSTEIN FILES TRANSPARENCY ACT \u00b7 NOV. 2025",
+   "a": "1 YEAR",
+   "size": 260,
+   "b": "since Congress passed the law",
+   "c": "a survivor told NPR she found her own name and number unredacted",
+   "source": "SOURCE: NPR (NOV. 10 AND 18, 2026); ABC NEWS AND AXIOS (NOV. 11, 2026)"
+  }
+ },
+ {
+  "key": "stat_67d195",
+  "name": "stat",
+  "opts": {
+   "k": "DISCHARGE PETITION \u00b7 NOV. 11, 2026",
+   "a": "218",
+   "size": 360,
+   "b": "signatures: all 214 Democrats and 4 Republicans",
+   "c": "floor action possible after Thanksgiving",
+   "source": "SOURCE: NPR (NOV. 10 AND 18, 2026); ABC NEWS AND AXIOS (NOV. 11, 2026)"
+  }
+ },
+ {
+  "key": "timeline_529f5b",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE LAST NIGHT, BY THE RECORD",
+   "title": "August 9-10, 2019",
+   "events": [
+    {
+     "y": "JUL 29",
+     "t": "Recorder fails"
+    },
+    {
+     "y": "AUG 9",
+     "t": "Cellmate leaves"
+    },
+    {
+     "y": "6:58 PM",
+     "t": "Unmonitored call"
+    },
+    {
+     "y": "10:40 PM",
+     "t": "Last round"
+    },
+    {
+     "y": "6:30 AM",
+     "t": "Found"
+    },
+    {
+     "y": "7:36 AM",
+     "t": "Pronounced dead"
+    }
+   ],
+   "source": "SOURCE: DOJ OFFICE OF THE INSPECTOR GENERAL, REPORT 23-085 (JUNE 2023)"
+  }
+ },
+ {
+  "key": "end_d5af66",
+  "name": "end",
+  "opts": {
+   "n": "017",
+   "next": "What the 2026 Epstein release contains"
+  }
+ }
+]

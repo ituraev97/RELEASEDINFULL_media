@@ -1,0 +1,8 @@
+# FILE 017 packaging (final, after fact-check and legal review)
+Long title: What the Inspector General Found the Night Epstein Died
+Thumbnail A: tag "INSPECTOR GENERAL"; chip "SIGN IN EPSTEIN'S JAIL UNIT" (BOP image, report fig. 5.2); stamp "DOJ REPORT"; "NOBODY CHECKED" / "FOR ALMOST 8 HOURS"; doc highlight "unmonitored and alone in his cell," (exec. summary)
+Thumbnail B: tag "DOJ REPORT"; "WHO WAS WATCHING EPSTEIN?"; DOJ OIG photo fig. 4.11, chip "EPSTEIN'S CELL DOOR · DOJ PHOTO" (OCME photo fig. 6.7 removed per legal review)
+Thumbnail C: tag "DOJ REPORT, 2023"; chip "SIGN IN THE JAIL UNIT"; "\"AS PER GOD!!!!\"" / "\"APPEARED TO BE SLEEPING\""; doc highlight p. 68 "without moving and appeared to be sleeping." (staff names black-barred)
+YouTube Shorts (20-30 s): y1 lines 1-3 hook "NOBODY CHECKED FOR 8 HOURS" title "Nobody Checked on Epstein for Almost 8 Hours. Why?"; y2 lines 36-38 hook "THE CAMERAS STOPPED RECORDING" title "Why Did the Jail Cameras Stop Recording Before Epstein Died?"; y3 lines 76-77 hook "WHAT THE VIDEO SHOWED" title "What the Jail Video Showed the Night Epstein Died"
+TikTok (62-110 s): s1 lines 52-61 hook "22 HOURS ON DUTY. NO COUNT DONE" title "The night shift that left Epstein alone, according to the DOJ"; s2 lines 18-23 hook "18 DAYS BEFORE: A WARNING" title "Less than three weeks before Epstein died, there was a warning"; s3 lines 82-88 hook "THE MISSING MINUTE" title "What happened to the missing minute of the Epstein jail video?"; s4 lines 24-32 hook "CELLMATE LEFT. NO REPLACEMENT" title "The email that said Epstein needed a cellmate"
+Description legal line + 988 line included.

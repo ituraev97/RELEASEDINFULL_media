@@ -20,7 +20,8 @@ Status: `todo` → `done YYYY-MM-DD` / `skip (reason)`. Take the first `todo` (d
 | 014 | The Berlin Tunnel (CIA/MI6, 1954–56) | done 2026-11-15 |
 | 015 | The Epstein deal: the 2007 non-prosecution agreement (Epstein series 1/4) | done 2026-11-17 |
 | 016 | The silent black triangle: PURSUE Release 07 (AARO + FBI 2026, 1950s files, 1963 fragments memo, Utah ranch DNA) | done 2026-11-19 |
-| 017 | Kenneth Arnold, June 24, 1947 | todo |
+| 017 | The night Epstein died: what the Inspector General found (Epstein series 2/4; fresh hook: Nov 16, 2026 expert challenge) | done 2026-11-21 |
+| 017b | Kenneth Arnold, June 24, 1947 (was 017) | todo |
 | 018 | Acoustic Kitty | todo |
 | 019 | The Robertson Panel | todo |
 | 020 | CORONA | todo |
@@ -38,4 +39,4 @@ Status: `todo` → `done YYYY-MM-DD` / `skip (reason)`. Take the first `todo` (d
 | 032 | NASA, AARO and the official answer | todo |
 | 033 | Stargate (moved from 016) | todo |
 
-Epstein series (official records only, interleaved): 1 the 2007 deal (FILE 015, done); 2 the death in custody and the DOJ Inspector General report; 3 what the 2026 DOJ release contains and what stayed redacted; 4 the congressional fight over the files (both parties' votes).
+Epstein series (official records only, interleaved): 1 the 2007 deal (FILE 015, done); 2 the death in custody and the DOJ Inspector General report (FILE 017, done); 3 what the 2026 DOJ release contains and what stayed redacted; 4 the congressional fight over the files (both parties' votes).

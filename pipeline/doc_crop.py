@@ -11,9 +11,12 @@ lines = []
 for m in re.finditer(r'<line xMin="([\d.]+)" yMin="([\d.]+)" xMax="([\d.]+)" yMax="([\d.]+)">(.*?)</line>', x, re.S):
     words = re.findall(r'>([^<]*)</word>', m.group(5)); t = html.unescape(" ".join(words))
     lines.append((float(m.group(1)), float(m.group(2)), float(m.group(3)), float(m.group(4)), t))
+COL = os.environ.get("COL")  # 2026-11-20: two-column pages (left/right half only)
+if COL: lines = [l for l in lines if (l[0] < pw / 2) == (COL == "left")]
 lines.sort(key=lambda l: (round(l[1]), l[0]))
 NAMES = ["villafa", "lourie", "sloman", "menchel", "lefkowitz", "[j]ay", "jay", "krischer", "krisher", "belohlavek", "reiter", "goldberger",
          "starr", "whitley", "roth", "filip", "sanchez", "[m]arie", "marie", "andy", "dershowitz", "lefcourt", "senior", "black", "jack", "lanna", "michael"]
+NAMES += [n for n in os.environ.get("NAMES_EXTRA", "").lower().split(",") if n]  # 2026-11-20: per-episode names to bar
 words_all = [(float(a), float(b), float(c), float(d), html.unescape(t)) for a, b, c, d, t in re.findall(r'<word xMin="([\d.]+)" yMin="([\d.]+)" xMax="([\d.]+)" yMax="([\d.]+)">([^<]*)</word>', x)]
 norm = lambda s: re.sub(r"\s+", "", s.lower().replace("’", "'").replace("“", '"').replace("”", '"'))
 i0 = next(i for i, l in enumerate(lines) if norm(a) in norm(l[4]))
@@ -35,6 +38,7 @@ for l in lines:
     elif l[1] < ys0 - 2 and l[3] > y0 - 3:  # line above
         dr.rectangle([l[0] * s - 2, (y0 - 3) * s, l[2] * s + 2, (ys0 + float(os.environ.get("TOPCUT", "0.9"))) * s], fill=(255, 255, 255))
 for (wa, wb, wc, wd, t) in words_all:
+    if COL and ((wa < pw / 2) != (COL == "left")): continue
     tl = t.lower().strip(".,;:’'\"“”()")
     if wb >= y0 - 2 and wd <= y1 + 2 and any((tl.startswith(n) if n in ('black','roth','andy','senior','jay','marie','jack','alex','michael','starr') else n in tl) for n in NAMES) and not tl.startswith('[a]lex') and not (tl == "black" and os.environ.get("KEEPBLACK")) and not (tl == "senior" and not os.environ.get("REDSENIOR")):
         dr.rectangle([wa * s - 3, wb * s - 2, wc * s + 3, wd * s + 2], fill=(10, 10, 10)); nred += 1

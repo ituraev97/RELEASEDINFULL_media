@@ -1,0 +1,71 @@
+{
+ "A": {
+  "left": {
+   "img": "img/p_sign.jpg",
+   "cover": true,
+   "pos": "50% 50%",
+   "chip": "SIGN IN EPSTEIN'S JAIL UNIT"
+  },
+  "right": {
+   "img": "img/p_docA.jpg",
+   "cover": true,
+   "pos": "50% 50%",
+   "stamp": "DOJ REPORT",
+   "stampPos": "left:50%;top:20%"
+  },
+  "split": 0.5,
+  "tag": "INSPECTOR GENERAL",
+  "circle": {
+   "x": 405,
+   "y": 250,
+   "r": 92
+  },
+  "line1": "NOBODY CHECKED",
+  "line2": "FOR ALMOST 8 HOURS",
+  "line2color": "red",
+  "size1": 104,
+  "size2": 92
+ },
+ "B": {
+  "left": {
+   "q": [
+    "WHO WAS",
+    "WATCHING",
+    "EPSTEIN?"
+   ]
+  },
+  "right": {
+   "img": "img/station.jpg",
+   "cover": true,
+   "pos": "50% 40%",
+   "chip": "EPSTEIN'S CELL DOOR \u00b7 DOJ PHOTO"
+  },
+  "split": 0.5,
+  "tag": "DOJ REPORT"
+ },
+ "C": {
+  "left": {
+   "img": "img/p_docC.jpg",
+   "cover": true,
+   "pos": "50% 50%"
+  },
+  "right": {
+   "img": "img/p_sign.jpg",
+   "cover": true,
+   "pos": "50% 50%",
+   "chip": "SIGN IN THE JAIL UNIT"
+  },
+  "split": 0.5,
+  "tag": "DOJ REPORT, 2023",
+  "arrow": {
+   "x": 860,
+   "y": 230,
+   "rot": 28
+  },
+  "line1": "\"AS PER GOD!!!!\"",
+  "line2": "\"APPEARED TO BE SLEEPING\"",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 84
+ }
+}
