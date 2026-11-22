@@ -22,7 +22,8 @@ Status: `todo` → `done YYYY-MM-DD` / `skip (reason)`. Take the first `todo` (d
 | 016 | The silent black triangle: PURSUE Release 07 (AARO + FBI 2026, 1950s files, 1963 fragments memo, Utah ranch DNA) | done 2026-11-19 |
 | 017 | The night Epstein died: what the Inspector General found (Epstein series 2/4; fresh hook: Nov 16, 2026 expert challenge) | done 2026-11-21 |
 | 017b | Kenneth Arnold, June 24, 1947 (was 017) | todo |
-| 018 | Acoustic Kitty | todo |
+| 018 | Why the man who designed the U-2 believed in flying saucers: PURSUE Release 08 (Kelly Johnson 1953, CIA 1952, Levelland 1957, AAWSAP/BAASS vault, 2023 radar, CENTCOM videos) | done 2026-11-23 |
+| 018b | Acoustic Kitty (was 018) | todo |
 | 019 | The Robertson Panel | todo |
 | 020 | CORONA | todo |
 | 021 | Church Committee: assassination report | todo |

@@ -83,6 +83,8 @@ for sh in E.META.get(KEY, []):
     hook = sh["hook"].replace("<br>", r"\N"); hook = re.sub(r"\[(.+?)\]", r"{\\1c" + acc + r"}\1{\\1c" + c1 + r"}", hook)
     ev.append(f"Dialogue: 2,{ts(0)},{ts(D)},Hook,,0,0,0,,{{\\an8\\pos(540,{sh.get('hy', 110)})\\1c{c1}\\3c{c3}\\fs{sh.get('hs', 128)}}}{hook}")
     ev.append(f"Dialogue: 2,{ts(0)},{ts(D)},Brand,,0,0,0,,{{\\an2\\pos(540,1600)\\bord3\\3c&HC44727&}} {SHORT} ")
+    if sh.get("note"):  # 2026-11-22: optional context/caveat line for the whole clip (legal review), just below the 16:9 picture
+        ev.append(f"Dialogue: 2,{ts(0)},{ts(D)},Cap,,0,0,0,,{{\\an5\\pos(540,{sh.get('ny', 1238)})\\fs{sh.get('ns', 30)}\\bord2\\shad0\\1c&HFFFFFF&\\3c&H000000&}}{sh['note']}")
     for (ca, cb, txt) in CAP:
         if cb <= t0 or ca >= t1: continue
         words = txt.split(); groups = [" ".join(words[k:k + 3]) for k in range(0, len(words), 3)]

@@ -1,0 +1,74 @@
+{
+ "A": {
+  "left": {
+   "img": "img/u2.jpg",
+   "cover": false,
+   "zoom": 2.2,
+   "pos": "48% 0%",
+   "chip": "U-2, 2024 PHOTO",
+   "vignette": false
+  },
+  "right": {
+   "img": "img/docA_p.jpg",
+   "cover": true,
+   "pos": "50% 20%",
+   "chip": "FILED 2026 AS: UNRESOLVED"
+  },
+  "split": 0.5,
+  "tag": "RELEASED NOV. 20, 2026",
+  "circle": {
+   "x": 320,
+   "y": 170,
+   "r": 72
+  },
+  "line1": "U-2 DESIGNER:",
+  "line2": "'SUCH DEVICES EXIST'",
+  "line2color": "red",
+  "size1": 100,
+  "size2": 112
+ },
+ "B": {
+  "left": {
+   "q": [
+    "WHAT",
+    "DID HE",
+    "SEE?"
+   ]
+  },
+  "right": {
+   "img": "img/u2.jpg",
+   "cover": true,
+   "pos": "62% 40%",
+   "chip": "U-2, 2024 PHOTO"
+  },
+  "split": 0.5,
+  "tag": "LOCKHEED FILE, 1953"
+ },
+ "C": {
+  "left": {
+   "img": "img/docC_p.jpg",
+   "cover": true,
+   "pos": "50% 30%"
+  },
+  "right": {
+   "img": "img/u2.jpg",
+   "cover": false,
+   "zoom": 2.2,
+   "pos": "48% 0%",
+   "chip": "U-2, 2024 PHOTO",
+   "vignette": false
+  },
+  "split": 0.5,
+  "tag": "AIR FORCE FILE, 1953",
+  "line1": "AIR FORCE: 'CLOUD'",
+  "line2": "HIS CREW: NOT A CLOUD",
+  "line2color": "yellow",
+  "size1": 96,
+  "size2": 104,
+  "circle": {
+   "x": 960,
+   "y": 170,
+   "r": 72
+  }
+ }
+}

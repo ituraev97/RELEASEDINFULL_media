@@ -1,0 +1,323 @@
+[
+ {
+  "key": "intro_67b188",
+  "name": "intro",
+  "opts": {
+   "n": "018"
+  }
+ },
+ {
+  "key": "title_e47479",
+  "name": "title",
+  "opts": {
+   "n": "018",
+   "t": "THE U-2 DESIGNER'S \"SAUCER\"",
+   "size": 130,
+   "sub": "What the Eighth UFO Release Actually Says"
+  }
+ },
+ {
+  "key": "chapter_d8fc7d",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Ranch"
+  }
+ },
+ {
+  "key": "map_8c5554",
+  "name": "map",
+  "opts": {
+   "kicker": "DECEMBER 16, 1953 \u00b7 ABOUT 5:00 P.M.",
+   "title": "Two views, one sighting report",
+   "bounds": [
+    [
+     -119.75,
+     33.35
+    ],
+    [
+     -117.75,
+     34.55
+    ]
+   ],
+   "points": [
+    {
+     "ll": [
+      -118.81,
+      34.15
+     ],
+     "name": "Agoura",
+     "sub": "JOHNSON'S RANCH"
+    },
+    {
+     "ll": [
+      -119.12,
+      34.1
+     ],
+     "name": "Point Mugu",
+     "sub": "OBJECT, BY HIS ESTIMATE",
+     "anchor": "end",
+     "color": "#F2D04B"
+    },
+    {
+     "ll": [
+      -118.19,
+      33.77
+     ],
+     "name": "Long Beach",
+     "sub": "TEST FLIGHT NEARBY"
+    },
+    {
+     "ll": [
+      -118.33,
+      34.18
+     ],
+     "name": "Burbank",
+     "sub": "LOCKHEED"
+    }
+   ],
+   "source": "SOURCE: DOW-UAP-D206 (1953-54) \u00b7 MAP: NATURAL EARTH"
+  }
+ },
+ {
+  "key": "chapter_aedf02",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "The Test Flight"
+  }
+ },
+ {
+  "key": "chapter_54f8e1",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "Lenticular Cloud"
+  }
+ },
+ {
+  "key": "quote_233c4b",
+  "name": "quote",
+  "opts": {
+   "q": "I am now {{more firmly convinced than ever that such devices exist}}, and I have some highly technical converts in this belief\u2026",
+   "who": "Clarence L. Johnson",
+   "role": "Chief Engineer, Lockheed \u00b7 December 18, 1953",
+   "size": 58,
+   "source": "SOURCE: LOCKHEED REPORTS IN DOW-UAP-D206 (1953-54)"
+  }
+ },
+ {
+  "key": "chapter_035d6e",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "No Shred of Evidence"
+  }
+ },
+ {
+  "key": "stat_450694",
+  "name": "stat",
+  "opts": {
+   "k": "CIA BRIEFING \u00b7 AUGUST 14, 1952",
+   "a": "1,500",
+   "size": 260,
+   "b": "official reports since 1947",
+   "c": "250 in July 1952 alone \u00b7 20% carried as unexplained",
+   "source": "SOURCE: CIA OSI BRIEFING, AUG. 14, 1952 (CIA-UAP-D027)"
+  }
+ },
+ {
+  "key": "chapter_d21217",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "The Night the Engines Died"
+  }
+ },
+ {
+  "key": "map_a900c0",
+  "name": "map",
+  "opts": {
+   "kicker": "NOVEMBER 2-3, 1957",
+   "title": "One weekend, two states",
+   "bounds": [
+    [
+     -108.2,
+     32.0
+    ],
+    [
+     -98.8,
+     35.6
+    ]
+   ],
+   "points": [
+    {
+     "ll": [
+      -102.38,
+      33.59
+     ],
+     "name": "Levelland, Texas",
+     "sub": "ENGINE FAILURES REPORTED",
+     "color": "#F2D04B"
+    },
+    {
+     "ll": [
+      -106.48,
+      33.68
+     ],
+     "name": "Trinity Site",
+     "sub": "ARMY PATROLS"
+    },
+    {
+     "ll": [
+      -106.65,
+      35.08
+     ],
+     "name": "Albuquerque, N.M."
+    }
+   ],
+   "source": "SOURCE: DOW-UAP-D191, DOW-UAP-D193 (1957) \u00b7 MAP: NATURAL EARTH"
+  }
+ },
+ {
+  "key": "list_c4b43e",
+  "name": "list",
+  "opts": {
+   "kicker": "LEVELLAND \u00b7 SUPPLEMENTARY INVESTIGATION",
+   "title": "What the Air Force checked",
+   "items": [
+    {
+     "n": "1",
+     "t": "Air traffic in the area",
+     "s": "negative"
+    },
+    {
+     "n": "2",
+     "t": "Weather balloons",
+     "s": "not likely in the area"
+    },
+    {
+     "n": "3",
+     "t": "Downed power lines",
+     "s": "negative"
+    },
+    {
+     "n": "4",
+     "t": "Weather",
+     "s": "drizzle \u00b7 overcast at 400 ft"
+    }
+   ],
+   "source": "SOURCE: AIR INTELLIGENCE INFORMATION REPORT, LEVELLAND (1957), DOW-UAP-D191"
+  }
+ },
+ {
+  "key": "chapter_56517b",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "The Senator's Program"
+  }
+ },
+ {
+  "key": "chapter_076358",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "The Vault"
+  }
+ },
+ {
+  "key": "quote_f9c529",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026there was no highly secure facility at BAASS to store {{exotic material or tissue}} that the organization could obtain.",
+   "who": "BAASS Ten Month Report",
+   "role": "July 2009 \u00b7 released by the Pentagon, Nov. 20, 2026",
+   "size": 58,
+   "source": "SOURCE: BAASS TEN MONTH REPORT (JULY 2009), DOW-UAP-D172, PDF P. 9"
+  }
+ },
+ {
+  "key": "stat_3f8a24",
+  "name": "stat",
+  "opts": {
+   "k": "BAASS PLAN \u00b7 MAY 2009",
+   "a": "5,000",
+   "size": 260,
+   "b": "square feet, underground",
+   "c": "3-ft walls \u00b7 steel vault door \u00b7 15-20 ft of earth above",
+   "source": "SOURCE: BAASS TEN MONTH REPORT (JULY 2009), DOW-UAP-D172, PDF P. 9"
+  }
+ },
+ {
+  "key": "chapter_521885",
+  "name": "chapter",
+  "opts": {
+   "n": "VIII",
+   "t": "Mach 2.5"
+  }
+ },
+ {
+  "key": "stat_2cc347",
+  "name": "stat",
+  "opts": {
+   "k": "IF ALL EIGHT DETECTIONS WERE ONE OBJECT",
+   "a": "1,650",
+   "size": 260,
+   "b": "mph minimum \u00b7 about Mach 2.5",
+   "c": "38.5 miles in 84 seconds \u00b7 55,000-70,000 ft",
+   "source": "SOURCE: DOW-UAP-D165 (2023)"
+  }
+ },
+ {
+  "key": "chapter_fc846e",
+  "name": "chapter",
+  "opts": {
+   "n": "IX",
+   "t": "The Answer on the Card"
+  }
+ },
+ {
+  "key": "timeline_039d3a",
+  "name": "timeline",
+  "opts": {
+   "kicker": "PURSUE RELEASE 08",
+   "title": "What the old files concluded",
+   "events": [
+    {
+     "y": "1953",
+     "t": "Johnson: lenticular cloud"
+    },
+    {
+     "y": "1955",
+     "t": "Catalina: probable meteor"
+    },
+    {
+     "y": "1956",
+     "t": "Fontana: was aircraft"
+    },
+    {
+     "y": "1957",
+     "t": "White Sands: moonset, Venus"
+    },
+    {
+     "y": "1957",
+     "t": "Levelland: unresolved"
+    },
+    {
+     "y": "2023",
+     "t": "Radar: one object not established"
+    }
+   ],
+   "active": 4,
+   "source": "SOURCE: DEPARTMENT OF WAR, PURSUE RELEASE 08 (NOV. 20, 2026); CBS NEWS; FOX LOCAL (NOV. 20, 2026)"
+  }
+ },
+ {
+  "key": "end_67b188",
+  "name": "end",
+  "opts": {
+   "n": "018"
+  }
+ }
+]
