@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # usage: encode.sh <episode_dir> [max_MB=95]  -> <ep>/long.mp4
-# Burns overlay.ass (tags, b-roll labels, credit), fades, muxes mix.wav; two-pass x265 sized under GitHub's 100 MB limit.
+# Burns overlay.ass (tags, b-roll labels, credit), fades, muxes mix.wav; two-pass x265 sized under max_MB
+# (450 = Google Drive hosting for Metricool, limit 500 MB; 95 = old GitHub fallback, limit 100 MB).
 set -euo pipefail
 EP="$1"; MAXMB="${2:-95}"; cd "$EP"
 D=$(python3 -c "import json;print(json.load(open('timing.json'))['total'])")

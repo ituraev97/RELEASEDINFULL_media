@@ -3,6 +3,20 @@
 One run = one long episode (15–20 min, English; owner 2026-11-14) + 4 TikTok cuts (62–110 s) + 3 YouTube Shorts (20–30 s), covering a 2-day block D and D+1 (owner decision 2026-11-09: one long video EVERY OTHER DAY), uploaded here (drop branches) and scheduled in Metricool (brand RELEASED IN FULL, blogId 7743507).
 Episode 001 (`episodes/001-navy-videos/`) is the reference for structure, pacing and style. Channel bible: Claude Docs «RELEASED IN FULL — библия канала» and Projects doc `claude/released-in-full-bible.md`.
 
+## Real footage via relay — owner decision 2026-11-23
+The cloud sandbox cannot reach youtube.com. A relay on the owner's server downloads clips from YouTube (or any yt-dlp URL: archive.org, C-SPAN, …) and hands them over through Google Drive folder "FOOTAGE RELAY". Client: `tools/footage_client.py` (stdlib only).
+- Drive credentials: from Projects doc `claude/google-drive-oauth.md` → write `/tmp/drive_creds.json` (keys client_id, client_secret, refresh_token). Never into git, never into the repo folder.
+- Find candidate videos with the YouTube Data API (yt_research.py / the API key the tasks use); pick exact moments by title, description, chapters or transcript.
+- `clips.json` = `[{"name","src":"<youtube id or URL>","start":"M:SS","end":"M:SS"}]`, ≤ 40 clips, ≤ 90 s each. `name` = the clip name used in `C(name, …)`.
+- Send the request EARLY (right after the topic is chosen), keep working on script/TTS/graphics, then collect:
+  `python3 $R/tools/footage_client.py request <RUN> clips.json --creds /tmp/drive_creds.json`
+  `python3 $R/tools/footage_client.py wait <RUN> $SRC --creds /tmp/drive_creds.json --timeout 1800` (clips land as `$SRC/<name>.mp4`; `<RUN>` = e.g. `rif-NNN-YYYYMMDD`).
+  No answer within 30 min → continue without real footage (DVIDS/archive.org/graphics) and note it in the owner report.
+- Priority 1 = public-domain government video: congressional hearings (C-SPAN, House/Senate committee channels), official agency releases (CIA/FBI/NARA/DoD/NASA), archival government films and newsreels (archive.org can also be downloaded directly). Priority 2 = news reports about the exact case: short excerpts used for commentary (fair use). Never movies/TV dramas, other YouTubers, private people's faces, gore.
+- Real footage 30–50 % of the runtime; at most ~12 s of one external clip at a time; mostly muted under narration (finish.py mixes clip sound under the voice), original audio only for short key quotes (≤ 15 s, speaker named on screen and in narration).
+- Every relay clip carries an on-screen source label (`lab=`, e.g. "SENATE ARMED SERVICES HEARING · C-SPAN · 2023", "NBC NEWS REPORT · 1997") and an entry in rights.json (source URL, title, license "PUBLIC DOMAIN" or "FAIR USE — NEWS EXCERPT"); list all footage sources in youtube_description.txt.
+- All relay clips go through the same checks as DVIDS clips (gore, pull-down/duplicated frames, flash cuts).
+
 ## 0. Rules that never bend
 - Facts only from documents/primary sources; witnesses "according to"; theories as theories; never "alien", never "debunked".
 - On-screen quotes verbatim; recreated documents labelled RECREATED, no invented redactions or stamps.
@@ -30,8 +44,9 @@ Node scripts need `NODE_PATH=$(npm root -g)` (global Playwright).
 ## 2. Research
 - Topic order: `topics.md` (season 1, FILE 002 … 030); `backlog.md` marks status. Check for newer releases first (AARO, NARA RG 615, the Pentagon release site).
 - Write `episodes/NNN-slug/research.md` (claim → URL actually opened) and the script.
-- Footage: DVIDS pages are scraped (no API key needed; an API key also works: https://api.dvidshub.net/search?api_key=key-6ae3182ef3840&q=...&type[]=video): `python3 pipeline/dvids_get.py <src_dir> video:ID image:ID …` → writes rights.json. Check every frame used for gore/injury (never use).
+- Footage: first the relay clips (see "Real footage via relay" above — request them now); then DVIDS pages are scraped (no API key needed; an API key also works: https://api.dvidshub.net/search?api_key=key-6ae3182ef3840&q=...&type[]=video): `python3 pipeline/dvids_get.py <src_dir> video:ID image:ID …` → writes rights.json. Check every frame used for gore/injury (never use).
 - Skip source clips with a 25→30 pull-down pattern or many duplicated frames (they judder): check with mpdecimate.
+- Relay clips (`$SRC/<name>.mp4`), DVIDS and archive.org clips are all used the same way: `C(name, start, lab=…)`; together real footage = 30–50 % of runtime.
 
 ## 3. Script → `episodes/NNN-slug/episode.py`
 - `LINES = [(spoken, shots, opts)]`; `C(clip, start, lab=…)`, `G(graphic, …)`; opts: `slow`, `gap`, `sil`, `tag`.
@@ -47,12 +62,12 @@ python3 $R/pipeline/make_gspec.py $EP && (cd $R/pipeline && NODE_PATH=$(npm root
 python3 $R/pipeline/build.py $EP $SRC          # frame-exact 30 fps, cached segments
 python3 $R/pipeline/finish.py $EP $SRC         # overlays, SRT, music, SFX, -14 LUFS
 python3 $R/pipeline/qc_report.py $EP $EP/video_raw.mp4   # must say FAILS: 0
-# encode (≤ 95 MB), Shorts, thumbnails
+# encode (≤ 450 MB, hosted on Google Drive), Shorts, thumbnails
 python3 $R/pipeline/shorts.py $EP $EP/shorts      # 4 cuts, 62–110 s each (--from-long re-cuts a published long.mp4)
 python3 $R/pipeline/shorts.py $EP $EP/shorts --platform youtube   # YouTube Shorts y1–y3, 20–30 s, from META["yshorts"] (owner rule 2026-11-06)
 (cd $R/pipeline && NODE_PATH=$(npm root -g) node thumb.mjs $EP/thumb.json $EP)
 ```
-bash $R/pipeline/encode.sh $EP 95       # -> long.mp4 (two-pass x265, overlay burned in, <= 95 MB)
+bash $R/pipeline/encode.sh $EP 450      # -> long.mp4 (two-pass x265, overlay burned in, <= 450 MB; Metricool YouTube limit 500 MB) — owner 2026-11-23
 
 Document crops (2026-11-16): `pipeline/doc_crop.py <pdf> <page> "<first-line phrase>" "<last-line phrase>" out.jpg` crops whole lines tightly (no slivers of neighbouring lines), pads to 16:9 and black-bars personal names in its NAMES list (Epstein series rule: only Epstein, Acosta and other public officials stay visible) with the note "BLACK BARS: NAMES WITHHELD BY RELEASED IN FULL". `pipeline/phrase_crop.py` makes the tight phrase crop + box JSON used by the bold thumbnail. After replacing images, delete seg/*.sig of img segments before build.py. (2026-11-20) doc_crop.py options: `COL=left|right` crops one column of a two-column page (e.g. executive summaries); `NAMES_EXTRA=name1,name2` adds per-episode names to black-bar. Check the credit line of every report photo: photos credited to a city/state agency (e.g. NYC OCME) are NOT public domain — use only federal (DOJ/BOP/FBI) images.
 Memory (2026-11-16): finish.py synthesises the score in 4-minute chunks and uses overlap-add convolution so 15-20 min episodes fit in 8 GB RAM. Long steps (tts ~45 min, build ~35 min, encode ~40 min on 2 cores) run with nohup and are polled.
@@ -63,20 +78,23 @@ Memory (2026-11-16): finish.py synthesises the score in 4-minute chunks and uses
 - Loudness −14 LUFS integrated.
 
 ## 6. Upload (public raw URLs for Metricool)
+- Long video (owner 2026-11-23): Google Drive folder "RELEASED IN FULL", not GitHub: `python3 $R/tools/drive_upload.py $EP/long.mp4 --folder "RELEASED IN FULL" --creds /tmp/drive_creds.json` → its `direct` URL is the Metricool media for the long video. If Metricool rejects it: re-encode `encode.sh $EP 300`, upload again; if still rejected, fall back to `encode.sh $EP 95` + the drop branch below.
+- Shorts, TikTok cuts and thumbnails (and the ≤ 95 MB fallback long video) stay on GitHub drop branches:
 - Branch = ET weekday of publish: drop-mon … drop-sun. Orphan commit with that day's files only, force-push. Never commit video to main.
 - URL: `https://raw.githubusercontent.com/ituraev97/releasedinfull_media/drop-<day>/<file>`
 
 ## 7. Schedule in Metricool (blogId 7743507, timezone America/New_York)
 - Cadence (owner decision 2026-11-09, after the audit: 49 videos in 10 days, 152 views, 2 subscribers): one long video every other day. D = date of the last long video + 2 days (tomorrow if none in the last 3 days); if D is more than 2 days away, the run stops.
-- Long: D 14:00 ET. youtubeData {title, type "video", privacy "public", madeForKids false, category "EDUCATION", isAiGeneratedContent false, tags}; text = youtube_description.txt; media [long.mp4 URL]; videoThumbnailUrl = thumb_A URL (retry once without it if rejected).
+- Long: D 14:00 ET. youtubeData {title, type "video", privacy "public", madeForKids false, category "EDUCATION", isAiGeneratedContent false, tags}; text = youtube_description.txt; media [Drive `direct` URL of long.mp4]; videoThumbnailUrl = thumb_A URL (retry once without it if rejected).
 - YouTube Shorts y1–y3 (20–30 s, YouTube only): D 12:30, D 20:30, D+1 16:30 ET. type "short", isAiGeneratedContent false, title ≤ 60 chars = question or surprising claim, never a document quote, memo name or a leading year.
 - TikTok s1–s4 (62–110 s, TikTok only): D 12:30, D 20:30, D+1 12:30, D+1 20:30 ET. tiktokData {title ≤ 90 chars, privacyOption "PUBLIC_TO_EVERYONE", isAigc false}; text = 1–2 lines with search keywords + 4–5 hashtags.
 - Language: narration, titles and descriptions are English. Metricool cannot set the YouTube video language; the channel's upload default must be English (YouTube Studio → Settings → Upload defaults → Advanced → Video language).
 - Every vertical cut must be 62–110 s (TikTok Creator Rewards needs > 1 min; shorts.py auto-extends whole lines to ≥ 62 s), captions burned in, b-roll labels present, nothing important below y≈1500 or in the right 130 px (TikTok UI). Pick line ranges that make a complete mini-story (hook → reveal) of ~65–90 s.
 
 ## 8. Close the run
+- After everything is scheduled: `python3 $R/tools/drive_upload.py --cleanup-days 7 --folder "RELEASED IN FULL" --creds /tmp/drive_creds.json` (deletes our Drive files older than 7 days).
 - Commit to main: episode folder (episode.py, research.md, factcheck.md, rights.json, thumb.json, youtube_description.txt, captions_en.srt), updated backlog.md. Never video files on main.
-- Report to the owner in Russian: title, FILE number, publish times (ET + Tashkent), 2-line summary, plannerUrls, thumb_B/C for Test & Compare, anything skipped.
+- Report to the owner in Russian: title, FILE number, publish times (ET + Tashkent), 2-line summary, plannerUrls, thumb_B/C for Test & Compare, real-footage share (or "relay did not answer"), anything skipped.
 
 ## Pre-publish gate (blocker — nothing is scheduled until every line passes)
 - long.mp4 duration 15:00–20:00 (ffprobe).
@@ -110,7 +128,7 @@ If any line fails: fix and rebuild; if it cannot be fixed, do not publish and re
 - "Alleged", "accused", "according to …" for anything unproven; mention acquittals, dropped charges, denials, settlements without admission.
 - Victims/minors: never named or shown; no description of sexual acts; court-summary level only.
 - Politics: neutral, both parties' statements and votes.
-- Copyright: public-domain government material and our own RECREATED graphics only; never news footage or third-party photos.
+- Copyright: public-domain government material and our own RECREATED graphics only; never third-party photos. News footage only as short fair-use excerpts about the exact case, labelled and credited (owner 2026-11-23, see "Real footage via relay").
 - Mandatory legal review (separate agent, legal_review.md, PASS/FIX per named person and claim) for any episode naming a living person or touching a criminal case; apply every FIX, cut anything doubtful.
 - Description line for such episodes: "This video reports on official public records. Inclusion of a name in released records does not imply wrongdoing. Allegations are unproven unless stated otherwise."
 
