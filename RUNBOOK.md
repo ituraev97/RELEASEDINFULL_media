@@ -1,7 +1,18 @@
 # RELEASED IN FULL — production runbook
 
-One run = one long episode (15–20 min, English; owner 2026-11-14) + 4 TikTok cuts (62–110 s) + 3 YouTube Shorts (20–30 s), covering a 2-day block D and D+1 (owner decision 2026-11-09: one long video EVERY OTHER DAY), uploaded here (drop branches) and scheduled in Metricool (brand RELEASED IN FULL, blogId 7743507).
+One run = one long episode (15–20 min, English; owner 2026-11-14) + 4 TikTok cuts (62–110 s) + 3 YouTube Short candidates (20–30 s; only the best, ≤ 2 per day, go on YouTube — see next section), covering a 2-day block D and D+1 (owner decision 2026-11-09: one long video EVERY OTHER DAY), uploaded here (drop branches) and scheduled in Metricool (brand RELEASED IN FULL, blogId 7743507).
 Episode 001 (`episodes/001-navy-videos/`) is the reference for structure, pacing and style. Channel bible: Claude Docs «RELEASED IN FULL — библия канала» and Projects doc `claude/released-in-full-bible.md`.
+
+## Shorts: cadence + hook rules — owner decision 2026-11-23 (OVERRIDES any other YouTube Shorts count/slot in this file)
+Evidence (Metricool, 2026-10-23 → 11-22): 46 YouTube Shorts here got a median of 3 views (max 35) with a median average view duration of 3 s; the same topics as 47 TikTok cuts got a median of 204 (max 1106). Across 10 channels (546 Shorts), template clones posted 3–6 times a day decayed week over week (COLD WARRANT median 633 → 107), while Shorts opening with a hard number, a famous name or a "Why…?" paradox won by 5–50x.
+- **Cadence: at most 2 YouTube Shorts per day of the block (D and D+1), never more.** The run still cuts its candidates y1–y3 (`shorts.py --platform youtube`), scores each with the scorecard below, and schedules only the best ones on YouTube: D 12:30 + D 20:30, D+1 16:30 ET (at least 1 per day, ≤ 2 per day). Two Shorts on the same day are ≥ 6 h apart and use different visual templates. D is a long-video day, so the D 20:30 Short is a trailer for the long (last line "Full story on the channel."). A candidate that is not used on YouTube may be extended into one of the TikTok cuts; **TikTok stays exactly 4 cuts per block (s1–s4, slots unchanged).**
+- **Scorecard — a Short goes on YouTube only if it scores ≥ 7/10:** Hook 0–4 (the first second has a hard number, a famous name/brand or a paradox question, on screen AND spoken); Payoff 0–3 (the hook's promise is paid in the last 2–3 s: a reveal, a number, a twist); Freshness 0–2 (new story/angle, not the same template as yesterday's Short); Clarity 0–1 (understandable with sound off). Below 7 → rewrite the hook/line range and re-cut (`--only yN`); write each Short's score in the owner report.
+- **Hook rules:** second 0 = the most surprising sentence — no logo, no title card, no "In 1962…" slow start; on-screen hook ≤ 7 words, large, centred in the upper third. Titles ≤ 60 chars + #shorts, formulas that won: [number] + [stakes] ("638 Gang Arrests in 179 Cities…"), [famous name] + [unexpected fact] ("The Wolf of Wall Street Still Owes…"), "Why/How did…?" + paradox ("How Did a Japanese Destroyer Lead U.S. Bombers to Its Own Carriers?").
+- **Banned openers/titles:** quizzes ("Name this X in 3 seconds"), plain recaps of old cases with no number or famous name, "Here's what happened…", "Did you know…".
+- **Length 20–40 s, hard cap 50 s** (this channel keeps its 20–30 s rule — `shorts.py` enforces it). End on the payoff and cut; no outro card longer than 1 s; a loopable last line is a plus.
+- **Template rotation:** at least 3 visual templates (footage-led, document/number-led, map/timeline-led); never the same one two days running.
+- **Watch-time check:** a Short with average view duration < 5 s after 48 h = that hook style is dead; do not repeat it.
+- **Weekly review every Monday:** read the last 7 days of YouTube Shorts analytics in Metricool (views + avg view duration), list top 3 / bottom 3, and add one line "what won" to "Performance rules" — repeat the winners' hook pattern, drop the losers'.
 
 ## Real footage via relay — owner decision 2026-11-23
 The cloud sandbox cannot reach youtube.com. A relay on the owner's server downloads clips from YouTube (or any yt-dlp URL: archive.org, C-SPAN, …) and hands them over through Google Drive folder "FOOTAGE RELAY". Client: `tools/footage_client.py` (stdlib only).
@@ -64,7 +75,7 @@ python3 $R/pipeline/finish.py $EP $SRC         # overlays, SRT, music, SFX, -14 
 python3 $R/pipeline/qc_report.py $EP $EP/video_raw.mp4   # must say FAILS: 0
 # encode (≤ 450 MB, hosted on Google Drive), Shorts, thumbnails
 python3 $R/pipeline/shorts.py $EP $EP/shorts      # 4 cuts, 62–110 s each (--from-long re-cuts a published long.mp4)
-python3 $R/pipeline/shorts.py $EP $EP/shorts --platform youtube   # YouTube Shorts y1–y3, 20–30 s, from META["yshorts"] (owner rule 2026-11-06)
+python3 $R/pipeline/shorts.py $EP $EP/shorts --platform youtube   # YouTube Short candidates y1–y3, 20–30 s, from META["yshorts"] (owner rule 2026-11-06); score them, schedule ≤ 2/day (2026-11-23)
 (cd $R/pipeline && NODE_PATH=$(npm root -g) node thumb.mjs $EP/thumb.json $EP)
 ```
 bash $R/pipeline/encode.sh $EP 450      # -> long.mp4 (two-pass x265, overlay burned in, <= 450 MB; Metricool YouTube limit 500 MB) — owner 2026-11-23
@@ -86,7 +97,7 @@ Memory (2026-11-16): finish.py synthesises the score in 4-minute chunks and uses
 ## 7. Schedule in Metricool (blogId 7743507, timezone America/New_York)
 - Cadence (owner decision 2026-11-09, after the audit: 49 videos in 10 days, 152 views, 2 subscribers): one long video every other day. D = date of the last long video + 2 days (tomorrow if none in the last 3 days); if D is more than 2 days away, the run stops.
 - Long: D 14:00 ET. youtubeData {title, type "video", privacy "public", madeForKids false, category "EDUCATION", isAiGeneratedContent false, tags}; text = youtube_description.txt; media [Drive `direct` URL of long.mp4]; videoThumbnailUrl = thumb_A URL (retry once without it if rejected).
-- YouTube Shorts y1–y3 (20–30 s, YouTube only): D 12:30, D 20:30, D+1 16:30 ET. type "short", isAiGeneratedContent false, title ≤ 60 chars = question or surprising claim, never a document quote, memo name or a leading year.
+- YouTube Shorts (20–30 s, YouTube only; owner 2026-11-23): only candidates scoring ≥ 7/10, at most 2 per day — D 12:30 + D 20:30 (trailer for the long), D+1 16:30 ET; ≥ 6 h apart, different templates. type "short", isAiGeneratedContent false, title ≤ 60 chars = question or surprising claim, never a document quote, memo name or a leading year.
 - TikTok s1–s4 (62–110 s, TikTok only): D 12:30, D 20:30, D+1 12:30, D+1 20:30 ET. tiktokData {title ≤ 90 chars, privacyOption "PUBLIC_TO_EVERYONE", isAigc false}; text = 1–2 lines with search keywords + 4–5 hashtags.
 - Language: narration, titles and descriptions are English. Metricool cannot set the YouTube video language; the channel's upload default must be English (YouTube Studio → Settings → Upload defaults → Advanced → Video language).
 - Every vertical cut must be 62–110 s (TikTok Creator Rewards needs > 1 min; shorts.py auto-extends whole lines to ≥ 62 s), captions burned in, b-roll labels present, nothing important below y≈1500 or in the right 130 px (TikTok UI). Pick line ranges that make a complete mini-story (hook → reveal) of ~65–90 s.
@@ -137,7 +148,7 @@ Weekly review 2026-11-16 (Metricool, 28 days; YouTube rows only up to 2026-11-09
 1. TikTok topic: Cold War confrontation and spy stories keep winning (Azorian ship 962, Stevenson 1106, K-129 605, RFK on Oct 16 391, Hunt's wig 380); median of all 33 cuts is 192. UFO cuts now do well only when built on one object or person (CIA saucer memo 372, Tremonton film 347) and stay low as report counts (18 incidents 86, 510 reports 129, 43 reports 163).
 2. TikTok opening: start on a person doing or saying something. Person/moment openings (Stevenson 1106, Soviet ship radio 962, RFK 391, Hunt 380, Theodore Hall 320) beat openings on a programme name or a memo (NSAM 181 / "Course B" 125, 1973 directive 123, Rosenbergs code names 138).
 3. TikTok length: 62–72 s cuts (n=22) median 222 views vs 73 s+ (n=11) median 189. Default to 63–72 s.
-4. YouTube Shorts titles: a plain intriguing statement or a question with the object in it ("Two Navy UFO Videos Are Still Unidentified" 35, "Roswell's 'Bodies'? … Test Dummies" 19, "11 Near Misses…" 15); quote-led or memo-named titles get 0–2. From 2026-11-16 Shorts are 20–30 s with a huge boxed hook on frame 0 (watch "stayed to watch").
+4. YouTube Shorts titles (see also "Shorts: cadence + hook rules" 2026-11-23): a plain intriguing statement or a question with the object in it ("Two Navy UFO Videos Are Still Unidentified" 35, "Roswell's 'Bodies'? … Test Dummies" 19, "11 Near Misses…" 15); quote-led or memo-named titles get 0–2. From 2026-11-16 Shorts are 20–30 s with a huge boxed hook on frame 0 (watch "stayed to watch").
 5. YouTube long: the only long video with real watch time (FILE 009 Goldsboro, avg 248 s on 4 views) opened on the event itself; FILE 001–005 averaged 7–79 s. Open on the most striking verified fact + the question; no logo before 0:10 (done from FILE 015).
 6. Packaging (from the 2026-11-14 owner brief, to verify next review): bold thumbnail template (thumb.mjs `bold`), curiosity titles about an object/person; compare FILE 015+ CTR with the 3.4 % baseline.
 
