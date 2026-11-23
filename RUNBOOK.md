@@ -1,11 +1,19 @@
 # RELEASED IN FULL — production runbook
 
-One run = one long episode (15–20 min, English; owner 2026-11-14) + 4 TikTok cuts (62–110 s) + 3 YouTube Short candidates (20–30 s; only the best, ≤ 2 per day, go on YouTube — see next section), covering a 2-day block D and D+1 (owner decision 2026-11-09: one long video EVERY OTHER DAY), uploaded here (drop branches) and scheduled in Metricool (brand RELEASED IN FULL, blogId 7743507).
+Run notes go to RUNBOOK_NOTES.md (append there, never here). Promote a note into a rule section only if it must apply to every future run.
+
+One LONG run = one long episode (15–20 min, English; owner 2026-11-14) + 4 TikTok cuts (62–110 s) + 4 YouTube Short candidates (20–30 s; only the best, ≤ 2 per day, go on YouTube — see the Shorts section), covering a 2-day block D and D+1 (one long video every 2 days — see "Long-video cadence" below; every other run is an OFF run), uploaded here (drop branches) and scheduled in Metricool (brand RELEASED IN FULL, blogId 7743507).
 Episode 001 (`episodes/001-navy-videos/`) is the reference for structure, pacing and style. Channel bible: Claude Docs «RELEASED IN FULL — библия канала» and Projects doc `claude/released-in-full-bible.md`.
+
+## Long-video cadence — owner decision 2026-11-23 (overrides every 'one long per run/day' line)
+- One long video every 2 days. The daily run is either a LONG run or an OFF run.
+- FIRST step of every run, before setup or research: Metricool `getScheduledPosts` for this brand (blogId 7743507, timezone America/New_York) covering today … today+2 (ET). Target day D = tomorrow (ET).
+- OFF run: if D already has its YouTube Shorts scheduled AND today or D (the previous or the target ET day) already has a long video → do nothing else (no clone, no setup, no research); report one line to the owner, e.g. "OFF run: long on <date>, Shorts for <date> already scheduled."
+- LONG run otherwise: publish the long video on D 14:00 ET AND schedule the Shorts for the 2-day block D and D+1 (max 2 YouTube Shorts per day, slots and scorecard from the Shorts section below). Cut 4 YouTube Short candidates (y1–y4) so at least 3 pass the ≥ 7/10 scorecard; a 4th passing candidate may take D+1 22:30 ET (≥ 6 h after D+1 16:30, different template). TikTok s1–s4 slots unchanged.
 
 ## Shorts: cadence + hook rules — owner decision 2026-11-23 (OVERRIDES any other YouTube Shorts count/slot in this file)
 Evidence (Metricool, 2026-10-23 → 11-22): 46 YouTube Shorts here got a median of 3 views (max 35) with a median average view duration of 3 s; the same topics as 47 TikTok cuts got a median of 204 (max 1106). Across 10 channels (546 Shorts), template clones posted 3–6 times a day decayed week over week (COLD WARRANT median 633 → 107), while Shorts opening with a hard number, a famous name or a "Why…?" paradox won by 5–50x.
-- **Cadence: at most 2 YouTube Shorts per day of the block (D and D+1), never more.** The run still cuts its candidates y1–y3 (`shorts.py --platform youtube`), scores each with the scorecard below, and schedules only the best ones on YouTube: D 12:30 + D 20:30, D+1 16:30 ET (at least 1 per day, ≤ 2 per day). Two Shorts on the same day are ≥ 6 h apart and use different visual templates. D is a long-video day, so the D 20:30 Short is a trailer for the long (last line "Full story on the channel."). A candidate that is not used on YouTube may be extended into one of the TikTok cuts; **TikTok stays exactly 4 cuts per block (s1–s4, slots unchanged).**
+- **Cadence: at most 2 YouTube Shorts per day of the block (D and D+1), never more.** The run still cuts its candidates y1–y4 (`shorts.py --platform youtube`), scores each with the scorecard below, and schedules only the best ones on YouTube: D 12:30 + D 20:30, D+1 16:30 ET (at least 1 per day, ≤ 2 per day). Two Shorts on the same day are ≥ 6 h apart and use different visual templates. D is a long-video day, so the D 20:30 Short is a trailer for the long (last line "Full story on the channel."). A candidate that is not used on YouTube may be extended into one of the TikTok cuts; **TikTok stays exactly 4 cuts per block (s1–s4, slots unchanged).**
 - **Scorecard — a Short goes on YouTube only if it scores ≥ 7/10:** Hook 0–4 (the first second has a hard number, a famous name/brand or a paradox question, on screen AND spoken); Payoff 0–3 (the hook's promise is paid in the last 2–3 s: a reveal, a number, a twist); Freshness 0–2 (new story/angle, not the same template as yesterday's Short); Clarity 0–1 (understandable with sound off). Below 7 → rewrite the hook/line range and re-cut (`--only yN`); write each Short's score in the owner report.
 - **Hook rules:** second 0 = the most surprising sentence — no logo, no title card, no "In 1962…" slow start; on-screen hook ≤ 7 words, large, centred in the upper third. Titles ≤ 60 chars + #shorts, formulas that won: [number] + [stakes] ("638 Gang Arrests in 179 Cities…"), [famous name] + [unexpected fact] ("The Wolf of Wall Street Still Owes…"), "Why/How did…?" + paradox ("How Did a Japanese Destroyer Lead U.S. Bombers to Its Own Carriers?").
 - **Banned openers/titles:** quizzes ("Name this X in 3 seconds"), plain recaps of old cases with no number or famous name, "Here's what happened…", "Did you know…".
@@ -75,13 +83,26 @@ python3 $R/pipeline/finish.py $EP $SRC         # overlays, SRT, music, SFX, -14 
 python3 $R/pipeline/qc_report.py $EP $EP/video_raw.mp4   # must say FAILS: 0
 # encode (≤ 450 MB, hosted on Google Drive), Shorts, thumbnails
 python3 $R/pipeline/shorts.py $EP $EP/shorts      # 4 cuts, 62–110 s each (--from-long re-cuts a published long.mp4)
-python3 $R/pipeline/shorts.py $EP $EP/shorts --platform youtube   # YouTube Short candidates y1–y3, 20–30 s, from META["yshorts"] (owner rule 2026-11-06); score them, schedule ≤ 2/day (2026-11-23)
-(cd $R/pipeline && NODE_PATH=$(npm root -g) node thumb.mjs $EP/thumb.json $EP)
-```
+python3 $R/pipeline/shorts.py $EP $EP/shorts --platform youtube   # YouTube Short candidates y1–y4, 20–30 s, from META["yshorts"] (owner rule 2026-11-06); score them, schedule ≤ 2/day (2026-11-23)
+(cd $R/pipeline && NODE_PATH=$(npm root -g) node thumb_bold.cjs $EP/thumb_bold.json $EP $EP)   # thumbnails A/B/C (thumb.mjs is retired, see Growth playbook)
 bash $R/pipeline/encode.sh $EP 450      # -> long.mp4 (two-pass x265, overlay burned in, <= 450 MB; Metricool YouTube limit 500 MB) — owner 2026-11-23
+```
 
 Document crops (2026-11-16): `pipeline/doc_crop.py <pdf> <page> "<first-line phrase>" "<last-line phrase>" out.jpg` crops whole lines tightly (no slivers of neighbouring lines), pads to 16:9 and black-bars personal names in its NAMES list (Epstein series rule: only Epstein, Acosta and other public officials stay visible) with the note "BLACK BARS: NAMES WITHHELD BY RELEASED IN FULL". `pipeline/phrase_crop.py` makes the tight phrase crop + box JSON used by the bold thumbnail. After replacing images, delete seg/*.sig of img segments before build.py. (2026-11-20) doc_crop.py options: `COL=left|right` crops one column of a two-column page (e.g. executive summaries); `NAMES_EXTRA=name1,name2` adds per-episode names to black-bar. Check the credit line of every report photo: photos credited to a city/state agency (e.g. NYC OCME) are NOT public domain — use only federal (DOJ/BOP/FBI) images.
-Memory (2026-11-16): finish.py synthesises the score in 4-minute chunks and uses overlap-add convolution so 15-20 min episodes fit in 8 GB RAM. Long steps (tts ~45 min, build ~35 min, encode ~40 min on 2 cores) run with nohup and are polled.
+Memory (2026-11-16): finish.py synthesises the score in 4-minute chunks and uses overlap-add convolution so 15-20 min episodes fit in 8 GB RAM. Long steps (tts ~45 min, build ~35 min, encode ~40 min on 2 cores) run in the background:
+
+**Waiting for long steps (token rule, 2026-11-23):** start with nohup + log + pid file, then wait ONLY with `tools/waitfor.sh` (one call waits up to 9 min, prints DONE / EXITED / WAITING + 3 log lines). Repeat the same waitfor call while it prints WAITING. Never `cat`/`tail`/`grep` big logs to poll, never sleep-loop yourself; on EXITED or an error match, read only the last ~20 lines once.
+```bash
+L=/home/claude/logs; mkdir -p $L
+nohup bash -c "python3 $R/pipeline/tts.py $EP am_puck 1.0; echo EXIT \$?" > $L/tts.log 2>&1 & echo $! > $L/tts.pid
+bash $R/tools/waitfor.sh $L/tts.log "^EXIT |^speech seconds:|Traceback|Error" 540 $(cat $L/tts.pid)
+```
+Same pattern for each long step (always append `; echo EXIT \$?` inside the nohup command); done/error regexes (tts.py: as above):
+- build.py: `"^EXIT |^done [0-9]|Traceback|Error"`
+- finish.py: `"^EXIT |mix done|Traceback|Error"`
+- encode.sh: `"^EXIT |long\.mp4$|Error|Invalid"`
+- shorts.py (both platforms in one nohup): `"^EXIT |Traceback|Error"`
+After DONE/EXITED check that the EXIT code is 0.
 
 ## 5. QC (blockers)
 - qc_report: graphic holds perfectly still, 0 stutters, 0 flash cuts (source edits within 1 s of our cut).
@@ -95,7 +116,7 @@ Memory (2026-11-16): finish.py synthesises the score in 4-minute chunks and uses
 - URL: `https://raw.githubusercontent.com/ituraev97/releasedinfull_media/drop-<day>/<file>`
 
 ## 7. Schedule in Metricool (blogId 7743507, timezone America/New_York)
-- Cadence (owner decision 2026-11-09, after the audit: 49 videos in 10 days, 152 views, 2 subscribers): one long video every other day. D = date of the last long video + 2 days (tomorrow if none in the last 3 days); if D is more than 2 days away, the run stops.
+- Cadence: see "Long-video cadence — owner decision 2026-11-23" at the top (LONG run vs OFF run, D = tomorrow ET).
 - Long: D 14:00 ET. youtubeData {title, type "video", privacy "public", madeForKids false, category "EDUCATION", isAiGeneratedContent false, tags}; text = youtube_description.txt; media [Drive `direct` URL of long.mp4]; videoThumbnailUrl = thumb_A URL (retry once without it if rejected).
 - YouTube Shorts (20–30 s, YouTube only; owner 2026-11-23): only candidates scoring ≥ 7/10, at most 2 per day — D 12:30 + D 20:30 (trailer for the long), D+1 16:30 ET; ≥ 6 h apart, different templates. type "short", isAiGeneratedContent false, title ≤ 60 chars = question or surprising claim, never a document quote, memo name or a leading year.
 - TikTok s1–s4 (62–110 s, TikTok only): D 12:30, D 20:30, D+1 12:30, D+1 20:30 ET. tiktokData {title ≤ 90 chars, privacyOption "PUBLIC_TO_EVERYONE", isAigc false}; text = 1–2 lines with search keywords + 4–5 hashtags.
@@ -150,8 +171,5 @@ Weekly review 2026-11-16 (Metricool, 28 days; YouTube rows only up to 2026-11-09
 3. TikTok length: 62–72 s cuts (n=22) median 222 views vs 73 s+ (n=11) median 189. Default to 63–72 s.
 4. YouTube Shorts titles (see also "Shorts: cadence + hook rules" 2026-11-23): a plain intriguing statement or a question with the object in it ("Two Navy UFO Videos Are Still Unidentified" 35, "Roswell's 'Bodies'? … Test Dummies" 19, "11 Near Misses…" 15); quote-led or memo-named titles get 0–2. From 2026-11-16 Shorts are 20–30 s with a huge boxed hook on frame 0 (watch "stayed to watch").
 5. YouTube long: the only long video with real watch time (FILE 009 Goldsboro, avg 248 s on 4 views) opened on the event itself; FILE 001–005 averaged 7–79 s. Open on the most striking verified fact + the question; no logo before 0:10 (done from FILE 015).
-6. Packaging (from the 2026-11-14 owner brief, to verify next review): bold thumbnail template (thumb.mjs `bold`), curiosity titles about an object/person; compare FILE 015+ CTR with the 3.4 % baseline.
+6. Packaging (from the 2026-11-14 owner brief, to verify next review): bold thumbnail template (`thumb_bold.cjs`), curiosity titles about an object/person; compare FILE 015+ CTR with the 3.4 % baseline.
 
-Changelog
-- 2026-11-10: section created from the first weekly review (rules 1–5).
-- 2026-11-16: second weekly review — rules rewritten (TikTok person/moment openings, 62–72 s, object-led UFO cuts; Shorts 20–30 s with frame-0 hook; long-video opening; bold thumbnails to verify).
