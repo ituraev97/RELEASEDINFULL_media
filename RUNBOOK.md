@@ -1,5 +1,11 @@
 # RELEASED IN FULL — production runbook
 
+> **LATEST OWNER DECISIONS — read first, they override older sections below (2026-11-24)**
+> - Thumbnails v6 (section "Thumbnails v6" near the end): thumb_A and thumb_B are made with `tools/thumbkit/thumbkit.py` + AI pictures from `tools/img_client.py` (request them at the START of the run); only thumb_C uses this channel's old generator. Every run must at least request the AI pictures; if they do not arrive in time, say so in the report.
+> - EMOTION FIRST: every thumbnail shows a strong emotion (rage, shock, fear, disbelief) — never a calm face; the AI may only re-light a real face, never change it.
+> - Promise rule + subtitles + minimal bleeps (section "Promise, clips & subtitles" at the end).
+
+
 Run notes go to RUNBOOK_NOTES.md (append there, never here). Promote a note into a rule section only if it must apply to every future run.
 
 One LONG run = one long episode (15–20 min, English; owner 2026-11-14) + 4 TikTok cuts (62–110 s) + 4 YouTube Short candidates (20–30 s; only the best, ≤ 2 per day, go on YouTube — see the Shorts section), covering a 2-day block D and D+1 (one long video every 2 days — see "Long-video cadence" below; every other run is an OFF run), uploaded here (drop branches) and scheduled in Metricool (brand RELEASED IN FULL, blogId 7743507).
