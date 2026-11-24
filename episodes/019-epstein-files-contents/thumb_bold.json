@@ -1,0 +1,64 @@
+{
+ "A": {
+  "left": {
+   "img": "img/photo_nyc_e.jpg",
+   "cover": true,
+   "pos": "50% 50%"
+  },
+  "right": {
+   "img": "img/p_docA2.jpg",
+   "cover": true,
+   "pos": "100% 0%",
+   "stamp": "DOJ RELEASE",
+   "stampPos": "left:50%;top:46%"
+  },
+  "split": 0.5,
+  "tag": "EPSTEIN FILES",
+  "circle": {
+   "x": 1175,
+   "y": 78,
+   "r": 80
+  },
+  "line1": "119 PAGES",
+  "line2": "ALL BLACK",
+  "line2color": "red",
+  "size1": 128,
+  "size2": 128
+ },
+ "B": {
+  "left": {
+   "q": [
+    "WHAT'S IN",
+    "THE EPSTEIN",
+    "FILES?"
+   ]
+  },
+  "right": {
+   "img": "img/photo_nyc_e.jpg",
+   "cover": true,
+   "pos": "50% 50%",
+   "chip": "NEW YORK CITY \u00b7 DOD VIA DVIDS"
+  },
+  "split": 0.5,
+  "tag": "DOJ RELEASE"
+ },
+ "C": {
+  "left": {
+   "img": "img/p_docC.jpg",
+   "cover": true,
+   "pos": "50% 0%"
+  },
+  "right": {
+   "img": "img/photo_dc_e.jpg",
+   "cover": true,
+   "pos": "30% 50%"
+  },
+  "split": 0.5,
+  "tag": "DOJ RELEASE, 2025-26",
+  "line1": "3 MILLION+ PAGES RELEASED",
+  "line2": "AND WHAT WASN'T",
+  "line2color": "yellow",
+  "size1": 84,
+  "size2": 92
+ }
+}

@@ -24,7 +24,8 @@ Status: `todo` → `done YYYY-MM-DD` / `skip (reason)`. Take the first `todo` (d
 | 017b | Kenneth Arnold, June 24, 1947 (was 017) | todo |
 | 018 | Why the man who designed the U-2 believed in flying saucers: PURSUE Release 08 (Kelly Johnson 1953, CIA 1952, Levelland 1957, AAWSAP/BAASS vault, 2023 radar, CENTCOM videos) | done 2026-11-23 |
 | 018b | Acoustic Kitty (was 018) | todo |
-| 019 | The Robertson Panel | todo |
+| 019 | Epstein series 3/4: what's inside the 2026 DOJ release (black pages, 3M pages, redaction errors, what's missing) | done 2026-11-25 |
+| 019b | The Robertson Panel (was 019) | todo |
 | 020 | CORONA | todo |
 | 021 | Church Committee: assassination report | todo |
 | 022 | AARO historical report | todo |

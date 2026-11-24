@@ -1,0 +1,534 @@
+[
+ {
+  "key": "stat_2c753b",
+  "name": "stat",
+  "opts": {
+   "k": "DISCHARGE PETITION \u00b7 NOV. 11, 2026",
+   "a": "218",
+   "size": 360,
+   "b": "signatures: a second Epstein files bill is headed to the House floor",
+   "c": "as reported by CBS News and Roll Call",
+   "source": "SOURCE: ROLL CALL, CBS NEWS AND ABC NEWS (NOV. 11, 2026); NPR AND NBC NEWS (NOV. 10, 2026)"
+  }
+ },
+ {
+  "key": "quote_adcaa2",
+  "name": "quote",
+  "opts": {
+   "q": "Appearing in these records is {{not evidence of wrongdoing.}}",
+   "who": "Our rule for this series",
+   "role": "Released in Full",
+   "size": 70,
+   "source": "THE JUSTICE DEPARTMENT HAS WARNED SOME MATERIAL MAY BE FALSE OR MISLEADING \u00b7 SCRIPPS NEWS, JAN. 30, 2026"
+  }
+ },
+ {
+  "key": "intro_fcfa7f",
+  "name": "intro",
+  "opts": {
+   "n": "019"
+  }
+ },
+ {
+  "key": "title_553ffd",
+  "name": "title",
+  "opts": {
+   "n": "019",
+   "t": "INSIDE THE FILES",
+   "size": 150,
+   "sub": "What's In Them. What's Missing."
+  }
+ },
+ {
+  "key": "chapter_4031a8",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Law"
+  }
+ },
+ {
+  "key": "stat_b05572",
+  "name": "stat",
+  "opts": {
+   "k": "HOUSE VOTE \u00b7 NOV. 18, 2025",
+   "a": "427 \u2013 1",
+   "size": 250,
+   "b": "the House passes the Epstein Files Transparency Act",
+   "c": "Senate: unanimous consent \u00b7 signed Nov. 19, 2025",
+   "source": "SOURCE: PUBLIC LAW 119-38 AS REPORTED BY CBS NEWS (DEC. 2025, JUNE 2026) AND WIKIPEDIA"
+  }
+ },
+ {
+  "key": "list_eb6276",
+  "name": "list",
+  "opts": {
+   "kicker": "THE LAW \u00b7 WHAT IT REQUIRED",
+   "title": "Public Law 119-38",
+   "items": [
+    {
+     "t": "Publish the Epstein files",
+     "s": "SEARCHABLE \u00b7 DOWNLOADABLE"
+    },
+    {
+     "t": "Within 30 days of passage",
+     "s": "DEADLINE: DEC. 19, 2025"
+    },
+    {
+     "t": "Declassify to the extent possible"
+    },
+    {
+     "t": "A list of redactions to Congress",
+     "s": "WITHIN 15 DAYS OF RELEASE"
+    }
+   ],
+   "source": "SOURCE: PUBLIC LAW 119-38 AS REPORTED BY CBS NEWS (DEC. 2025, JUNE 2026) AND WIKIPEDIA"
+  }
+ },
+ {
+  "key": "quote_e20690",
+  "name": "quote",
+  "opts": {
+   "q": "No record may be withheld, delayed, or redacted on the basis of {{embarrassment, reputational harm, or political sensitivity.}}",
+   "who": "Epstein Files Transparency Act",
+   "role": "Public Law 119-38 \u00b7 Nov. 19, 2025",
+   "size": 50,
+   "source": "SOURCE: PUBLIC LAW 119-38 AS REPORTED BY CBS NEWS (DEC. 2025, JUNE 2026) AND WIKIPEDIA"
+  }
+ },
+ {
+  "key": "list_789c45",
+  "name": "list",
+  "opts": {
+   "kicker": "THE LAW \u00b7 ITS LIMITS",
+   "title": "What the Act does not do",
+   "items": [
+    {
+     "t": "No penalty for noncompliance"
+    },
+    {
+     "t": "Covers only the Justice Department",
+     "s": "NOT STATE, TREASURY, CIA, NSA"
+    },
+    {
+     "t": "Redactions allowed for victims and CSAM"
+    },
+    {
+     "t": "Narrow, temporary hold for live investigations"
+    }
+   ],
+   "source": "SOURCE: PUBLIC LAW 119-38 AS REPORTED BY CBS NEWS (DEC. 2025, JUNE 2026) AND WIKIPEDIA"
+  }
+ },
+ {
+  "key": "chapter_e17ee3",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "December 19"
+  }
+ },
+ {
+  "key": "stat_c64218",
+  "name": "stat",
+  "opts": {
+   "k": "FIRST RELEASE \u00b7 DEC. 2025",
+   "a": "550+",
+   "size": 300,
+   "b": "pages entirely blacked out",
+   "c": "CBS News count \u00b7 at least",
+   "source": "SOURCE: CBS NEWS (DEC. 21, 2025); SCRIPPS NEWS (DEC. 19, 2025)"
+  }
+ },
+ {
+  "key": "quote_26df51",
+  "name": "quote",
+  "opts": {
+   "q": "{{Grossly fails to comply}} with both the spirit and the letter of the law.",
+   "who": "Rep. Thomas Massie (R-Ky.)",
+   "role": "On the Dec. 2025 release \u00b7 as reported by CBS News",
+   "size": 62,
+   "source": "SOURCE: CBS NEWS (DEC. 21, 2025); SCRIPPS NEWS (DEC. 19, 2025)"
+  }
+ },
+ {
+  "key": "quote_dd5950",
+  "name": "quote",
+  "opts": {
+   "q": "Simply releasing a mountain of blacked out pages {{violates the spirit of transparency and the letter of the law\u2026}}",
+   "who": "Sen. Chuck Schumer (D-N.Y.)",
+   "role": "Senate Minority Leader \u00b7 Dec. 2025 \u00b7 as reported by CBS News",
+   "size": 50,
+   "source": "SOURCE: CBS NEWS (DEC. 21, 2025); SCRIPPS NEWS (DEC. 19, 2025)"
+  }
+ },
+ {
+  "key": "quote_799c9d",
+  "name": "quote",
+  "opts": {
+   "q": "The only redactions being applied to the documents are those {{required by law \u2014 full stop.}}",
+   "who": "Todd Blanche",
+   "role": "Deputy Attorney General \u00b7 Dec. 2025 \u00b7 to Fox News Digital, as reported by CBS News",
+   "size": 56,
+   "source": "SOURCE: CBS NEWS (DEC. 21, 2025); SCRIPPS NEWS (DEC. 19, 2025)"
+  }
+ },
+ {
+  "key": "chapter_91dcd2",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "The Next Day"
+  }
+ },
+ {
+  "key": "doc_f3fb7f",
+  "name": "doc",
+  "opts": {
+   "header": "STATEMENT \u00b7 JUSTICE DEPARTMENT \u00b7 DEC. 2025 \u00b7 AS QUOTED BY CBS NEWS",
+   "title": "Posted on social media",
+   "lines": [
+    "\"Documents and photos will continue to be reviewed consistent with",
+    "the law and {{with an abundance of caution for victims and their families.}}\""
+   ],
+   "stamp": "RECREATED",
+   "source": "SOURCE: CBS NEWS (DEC. 21, 2025); SCRIPPS NEWS (DEC. 19, 2025)"
+  }
+ },
+ {
+  "key": "chapter_3d2830",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "Three Million Pages"
+  }
+ },
+ {
+  "key": "stat_8f3621",
+  "name": "stat",
+  "opts": {
+   "k": "DOJ RELEASE \u00b7 JAN. 30, 2026",
+   "a": "3 MILLION+",
+   "size": 200,
+   "b": "pages, plus 2,000+ videos and about 180,000 images",
+   "c": "before this release: about 500,000 pages",
+   "source": "SOURCE: PBS NEWSHOUR (JAN. 30, 2026); SCRIPPS NEWS (JAN. 30, 2026); NPR"
+  }
+ },
+ {
+  "key": "list_c3006e",
+  "name": "list",
+  "opts": {
+   "kicker": "WHAT THE RELEASE DREW ON",
+   "title": "Source records, per Scripps News",
+   "items": [
+    {
+     "t": "Federal cases against Epstein",
+     "s": "FLORIDA AND NEW YORK"
+    },
+    {
+     "t": "The Maxwell prosecution",
+     "s": "NEW YORK"
+    },
+    {
+     "t": "Investigations into his death",
+     "s": "INCLUDING THE INSPECTOR GENERAL REVIEW"
+    },
+    {
+     "t": "Multiple FBI investigations",
+     "s": "AND A FLORIDA CASE"
+    }
+   ],
+   "source": "SOURCE: PBS NEWSHOUR (JAN. 30, 2026); SCRIPPS NEWS (JAN. 30, 2026); NPR"
+  }
+ },
+ {
+  "key": "stat_76f1f1",
+  "name": "stat",
+  "opts": {
+   "k": "PAGES THE DEPARTMENT SAID IT REVIEWED",
+   "a": "6 MILLION+",
+   "size": 230,
+   "b": "identified for review",
+   "c": "about 3 million published January 30",
+   "source": "SOURCE: PBS NEWSHOUR (JAN. 30, 2026); SCRIPPS NEWS (JAN. 30, 2026); NPR"
+  }
+ },
+ {
+  "key": "stat_578922",
+  "name": "stat",
+  "opts": {
+   "k": "PRIVILEGES CITED \u00b7 AS REPORTED BY PBS",
+   "a": "~200,000",
+   "size": 230,
+   "b": "pages withheld or redacted for privilege",
+   "c": "including attorney-client privilege",
+   "source": "SOURCE: PBS NEWSHOUR (JAN. 30, 2026); SCRIPPS NEWS (JAN. 30, 2026); NPR"
+  }
+ },
+ {
+  "key": "quote_50a155",
+  "name": "quote",
+  "opts": {
+   "q": "Some material, the Department said, {{\u201cmay contain false or misleading information.\u201d}}",
+   "who": "Justice Department",
+   "role": "Jan. 30, 2026 \u00b7 as reported by Scripps News",
+   "size": 66,
+   "source": "SOURCE: PBS NEWSHOUR (JAN. 30, 2026); SCRIPPS NEWS (JAN. 30, 2026); NPR"
+  }
+ },
+ {
+  "key": "quote_bed053",
+  "name": "quote",
+  "opts": {
+   "q": "We complied with the statute, {{we complied with the act.}}",
+   "who": "Todd Blanche",
+   "role": "Deputy Attorney General \u00b7 Jan. 30, 2026 \u00b7 as reported by PBS NewsHour",
+   "size": 62,
+   "source": "SOURCE: PBS NEWSHOUR (JAN. 30, 2026); SCRIPPS NEWS (JAN. 30, 2026); NPR"
+  }
+ },
+ {
+  "key": "quote_d25954",
+  "name": "quote",
+  "opts": {
+   "q": "I don't think that the public or you all are going to uncover {{men within the Epstein files that abused women.}}",
+   "who": "Todd Blanche",
+   "role": "Deputy Attorney General \u00b7 Jan. 30, 2026 \u00b7 press briefing, as reported by Scripps News",
+   "size": 48,
+   "source": "SOURCE: PBS NEWSHOUR (JAN. 30, 2026); SCRIPPS NEWS (JAN. 30, 2026); NPR"
+  }
+ },
+ {
+  "key": "stat_072af3",
+  "name": "stat",
+  "opts": {
+   "k": "AS REPORTED BY PBS NEWSHOUR \u00b7 JAN. 30, 2026",
+   "a": "2.5 MILLION",
+   "size": 190,
+   "b": "documents remain out of public view, by the DOJ's own account",
+   "c": "Khanna asked why \u00b7 as reported by PBS NewsHour",
+   "source": "SOURCE: PBS NEWSHOUR (JAN. 30, 2026); SCRIPPS NEWS (JAN. 30, 2026); NPR"
+  }
+ },
+ {
+  "key": "chapter_7a344c",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "The Mistakes"
+  }
+ },
+ {
+  "key": "doc_8759ef",
+  "name": "doc",
+  "opts": {
+   "header": "LETTER \u00b7 JUSTICE DEPARTMENT TO FEDERAL JUDGES \u00b7 FEB. 2026 \u00b7 AS QUOTED BY NPR",
+   "title": "Southern District of New York",
+   "lines": [
+    "Victims and victim counsel {{have identified new victims and new identifiers}}",
+    "(such as nicknames, email addresses, and family names)"
+   ],
+   "stamp": "RECREATED",
+   "source": "SOURCE: NPR (FEB. 2026); CBS NEWS (JUNE 2026)"
+  }
+ },
+ {
+  "key": "stat_6d1e3e",
+  "name": "stat",
+  "opts": {
+   "k": "DOJ'S OWN ESTIMATE \u00b7 AS REPORTED BY NPR",
+   "a": "~0.1%",
+   "size": 300,
+   "b": "of pages had identifying information unredacted",
+   "c": "NPR: still several thousand pages",
+   "source": "SOURCE: NPR (FEB. 2026); CBS NEWS (JUNE 2026)"
+  }
+ },
+ {
+  "key": "chapter_9ff9ad",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "What's Missing"
+  }
+ },
+ {
+  "key": "list_d85999",
+  "name": "list",
+  "opts": {
+   "kicker": "WHAT CBS SAYS IT COULD NOT FIND \u00b7 AS OF JUNE 2026",
+   "title": "Gaps reported by CBS News",
+   "items": [
+    {
+     "t": "Most of the earliest emails"
+    },
+    {
+     "t": "About 20,000 messages from one account",
+     "s": "EARLIER ARCHIVED SEPARATELY"
+    },
+    {
+     "t": "Signal messages"
+    },
+    {
+     "t": "At least one attachment the emails refer to"
+    }
+   ],
+   "source": "SOURCE: CBS NEWS (UPDATED JUNE 19, 2026) \u2014 CBS'S FINDINGS, NOT DOJ STATEMENTS"
+  }
+ },
+ {
+  "key": "stat_ea0c99",
+  "name": "stat",
+  "opts": {
+   "k": "MAXWELL CASE INDEX \u00b7 AS REPORTED BY CBS NEWS",
+   "a": "70%+",
+   "size": 300,
+   "b": "of about 5,000 listed documents not found",
+   "c": "DOJ told CBS many may be duplicates",
+   "source": "SOURCE: CBS NEWS (UPDATED JUNE 19, 2026) \u2014 CBS'S FINDINGS, NOT DOJ STATEMENTS"
+  }
+ },
+ {
+  "key": "quote_d7687a",
+  "name": "quote",
+  "opts": {
+   "q": "{{OK, that's fine, let's see them.}} \u2026 We're not sure what's in the 3 million.",
+   "who": "Rep. Robert Garcia (D-Calif.)",
+   "role": "Top Democrat, House Oversight Committee \u00b7 as reported by CBS News, June 2026",
+   "size": 56,
+   "source": "SOURCE: CBS NEWS (UPDATED JUNE 19, 2026) \u2014 CBS'S FINDINGS, NOT DOJ STATEMENTS"
+  }
+ },
+ {
+  "key": "stat_210545",
+  "name": "stat",
+  "opts": {
+   "k": "JAIL VIDEO \u00b7 AS REPORTED BY CBS NEWS",
+   "a": "147",
+   "size": 330,
+   "b": "cameras \u00b7 24 hours \u00b7 over 8 terabytes",
+   "c": "CBS: not among the released files",
+   "source": "SOURCE: CBS NEWS (UPDATED JUNE 19, 2026) \u2014 CBS'S FINDINGS, NOT DOJ STATEMENTS"
+  }
+ },
+ {
+  "key": "chapter_3f9ee2",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "The Second Fight"
+  }
+ },
+ {
+  "key": "quote_a5e017",
+  "name": "quote",
+  "opts": {
+   "q": "The Justice Department must {{\u201cinterview or re-interview key witnesses\u201d}} and \u201cinvestigate Epstein associates accused of criminal activity.\u201d",
+   "who": "Rep. James Comer (R-Ky.)",
+   "role": "Chairman, House Oversight Committee \u00b7 Nov. 2026 \u00b7 as paraphrased by NBC News",
+   "size": 44,
+   "source": "SOURCE: ROLL CALL, CBS NEWS AND ABC NEWS (NOV. 11, 2026); NPR AND NBC NEWS (NOV. 10, 2026)"
+  }
+ },
+ {
+  "key": "quote_107d87",
+  "name": "quote",
+  "opts": {
+   "q": "{{Based on an incomplete investigation.}}",
+   "who": "Rep. Robert Garcia (D-Calif.)",
+   "role": "Top Democrat, House Oversight Committee \u00b7 Nov. 2026 \u00b7 called the report partisan",
+   "size": 80,
+   "source": "SOURCE: ROLL CALL, CBS NEWS AND ABC NEWS (NOV. 11, 2026); NPR AND NBC NEWS (NOV. 10, 2026)"
+  }
+ },
+ {
+  "key": "stat_6eeb6e",
+  "name": "stat",
+  "opts": {
+   "k": "DISCHARGE PETITION \u00b7 NOV. 11, 2026",
+   "a": "218",
+   "size": 330,
+   "b": "signatures \u00b7 all Democrats and 4 Republicans, per CBS",
+   "c": "Massie \u00b7 Mace \u00b7 Norman \u00b7 Fitzpatrick",
+   "source": "SOURCE: ROLL CALL, CBS NEWS AND ABC NEWS (NOV. 11, 2026); NPR AND NBC NEWS (NOV. 10, 2026)"
+  }
+ },
+ {
+  "key": "list_c13bf3",
+  "name": "list",
+  "opts": {
+   "kicker": "THE SECOND BILL \u00b7 AS REPORTED BY CBS NEWS AND ROLL CALL",
+   "title": "What it would change",
+   "items": [
+    {
+     "t": "Members of Congress could sue the DOJ"
+    },
+    {
+     "t": "State attorneys general and local prosecutors could sue"
+    },
+    {
+     "t": "Survivors could sue"
+    },
+    {
+     "t": "Victims could privately view unredacted records about them"
+    }
+   ],
+   "source": "SOURCE: ROLL CALL, CBS NEWS AND ABC NEWS (NOV. 11, 2026); NPR AND NBC NEWS (NOV. 10, 2026)"
+  }
+ },
+ {
+  "key": "quote_eea0ed",
+  "name": "quote",
+  "opts": {
+   "q": "The Department of Justice continues to {{unlawfully withhold over 3 million Epstein files}} that should be released to the public.",
+   "who": "Rep. Thomas Massie (R-Ky.)",
+   "role": "July 2026 statement, as quoted by CBS News \u00b7 DOJ disputes this",
+   "size": 58,
+   "source": "SOURCE: ROLL CALL, CBS NEWS AND ABC NEWS (NOV. 11, 2026); NPR AND NBC NEWS (NOV. 10, 2026)"
+  }
+ },
+ {
+  "key": "timeline_3e723e",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE FILES, BY THE RECORD",
+   "title": "Nov. 2025 \u2013 Nov. 2026",
+   "events": [
+    {
+     "y": "NOV 19",
+     "t": "Law signed"
+    },
+    {
+     "y": "DEC 19",
+     "t": "First release"
+    },
+    {
+     "y": "DEC 20",
+     "t": "Transcript posted"
+    },
+    {
+     "y": "JAN 30",
+     "t": "3 million pages"
+    },
+    {
+     "y": "JUN",
+     "t": "CBS lists gaps"
+    },
+    {
+     "y": "NOV 11, 2026",
+     "t": "Petition: 218"
+    }
+   ],
+   "source": "SOURCE: ROLL CALL, CBS NEWS AND ABC NEWS (NOV. 11, 2026); NPR AND NBC NEWS (NOV. 10, 2026)"
+  }
+ },
+ {
+  "key": "end_293795",
+  "name": "end",
+  "opts": {
+   "n": "019",
+   "next": "The votes: how Congress fought over the files"
+  }
+ }
+]

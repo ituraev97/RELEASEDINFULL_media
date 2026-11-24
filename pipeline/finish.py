@@ -107,10 +107,10 @@ music = music_long(TOTAL + 1, sections, sil)
 music = np.pad(music, ((0, max(0, N - len(music))), (0, 0)))[:N]
 # ducking: smooth voice envelope -> gain
 L = int(0.05 * SR); env = np.sqrt(np.convolve(voice ** 2, np.ones(L) / L, mode="same"))
-on = (env > 0.01).astype(float)
-k = int(0.35 * SR); on = np.convolve(on, np.ones(k) / k, mode="same")  # ~350 ms release/attack smoothing
-duck = 1 - 0.62 * np.clip(on * 1.6, 0, 1)
-music = music * duck[:, None]
+on = (env > 0.01).astype(np.float32); del env
+k = int(0.35 * SR); on = np.convolve(on, np.ones(k, np.float32) / k, mode="same").astype(np.float32)  # ~350 ms release/attack smoothing
+duck = (1 - 0.62 * np.clip(on * 1.6, 0, 1)).astype(np.float32)
+music = (music * duck[:, None]).astype(np.float32); del duck
 # effects, placed by graphic type
 fx = np.zeros(N, np.float32)
 def put(x, at, g=1.0):
@@ -156,14 +156,18 @@ nat, _ = sf.read("nat.wav"); nat = np.pad(nat, (0, max(0, N - len(nat))))[:N]
 depth = np.full(N, 0.75, np.float32)
 for sg in SEGS:
     if sg["src"] == "gimbal": depth[int(sg["t"] * SR):int((sg["t"] + sg["d"]) * SR)] = 0.35  # cockpit voices stay audible
-nat = nat * (1 - depth * np.clip(on * 1.6, 0, 1))  # under the voice
+nat = (nat * (1 - depth * np.clip(on * 1.6, 0, 1))).astype(np.float32)  # under the voice
 # room tone on voice (tiny), assemble
-rv = S.room(0.5, 4000); voice_w = voice + fftconvolve(voice, rv)[:N] * 0.05
+rv = S.room(0.5, 4000); voice_w = (voice + fftconvolve(voice, rv)[:N] * 0.05).astype(np.float32)
 mixL = voice_w + music[:, 0] * 0.42 + fx * 0.8 + nat * 0.30
 mixR = voice_w + music[:, 1] * 0.42 + fx * 0.8 + nat * 0.30
 mix = np.stack([mixL, mixR], 1)[:int(TOTAL * SR)]
 mix = mix / (np.abs(mix).max() + 1e-9) * 0.7
 sf.write("premix.wav", mix.astype(np.float32), SR)
+import gc
+for _n in ("mix","mixL","mixR","voice","music","fx","nat","env","on","duck"):
+    globals().pop(_n, None)
+gc.collect()  # free RAM before the loudnorm passes (cgroup limit ~4 GB; 17-min episode got OOM-killed)
 # two-pass loudness normalisation to -14 LUFS, true peak -1.5 dBTP
 m = subprocess.run(["ffmpeg", "-nostdin", "-hide_banner", "-i", "premix.wav", "-af", "loudnorm=I=-14:TP=-1.5:LRA=11:print_format=json", "-f", "null", "-"], capture_output=True, text=True).stderr
 js = json.loads(m[m.rindex("{"):m.rindex("}") + 1])

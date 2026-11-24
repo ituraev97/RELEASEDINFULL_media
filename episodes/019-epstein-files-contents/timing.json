@@ -1,0 +1,1238 @@
+{
+ "starts": [
+  0.6,
+  14.738667,
+  21.023334,
+  42.003667,
+  55.867000000000004,
+  76.755667,
+  99.32000000000001,
+  115.90233300000001,
+  132.83183300000002,
+  136.83183300000002,
+  140.431833,
+  143.674166,
+  155.41483300000002,
+  166.126166,
+  177.08283300000002,
+  187.88483300000001,
+  205.59483300000002,
+  207.6545,
+  217.1775,
+  230.3955,
+  244.016833,
+  248.22449999999998,
+  254.75549999999998,
+  261.888167,
+  268.914167,
+  278.95783400000005,
+  293.80050100000005,
+  301.67016800000005,
+  313.30416800000006,
+  316.72050100000007,
+  335.8031680000001,
+  354.3578350000001,
+  356.0481680000001,
+  368.6218350000001,
+  380.3561680000001,
+  389.04716800000006,
+  405.48016800000005,
+  423.79050100000006,
+  456.05866800000007,
+  459.8930010000001,
+  469.4000010000001,
+  489.1943340000001,
+  493.7626670000001,
+  504.4526670000001,
+  510.6103340000001,
+  528.119667,
+  546.4043340000001,
+  559.1680010000001,
+  571.2820010000002,
+  577.0556680000002,
+  591.3563350000002,
+  598.3930020000001,
+  613.5256690000001,
+  623.6450020000001,
+  630.6506690000001,
+  634.9383360000002,
+  645.3093360000001,
+  659.3438360000001,
+  672.7965030000001,
+  682.7771700000002,
+  695.8778370000002,
+  715.1215040000002,
+  716.7371710000002,
+  734.6998380000002,
+  759.6501710000002,
+  768.9220040000002,
+  785.2420040000003,
+  804.7266710000004,
+  820.7020040000003,
+  835.2800040000003,
+  854.3690040000004,
+  876.0393370000004,
+  878.2310040000004,
+  898.3610040000004,
+  906.9133370000004,
+  919.8700040000004,
+  934.4266710000004,
+  947.8623380000004,
+  964.5363380000003,
+  994.5266710000003,
+  1010.8670040000003
+ ],
+ "durs": [
+  14.138667,
+  6.284667,
+  20.980333,
+  13.863333,
+  20.888667,
+  22.564333,
+  16.582333000000002,
+  16.9295,
+  4.0,
+  3.6,
+  3.242333,
+  11.740667,
+  10.711333000000002,
+  10.956667000000001,
+  10.802000000000001,
+  17.71,
+  2.059667,
+  9.523000000000001,
+  13.218,
+  13.621333,
+  4.207667,
+  6.531,
+  7.132667,
+  7.026,
+  10.043667000000001,
+  14.842667,
+  7.869667,
+  11.634,
+  3.416333,
+  19.082667,
+  18.554667000000002,
+  1.6903329999999999,
+  12.573667,
+  11.734333000000001,
+  8.691,
+  16.433,
+  18.310333,
+  32.268167,
+  3.834333,
+  9.507000000000001,
+  19.794333,
+  4.568333,
+  10.690000000000001,
+  6.157667,
+  17.509333,
+  18.284667000000002,
+  12.763667,
+  12.114,
+  5.773667,
+  14.300667,
+  7.036667,
+  15.132667000000001,
+  10.119333000000001,
+  7.005667,
+  4.287667,
+  10.371,
+  14.034500000000001,
+  13.452667,
+  9.980667,
+  13.100667000000001,
+  19.243667000000002,
+  1.6156670000000002,
+  17.962667,
+  24.950333,
+  9.271833,
+  16.32,
+  19.484667,
+  15.975333000000001,
+  14.578000000000001,
+  19.089000000000002,
+  21.670333,
+  2.191667,
+  20.13,
+  8.552333,
+  12.956667000000001,
+  14.556667000000001,
+  13.435667,
+  16.674,
+  29.990333,
+  16.340333,
+  8.810666999999999
+ ],
+ "vdur": [
+  13.588667,
+  5.734667,
+  20.430333,
+  13.313333,
+  20.338667,
+  22.014333,
+  16.032333,
+  16.3795,
+  0.0,
+  0.0,
+  2.642333,
+  11.190667,
+  10.161333,
+  10.406667,
+  10.252,
+  17.16,
+  1.559667,
+  8.973,
+  12.668,
+  13.071333,
+  3.607667,
+  5.981,
+  6.582667,
+  6.476,
+  9.493667,
+  14.292667,
+  7.319667,
+  11.084,
+  2.866333,
+  18.532667,
+  18.004667,
+  1.090333,
+  12.023667,
+  11.184333,
+  8.141,
+  15.883,
+  17.760333,
+  31.718167,
+  3.234333,
+  8.957,
+  19.244333,
+  4.018333,
+  10.14,
+  5.607667,
+  16.959333,
+  17.734667,
+  12.213667,
+  11.564,
+  5.223667,
+  13.750667,
+  6.486667,
+  14.582667,
+  9.569333,
+  6.455667,
+  3.687667,
+  9.821,
+  13.4845,
+  12.902667,
+  9.430667,
+  12.550667,
+  18.693667,
+  1.015667,
+  17.412667,
+  24.400333,
+  8.721833,
+  15.77,
+  18.934667,
+  15.425333,
+  14.028,
+  18.539,
+  21.120333,
+  1.591667,
+  19.58,
+  8.002333,
+  12.406667,
+  14.006667,
+  12.885667,
+  16.124,
+  29.440333,
+  15.790333,
+  6.310667
+ ],
+ "total": 1020.0666666666667,
+ "segs": [
+  {
+   "t": 0.0,
+   "d": 7.366666666666666,
+   "src": "img:p_b1",
+   "ss": 0,
+   "line": 0,
+   "lab": "ACTUAL DOCUMENT \u00b7 DOJ EPSTEIN FILES RELEASE \u00b7 EFTA00005586, PAGE 1 OF 119"
+  },
+  {
+   "t": 7.366666666666666,
+   "d": 7.366666666666666,
+   "src": "img:g_119",
+   "ss": 0,
+   "line": 0,
+   "lab": "OUR VISUALIZATION \u00b7 EVERY TILE IS ONE BLACK PAGE OF THE RELEASED FILE"
+  },
+  {
+   "t": 14.733333333333333,
+   "d": 6.3,
+   "src": "img:p_b1",
+   "ss": 0,
+   "line": 1,
+   "lab": "ACTUAL DOCUMENT \u00b7 DOJ EPSTEIN FILES RELEASE \u00b7 EFTA00005586, PAGE 1 OF 119"
+  },
+  {
+   "t": 21.033333333333335,
+   "d": 10.466666666666667,
+   "src": "img:p_b1",
+   "ss": 0,
+   "line": 2,
+   "lab": "ACTUAL DOCUMENT \u00b7 DOJ EPSTEIN FILES RELEASE \u00b7 EFTA00005586, PAGE 1 OF 119 \u00b7 FOOTER NUMBER EFTA00005586"
+  },
+  {
+   "t": 31.5,
+   "d": 10.5,
+   "src": "img:p_b60",
+   "ss": 0,
+   "line": 2,
+   "lab": "ACTUAL DOCUMENT \u00b7 DOJ EPSTEIN FILES RELEASE \u00b7 EFTA00005586, PAGE 60 OF 119 \u00b7 FOOTER NUMBER EFTA00005645"
+  },
+  {
+   "t": 42.0,
+   "d": 6.933333333333334,
+   "src": "dv346026c",
+   "ss": 2.0,
+   "line": 3,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 48.93333333333333,
+   "d": 6.933333333333334,
+   "src": "img:t1",
+   "ss": 0,
+   "line": 3,
+   "lab": "ACTUAL DOCUMENT \u00b7 DOJ EPSTEIN FILES RELEASE \u00b7 EFTA00008744, PAGE 1 \u00b7 GRAND JURY TRANSCRIPT"
+  },
+  {
+   "t": 55.86666666666667,
+   "d": 6.966666666666667,
+   "src": "dv346026c",
+   "ss": 3.0,
+   "line": 4,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 62.833333333333336,
+   "d": 6.966666666666667,
+   "src": "dv346119c",
+   "ss": 12.0,
+   "line": 4,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 69.8,
+   "d": 6.966666666666667,
+   "src": "dv346026c",
+   "ss": 15.0,
+   "line": 4,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 76.76666666666667,
+   "d": 7.5,
+   "src": "dv977364c",
+   "ss": 8.0,
+   "line": 5,
+   "lab": "B-ROLL \u00b7 MANHATTAN FROM AN F-22 COCKPIT, NEW YORK CITY, 2025"
+  },
+  {
+   "t": 84.26666666666667,
+   "d": 7.533333333333333,
+   "src": "dv977364c",
+   "ss": 24.0,
+   "line": 5,
+   "lab": "B-ROLL \u00b7 MANHATTAN FROM AN F-22 COCKPIT, NEW YORK CITY, 2025"
+  },
+  {
+   "t": 91.8,
+   "d": 7.533333333333333,
+   "src": "dv994186c",
+   "ss": 20.0,
+   "line": 5,
+   "lab": "B-ROLL \u00b7 LOWER MANHATTAN FROM NEW YORK HARBOR, JANUARY 2026"
+  },
+  {
+   "t": 99.33333333333333,
+   "d": 16.566666666666666,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 6,
+   "lab": ""
+  },
+  {
+   "t": 115.9,
+   "d": 16.933333333333334,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 7,
+   "lab": ""
+  },
+  {
+   "t": 132.83333333333334,
+   "d": 4.0,
+   "src": "g:intro",
+   "ss": 0,
+   "line": 8,
+   "lab": ""
+  },
+  {
+   "t": 136.83333333333334,
+   "d": 3.6,
+   "src": "g:title",
+   "ss": 0,
+   "line": 9,
+   "lab": ""
+  },
+  {
+   "t": 140.43333333333334,
+   "d": 3.2333333333333334,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 10,
+   "lab": ""
+  },
+  {
+   "t": 143.66666666666666,
+   "d": 5.866666666666666,
+   "src": "dv346119c",
+   "ss": 1.5,
+   "line": 11,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 149.53333333333333,
+   "d": 5.866666666666666,
+   "src": "dv346026c",
+   "ss": 8.0,
+   "line": 11,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 155.4,
+   "d": 10.733333333333333,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 12,
+   "lab": ""
+  },
+  {
+   "t": 166.13333333333333,
+   "d": 5.466666666666667,
+   "src": "dv346026c",
+   "ss": 15.0,
+   "line": 13,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 171.6,
+   "d": 5.466666666666667,
+   "src": "dv346119c",
+   "ss": 28.0,
+   "line": 13,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 177.06666666666666,
+   "d": 10.833333333333334,
+   "src": "g:list",
+   "ss": 0,
+   "line": 14,
+   "lab": ""
+  },
+  {
+   "t": 187.9,
+   "d": 5.9,
+   "src": "dv346119c",
+   "ss": 33.0,
+   "line": 15,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 193.8,
+   "d": 5.9,
+   "src": "dv977364c",
+   "ss": 60.0,
+   "line": 15,
+   "lab": "B-ROLL \u00b7 MANHATTAN FROM AN F-22 COCKPIT, NEW YORK CITY, 2025"
+  },
+  {
+   "t": 199.7,
+   "d": 5.9,
+   "src": "dv994186c",
+   "ss": 40.0,
+   "line": 15,
+   "lab": "B-ROLL \u00b7 LOWER MANHATTAN FROM NEW YORK HARBOR, JANUARY 2026"
+  },
+  {
+   "t": 205.6,
+   "d": 2.066666666666667,
+   "src": "dv346026c",
+   "ss": 15.0,
+   "line": 16,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 207.66666666666666,
+   "d": 9.5,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 17,
+   "lab": ""
+  },
+  {
+   "t": 217.16666666666666,
+   "d": 6.633333333333334,
+   "src": "dv346119c",
+   "ss": 8.0,
+   "line": 18,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 223.8,
+   "d": 6.6,
+   "src": "dv346026c",
+   "ss": 2.0,
+   "line": 18,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 230.4,
+   "d": 13.633333333333333,
+   "src": "g:list",
+   "ss": 0,
+   "line": 19,
+   "lab": ""
+  },
+  {
+   "t": 244.03333333333333,
+   "d": 4.2,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 20,
+   "lab": ""
+  },
+  {
+   "t": 248.23333333333332,
+   "d": 6.533333333333333,
+   "src": "dv1026930c",
+   "ss": 28.0,
+   "line": 21,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026"
+  },
+  {
+   "t": 254.76666666666668,
+   "d": 7.133333333333334,
+   "src": "dv346026c",
+   "ss": 3.0,
+   "line": 22,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 261.9,
+   "d": 7.0,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 23,
+   "lab": ""
+  },
+  {
+   "t": 268.9,
+   "d": 5.033333333333333,
+   "src": "img:p_b1",
+   "ss": 0,
+   "line": 24,
+   "lab": "ACTUAL DOCUMENT \u00b7 DOJ EPSTEIN FILES RELEASE \u00b7 EFTA00005586, PAGE 1 OF 119"
+  },
+  {
+   "t": 273.93333333333334,
+   "d": 5.033333333333333,
+   "src": "img:p_b60",
+   "ss": 0,
+   "line": 24,
+   "lab": "ACTUAL DOCUMENT \u00b7 DOJ EPSTEIN FILES RELEASE \u00b7 EFTA00005586, PAGE 60 OF 119"
+  },
+  {
+   "t": 278.96666666666664,
+   "d": 7.4,
+   "src": "img:p_series",
+   "ss": 0,
+   "line": 25,
+   "lab": "ACTUAL DOCUMENT \u00b7 DOJ EPSTEIN FILES RELEASE \u00b7 EFTA00006109, EFTA00006209 AND EFTA00006309 \u00b7 FIRST PAGE OF EACH \u00b7 100 + 100 + 55 PAGES"
+  },
+  {
+   "t": 286.3666666666667,
+   "d": 7.433333333333334,
+   "src": "img:p_series",
+   "ss": 0,
+   "line": 25,
+   "lab": "ACTUAL DOCUMENT \u00b7 DOJ EPSTEIN FILES RELEASE \u00b7 EFTA00006109, EFTA00006209 AND EFTA00006309 \u00b7 FIRST PAGE OF EACH \u00b7 100 + 100 + 55 PAGES"
+  },
+  {
+   "t": 293.8,
+   "d": 7.866666666666666,
+   "src": "img:g_119",
+   "ss": 0,
+   "line": 26,
+   "lab": "OUR VISUALIZATION \u00b7 EVERY TILE IS ONE BLACK PAGE OF THE RELEASED FILE"
+  },
+  {
+   "t": 301.6666666666667,
+   "d": 11.633333333333333,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 27,
+   "lab": ""
+  },
+  {
+   "t": 313.3,
+   "d": 3.433333333333333,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 28,
+   "lab": ""
+  },
+  {
+   "t": 316.73333333333335,
+   "d": 19.066666666666666,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 29,
+   "lab": ""
+  },
+  {
+   "t": 335.8,
+   "d": 6.2,
+   "src": "dv346119c",
+   "ss": 25.0,
+   "line": 30,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 342.0,
+   "d": 6.166666666666667,
+   "src": "dv994186c",
+   "ss": 64.0,
+   "line": 30,
+   "lab": "B-ROLL \u00b7 LOWER MANHATTAN FROM NEW YORK HARBOR, JANUARY 2026"
+  },
+  {
+   "t": 348.1666666666667,
+   "d": 6.2,
+   "src": "dv977364c",
+   "ss": 72.0,
+   "line": 30,
+   "lab": "B-ROLL \u00b7 MANHATTAN FROM AN F-22 COCKPIT, NEW YORK CITY, 2025"
+  },
+  {
+   "t": 354.3666666666667,
+   "d": 1.6666666666666667,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 31,
+   "lab": ""
+  },
+  {
+   "t": 356.03333333333336,
+   "d": 6.3,
+   "src": "dv346119c",
+   "ss": 12.0,
+   "line": 32,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 362.3333333333333,
+   "d": 6.3,
+   "src": "img:t1",
+   "ss": 0,
+   "line": 32,
+   "lab": "ACTUAL DOCUMENT \u00b7 DOJ EPSTEIN FILES RELEASE \u00b7 EFTA00008744, PAGE 1 \u00b7 GRAND JURY TRANSCRIPT"
+  },
+  {
+   "t": 368.6333333333333,
+   "d": 11.733333333333333,
+   "src": "img:t1",
+   "ss": 0,
+   "line": 33,
+   "lab": "ACTUAL DOCUMENT \u00b7 DOJ EPSTEIN FILES RELEASE \u00b7 EFTA00008744, PAGE 1 \u00b7 NAMES ALREADY BLACK-BARRED BY THE DEPARTMENT"
+  },
+  {
+   "t": 380.3666666666667,
+   "d": 8.666666666666666,
+   "src": "dv346119c",
+   "ss": 15.0,
+   "line": 34,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 389.03333333333336,
+   "d": 8.233333333333333,
+   "src": "img:t2",
+   "ss": 0,
+   "line": 35,
+   "lab": "ACTUAL DOCUMENT \u00b7 DOJ EPSTEIN FILES RELEASE \u00b7 EFTA00008745, PAGE 2 \u00b7 A DETECTIVE'S NAME COVERED BY THE DEPARTMENT"
+  },
+  {
+   "t": 397.26666666666665,
+   "d": 8.2,
+   "src": "img:t2",
+   "ss": 0,
+   "line": 35,
+   "lab": "ACTUAL DOCUMENT \u00b7 DOJ EPSTEIN FILES RELEASE \u00b7 EFTA00008745, PAGE 2 \u00b7 A DETECTIVE'S NAME COVERED BY THE DEPARTMENT"
+  },
+  {
+   "t": 405.46666666666664,
+   "d": 6.133333333333334,
+   "src": "dv977364c",
+   "ss": 31.0,
+   "line": 36,
+   "lab": "B-ROLL \u00b7 MANHATTAN FROM AN F-22 COCKPIT, NEW YORK CITY, 2025"
+  },
+  {
+   "t": 411.6,
+   "d": 6.1,
+   "src": "dv977364c",
+   "ss": 44.0,
+   "line": 36,
+   "lab": "B-ROLL \u00b7 MANHATTAN FROM AN F-22 COCKPIT, NEW YORK CITY, 2025"
+  },
+  {
+   "t": 417.7,
+   "d": 6.1,
+   "src": "dv994186c",
+   "ss": 54.5,
+   "line": 36,
+   "lab": "B-ROLL \u00b7 LOWER MANHATTAN FROM NEW YORK HARBOR, JANUARY 2026"
+  },
+  {
+   "t": 423.8,
+   "d": 32.266666666666666,
+   "src": "g:doc",
+   "ss": 0,
+   "line": 37,
+   "lab": ""
+  },
+  {
+   "t": 456.06666666666666,
+   "d": 3.8333333333333335,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 38,
+   "lab": ""
+  },
+  {
+   "t": 459.9,
+   "d": 9.5,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 39,
+   "lab": ""
+  },
+  {
+   "t": 469.4,
+   "d": 19.8,
+   "src": "g:list",
+   "ss": 0,
+   "line": 40,
+   "lab": ""
+  },
+  {
+   "t": 489.2,
+   "d": 4.566666666666666,
+   "src": "dv994186c",
+   "ss": 19.0,
+   "line": 41,
+   "lab": "B-ROLL \u00b7 LOWER MANHATTAN FROM NEW YORK HARBOR, JANUARY 2026"
+  },
+  {
+   "t": 493.76666666666665,
+   "d": 10.7,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 42,
+   "lab": ""
+  },
+  {
+   "t": 504.46666666666664,
+   "d": 6.133333333333334,
+   "src": "dv346119c",
+   "ss": 15.0,
+   "line": 43,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 510.6,
+   "d": 5.833333333333333,
+   "src": "dv346026c",
+   "ss": 3.0,
+   "line": 44,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 516.4333333333333,
+   "d": 5.833333333333333,
+   "src": "dv346119c",
+   "ss": 12.0,
+   "line": 44,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 522.2666666666667,
+   "d": 5.866666666666666,
+   "src": "dv346026c",
+   "ss": 15.0,
+   "line": 44,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 528.1333333333333,
+   "d": 18.266666666666666,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 45,
+   "lab": ""
+  },
+  {
+   "t": 546.4,
+   "d": 6.4,
+   "src": "dv346119c",
+   "ss": 25.0,
+   "line": 46,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 552.8,
+   "d": 6.366666666666666,
+   "src": "dv977364c",
+   "ss": 0.0,
+   "line": 46,
+   "lab": "B-ROLL \u00b7 MANHATTAN FROM AN F-22 COCKPIT, NEW YORK CITY, 2025"
+  },
+  {
+   "t": 559.1666666666666,
+   "d": 12.1,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 47,
+   "lab": ""
+  },
+  {
+   "t": 571.2666666666667,
+   "d": 5.8,
+   "src": "dv346119c",
+   "ss": 8.0,
+   "line": 48,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 577.0666666666667,
+   "d": 7.133333333333334,
+   "src": "dv994186c",
+   "ss": 30.0,
+   "line": 49,
+   "lab": "B-ROLL \u00b7 LOWER MANHATTAN FROM NEW YORK HARBOR, JANUARY 2026"
+  },
+  {
+   "t": 584.2,
+   "d": 7.166666666666667,
+   "src": "dv1026930c",
+   "ss": 28.0,
+   "line": 49,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026"
+  },
+  {
+   "t": 591.3666666666667,
+   "d": 7.033333333333333,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 50,
+   "lab": ""
+  },
+  {
+   "t": 598.4,
+   "d": 15.133333333333333,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 51,
+   "lab": ""
+  },
+  {
+   "t": 613.5333333333333,
+   "d": 10.1,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 52,
+   "lab": ""
+  },
+  {
+   "t": 623.6333333333333,
+   "d": 7.033333333333333,
+   "src": "dv346119c",
+   "ss": 1.5,
+   "line": 53,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 630.6666666666666,
+   "d": 4.266666666666667,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 54,
+   "lab": ""
+  },
+  {
+   "t": 634.9333333333333,
+   "d": 5.2,
+   "src": "dv977364c",
+   "ss": 36.0,
+   "line": 55,
+   "lab": "B-ROLL \u00b7 MANHATTAN FROM AN F-22 COCKPIT, NEW YORK CITY, 2025"
+  },
+  {
+   "t": 640.1333333333333,
+   "d": 5.166666666666667,
+   "src": "dv994186c",
+   "ss": 20.0,
+   "line": 55,
+   "lab": "B-ROLL \u00b7 LOWER MANHATTAN FROM NEW YORK HARBOR, JANUARY 2026"
+  },
+  {
+   "t": 645.3,
+   "d": 14.033333333333333,
+   "src": "g:doc",
+   "ss": 0,
+   "line": 56,
+   "lab": ""
+  },
+  {
+   "t": 659.3333333333334,
+   "d": 13.466666666666667,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 57,
+   "lab": ""
+  },
+  {
+   "t": 672.8,
+   "d": 5.0,
+   "src": "dv977364c",
+   "ss": 20.0,
+   "line": 58,
+   "lab": "B-ROLL \u00b7 MANHATTAN FROM AN F-22 COCKPIT, NEW YORK CITY, 2025"
+  },
+  {
+   "t": 677.8,
+   "d": 4.966666666666667,
+   "src": "dv994186c",
+   "ss": 40.0,
+   "line": 58,
+   "lab": "B-ROLL \u00b7 LOWER MANHATTAN FROM NEW YORK HARBOR, JANUARY 2026"
+  },
+  {
+   "t": 682.7666666666667,
+   "d": 6.566666666666666,
+   "src": "dv994186c",
+   "ss": 54.5,
+   "line": 59,
+   "lab": "B-ROLL \u00b7 LOWER MANHATTAN FROM NEW YORK HARBOR, JANUARY 2026"
+  },
+  {
+   "t": 689.3333333333334,
+   "d": 6.533333333333333,
+   "src": "dv977364c",
+   "ss": 60.0,
+   "line": 59,
+   "lab": "B-ROLL \u00b7 MANHATTAN FROM AN F-22 COCKPIT, NEW YORK CITY, 2025"
+  },
+  {
+   "t": 695.8666666666667,
+   "d": 6.433333333333334,
+   "src": "dv977364c",
+   "ss": 50.0,
+   "line": 60,
+   "lab": "B-ROLL \u00b7 MANHATTAN FROM AN F-22 COCKPIT, NEW YORK CITY, 2025"
+  },
+  {
+   "t": 702.3,
+   "d": 6.4,
+   "src": "dv994186c",
+   "ss": 64.0,
+   "line": 60,
+   "lab": "B-ROLL \u00b7 LOWER MANHATTAN FROM NEW YORK HARBOR, JANUARY 2026"
+  },
+  {
+   "t": 708.7,
+   "d": 6.433333333333334,
+   "src": "dv1026930c",
+   "ss": 31.0,
+   "line": 60,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026"
+  },
+  {
+   "t": 715.1333333333333,
+   "d": 1.6,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 61,
+   "lab": ""
+  },
+  {
+   "t": 716.7333333333333,
+   "d": 6.0,
+   "src": "dv346026c",
+   "ss": 15.0,
+   "line": 62,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 722.7333333333333,
+   "d": 5.966666666666667,
+   "src": "dv346119c",
+   "ss": 34.0,
+   "line": 62,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 728.7,
+   "d": 6.0,
+   "src": "dv346119c",
+   "ss": 1.0,
+   "line": 62,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 734.7,
+   "d": 6.233333333333333,
+   "src": "dv346119c",
+   "ss": 20.0,
+   "line": 63,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 740.9333333333333,
+   "d": 6.233333333333333,
+   "src": "dv346026c",
+   "ss": 2.0,
+   "line": 63,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 747.1666666666666,
+   "d": 6.233333333333333,
+   "src": "dv977364c",
+   "ss": 72.0,
+   "line": 63,
+   "lab": "B-ROLL \u00b7 MANHATTAN FROM AN F-22 COCKPIT, NEW YORK CITY, 2025"
+  },
+  {
+   "t": 753.4,
+   "d": 6.266666666666667,
+   "src": "dv346119c",
+   "ss": 34.0,
+   "line": 63,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 759.6666666666666,
+   "d": 9.266666666666667,
+   "src": "g:list",
+   "ss": 0,
+   "line": 64,
+   "lab": ""
+  },
+  {
+   "t": 768.9333333333333,
+   "d": 16.3,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 65,
+   "lab": ""
+  },
+  {
+   "t": 785.2333333333333,
+   "d": 6.5,
+   "src": "dv346119c",
+   "ss": 38.0,
+   "line": 66,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 791.7333333333333,
+   "d": 6.5,
+   "src": "dv346026c",
+   "ss": 8.0,
+   "line": 66,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 798.2333333333333,
+   "d": 6.5,
+   "src": "dv994186c",
+   "ss": 20.0,
+   "line": 66,
+   "lab": "B-ROLL \u00b7 LOWER MANHATTAN FROM NEW YORK HARBOR, JANUARY 2026"
+  },
+  {
+   "t": 804.7333333333333,
+   "d": 15.966666666666667,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 67,
+   "lab": ""
+  },
+  {
+   "t": 820.7,
+   "d": 14.566666666666666,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 68,
+   "lab": ""
+  },
+  {
+   "t": 835.2666666666667,
+   "d": 6.366666666666666,
+   "src": "dv977364c",
+   "ss": 20.0,
+   "line": 69,
+   "lab": "B-ROLL \u00b7 MANHATTAN FROM AN F-22 COCKPIT, NEW YORK CITY, 2025"
+  },
+  {
+   "t": 841.6333333333333,
+   "d": 6.366666666666666,
+   "src": "dv346026c",
+   "ss": 13.0,
+   "line": 69,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 848.0,
+   "d": 6.366666666666666,
+   "src": "dv346119c",
+   "ss": 12.0,
+   "line": 69,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 854.3666666666667,
+   "d": 7.233333333333333,
+   "src": "dv346119c",
+   "ss": 1.5,
+   "line": 70,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 861.6,
+   "d": 7.2,
+   "src": "dv977364c",
+   "ss": 48.0,
+   "line": 70,
+   "lab": "B-ROLL \u00b7 MANHATTAN FROM AN F-22 COCKPIT, NEW YORK CITY, 2025"
+  },
+  {
+   "t": 868.8,
+   "d": 7.233333333333333,
+   "src": "dv346026c",
+   "ss": 13.0,
+   "line": 70,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 876.0333333333333,
+   "d": 2.2,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 71,
+   "lab": ""
+  },
+  {
+   "t": 878.2333333333333,
+   "d": 20.133333333333333,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 72,
+   "lab": ""
+  },
+  {
+   "t": 898.3666666666667,
+   "d": 8.533333333333333,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 73,
+   "lab": ""
+  },
+  {
+   "t": 906.9,
+   "d": 12.966666666666667,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 74,
+   "lab": ""
+  },
+  {
+   "t": 919.8666666666667,
+   "d": 14.566666666666666,
+   "src": "g:list",
+   "ss": 0,
+   "line": 75,
+   "lab": ""
+  },
+  {
+   "t": 934.4333333333333,
+   "d": 6.7,
+   "src": "dv346026c",
+   "ss": 15.0,
+   "line": 76,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012"
+  },
+  {
+   "t": 941.1333333333333,
+   "d": 6.733333333333333,
+   "src": "dv346119c",
+   "ss": 23.0,
+   "line": 76,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012"
+  },
+  {
+   "t": 947.8666666666667,
+   "d": 16.666666666666668,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 77,
+   "lab": ""
+  },
+  {
+   "t": 964.5333333333333,
+   "d": 30.0,
+   "src": "g:timeline",
+   "ss": 0,
+   "line": 78,
+   "lab": ""
+  },
+  {
+   "t": 994.5333333333333,
+   "d": 8.166666666666666,
+   "src": "img:p_b1",
+   "ss": 0,
+   "line": 79,
+   "lab": "ACTUAL DOCUMENT \u00b7 DOJ EPSTEIN FILES RELEASE \u00b7 EFTA00005586, PAGE 1 OF 119"
+  },
+  {
+   "t": 1002.7,
+   "d": 8.166666666666666,
+   "src": "img:g_119",
+   "ss": 0,
+   "line": 79,
+   "lab": "OUR VISUALIZATION \u00b7 EVERY TILE IS ONE BLACK PAGE OF THE RELEASED FILE"
+  },
+  {
+   "t": 1010.8666666666667,
+   "d": 9.2,
+   "src": "g:end",
+   "ss": 0,
+   "line": 80,
+   "lab": ""
+  }
+ ]
+}
