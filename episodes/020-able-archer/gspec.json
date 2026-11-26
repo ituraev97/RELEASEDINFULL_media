@@ -1,0 +1,315 @@
+[
+ {
+  "key": "quote_ce4622",
+  "name": "quote",
+  "opts": {
+   "q": "There is little doubt in our minds that the Soviets were {{genuinely worried}} by Able Archer; however, the depth of that concern is difficult to gauge.",
+   "who": "President's Foreign Intelligence Advisory Board",
+   "role": "'The Soviet War Scare' \u00b7 Feb. 15, 1990",
+   "size": 62,
+   "source": "SOURCE: PFIAB, 'THE SOVIET WAR SCARE' (FEB. 15, 1990), DECLASSIFIED IN PART \u00b7 NATIONAL SECURITY ARCHIVE EBB 533"
+  }
+ },
+ {
+  "key": "intro_a9f501",
+  "name": "intro",
+  "opts": {
+   "n": "020"
+  }
+ },
+ {
+  "key": "title_9c9580",
+  "name": "title",
+  "opts": {
+   "n": "020",
+   "t": "DID MOSCOW FEAR THE DRILL?",
+   "size": 120,
+   "sub": "Able Archer 83 \u00b7 The 1983 War Scare"
+  }
+ },
+ {
+  "key": "chapter_e9378b",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Drill"
+  }
+ },
+ {
+  "key": "timeline_43746f",
+  "name": "timeline",
+  "opts": {
+   "kicker": "ABLE ARCHER 83 \u00b7 AS DESCRIBED IN THE AFTER ACTION REPORT",
+   "title": "Nov. 7 \u2013 11, 1983",
+   "events": [
+    {
+     "y": "NOV 7",
+     "t": "Exercise begins"
+    },
+    {
+     "y": "NOV 7\u20139",
+     "t": "Conventional play"
+    },
+    {
+     "y": "NOV 10\u201311",
+     "t": "Nuclear play"
+    },
+    {
+     "y": "NOV 11",
+     "t": "Exercise ends"
+    }
+   ],
+   "source": "SOURCE: SACEUR ABLE ARCHER 83 AFTER ACTION REPORT (SECRET, DECLASSIFIED)"
+  }
+ },
+ {
+  "key": "stat_6fa193",
+  "name": "stat",
+  "opts": {
+   "k": "AUTUMN FORGE 83 \u00b7 AS SUMMARIZED BY THE NATIONAL SECURITY ARCHIVE",
+   "a": "170",
+   "size": 300,
+   "b": "flights \u00b7 about 19,000 U.S. soldiers flown to Europe in radio silence",
+   "c": "Able Archer was one component of the larger Autumn Forge exercise series",
+   "source": "SOURCE: NATIONAL SECURITY ARCHIVE EBB 533 (OCT. 24, 2015)"
+  }
+ },
+ {
+  "key": "chapter_808859",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "The View from Moscow"
+  }
+ },
+ {
+  "key": "timeline_e6d88e",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE KREMLIN \u00b7 AS NOTED BY THE ADVISORY BOARD",
+   "title": "Three General Secretaries died in 28 months",
+   "events": [
+    {
+     "y": "NOV 1982",
+     "t": "Brezhnev dies"
+    },
+    {
+     "y": "FEB 1984",
+     "t": "Andropov dies"
+    },
+    {
+     "y": "MAR 1985",
+     "t": "Chernenko dies"
+    }
+   ],
+   "source": "SOURCE: PFIAB, 'THE SOVIET WAR SCARE' (FEB. 15, 1990), DECLASSIFIED IN PART \u00b7 NATIONAL SECURITY ARCHIVE EBB 533"
+  }
+ },
+ {
+  "key": "chapter_ed72a7",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "Operation RYAN"
+  }
+ },
+ {
+  "key": "stat_65b6ff",
+  "name": "stat",
+  "opts": {
+   "k": "OPERATION RYAN \u00b7 AS SUMMARIZED BY THE NATIONAL SECURITY ARCHIVE",
+   "a": "40,000",
+   "size": 250,
+   "b": "weighted factors in the KGB's warning model",
+   "c": "its output: Soviet relative strength was declining",
+   "source": "SOURCE: NATIONAL SECURITY ARCHIVE EBB 533, SUMMARIZING THE PFIAB REPORT"
+  }
+ },
+ {
+  "key": "quote_843840",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026it must not fail to perceive {{direct preparation by the adversary for a nuclear missile attack}} against the USSR\u2026",
+   "who": "Gen. Kryuchkov, KGB First Chief Directorate",
+   "role": "Speech to KGB officers, Jan. 1984 \u00b7 as quoted in the PFIAB report",
+   "size": 50,
+   "source": "SOURCE: PFIAB, 'THE SOVIET WAR SCARE' (FEB. 15, 1990), DECLASSIFIED IN PART \u00b7 NATIONAL SECURITY ARCHIVE EBB 533"
+  }
+ },
+ {
+  "key": "chapter_4f1ec6",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "A Bad Year"
+  }
+ },
+ {
+  "key": "quote_90f2eb",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026made Moscow more suspicious that US military exercises might {{conceal preparations for an actual attack.}} Within weeks, Soviet intelligence would react in exactly that way\u2026",
+   "who": "Ben B. Fischer",
+   "role": "CIA Center for the Study of Intelligence \u00b7 on the KAL 007 shootdown",
+   "size": 44,
+   "source": "SOURCE: CIA DIRECTORATE OF INTELLIGENCE MEMO, DEC. 30, 1983; SNIE 11-10-84/JX; CIA CENTER FOR THE STUDY OF INTELLIGENCE"
+  }
+ },
+ {
+  "key": "chapter_1d931b",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "November"
+  }
+ },
+ {
+  "key": "quote_89f181",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026{{strongly suggests to us}} that Soviet military leaders may have been seriously concerned that the US would use Able Archer 83 as a cover for launching a real attack.",
+   "who": "President's Foreign Intelligence Advisory Board",
+   "role": "'The Soviet War Scare' \u00b7 Feb. 15, 1990",
+   "size": 48,
+   "source": "SOURCE: PFIAB, 'THE SOVIET WAR SCARE' (FEB. 15, 1990), DECLASSIFIED IN PART \u00b7 NATIONAL SECURITY ARCHIVE EBB 533"
+  }
+ },
+ {
+  "key": "chapter_2871f0",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "The General"
+  }
+ },
+ {
+  "key": "chapter_799f49",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "The President"
+  }
+ },
+ {
+  "key": "quote_27e724",
+  "name": "quote",
+  "opts": {
+   "q": "I feel the Soviets are so defense minded, so paranoid about being attacked, that without being in any way soft on them we ought to tell them {{no one here has any intention}} of doing anything like that.",
+   "who": "President Reagan's diary",
+   "role": "Nov. 18, 1983 \u00b7 as quoted by the National Security Archive",
+   "size": 50,
+   "source": "SOURCE: NATIONAL SECURITY ARCHIVE EBB 533 (OCT. 24, 2015)"
+  }
+ },
+ {
+  "key": "list_1a78ee",
+  "name": "list",
+  "opts": {
+   "kicker": "THE CASEY MEMO \u00b7 INDICATORS LISTED",
+   "title": "'A rather stunning array'",
+   "items": [
+    {
+     "t": "Military support for the harvest ended"
+    },
+    {
+     "t": "Civil aircraft production cut",
+     "s": "DOWN 14 PERCENT IN 1983, PER DIA"
+    },
+    {
+     "t": "Leningrad closed to Western attach\u00e9s"
+    },
+    {
+     "t": "Media: U.S.-Soviet ties likened to Nazi Germany-USSR before WWII"
+    }
+   ],
+   "source": "SOURCE: DCI WILLIAM CASEY MEMO 'US/SOVIET TENSION,' JUNE 19, 1984 (DECLASSIFIED 2013)"
+  }
+ },
+ {
+  "key": "chapter_738e3b",
+  "name": "chapter",
+  "opts": {
+   "n": "VIII",
+   "t": "Was It Real?"
+  }
+ },
+ {
+  "key": "list_dc7c7e",
+  "name": "list",
+  "opts": {
+   "kicker": "THE DOCUMENTS, TWO READINGS",
+   "title": "Was the war scare real?",
+   "items": [
+    {
+     "t": "1984 SNIE: propaganda, not real fear",
+     "s": "'WE BELIEVE STRONGLY\u2026'"
+    },
+    {
+     "t": "PFIAB 1990: genuinely worried",
+     "s": "'LITTLE DOUBT IN OUR MINDS'"
+    },
+    {
+     "t": "CIA historian: more impact on the White House than the Kremlin"
+    },
+    {
+     "t": "Board: not the final word"
+    }
+   ],
+   "source": "SOURCE: PFIAB, 'THE SOVIET WAR SCARE' (FEB. 15, 1990), DECLASSIFIED IN PART \u00b7 NATIONAL SECURITY ARCHIVE EBB 533"
+  }
+ },
+ {
+  "key": "chapter_eb4135",
+  "name": "chapter",
+  "opts": {
+   "n": "IX",
+   "t": "Reason Restored"
+  }
+ },
+ {
+  "key": "timeline_802380",
+  "name": "timeline",
+  "opts": {
+   "kicker": "AFTER ABLE ARCHER \u00b7 AS DESCRIBED BY THE ADVISORY BOARD",
+   "title": "The scare fades",
+   "events": [
+    {
+     "y": "NOV 11, 1983",
+     "t": "Alert withdrawn"
+    },
+    {
+     "y": "JUN 1984",
+     "t": "Casey memo"
+    },
+    {
+     "y": "DEC 20, 1984",
+     "t": "Ustinov dies"
+    },
+    {
+     "y": "MAR 1985",
+     "t": "Gorbachev takes over"
+    }
+   ],
+   "source": "SOURCE: PFIAB, 'THE SOVIET WAR SCARE' (FEB. 15, 1990), DECLASSIFIED IN PART \u00b7 NATIONAL SECURITY ARCHIVE EBB 533"
+  }
+ },
+ {
+  "key": "quote_d91aae",
+  "name": "quote",
+  "opts": {
+   "q": "It is an especially grave error to assume that since we know the US is not going to start World War III, {{the next leaders of the Kremlin will also believe that}}\u2026",
+   "who": "President's Foreign Intelligence Advisory Board",
+   "role": "'The Soviet War Scare' \u00b7 Feb. 15, 1990",
+   "size": 50,
+   "source": "SOURCE: PFIAB, 'THE SOVIET WAR SCARE' (FEB. 15, 1990), DECLASSIFIED IN PART \u00b7 NATIONAL SECURITY ARCHIVE EBB 533"
+  }
+ },
+ {
+  "key": "end_415f8d",
+  "name": "end",
+  "opts": {
+   "n": "020",
+   "next": "Another file, another secret"
+  }
+ }
+]

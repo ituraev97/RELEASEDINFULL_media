@@ -1,0 +1,12 @@
+# PRE-PUBLISH GATE: FILE 020 (2026-11-26)  RESULT: PASS
+- long.mp4: 19:13.8 (1153.8 s) by ffprobe (15:00-20:00) PASS; 1920x1080 HEVC, 449,269,284 bytes (<450 MB); -14.0 LUFS (ebur128) PASS
+- Title (62 chars, <=70): "Did Moscow Think a NATO Drill Was a Real Attack? Able Archer 83" - curiosity question + keyword, does not start with a date/agency/operation/FILE; FILE 020 only at the end of the description. PASS
+- Tags 15, category EDUCATION, madeForKids false, isAiGeneratedContent false. PASS
+- thumb_A readable at 168x94 (checked at that size: 'ONLY A DRILL?' + DECLASSIFIED IN PART stamp legible). PASS
+- First 5 s: cold open = the most striking documented claim + the question; no logo before 0:10 (intro card at ~1:36 of the chapter flow). PASS
+- Turns every 60-90 s, 9 chapters (I-IX) + cold open; chapters in description from timing.json, first at 0:00, each >=10 s. PASS
+- Shorts y1 22.4 s, y2 28.9 s, y3 21.1 s (20-30 s) PASS; TikTok s1 88.3 s, s2 74.2 s, s3 94.0 s, s4 66.0 s (62-110 s) PASS; hook frame on a bright box from frame 0.
+- Voice: Kokoro am_puck 1.0, 2,609+ words over 1101 s speech = ~150 wpm, no speed-up. PASS
+- qc_report: FAILS 0, 0 stutters, 0 flash cuts (one flash at 733 s found and fixed by re-cutting line 53). PASS
+- Independent fact-check (factcheck.md) and legal review (legal_review.md): all fixes applied. PASS
+- No "AI"/"synthetic voice" wording in video, descriptions or titles (credit line: "Music and sound effects are original."). PASS

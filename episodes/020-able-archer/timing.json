@@ -1,0 +1,973 @@
+{
+ "starts": [
+  0.6,
+  15.113,
+  32.500667,
+  46.230667,
+  56.180334,
+  74.259334,
+  88.687001,
+  92.687001,
+  96.28700099999999,
+  99.13466799999999,
+  121.76500099999998,
+  134.326001,
+  146.339668,
+  162.671335,
+  180.102668,
+  183.315668,
+  201.483501,
+  218.42850099999998,
+  238.647168,
+  255.42250099999998,
+  258.04616799999997,
+  282.206168,
+  294.783168,
+  307.637501,
+  324.281834,
+  336.553834,
+  340.084167,
+  353.73416699999996,
+  367.87383399999993,
+  386.3751669999999,
+  396.5531669999999,
+  414.10183399999994,
+  434.8830009999999,
+  436.5946679999999,
+  448.4250009999999,
+  463.5833339999999,
+  475.06166699999994,
+  496.36499999999995,
+  512.428,
+  528.113333,
+  547.506333,
+  549.1326660000001,
+  564.6003330000001,
+  584.616333,
+  609.102666,
+  615.247999,
+  640.2303320000001,
+  658.3869990000001,
+  680.051999,
+  702.778332,
+  704.4633319999999,
+  718.225332,
+  732.691332,
+  753.241665,
+  770.218665,
+  783.063332,
+  784.5883319999999,
+  803.0441649999999,
+  821.627498,
+  841.494165,
+  861.656165,
+  882.558498,
+  900.404831,
+  901.9298309999999,
+  921.4241639999999,
+  944.9964969999999,
+  967.2044969999998,
+  983.3078299999999,
+  1002.4704969999998,
+  1031.0609969999998,
+  1032.5433299999997,
+  1054.5219969999998,
+  1072.1006639999998,
+  1090.6883309999998,
+  1094.8826639999997,
+  1107.8776639999996,
+  1129.1416639999995,
+  1147.4296639999995
+ ],
+ "durs": [
+  14.513,
+  17.387667,
+  13.73,
+  9.949667000000002,
+  18.079,
+  14.427667000000001,
+  4.0,
+  3.6,
+  2.847667,
+  22.630333,
+  12.561,
+  12.013667,
+  16.331667,
+  17.431333000000002,
+  3.213,
+  18.167833,
+  16.945,
+  20.218667,
+  16.775333,
+  2.623667,
+  24.16,
+  12.577,
+  12.854333,
+  16.644333,
+  12.272,
+  3.530333,
+  13.65,
+  14.139667000000001,
+  18.501333000000002,
+  10.178,
+  17.548667000000002,
+  20.781167,
+  1.7116669999999998,
+  11.830333000000001,
+  15.158333,
+  11.478333000000001,
+  21.303333000000002,
+  16.063,
+  15.685333,
+  19.393,
+  1.6263329999999998,
+  15.467667,
+  20.016000000000002,
+  24.486333000000002,
+  6.145333,
+  24.982333,
+  18.156667000000002,
+  21.665,
+  22.726333,
+  1.685,
+  13.762,
+  14.466000000000001,
+  20.550333000000002,
+  16.977,
+  12.844667000000001,
+  1.525,
+  18.455833000000002,
+  18.583333,
+  19.866667,
+  20.162,
+  20.902333000000002,
+  17.846333,
+  1.525,
+  19.494333,
+  23.572333,
+  22.208000000000002,
+  16.103333,
+  19.162667,
+  28.590500000000002,
+  1.4823330000000001,
+  21.978667,
+  17.578667,
+  18.587667,
+  4.194333,
+  12.995000000000001,
+  21.264,
+  18.288,
+  6.0
+ ],
+ "vdur": [
+  13.963,
+  16.837667,
+  13.18,
+  9.399667,
+  17.529,
+  13.877667,
+  0.0,
+  0.0,
+  2.247667,
+  22.080333,
+  12.011,
+  11.463667,
+  15.781667,
+  16.881333,
+  2.813,
+  17.617833,
+  16.395,
+  19.668667,
+  16.225333,
+  2.023667,
+  23.61,
+  12.027,
+  12.304333,
+  16.094333,
+  11.722,
+  2.930333,
+  13.1,
+  13.589667,
+  17.951333,
+  9.628,
+  16.998667,
+  20.231167,
+  1.111667,
+  11.280333,
+  14.608333,
+  10.928333,
+  20.753333,
+  15.513,
+  15.135333,
+  18.843,
+  1.026333,
+  14.917667,
+  19.466,
+  23.936333,
+  5.745333,
+  24.432333,
+  17.606667,
+  21.115,
+  22.176333,
+  1.085,
+  13.212,
+  13.916,
+  20.000333,
+  16.427,
+  12.294667,
+  0.925,
+  17.905833,
+  18.033333,
+  19.316667,
+  19.612,
+  20.352333,
+  17.296333,
+  0.925,
+  18.944333,
+  23.022333,
+  21.658,
+  15.553333,
+  18.612667,
+  28.0405,
+  0.882333,
+  21.428667,
+  17.028667,
+  18.037667,
+  3.794333,
+  12.445,
+  20.714,
+  17.738,
+  3.309
+ ],
+ "total": 1153.8333333333333,
+ "segs": [
+  {
+   "t": 0.0,
+   "d": 15.1,
+   "src": "img:pf_cover",
+   "ss": 0,
+   "line": 0,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 COVER PAGE \u00b7 TOP SECRET"
+  },
+  {
+   "t": 15.1,
+   "d": 8.7,
+   "src": "img:ebb_cover",
+   "ss": 0,
+   "line": 1,
+   "lab": "ACTUAL DOCUMENT \u00b7 NATIONAL SECURITY ARCHIVE BRIEFING BOOK NO. 533 \u00b7 OCT. 24, 2015 \u00b7 'HAIR TRIGGER' HIGHLIGHTED BY US"
+  },
+  {
+   "t": 23.8,
+   "d": 8.7,
+   "src": "img:pf_cover",
+   "ss": 0,
+   "line": 1,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 COVER PAGE \u00b7 DECLASSIFIED IN PART"
+  },
+  {
+   "t": 32.5,
+   "d": 13.733333333333333,
+   "src": "img:pf_exec",
+   "ss": 0,
+   "line": 2,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 EXECUTIVE SUMMARY \u00b7 PAGES v\u2013viii"
+  },
+  {
+   "t": 46.233333333333334,
+   "d": 9.933333333333334,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 3,
+   "lab": ""
+  },
+  {
+   "t": 56.166666666666664,
+   "d": 9.066666666666666,
+   "src": "dv943839c",
+   "ss": 4.0,
+   "line": 4,
+   "lab": "B-ROLL \u00b7 B-52 NIGHT TAKEOFF, RAF FAIRFORD, ENGLAND, 2024 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 65.23333333333333,
+   "d": 9.033333333333333,
+   "src": "dv1006838c",
+   "ss": 6.0,
+   "line": 4,
+   "lab": "B-ROLL \u00b7 B-52 BOMBER OPERATIONS IN EUROPE, 2026 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 74.26666666666667,
+   "d": 14.433333333333334,
+   "src": "dv1010076c",
+   "ss": 6.0,
+   "line": 5,
+   "lab": "B-ROLL \u00b7 B-52 AERIAL REFUELING, 2026 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 88.7,
+   "d": 4.0,
+   "src": "g:intro",
+   "ss": 0,
+   "line": 6,
+   "lab": ""
+  },
+  {
+   "t": 92.7,
+   "d": 3.6,
+   "src": "g:title",
+   "ss": 0,
+   "line": 7,
+   "lab": ""
+  },
+  {
+   "t": 96.3,
+   "d": 2.8333333333333335,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 8,
+   "lab": ""
+  },
+  {
+   "t": 99.13333333333334,
+   "d": 22.633333333333333,
+   "src": "img:aar_1",
+   "ss": 0,
+   "line": 9,
+   "lab": "ACTUAL DOCUMENT \u00b7 SACEUR ABLE ARCHER 83 AFTER ACTION REPORT \u00b7 PAGE 1 \u00b7 SECRET, DECLASSIFIED"
+  },
+  {
+   "t": 121.76666666666667,
+   "d": 12.566666666666666,
+   "src": "g:timeline",
+   "ss": 0,
+   "line": 10,
+   "lab": ""
+  },
+  {
+   "t": 134.33333333333334,
+   "d": 12.0,
+   "src": "dv943839c",
+   "ss": 20.0,
+   "line": 11,
+   "lab": "B-ROLL \u00b7 B-52 NIGHT TAKEOFF, RAF FAIRFORD, ENGLAND, 2024 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 146.33333333333334,
+   "d": 16.333333333333332,
+   "src": "img:aar_5",
+   "ss": 0,
+   "line": 12,
+   "lab": "ACTUAL DOCUMENT \u00b7 SACEUR ABLE ARCHER 83 AFTER ACTION REPORT \u00b7 PAGE 5 \u00b7 ALTERNATE WAR HEADQUARTERS"
+  },
+  {
+   "t": 162.66666666666666,
+   "d": 8.733333333333333,
+   "src": "dv1010076c",
+   "ss": 2.0,
+   "line": 13,
+   "lab": "B-ROLL \u00b7 B-52 AERIAL REFUELING, 2026 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 171.4,
+   "d": 8.7,
+   "src": "dv944524c",
+   "ss": 20.0,
+   "line": 13,
+   "lab": "B-ROLL \u00b7 AIRMEN LOAD CONVENTIONAL MUNITIONS ONTO A B-52, 2024 \u00b7 NOT THE 1983 EXERCISE"
+  },
+  {
+   "t": 180.1,
+   "d": 3.2,
+   "src": "dv944524c",
+   "ss": 60.0,
+   "line": 14,
+   "lab": "B-ROLL \u00b7 AIRMEN LOAD CONVENTIONAL MUNITIONS ONTO A B-52, 2024 \u00b7 NOT THE 1983 EXERCISE"
+  },
+  {
+   "t": 183.3,
+   "d": 18.2,
+   "src": "img:aar_9",
+   "ss": 0,
+   "line": 15,
+   "lab": "ACTUAL DOCUMENT \u00b7 SACEUR ABLE ARCHER 83 AFTER ACTION REPORT \u00b7 PAGE 9 \u00b7 THE WORD 'STRIKE'"
+  },
+  {
+   "t": 201.5,
+   "d": 16.933333333333334,
+   "src": "img:pf_wrinkles",
+   "ss": 0,
+   "line": 16,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 PAGE 70 \u00b7 'SPECIAL WRINKLES'"
+  },
+  {
+   "t": 218.43333333333334,
+   "d": 10.1,
+   "src": "dv944524c",
+   "ss": 100.0,
+   "line": 17,
+   "lab": "B-ROLL \u00b7 AIRMEN LOAD CONVENTIONAL MUNITIONS ONTO A B-52, 2024 \u00b7 NOT THE 1983 EXERCISE"
+  },
+  {
+   "t": 228.53333333333333,
+   "d": 10.1,
+   "src": "dv1006838c",
+   "ss": 30.0,
+   "line": 17,
+   "lab": "B-ROLL \u00b7 B-52 BOMBER OPERATIONS IN EUROPE, 2026 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 238.63333333333333,
+   "d": 16.8,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 18,
+   "lab": ""
+  },
+  {
+   "t": 255.43333333333334,
+   "d": 2.6,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 19,
+   "lab": ""
+  },
+  {
+   "t": 258.03333333333336,
+   "d": 12.1,
+   "src": "img:pf_pershing",
+   "ss": 0,
+   "line": 20,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 PAGE 39 \u00b7 EARLY WARNING TIMES"
+  },
+  {
+   "t": 270.1333333333333,
+   "d": 12.066666666666666,
+   "src": "img:pf_pershing",
+   "ss": 0,
+   "line": 20,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 PAGE 39 \u00b7 PERSHING II WARNING TIME"
+  },
+  {
+   "t": 282.2,
+   "d": 12.566666666666666,
+   "src": "img:pf_pershing",
+   "ss": 0,
+   "line": 21,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 PAGE 39 \u00b7 PERSHING II RANGE"
+  },
+  {
+   "t": 294.76666666666665,
+   "d": 12.866666666666667,
+   "src": "afnow_a",
+   "ss": 0.0,
+   "line": 22,
+   "lab": "ARCHIVAL \u00b7 U.S. AIR FORCE FILM ON THE SOVIET THREAT \u00b7 U.S. PORTRAYAL OF SOVIET FORCES \u00b7 NOT FOOTAGE OF THE EVENTS DESCRIBED"
+  },
+  {
+   "t": 307.6333333333333,
+   "d": 16.633333333333333,
+   "src": "g:timeline",
+   "ss": 0,
+   "line": 23,
+   "lab": ""
+  },
+  {
+   "t": 324.26666666666665,
+   "d": 12.3,
+   "src": "afnow_b",
+   "ss": 10.0,
+   "line": 24,
+   "lab": "ARCHIVAL \u00b7 U.S. AIR FORCE FILM ON THE SOVIET THREAT \u00b7 U.S. PORTRAYAL OF SOVIET FORCES \u00b7 NOT FOOTAGE OF THE EVENTS DESCRIBED"
+  },
+  {
+   "t": 336.56666666666666,
+   "d": 3.533333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 25,
+   "lab": ""
+  },
+  {
+   "t": 340.1,
+   "d": 13.633333333333333,
+   "src": "afnow_c",
+   "ss": 10.0,
+   "line": 26,
+   "lab": "ARCHIVAL \u00b7 U.S. AIR FORCE FILM ON THE SOVIET THREAT \u00b7 U.S. PORTRAYAL OF SOVIET FORCES \u00b7 NOT FOOTAGE OF THE EVENTS DESCRIBED"
+  },
+  {
+   "t": 353.73333333333335,
+   "d": 14.133333333333333,
+   "src": "img:pf_self",
+   "ss": 0,
+   "line": 27,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 PAGE 81 \u00b7 KGB LONDON RESIDENCY TASKING"
+  },
+  {
+   "t": 367.8666666666667,
+   "d": 18.5,
+   "src": "img:pf_blood",
+   "ss": 0,
+   "line": 28,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 PAGE 82 \u00b7 THE 'BLOOD DONOR' REPORT"
+  },
+  {
+   "t": 386.3666666666667,
+   "d": 10.2,
+   "src": "img:pf_self",
+   "ss": 0,
+   "line": 29,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 PAGE 81 \u00b7 'A SELF-REINFORCING CYCLE'"
+  },
+  {
+   "t": 396.56666666666666,
+   "d": 17.533333333333335,
+   "src": "g:stat",
+   "ss": 0,
+   "line": 30,
+   "lab": ""
+  },
+  {
+   "t": 414.1,
+   "d": 20.766666666666666,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 31,
+   "lab": ""
+  },
+  {
+   "t": 434.8666666666667,
+   "d": 1.7333333333333334,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 32,
+   "lab": ""
+  },
+  {
+   "t": 436.6,
+   "d": 5.9,
+   "src": "evil_a",
+   "ss": 4.0,
+   "line": 33,
+   "lab": "ARCHIVAL \u00b7 PRESIDENT REAGAN SPEAKING, 1983 \u00b7 REAGAN LIBRARY"
+  },
+  {
+   "t": 442.5,
+   "d": 5.933333333333334,
+   "src": "sdi_a",
+   "ss": 6.0,
+   "line": 33,
+   "lab": "ARCHIVAL \u00b7 PRESIDENT REAGAN AT A LECTERN, 1983 \u00b7 REAGAN LIBRARY"
+  },
+  {
+   "t": 448.43333333333334,
+   "d": 15.166666666666666,
+   "src": "evil_b",
+   "ss": 6.0,
+   "line": 34,
+   "lab": "ARCHIVAL \u00b7 PRESIDENT REAGAN SPEAKING, 1983 \u00b7 REAGAN LIBRARY"
+  },
+  {
+   "t": 463.6,
+   "d": 5.733333333333333,
+   "src": "kal_a",
+   "ss": 4.0,
+   "line": 35,
+   "lab": "PRESIDENT REAGAN \u00b7 ADDRESS ON THE SOVIET ATTACK ON A KOREAN AIRLINER \u00b7 SEPT. 5, 1983 \u00b7 REAGAN LIBRARY"
+  },
+  {
+   "t": 469.3333333333333,
+   "d": 5.733333333333333,
+   "src": "kal_c",
+   "ss": 6.0,
+   "line": 35,
+   "lab": "ARCHIVAL \u00b7 PRESIDENT REAGAN, SEPTEMBER 1983 \u00b7 REAGAN LIBRARY"
+  },
+  {
+   "t": 475.06666666666666,
+   "d": 21.3,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 36,
+   "lab": ""
+  },
+  {
+   "t": 496.3666666666667,
+   "d": 16.066666666666666,
+   "src": "kal_b",
+   "ss": 5.0,
+   "line": 37,
+   "lab": "PRESIDENT REAGAN \u00b7 ADDRESS ON THE SOVIET ATTACK ON A KOREAN AIRLINER \u00b7 SEPT. 5, 1983 \u00b7 REAGAN LIBRARY"
+  },
+  {
+   "t": 512.4333333333333,
+   "d": 7.833333333333333,
+   "src": "lebgren_a",
+   "ss": 5.0,
+   "line": 38,
+   "lab": "PRESIDENT REAGAN \u00b7 ADDRESS ON LEBANON AND GRENADA \u00b7 OCT. 27, 1983 \u00b7 REAGAN LIBRARY"
+  },
+  {
+   "t": 520.2666666666667,
+   "d": 7.833333333333333,
+   "src": "gren_a",
+   "ss": 8.0,
+   "line": 38,
+   "lab": "PRESIDENT REAGAN \u00b7 REMARKS ON THE GRENADA RESCUE MISSION \u00b7 OCT. 25, 1983 \u00b7 REAGAN LIBRARY"
+  },
+  {
+   "t": 528.1,
+   "d": 19.4,
+   "src": "gren_b",
+   "ss": 8.0,
+   "line": 39,
+   "lab": "PRESIDENT REAGAN \u00b7 REMARKS ON THE GRENADA RESCUE MISSION \u00b7 OCT. 25, 1983 \u00b7 REAGAN LIBRARY"
+  },
+  {
+   "t": 547.5,
+   "d": 1.6333333333333333,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 40,
+   "lab": ""
+  },
+  {
+   "t": 549.1333333333333,
+   "d": 15.466666666666667,
+   "src": "img:pf_white",
+   "ss": 0,
+   "line": 41,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 PAGE 69 \u00b7 'THOROUGHLY WHITE HOT'"
+  },
+  {
+   "t": 564.6,
+   "d": 20.0,
+   "src": "img:pf_wrinkles",
+   "ss": 0,
+   "line": 42,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 PAGE 70 \u00b7 THE CIRCULAR TELEGRAM"
+  },
+  {
+   "t": 584.6,
+   "d": 12.266666666666667,
+   "src": "dv346026c",
+   "ss": 3.0,
+   "line": 43,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 596.8666666666667,
+   "d": 12.233333333333333,
+   "src": "dv346119c",
+   "ss": 5.0,
+   "line": 43,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 609.1,
+   "d": 6.133333333333334,
+   "src": "img:pf_react",
+   "ss": 0,
+   "line": 44,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 PAGE 71 \u00b7 SOVIET REACTION"
+  },
+  {
+   "t": 615.2333333333333,
+   "d": 25.0,
+   "src": "img:pf_helic",
+   "ss": 0,
+   "line": 45,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 PAGE 72 \u00b7 SOVIET RESPONSE \u00b7 PARTS REDACTED"
+  },
+  {
+   "t": 640.2333333333333,
+   "d": 18.166666666666668,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 46,
+   "lab": ""
+  },
+  {
+   "t": 658.4,
+   "d": 21.666666666666668,
+   "src": "dv1006838c",
+   "ss": 50.0,
+   "line": 47,
+   "lab": "B-ROLL \u00b7 B-52 BOMBER OPERATIONS IN EUROPE, 2026 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 680.0666666666667,
+   "d": 22.7,
+   "src": "dv346119c",
+   "ss": 20.0,
+   "line": 48,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 702.7666666666667,
+   "d": 1.7,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 49,
+   "lab": ""
+  },
+  {
+   "t": 704.4666666666667,
+   "d": 13.766666666666667,
+   "src": "dv943839c",
+   "ss": 30.0,
+   "line": 50,
+   "lab": "B-ROLL \u00b7 B-52 NIGHT TAKEOFF, RAF FAIRFORD, ENGLAND, 2024 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 718.2333333333333,
+   "d": 14.466666666666667,
+   "src": "img:pf_perroots",
+   "ss": 0,
+   "line": 51,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 PAGE 28 \u00b7 THE PERROOTS RECOMMENDATION"
+  },
+  {
+   "t": 732.7,
+   "d": 10.266666666666667,
+   "src": "dv1006838c",
+   "ss": 55.0,
+   "line": 52,
+   "lab": "B-ROLL \u00b7 B-52 BOMBER OPERATIONS IN EUROPE, 2026 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 742.9666666666667,
+   "d": 10.266666666666667,
+   "src": "dv943839c",
+   "ss": 38.0,
+   "line": 52,
+   "lab": "B-ROLL \u00b7 B-52 NIGHT TAKEOFF, RAF FAIRFORD, ENGLAND, 2024 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 753.2333333333333,
+   "d": 17.0,
+   "src": "dv346026c",
+   "ss": 10.0,
+   "line": 53,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 770.2333333333333,
+   "d": 12.833333333333334,
+   "src": "dv346119c",
+   "ss": 35.0,
+   "line": 54,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 783.0666666666667,
+   "d": 1.5333333333333334,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 55,
+   "lab": ""
+  },
+  {
+   "t": 784.6,
+   "d": 18.433333333333334,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 56,
+   "lab": ""
+  },
+  {
+   "t": 803.0333333333333,
+   "d": 18.6,
+   "src": "img:casey_1",
+   "ss": 0,
+   "line": 57,
+   "lab": "ACTUAL DOCUMENT \u00b7 DCI MEMO 'US/SOVIET TENSION' \u00b7 JUNE 19, 1984"
+  },
+  {
+   "t": 821.6333333333333,
+   "d": 19.866666666666667,
+   "src": "g:list",
+   "ss": 0,
+   "line": 58,
+   "lab": ""
+  },
+  {
+   "t": 841.5,
+   "d": 20.166666666666668,
+   "src": "img:pf_mcf",
+   "ss": 0,
+   "line": 59,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 PAGE 17 \u00b7 THE PRESIDENT'S REACTION"
+  },
+  {
+   "t": 861.6666666666666,
+   "d": 10.433333333333334,
+   "src": "jan84_a",
+   "ss": 6.0,
+   "line": 60,
+   "lab": "PRESIDENT REAGAN \u00b7 ADDRESS ON U.S.-SOVIET RELATIONS \u00b7 JAN. 16, 1984 \u00b7 REAGAN LIBRARY"
+  },
+  {
+   "t": 872.1,
+   "d": 10.466666666666667,
+   "src": "radio_a",
+   "ss": 5.0,
+   "line": 60,
+   "lab": "ARCHIVAL \u00b7 REAGAN RADIO ADDRESS ON ARMS CONTROL, TAPED OCT. 21, 1983 \u00b7 NOT THE REMARK DESCRIBED \u00b7 REAGAN LIBRARY"
+  },
+  {
+   "t": 882.5666666666667,
+   "d": 17.833333333333332,
+   "src": "thatcher_a",
+   "ss": 5.0,
+   "line": 61,
+   "lab": "PRESIDENT REAGAN AND PRIME MINISTER THATCHER \u00b7 SEPT. 29, 1983 \u00b7 REAGAN LIBRARY"
+  },
+  {
+   "t": 900.4,
+   "d": 1.5333333333333334,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 62,
+   "lab": ""
+  },
+  {
+   "t": 901.9333333333333,
+   "d": 19.5,
+   "src": "img:snie_4",
+   "ss": 0,
+   "line": 63,
+   "lab": "ACTUAL DOCUMENT \u00b7 SNIE 11-10-84/JX \u00b7 KEY JUDGMENTS"
+  },
+  {
+   "t": 921.4333333333333,
+   "d": 23.566666666666666,
+   "src": "img:cia83_1",
+   "ss": 0,
+   "line": 64,
+   "lab": "ACTUAL DOCUMENT \u00b7 CIA DIRECTORATE OF INTELLIGENCE \u00b7 DEC. 30, 1983"
+  },
+  {
+   "t": 945.0,
+   "d": 22.2,
+   "src": "dv346026c",
+   "ss": 0.0,
+   "line": 65,
+   "lab": "B-ROLL \u00b7 THE U.S. CAPITOL, WASHINGTON, D.C., 2012 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 967.2,
+   "d": 16.1,
+   "src": "img:pf_exec",
+   "ss": 0,
+   "line": 66,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 EXECUTIVE SUMMARY \u00b7 PAGES v\u2013viii"
+  },
+  {
+   "t": 983.3,
+   "d": 19.166666666666668,
+   "src": "afnow_a",
+   "ss": 30.0,
+   "line": 67,
+   "lab": "ARCHIVAL \u00b7 U.S. AIR FORCE FILM ON THE SOVIET THREAT \u00b7 U.S. PORTRAYAL OF SOVIET FORCES \u00b7 NOT FOOTAGE OF THE EVENTS DESCRIBED"
+  },
+  {
+   "t": 1002.4666666666667,
+   "d": 28.6,
+   "src": "g:list",
+   "ss": 0,
+   "line": 68,
+   "lab": ""
+  },
+  {
+   "t": 1031.0666666666666,
+   "d": 1.4666666666666666,
+   "src": "g:chapter",
+   "ss": 0,
+   "line": 69,
+   "lab": ""
+  },
+  {
+   "t": 1032.5333333333333,
+   "d": 22.0,
+   "src": "jan84_b",
+   "ss": 6.0,
+   "line": 70,
+   "lab": "PRESIDENT REAGAN \u00b7 ADDRESS ON U.S.-SOVIET RELATIONS \u00b7 JAN. 16, 1984 \u00b7 REAGAN LIBRARY \u00b7 NOT NOV. 11, 1983"
+  },
+  {
+   "t": 1054.5333333333333,
+   "d": 17.566666666666666,
+   "src": "g:timeline",
+   "ss": 0,
+   "line": 71,
+   "lab": ""
+  },
+  {
+   "t": 1072.1,
+   "d": 9.3,
+   "src": "img:pf_cover",
+   "ss": 0,
+   "line": 72,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 COVER PAGE"
+  },
+  {
+   "t": 1081.4,
+   "d": 9.3,
+   "src": "dv346119c",
+   "ss": 10.0,
+   "line": 72,
+   "lab": "B-ROLL \u00b7 WASHINGTON, D.C., AROUND THE CAPITOL, 2012 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 1090.7,
+   "d": 4.166666666666667,
+   "src": "img:pf_grave",
+   "ss": 0,
+   "line": 73,
+   "lab": "ACTUAL DOCUMENT \u00b7 PFIAB 'SOVIET WAR SCARE' REPORT, 1990 \u00b7 HIGHLIGHT ADDED \u00b7 PAGE xi \u00b7 'AN ESPECIALLY GRAVE ERROR'"
+  },
+  {
+   "t": 1094.8666666666666,
+   "d": 13.0,
+   "src": "g:quote",
+   "ss": 0,
+   "line": 74,
+   "lab": ""
+  },
+  {
+   "t": 1107.8666666666666,
+   "d": 10.633333333333333,
+   "src": "dv943839c",
+   "ss": 12.0,
+   "line": 75,
+   "lab": "B-ROLL \u00b7 B-52 NIGHT TAKEOFF, RAF FAIRFORD, ENGLAND, 2024 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 1118.5,
+   "d": 10.633333333333333,
+   "src": "dv1006838c",
+   "ss": 40.0,
+   "line": 75,
+   "lab": "B-ROLL \u00b7 B-52 BOMBER OPERATIONS IN EUROPE, 2026 \u00b7 ILLUSTRATIVE ONLY"
+  },
+  {
+   "t": 1129.1333333333334,
+   "d": 18.3,
+   "src": "img:ebb_cover",
+   "ss": 0,
+   "line": 76,
+   "lab": "ACTUAL DOCUMENT \u00b7 NATIONAL SECURITY ARCHIVE BRIEFING BOOK NO. 533 \u00b7 OCT. 24, 2015"
+  },
+  {
+   "t": 1147.4333333333334,
+   "d": 6.4,
+   "src": "g:end",
+   "ss": 0,
+   "line": 77,
+   "lab": ""
+  }
+ ]
+}

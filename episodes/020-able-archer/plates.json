@@ -1,0 +1,5 @@
+[
+{"name":"plate_A.png","prompt":"cinematic photo of a dark 1980s military command bunker, rows of old green CRT monitors and a huge illuminated wall map of Europe, red emergency alarm light flashing, a lone officer silhouette staring at a red telephone, tense atmosphere, dramatic side light, film grain, high detail, no text","w":1280,"h":720,"seed":11},
+{"name":"plate_B.png","prompt":"cinematic photo of a Soviet radar early-warning station at night under a blood-red sky, huge dish antennas, snow, searchlight beams, ominous glow, dramatic lighting, high detail, no text","w":1280,"h":720,"seed":12},
+{"name":"plate_C.png","prompt":"cinematic photo of a Pershing missile on a mobile launcher in a dark German forest at dawn, orange light through the trees, soldiers in silhouette, dramatic haze, high detail, no text","w":1280,"h":720,"seed":13}
+]

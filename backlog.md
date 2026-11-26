@@ -26,7 +26,8 @@ Status: `todo` → `done YYYY-MM-DD` / `skip (reason)`. Take the first `todo` (d
 | 018b | Acoustic Kitty (was 018) | todo |
 | 019 | Epstein series 3/4: what's inside the 2026 DOJ release (black pages, 3M pages, redaction errors, what's missing) | done 2026-11-25 |
 | 019b | The Robertson Panel (was 019) | todo |
-| 020 | CORONA | todo |
+| 020 | Able Archer 83 / the 1983 war scare (PFIAB report) | done 2026-11-27 |
+| 020b | CORONA (was 020) | todo |
 | 021 | Church Committee: assassination report | todo |
 | 022 | AARO historical report | todo |
 | 023 | COINTELPRO | todo |

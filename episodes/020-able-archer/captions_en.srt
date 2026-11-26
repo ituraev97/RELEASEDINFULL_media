@@ -1,0 +1,2027 @@
+1
+00:00:00,600 --> 00:00:03,628
+In November 1983, a U.S. advisory board
+
+2
+00:00:03,648 --> 00:00:06,676
+later concluded, some Soviet forces may
+
+3
+00:00:06,696 --> 00:00:09,646
+have been preparing for a NATO nuclear
+
+4
+00:00:09,666 --> 00:00:10,193
+strike.
+
+5
+00:00:10,663 --> 00:00:11,653
+It was only a drill.
+
+6
+00:00:12,123 --> 00:00:14,253
+So why did some in Moscow fear it was
+
+7
+00:00:14,273 --> 00:00:14,543
+real?
+
+8
+00:00:15,113 --> 00:00:17,453
+This is the cover of a secret report
+
+9
+00:00:17,473 --> 00:00:19,682
+written for the President in 1990.
+
+10
+00:00:20,152 --> 00:00:21,942
+Its title: The Soviet War Scare.
+
+11
+00:00:22,412 --> 00:00:25,157
+It stayed classified for 25 years, until
+
+12
+00:00:25,177 --> 00:00:27,991
+the National Security Archive, after what
+
+13
+00:00:28,011 --> 00:00:30,825
+it calls a 12-year fight, got it released
+
+14
+00:00:30,845 --> 00:00:31,931
+in part in 2015.
+
+15
+00:00:32,501 --> 00:00:34,694
+Its authors, the President's Foreign
+
+16
+00:00:34,714 --> 00:00:37,030
+Intelligence Advisory Board, looked at
+
+17
+00:00:37,050 --> 00:00:39,611
+hundreds of documents and interviewed more
+
+18
+00:00:39,631 --> 00:00:42,009
+than 75 American and British officials.
+
+19
+00:00:42,479 --> 00:00:44,534
+About the NATO exercise called Able
+
+20
+00:00:44,554 --> 00:00:45,661
+Archer, they wrote:
+
+21
+00:00:46,231 --> 00:00:48,739
+There is little doubt in our minds that
+
+22
+00:00:48,759 --> 00:00:51,462
+the Soviets were genuinely worried by Able
+
+23
+00:00:51,482 --> 00:00:54,184
+Archer; however, the depth of that concern
+
+24
+00:00:54,204 --> 00:00:55,611
+is difficult to gauge.
+
+25
+00:00:56,180 --> 00:00:57,784
+Today we read the paper trail:
+
+26
+00:00:58,254 --> 00:01:00,527
+the after action report by the U.S.
+
+27
+00:01:00,547 --> 00:01:03,015
+Strategic Air Command's observer team,
+
+28
+00:01:03,485 --> 00:01:05,732
+the Soviet side as American intelligence
+
+29
+00:01:05,752 --> 00:01:06,128
+saw it,
+
+30
+00:01:06,598 --> 00:01:08,527
+the memo that reached President Reagan,
+
+31
+00:01:08,997 --> 00:01:11,624
+and the argument inside U.S. intelligence
+
+32
+00:01:11,644 --> 00:01:13,689
+over whether any of it was real.
+
+33
+00:01:14,259 --> 00:01:16,869
+Everything here comes from declassified
+
+34
+00:01:16,889 --> 00:01:19,430
+American records, a CIA study, and the
+
+35
+00:01:19,450 --> 00:01:21,857
+National Security Archive's summary.
+
+36
+00:01:22,327 --> 00:01:24,678
+Where historians and officials disagree,
+
+37
+00:01:24,698 --> 00:01:25,270
+we say so.
+
+38
+00:01:25,740 --> 00:01:27,862
+And we never claim more than the documents
+
+39
+00:01:27,882 --> 00:01:28,117
+show.
+
+40
+00:01:36,287 --> 00:01:38,515
+Start with what Able Archer actually was.
+
+41
+00:01:39,135 --> 00:01:40,664
+An annual NATO exercise.
+
+42
+00:01:41,134 --> 00:01:43,557
+A command post exercise: mainly staff
+
+43
+00:01:43,577 --> 00:01:46,330
+officers at headquarters, though the Board
+
+44
+00:01:46,350 --> 00:01:48,905
+says some U.S. forces also took part in
+
+45
+00:01:48,925 --> 00:01:49,698
+live drills.
+
+46
+00:01:50,168 --> 00:01:52,828
+The after action report calls it practice
+
+47
+00:01:52,848 --> 00:01:55,377
+in command and control, with particular
+
+48
+00:01:55,397 --> 00:01:57,403
+emphasis on the transition from
+
+49
+00:01:57,423 --> 00:01:59,953
+conventional operations to chemical and
+
+50
+00:01:59,973 --> 00:02:01,195
+nuclear operations.
+
+51
+00:02:01,765 --> 00:02:04,666
+In 1983 it ran from November seventh to
+
+52
+00:02:04,686 --> 00:02:06,014
+November eleventh.
+
+53
+00:02:06,484 --> 00:02:08,772
+Three days of what the report calls low
+
+54
+00:02:08,792 --> 00:02:10,429
+spectrum, conventional play.
+
+55
+00:02:10,899 --> 00:02:13,037
+Then two days of high spectrum play:
+
+56
+00:02:13,057 --> 00:02:13,756
+nuclear war.
+
+57
+00:02:14,326 --> 00:02:16,549
+The report says that in the exercise
+
+58
+00:02:16,569 --> 00:02:19,166
+scenario, orange forces attacked along the
+
+59
+00:02:19,186 --> 00:02:21,720
+entire German border, with air attacks on
+
+60
+00:02:21,740 --> 00:02:24,275
+blue airfields, and used chemical weapons
+
+61
+00:02:24,295 --> 00:02:25,770
+throughout the exercise.
+
+62
+00:02:26,340 --> 00:02:28,576
+On the second day, the report says, the
+
+63
+00:02:28,596 --> 00:02:30,659
+Strategic Air Command observers were
+
+64
+00:02:30,679 --> 00:02:33,090
+directed to an alternate war headquarters.
+
+65
+00:02:33,560 --> 00:02:35,919
+And it notes that helmets, gas masks and
+
+66
+00:02:35,939 --> 00:02:37,644
+chemical suits were required.
+
+67
+00:02:38,114 --> 00:02:40,448
+Gas masks were worn for hours after a
+
+68
+00:02:40,468 --> 00:02:42,102
+simulated chemical attack.
+
+69
+00:02:42,671 --> 00:02:45,302
+The Strategic Air Command sent a small
+
+70
+00:02:45,322 --> 00:02:47,884
+team to observe how B-52 bombers were
+
+71
+00:02:47,904 --> 00:02:48,232
+used.
+
+72
+00:02:48,702 --> 00:02:50,838
+Earlier, the report notes, SAC
+
+73
+00:02:50,858 --> 00:02:53,856
+participation had been discouraged because
+
+74
+00:02:53,876 --> 00:02:56,227
+of, quote, the possible political
+
+75
+00:02:56,247 --> 00:02:58,670
+implications or inferences of B-52
+
+76
+00:02:58,690 --> 00:02:59,532
+involvement.
+
+77
+00:03:00,103 --> 00:03:01,903
+Then comes a line that reads very
+
+78
+00:03:01,923 --> 00:03:02,896
+differently today.
+
+79
+00:03:03,316 --> 00:03:06,185
+Quote: Numerous times during the exercise,
+
+80
+00:03:06,205 --> 00:03:08,937
+the word strike was used in reference to
+
+81
+00:03:08,957 --> 00:03:09,832
+B-52 sorties.
+
+82
+00:03:10,414 --> 00:03:12,635
+While this is an obvious slip of the
+
+83
+00:03:12,655 --> 00:03:15,187
+tongue and was quickly corrected, in most
+
+84
+00:03:15,207 --> 00:03:17,801
+cases, it does serve to fuel any inference
+
+85
+00:03:17,821 --> 00:03:20,167
+should a remark be made in a nonsecure
+
+86
+00:03:20,187 --> 00:03:20,914
+environment.
+
+87
+00:03:21,484 --> 00:03:23,726
+To be clear: the drill was routine, and
+
+88
+00:03:23,746 --> 00:03:25,931
+nothing in these records suggests NATO
+
+89
+00:03:25,951 --> 00:03:26,976
+planned to attack.
+
+90
+00:03:27,446 --> 00:03:29,565
+The Advisory Board agrees it was a
+
+91
+00:03:29,585 --> 00:03:32,082
+recurring event that Soviet intelligence
+
+92
+00:03:32,102 --> 00:03:33,215
+normally monitors.
+
+93
+00:03:33,685 --> 00:03:36,394
+But the 1983 version, the Board says, had
+
+94
+00:03:36,414 --> 00:03:37,859
+some special wrinkles.
+
+95
+00:03:38,429 --> 00:03:40,483
+New procedures for releasing nuclear
+
+96
+00:03:40,503 --> 00:03:40,945
+weapons.
+
+97
+00:03:41,415 --> 00:03:43,757
+Pre-exercise messages that notionally
+
+98
+00:03:43,777 --> 00:03:45,991
+moved forces from normal readiness,
+
+99
+00:03:46,011 --> 00:03:48,672
+through various alert phases, to a general
+
+100
+00:03:48,692 --> 00:03:49,056
+alert.
+
+101
+00:03:49,526 --> 00:03:51,638
+And the Board was told that some U.S.
+
+102
+00:03:51,658 --> 00:03:53,597
+aircraft practiced nuclear warhead
+
+103
+00:03:53,617 --> 00:03:54,116
+handling,
+
+104
+00:03:54,586 --> 00:03:56,267
+taxiing out of hangars carrying
+
+105
+00:03:56,287 --> 00:03:58,078
+realistic-looking dummy warheads.
+
+106
+00:03:58,647 --> 00:04:00,958
+According to the National Security
+
+107
+00:04:00,978 --> 00:04:03,837
+Archive, summarizing declassified NATO and
+
+108
+00:04:03,857 --> 00:04:06,579
+Air Force documents, the exercise season
+
+109
+00:04:06,599 --> 00:04:09,115
+also included a radio-silent airlift:
+
+110
+00:04:09,585 --> 00:04:13,205
+170 flights carrying about 19,000 American
+
+111
+00:04:13,225 --> 00:04:14,852
+soldiers to Europe.
+
+112
+00:04:15,423 --> 00:04:17,427
+Now look at the map from the Soviet side.
+
+113
+00:04:18,046 --> 00:04:20,602
+The Advisory Board says Soviet early
+
+114
+00:04:20,622 --> 00:04:23,392
+warning radars could once give about 13
+
+115
+00:04:23,412 --> 00:04:26,039
+minutes of warning of American ICBMs.
+
+116
+00:04:26,509 --> 00:04:29,038
+New radars and satellites raised that to
+
+117
+00:04:29,058 --> 00:04:29,611
+about 30.
+
+118
+00:04:30,081 --> 00:04:32,322
+Then NATO began deploying Pershing II
+
+119
+00:04:32,342 --> 00:04:33,850
+missiles in West Germany,
+
+120
+00:04:34,320 --> 00:04:36,702
+and by Soviet calculations, the Board
+
+121
+00:04:36,722 --> 00:04:39,364
+says, warning of a first strike on Moscow
+
+122
+00:04:39,384 --> 00:04:41,636
+fell, probably, to about 8 minutes.
+
+123
+00:04:42,206 --> 00:04:43,399
+The Board adds a caution.
+
+124
+00:04:43,869 --> 00:04:46,243
+The Pershing II's real range, 1,800
+
+125
+00:04:46,263 --> 00:04:49,047
+kilometers, would not have reached Moscow
+
+126
+00:04:49,067 --> 00:04:50,278
+from West Germany.
+
+127
+00:04:50,748 --> 00:04:53,462
+Warsaw Pact sources, though, credited it
+
+128
+00:04:53,482 --> 00:04:54,213
+with 2,500.
+
+129
+00:04:54,783 --> 00:04:55,731
+And who decides?
+
+130
+00:04:56,201 --> 00:04:58,687
+The Board says probably no more than three
+
+131
+00:04:58,707 --> 00:05:00,954
+leaders could authorize Soviet nuclear
+
+132
+00:05:00,974 --> 00:05:01,431
+weapons.
+
+133
+00:05:01,901 --> 00:05:04,325
+Under extreme time pressure, perhaps only
+
+134
+00:05:04,345 --> 00:05:06,531
+the General Secretary and the Defense
+
+135
+00:05:06,551 --> 00:05:07,067
+Minister.
+
+136
+00:05:07,638 --> 00:05:09,722
+The man in the top job kept changing.
+
+137
+00:05:10,192 --> 00:05:12,316
+The Board notes the post of General
+
+138
+00:05:12,336 --> 00:05:14,643
+Secretary changed hands three times in
+
+139
+00:05:14,663 --> 00:05:15,379
+three years.
+
+140
+00:05:15,849 --> 00:05:18,376
+Brezhnev died in November 1982.
+
+141
+00:05:18,846 --> 00:05:21,121
+Andropov, February 1984.
+
+142
+00:05:21,591 --> 00:05:23,712
+Chernenko, March 1985.
+
+143
+00:05:24,282 --> 00:05:25,646
+Andropov was gravely ill.
+
+144
+00:05:26,116 --> 00:05:28,124
+The Board says kidney failure in late
+
+145
+00:05:28,144 --> 00:05:29,879
+September led to a long illness.
+
+146
+00:05:30,349 --> 00:05:32,222
+He failed to appear at the Kremlin
+
+147
+00:05:32,242 --> 00:05:34,060
+celebrations on November seventh,
+
+148
+00:05:34,530 --> 00:05:35,984
+the day Able Archer began.
+
+149
+00:05:36,554 --> 00:05:38,487
+Behind the scare was an intelligence
+
+150
+00:05:38,507 --> 00:05:39,464
+collection effort.
+
+151
+00:05:40,084 --> 00:05:42,866
+In 1981, the KGB launched an operation
+
+152
+00:05:42,886 --> 00:05:45,741
+called RYAN, from the Russian words for
+
+153
+00:05:45,761 --> 00:05:47,437
+nuclear missile attack.
+
+154
+00:05:47,907 --> 00:05:50,207
+Officers abroad were ordered to look for
+
+155
+00:05:50,227 --> 00:05:52,236
+signs that the West was preparing a
+
+156
+00:05:52,256 --> 00:05:53,164
+surprise strike.
+
+157
+00:05:53,734 --> 00:05:56,502
+By 1984, the Board says, tasking from
+
+158
+00:05:56,522 --> 00:05:59,215
+Moscow had grown curiously esoteric.
+
+159
+00:05:59,685 --> 00:06:01,617
+London was told to watch the cruise
+
+160
+00:06:01,637 --> 00:06:03,401
+missile base at Greenham Common,
+
+161
+00:06:03,871 --> 00:06:05,436
+and to keep an eye on banks,
+
+162
+00:06:05,456 --> 00:06:07,304
+slaughterhouses and post offices.
+
+163
+00:06:07,874 --> 00:06:10,536
+The report gives one small example of the
+
+164
+00:06:10,556 --> 00:06:12,107
+KGB's reporting demands.
+
+165
+00:06:12,577 --> 00:06:15,057
+A local campaign for blood donors met a
+
+166
+00:06:15,077 --> 00:06:17,556
+requirement to report evidence of blood
+
+167
+00:06:17,576 --> 00:06:18,005
+drives.
+
+168
+00:06:18,475 --> 00:06:19,572
+So it was reported.
+
+169
+00:06:20,042 --> 00:06:22,087
+And headquarters praised the London
+
+170
+00:06:22,107 --> 00:06:24,448
+office, citing the blood donor report as
+
+171
+00:06:24,468 --> 00:06:25,805
+especially interesting.
+
+172
+00:06:26,375 --> 00:06:28,951
+A self-reinforcing cycle, the Board called
+
+173
+00:06:28,971 --> 00:06:29,136
+it:
+
+174
+00:06:29,719 --> 00:06:31,557
+leadership concern provoked more
+
+175
+00:06:31,577 --> 00:06:32,138
+reporting,
+
+176
+00:06:32,721 --> 00:06:34,683
+and more reporting added fuel to
+
+177
+00:06:34,703 --> 00:06:35,983
+leadership anxieties.
+
+178
+00:06:36,553 --> 00:06:38,803
+According to the National Security
+
+179
+00:06:38,823 --> 00:06:41,206
+Archive's summary of the report, the
+
+180
+00:06:41,226 --> 00:06:43,742
+program reportedly included a computer
+
+181
+00:06:43,762 --> 00:06:46,145
+model: a database of 40,000 weighted
+
+182
+00:06:46,165 --> 00:06:48,882
+military, political and economic factors.
+
+183
+00:06:49,352 --> 00:06:51,803
+Before long, the report says, it started
+
+184
+00:06:51,823 --> 00:06:53,532
+spewing very unwelcome news.
+
+185
+00:06:54,102 --> 00:06:57,035
+In January 1984, the head of the KGB's
+
+186
+00:06:57,055 --> 00:07:00,221
+foreign intelligence directorate, General
+
+187
+00:07:00,241 --> 00:07:03,096
+Kryuchkov, told his officers that the
+
+188
+00:07:03,116 --> 00:07:05,660
+threat of nuclear war had reached
+
+189
+00:07:05,680 --> 00:07:07,370
+dangerous proportions.
+
+190
+00:07:07,952 --> 00:07:10,386
+They must not, he said, fail to perceive
+
+191
+00:07:10,406 --> 00:07:12,902
+direct preparation by the adversary for a
+
+192
+00:07:12,922 --> 00:07:14,313
+nuclear missile attack.
+
+193
+00:07:14,883 --> 00:07:15,975
+Now the year itself.
+
+194
+00:07:16,595 --> 00:07:17,847
+March 1983.
+
+195
+00:07:18,317 --> 00:07:21,098
+President Reagan calls the Soviet Union an
+
+196
+00:07:21,118 --> 00:07:21,899
+evil empire.
+
+197
+00:07:22,369 --> 00:07:24,862
+And two weeks later he announces a missile
+
+198
+00:07:24,882 --> 00:07:27,256
+defense research program the press calls
+
+199
+00:07:27,276 --> 00:07:27,855
+Star Wars.
+
+200
+00:07:28,425 --> 00:07:30,258
+The Soviet media answered in kind.
+
+201
+00:07:30,728 --> 00:07:33,063
+According to a CIA study, Reagan was
+
+202
+00:07:33,083 --> 00:07:35,811
+repeatedly compared to Hitler, and accused
+
+203
+00:07:35,831 --> 00:07:37,708
+of fanning the flames of war.
+
+204
+00:07:38,178 --> 00:07:40,818
+General Secretary Andropov suggested the
+
+205
+00:07:40,838 --> 00:07:43,013
+President was insane, and a liar.
+
+206
+00:07:43,583 --> 00:07:46,862
+On September first, a Soviet fighter shot
+
+207
+00:07:46,882 --> 00:07:49,517
+down Korean Air Lines Flight 007.
+
+208
+00:07:49,987 --> 00:07:52,690
+All 269 people aboard died.
+
+209
+00:07:53,160 --> 00:07:54,491
+Reagan addressed the nation.
+
+210
+00:07:55,062 --> 00:07:57,878
+The CIA's own historian later wrote that
+
+211
+00:07:57,898 --> 00:08:00,573
+the shootdown raised Soviet fears of a
+
+212
+00:08:00,593 --> 00:08:02,346
+possible American attack,
+
+213
+00:08:02,928 --> 00:08:05,482
+and quote, made Moscow more suspicious
+
+214
+00:08:05,502 --> 00:08:08,191
+that US military exercises might conceal
+
+215
+00:08:08,211 --> 00:08:10,495
+preparations for an actual attack.
+
+216
+00:08:11,077 --> 00:08:12,977
+Within weeks, he wrote, Soviet
+
+217
+00:08:12,997 --> 00:08:15,539
+intelligence would react in exactly that
+
+218
+00:08:15,559 --> 00:08:15,795
+way.
+
+219
+00:08:16,365 --> 00:08:18,549
+The Advisory Board adds that Soviet
+
+220
+00:08:18,569 --> 00:08:20,941
+officials, according to press reports,
+
+221
+00:08:20,961 --> 00:08:23,397
+concluded the Reagan administration had
+
+222
+00:08:23,417 --> 00:08:25,853
+deliberately engineered the incident to
+
+223
+00:08:25,873 --> 00:08:27,238
+poison the atmosphere.
+
+224
+00:08:27,708 --> 00:08:29,569
+The Board reports that as the Soviet
+
+225
+00:08:29,589 --> 00:08:30,144
+conclusion.
+
+226
+00:08:30,484 --> 00:08:31,858
+It is not a finding of fact.
+
+227
+00:08:32,428 --> 00:08:33,296
+Then October.
+
+228
+00:08:33,766 --> 00:08:35,782
+On the twenty-third, the bombing of the
+
+229
+00:08:35,802 --> 00:08:37,140
+Marine barracks in Beirut.
+
+230
+00:08:37,610 --> 00:08:40,014
+On the twenty-fifth, American troops land
+
+231
+00:08:40,034 --> 00:08:40,664
+on Grenada.
+
+232
+00:08:41,134 --> 00:08:43,317
+The Board says the Kremlin called the
+
+233
+00:08:43,337 --> 00:08:45,579
+Grenada landing a bandit attack, and a
+
+234
+00:08:45,599 --> 00:08:47,543
+crime against peace and humanity.
+
+235
+00:08:48,113 --> 00:08:50,375
+And inside the Soviet Union, the Board
+
+236
+00:08:50,395 --> 00:08:52,596
+says, a Western visitor reported that
+
+237
+00:08:52,616 --> 00:08:54,457
+Andropov sent a letter to party
+
+238
+00:08:54,477 --> 00:08:56,378
+organizations declaring that the
+
+239
+00:08:56,398 --> 00:08:58,239
+motherland was truly in danger,
+
+240
+00:08:58,709 --> 00:09:00,919
+and that there was no chance of improving
+
+241
+00:09:00,939 --> 00:09:02,713
+relations with the United States.
+
+242
+00:09:03,183 --> 00:09:05,336
+It was reportedly read at closed party
+
+243
+00:09:05,356 --> 00:09:06,936
+meetings across the country.
+
+244
+00:09:07,506 --> 00:09:08,512
+November seventh.
+
+245
+00:09:09,133 --> 00:09:10,342
+Able Archer begins.
+
+246
+00:09:10,812 --> 00:09:13,533
+The same day, according to press accounts
+
+247
+00:09:13,553 --> 00:09:16,074
+cited in the Board's report, Politburo
+
+248
+00:09:16,094 --> 00:09:18,548
+member Grigory Romanov told a Kremlin
+
+249
+00:09:18,568 --> 00:09:21,289
+audience the international situation was,
+
+250
+00:09:21,309 --> 00:09:22,426
+quote, white hot.
+
+251
+00:09:22,896 --> 00:09:24,031
+Thoroughly white hot.
+
+252
+00:09:24,600 --> 00:09:27,620
+On November eighth or ninth, Moscow sent a
+
+253
+00:09:27,640 --> 00:09:30,153
+circular telegram to KGB offices in
+
+254
+00:09:30,173 --> 00:09:31,238
+Western Europe.
+
+255
+00:09:31,708 --> 00:09:34,249
+It ordered them to report on the increased
+
+256
+00:09:34,269 --> 00:09:36,139
+alert status of American bases,
+
+257
+00:09:36,609 --> 00:09:38,364
+and to check for indications of an
+
+258
+00:09:38,384 --> 00:09:39,668
+impending nuclear attack.
+
+259
+00:09:40,138 --> 00:09:42,415
+The London office read it as a sign of
+
+260
+00:09:42,435 --> 00:09:44,046
+headquarters' RYAN concern.
+
+261
+00:09:44,616 --> 00:09:47,264
+The best-known account comes from a KGB
+
+262
+00:09:47,284 --> 00:09:49,932
+officer in London, Oleg Gordievsky, who
+
+263
+00:09:49,952 --> 00:09:52,122
+was secretly working for British
+
+264
+00:09:52,142 --> 00:09:54,790
+intelligence, as later described in the
+
+265
+00:09:54,810 --> 00:09:55,884
+official record.
+
+266
+00:09:56,354 --> 00:09:59,392
+A CIA historian summarizes it: the cable
+
+267
+00:09:59,412 --> 00:10:02,450
+reportedly suggested American forces had
+
+268
+00:10:02,470 --> 00:10:03,520
+gone on alert,
+
+269
+00:10:03,990 --> 00:10:06,029
+and that the United States might have
+
+270
+00:10:06,049 --> 00:10:08,310
+begun the countdown to a surprise nuclear
+
+271
+00:10:08,330 --> 00:10:08,532
+war.
+
+272
+00:10:09,103 --> 00:10:10,387
+What did the Soviets do?
+
+273
+00:10:10,857 --> 00:10:13,108
+The Advisory Board lists reactions it
+
+274
+00:10:13,128 --> 00:10:14,828
+calls unparalleled in scale.
+
+275
+00:10:15,248 --> 00:10:17,502
+More than 36 intelligence flights,
+
+276
+00:10:17,522 --> 00:10:20,043
+including missions over the Norwegian,
+
+277
+00:10:20,063 --> 00:10:22,116
+North, Baltic and Barents Seas.
+
+278
+00:10:22,586 --> 00:10:24,921
+A suspension of all flight operations
+
+279
+00:10:24,941 --> 00:10:27,213
+except intelligence collection, from
+
+280
+00:10:27,233 --> 00:10:29,886
+November fourth to tenth, probably to have
+
+281
+00:10:29,906 --> 00:10:32,559
+as many aircraft as possible available for
+
+282
+00:10:32,579 --> 00:10:33,005
+combat.
+
+283
+00:10:33,475 --> 00:10:36,061
+And, the report says, transporting nuclear
+
+284
+00:10:36,081 --> 00:10:38,419
+weapons from storage sites to delivery
+
+285
+00:10:38,439 --> 00:10:39,660
+units by helicopter.
+
+286
+00:10:40,230 --> 00:10:42,170
+Parts of that page remain blacked out.
+
+287
+00:10:42,752 --> 00:10:44,351
+But the Board's reading is plain.
+
+288
+00:10:44,933 --> 00:10:47,703
+The scale and timing, it wrote, strongly
+
+289
+00:10:47,723 --> 00:10:50,563
+suggests that Soviet military leaders may
+
+290
+00:10:50,583 --> 00:10:53,423
+have been seriously concerned that the US
+
+291
+00:10:53,443 --> 00:10:56,143
+would use Able Archer 83 as a cover for
+
+292
+00:10:56,163 --> 00:10:57,817
+launching a real attack.
+
+293
+00:10:58,387 --> 00:11:00,710
+Most of this was not visible, in its
+
+294
+00:11:00,730 --> 00:11:03,313
+totality, until long after the exercise.
+
+295
+00:11:03,783 --> 00:11:06,067
+The Board says the full extent of the
+
+296
+00:11:06,087 --> 00:11:08,683
+Soviet alert was not known until two weeks
+
+297
+00:11:08,703 --> 00:11:10,240
+after the exercise ended,
+
+298
+00:11:10,710 --> 00:11:13,295
+and the standdown had been in effect for
+
+299
+00:11:13,315 --> 00:11:15,835
+nearly a week before fully armed MiG-23
+
+300
+00:11:15,855 --> 00:11:18,440
+fighters were noted on air defense alert
+
+301
+00:11:18,460 --> 00:11:19,482
+in East Germany.
+
+302
+00:11:20,052 --> 00:11:21,969
+According to the National Security
+
+303
+00:11:21,989 --> 00:11:23,678
+Archive's summary, the Defense
+
+304
+00:11:23,698 --> 00:11:25,843
+Intelligence Agency did not report the
+
+305
+00:11:25,863 --> 00:11:28,008
+standdown until a week after it began,
+
+306
+00:11:28,478 --> 00:11:30,893
+and no President's Daily Brief mentioned
+
+307
+00:11:30,913 --> 00:11:33,329
+Able Archer or the Soviet response while
+
+308
+00:11:33,349 --> 00:11:34,364
+it was happening.
+
+309
+00:11:34,834 --> 00:11:37,152
+The President's own national security
+
+310
+00:11:37,172 --> 00:11:39,743
+adviser, Robert McFarlane, told the Board
+
+311
+00:11:39,763 --> 00:11:42,208
+he remembered hearing nothing about it.
+
+312
+00:11:42,778 --> 00:11:43,843
+So who was watching?
+
+313
+00:11:44,463 --> 00:11:47,140
+At U.S. Air Forces in Europe, the chief of
+
+314
+00:11:47,160 --> 00:11:49,708
+intelligence, Lieutenant General Leonard
+
+315
+00:11:49,728 --> 00:11:52,277
+Perroots, saw Soviet aircraft going to a
+
+316
+00:11:52,297 --> 00:11:53,368
+heightened alert.
+
+317
+00:11:53,838 --> 00:11:56,132
+He had a choice: raise American readiness
+
+318
+00:11:56,152 --> 00:11:57,655
+in response, or do nothing.
+
+319
+00:11:58,225 --> 00:11:59,989
+He recommended not to respond.
+
+320
+00:12:00,571 --> 00:12:03,210
+The Advisory Board calls that decision, in
+
+321
+00:12:03,230 --> 00:12:05,679
+its words, fortuitous, if ill-informed.
+
+322
+00:12:06,261 --> 00:12:08,839
+The officers in charge, it says, acted
+
+323
+00:12:08,859 --> 00:12:11,506
+correctly out of instinct, not informed
+
+324
+00:12:11,526 --> 00:12:12,121
+guidance.
+
+325
+00:12:12,691 --> 00:12:15,488
+In January 1989, before retiring, Perroots
+
+326
+00:12:15,508 --> 00:12:18,170
+sent a parting letter to the Director of
+
+327
+00:12:18,190 --> 00:12:20,785
+Central Intelligence and to this Board,
+
+328
+00:12:21,255 --> 00:12:23,618
+voicing his disquiet over the inadequate
+
+329
+00:12:23,638 --> 00:12:25,643
+treatment of the Soviet war scare.
+
+330
+00:12:26,113 --> 00:12:28,325
+The National Security Archive says the
+
+331
+00:12:28,345 --> 00:12:30,792
+Board indicated it likely would never have
+
+332
+00:12:30,812 --> 00:12:32,671
+studied the episode without him.
+
+333
+00:12:33,242 --> 00:12:34,776
+The British saw the danger too.
+
+334
+00:12:35,246 --> 00:12:37,150
+According to the Board, Britain's
+
+335
+00:12:37,170 --> 00:12:39,307
+ambassador visited Under Secretary of
+
+336
+00:12:39,327 --> 00:12:40,882
+State Lawrence Eagleburger.
+
+337
+00:12:41,352 --> 00:12:43,509
+But the State Department's intelligence
+
+338
+00:12:43,529 --> 00:12:45,686
+bureau presented a skeptical version of
+
+339
+00:12:45,706 --> 00:12:47,807
+events, designed, in its officer's own
+
+340
+00:12:47,827 --> 00:12:49,649
+words, to discourage the British.
+
+341
+00:12:50,219 --> 00:12:52,682
+The National Security Archive adds that
+
+342
+00:12:52,702 --> 00:12:55,038
+when the State Department requested a
+
+343
+00:12:55,058 --> 00:12:57,713
+sanitized version of the estimate for NATO
+
+344
+00:12:57,733 --> 00:12:58,159
+allies,
+
+345
+00:12:58,629 --> 00:13:01,240
+it removed all mentions of Able Archer and
+
+346
+00:13:01,260 --> 00:13:02,494
+the Soviet response.
+
+347
+00:13:03,063 --> 00:13:03,968
+And the President?
+
+348
+00:13:04,588 --> 00:13:07,044
+A week after the exercise, on November
+
+349
+00:13:07,064 --> 00:13:09,520
+eighteenth, Reagan wrote in his diary:
+
+350
+00:13:10,102 --> 00:13:12,623
+I feel the Soviets are so defense minded,
+
+351
+00:13:12,643 --> 00:13:14,977
+so paranoid about being attacked, that
+
+352
+00:13:14,997 --> 00:13:17,456
+without being in any way soft on them we
+
+353
+00:13:17,476 --> 00:13:19,872
+ought to tell them that no one here has
+
+354
+00:13:19,892 --> 00:13:22,474
+any intention of doing anything like that.
+
+355
+00:13:23,044 --> 00:13:26,024
+Seven months later, in June 1984, CIA
+
+356
+00:13:26,044 --> 00:13:29,348
+Director William Casey sent the President
+
+357
+00:13:29,368 --> 00:13:32,429
+and his top advisers a memo titled, US
+
+358
+00:13:32,449 --> 00:13:33,645
+Soviet Tension.
+
+359
+00:13:34,115 --> 00:13:36,538
+I attach here a rather stunning array of
+
+360
+00:13:36,558 --> 00:13:39,103
+indicators of an increasing aggressiveness
+
+361
+00:13:39,123 --> 00:13:41,057
+in Soviet policy and activities.
+
+362
+00:13:41,627 --> 00:13:43,758
+The list included a ban on military help
+
+363
+00:13:43,778 --> 00:13:44,671
+with the harvest,
+
+364
+00:13:45,141 --> 00:13:47,647
+civilian aircraft production cut in favor
+
+365
+00:13:47,667 --> 00:13:49,064
+of military transports,
+
+366
+00:13:49,534 --> 00:13:51,789
+restrictions on Western diplomats' travel,
+
+367
+00:13:52,259 --> 00:13:54,997
+and a Soviet media message likening U.S.
+
+368
+00:13:55,017 --> 00:13:57,616
+Soviet relations to those between Nazi
+
+369
+00:13:57,636 --> 00:14:00,442
+Germany and the Soviet Union before World
+
+370
+00:14:00,462 --> 00:14:00,924
+War II.
+
+371
+00:14:01,494 --> 00:14:04,208
+According to McFarlane, the Board reports,
+
+372
+00:14:04,228 --> 00:14:06,616
+the President expressed surprise upon
+
+373
+00:14:06,636 --> 00:14:09,349
+reading the memo, and described the events
+
+374
+00:14:09,369 --> 00:14:10,911
+as, quote, really scary.
+
+375
+00:14:11,493 --> 00:14:13,742
+McFarlane himself was less convinced.
+
+376
+00:14:14,325 --> 00:14:16,604
+He wondered whether Moscow was trying to
+
+377
+00:14:16,624 --> 00:14:18,902
+drive a wedge through Europe, to counter
+
+378
+00:14:18,922 --> 00:14:21,086
+the President's missile defense plans.
+
+379
+00:14:21,656 --> 00:14:24,356
+Journalist Don Oberdorfer, quoted in the
+
+380
+00:14:24,376 --> 00:14:26,940
+CIA study, reported that Reagan asked,
+
+381
+00:14:27,410 --> 00:14:29,296
+do you suppose they really believe that?
+
+382
+00:14:29,766 --> 00:14:32,383
+The National Security Archive says he also
+
+383
+00:14:32,403 --> 00:14:34,769
+asked his ambassador in Moscow, Arthur
+
+384
+00:14:34,789 --> 00:14:37,029
+Hartman: do you think Soviet leaders
+
+385
+00:14:37,049 --> 00:14:39,603
+really fear us, or is all the huffing and
+
+386
+00:14:39,623 --> 00:14:41,988
+puffing just part of their propaganda?
+
+387
+00:14:42,558 --> 00:14:44,689
+Whether the scare changed his thinking is
+
+388
+00:14:44,709 --> 00:14:45,948
+a matter for historians.
+
+389
+00:14:46,418 --> 00:14:48,932
+The CIA's own study notes that Britain's
+
+390
+00:14:48,952 --> 00:14:51,339
+prime minister, Margaret Thatcher, was
+
+391
+00:14:51,359 --> 00:14:53,745
+pressing the President to moderate his
+
+392
+00:14:53,765 --> 00:14:54,315
+approach,
+
+393
+00:14:54,785 --> 00:14:56,887
+and says some analysts suspected the
+
+394
+00:14:56,907 --> 00:14:59,245
+British put their own spin on the Soviet
+
+395
+00:14:59,265 --> 00:14:59,834
+reporting.
+
+396
+00:15:00,405 --> 00:15:01,310
+So was it real?
+
+397
+00:15:01,930 --> 00:15:05,087
+American intelligence's first answer, in
+
+398
+00:15:05,107 --> 00:15:06,120
+1984, was no.
+
+399
+00:15:06,590 --> 00:15:08,625
+A Special National Intelligence Estimate
+
+400
+00:15:08,645 --> 00:15:08,882
+said:
+
+401
+00:15:09,352 --> 00:15:11,960
+we believe strongly that Soviet actions
+
+402
+00:15:11,980 --> 00:15:14,790
+are not inspired by, and Soviet leaders do
+
+403
+00:15:14,810 --> 00:15:17,620
+not perceive, a genuine danger of imminent
+
+404
+00:15:17,640 --> 00:15:20,382
+conflict or confrontation with the United
+
+405
+00:15:20,402 --> 00:15:20,854
+States.
+
+406
+00:15:21,424 --> 00:15:23,338
+It judged the Soviet war talk to be
+
+407
+00:15:23,358 --> 00:15:23,945
+propaganda,
+
+408
+00:15:24,415 --> 00:15:26,691
+aimed at discrediting U.S. policies and
+
+409
+00:15:26,711 --> 00:15:28,280
+mobilizing peace pressures.
+
+410
+00:15:28,750 --> 00:15:31,958
+A CIA memo from December 1983 put it in
+
+411
+00:15:31,978 --> 00:15:33,116
+similar terms:
+
+412
+00:15:33,586 --> 00:15:35,900
+encourage resistance to the new missile
+
+413
+00:15:35,920 --> 00:15:38,294
+deployments, deepen cleavages within the
+
+414
+00:15:38,314 --> 00:15:39,371
+Atlantic alliance,
+
+415
+00:15:39,841 --> 00:15:42,248
+and build public pressure on Washington
+
+416
+00:15:42,268 --> 00:15:44,426
+toward a more conciliatory posture.
+
+417
+00:15:44,996 --> 00:15:46,696
+And there is evidence for the skeptics.
+
+418
+00:15:47,166 --> 00:15:49,626
+The CIA historian wrote that Able Archer
+
+419
+00:15:49,646 --> 00:15:52,106
+seems to have made more of an impression
+
+420
+00:15:52,126 --> 00:15:54,524
+on the White House than on the Kremlin.
+
+421
+00:15:54,994 --> 00:15:57,039
+A senior Soviet affairs expert who
+
+422
+00:15:57,059 --> 00:15:59,408
+questioned Soviet leaders reported that
+
+423
+00:15:59,428 --> 00:16:00,683
+none had heard of it.
+
+424
+00:16:01,153 --> 00:16:03,813
+A GRU officer said watch officers were
+
+425
+00:16:03,833 --> 00:16:06,634
+concerned, but saw nothing else unusual.
+
+426
+00:16:07,204 --> 00:16:08,845
+The Advisory Board disagreed.
+
+427
+00:16:09,428 --> 00:16:11,814
+It said the evidence then did not, and
+
+428
+00:16:11,834 --> 00:16:14,092
+certainly does not now, support such
+
+429
+00:16:14,112 --> 00:16:15,484
+categoric conclusions.
+
+430
+00:16:16,067 --> 00:16:18,432
+A strongly stated interpretation, it
+
+431
+00:16:18,452 --> 00:16:20,949
+wrote, was defended by explaining away
+
+432
+00:16:20,969 --> 00:16:22,737
+facts inconsistent with it.
+
+433
+00:16:23,308 --> 00:16:24,736
+But the Board is careful too.
+
+434
+00:16:25,206 --> 00:16:27,226
+It calls its reading a plausible
+
+435
+00:16:27,246 --> 00:16:29,584
+interpretation based on a sizable but
+
+436
+00:16:29,604 --> 00:16:31,369
+incomplete body of evidence.
+
+437
+00:16:31,839 --> 00:16:34,395
+It says Soviet reactions were mixed, and
+
+438
+00:16:34,415 --> 00:16:37,035
+that intelligence detected no large-scale
+
+439
+00:16:37,055 --> 00:16:38,323
+Warsaw Pact buildup.
+
+440
+00:16:38,793 --> 00:16:40,858
+And it writes that it does not intend this
+
+441
+00:16:40,878 --> 00:16:41,901
+to be the final word.
+
+442
+00:16:42,470 --> 00:16:44,580
+So the documents support two readings.
+
+443
+00:16:45,163 --> 00:16:47,281
+One: a propaganda campaign that
+
+444
+00:16:47,301 --> 00:16:49,763
+reverberated in Soviet bureaucracies
+
+445
+00:16:49,783 --> 00:16:52,521
+without reflecting real fear at the top.
+
+446
+00:16:53,104 --> 00:16:55,243
+The other: real fear, in part of the
+
+447
+00:16:55,263 --> 00:16:57,521
+Soviet system, that a drill could be a
+
+448
+00:16:57,541 --> 00:16:58,659
+cover for a strike.
+
+449
+00:16:59,242 --> 00:17:00,680
+The Board favors the second.
+
+450
+00:17:01,100 --> 00:17:04,092
+The CIA historian agreed the KGB's alarm
+
+451
+00:17:04,112 --> 00:17:07,253
+was real, but found Able Archer registered
+
+452
+00:17:07,273 --> 00:17:09,888
+more in the White House than in the
+
+453
+00:17:09,908 --> 00:17:10,490
+Kremlin.
+
+454
+00:17:11,061 --> 00:17:11,923
+How did it end?
+
+455
+00:17:12,543 --> 00:17:15,110
+By November eleventh the Soviet alert was
+
+456
+00:17:15,130 --> 00:17:16,371
+evidently withdrawn.
+
+457
+00:17:16,841 --> 00:17:19,466
+That day, Defense Minister Ustinov told
+
+458
+00:17:19,486 --> 00:17:22,111
+senior officers that no enemy intrigues
+
+459
+00:17:22,131 --> 00:17:23,671
+will catch us unawares.
+
+460
+00:17:24,141 --> 00:17:27,031
+By autumn 1984, the Board says, the feared
+
+461
+00:17:27,051 --> 00:17:28,971
+attack had not materialized,
+
+462
+00:17:29,441 --> 00:17:32,334
+and by early 1985 Soviet fear of one
+
+463
+00:17:32,354 --> 00:17:33,952
+seemed to evaporate.
+
+464
+00:17:34,522 --> 00:17:36,436
+The expected American attack never
+
+465
+00:17:36,456 --> 00:17:37,176
+materialized.
+
+466
+00:17:37,646 --> 00:17:39,760
+According to the Board, Ogarkov was
+
+467
+00:17:39,780 --> 00:17:41,101
+removed from his post.
+
+468
+00:17:41,571 --> 00:17:43,612
+Ustinov died on December twentieth.
+
+469
+00:17:44,082 --> 00:17:47,050
+And when Chernenko died in March 1985,
+
+470
+00:17:47,070 --> 00:17:49,723
+Gorbachev succeeded him as General
+
+471
+00:17:49,743 --> 00:17:51,531
+Secretary the next day.
+
+472
+00:17:52,101 --> 00:17:54,373
+But the intelligence community's last word
+
+473
+00:17:54,393 --> 00:17:54,974
+was buried.
+
+474
+00:17:55,444 --> 00:17:58,271
+A 1988 annex said Soviet concerns about
+
+475
+00:17:58,291 --> 00:18:00,680
+the drift in superpower relations
+
+476
+00:18:00,700 --> 00:18:03,527
+indicated an increased threat of war in
+
+477
+00:18:03,547 --> 00:18:04,914
+some leaders' eyes,
+
+478
+00:18:05,384 --> 00:18:07,834
+and it sat in an annex to a tightly held
+
+479
+00:18:07,854 --> 00:18:10,119
+estimate, not meant for policymakers.
+
+480
+00:18:10,688 --> 00:18:12,980
+The Board's executive summary carries a
+
+481
+00:18:13,000 --> 00:18:14,462
+warning about the future.
+
+482
+00:18:14,883 --> 00:18:17,599
+It is an especially grave error, it wrote,
+
+483
+00:18:17,619 --> 00:18:20,336
+to assume that since we know the US is not
+
+484
+00:18:20,356 --> 00:18:22,812
+going to start World War III, the next
+
+485
+00:18:22,832 --> 00:18:25,418
+leaders of the Kremlin will also believe
+
+486
+00:18:25,438 --> 00:18:27,308
+that, and act on that belief.
+
+487
+00:18:27,878 --> 00:18:31,071
+Nobody started a war in November 1983.
+
+488
+00:18:31,541 --> 00:18:33,872
+A routine drill, which nothing in these
+
+489
+00:18:33,892 --> 00:18:36,224
+records suggests was meant as a threat,
+
+490
+00:18:36,244 --> 00:18:38,575
+may have been read by some on the other
+
+491
+00:18:38,595 --> 00:18:40,505
+side as the opening move of one.
+
+492
+00:18:40,975 --> 00:18:43,305
+The documents do not tell us how close it
+
+493
+00:18:43,325 --> 00:18:43,592
+came.
+
+494
+00:18:44,062 --> 00:18:46,170
+They tell us who was worried, what they
+
+495
+00:18:46,190 --> 00:18:48,299
+did, and who in Washington noticed, and
+
+496
+00:18:48,319 --> 00:18:48,572
+when.
+
+497
+00:18:49,142 --> 00:18:50,495
+Here is our question for you.
+
+498
+00:18:50,965 --> 00:18:53,007
+Was Able Archer a near miss, or a scare
+
+499
+00:18:53,027 --> 00:18:54,329
+that grew in the telling?
+
+500
+00:18:54,799 --> 00:18:57,459
+The Advisory Board and the CIA historian
+
+501
+00:18:57,479 --> 00:19:00,207
+differ on how much Able Archer registered
+
+502
+00:19:00,227 --> 00:19:01,213
+in the Kremlin.
+
+503
+00:19:01,683 --> 00:19:03,906
+Tell us in the comments which reading the
+
+504
+00:19:03,926 --> 00:19:06,094
+documents support, and please keep it to
+
+505
+00:19:06,114 --> 00:19:06,860
+the documents.
+
+506
+00:19:07,430 --> 00:19:09,732
+Next file: another secret the government
+
+507
+00:19:09,752 --> 00:19:10,719
+kept for decades.

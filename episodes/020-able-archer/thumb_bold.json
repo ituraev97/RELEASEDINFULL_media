@@ -1,0 +1,61 @@
+{
+ "A": {
+  "left": {
+   "img": "img/plate_A.jpg",
+   "cover": true,
+   "pos": "50% 50%",
+   "chip": "ILLUSTRATION \u00b7 NOT A REAL PHOTO"
+  },
+  "right": {
+   "img": "img/pf_genuine.jpg",
+   "cover": true,
+   "pos": "50% 40%",
+   "stamp": "DECLASSIFIED IN PART",
+   "stampPos": "left:40%;top:72%"
+  },
+  "split": 0.5,
+  "tag": "1983 WAR SCARE",
+  "line1": "ONLY A",
+  "line2": "DRILL?",
+  "line2color": "red",
+  "size1": 128,
+  "size2": 128
+ },
+ "B": {
+  "left": {
+   "q": [
+    "DID MOSCOW",
+    "FEAR A",
+    "DRILL?"
+   ]
+  },
+  "right": {
+   "img": "img/plate_B.jpg",
+   "cover": true,
+   "pos": "50% 50%",
+   "chip": "ILLUSTRATION \u00b7 NOT A REAL PHOTO"
+  },
+  "split": 0.5,
+  "tag": "ABLE ARCHER 83"
+ },
+ "C": {
+  "left": {
+   "img": "img/pf_cover.jpg",
+   "cover": true,
+   "pos": "50% 0%"
+  },
+  "right": {
+   "img": "img/plate_C.jpg",
+   "cover": true,
+   "pos": "50% 50%",
+   "chip": "ILLUSTRATION \u00b7 NOT A REAL PHOTO"
+  },
+  "split": 0.5,
+  "tag": "DECLASSIFIED 2015",
+  "line1": "THE SOVIET",
+  "line2": "WAR SCARE",
+  "line2color": "yellow",
+  "size1": 96,
+  "size2": 104
+ }
+}
