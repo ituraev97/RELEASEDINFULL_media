@@ -1,0 +1,438 @@
+[
+ {
+  "key": "stat_1ebc2c",
+  "name": "stat",
+  "opts": {
+   "k": "HOUSE VOTE \u00b7 NOV. 18, 2025",
+   "a": "427 \u2013 1",
+   "size": 300,
+   "b": "to release the Epstein files",
+   "c": "and a year later, Congress is still fighting over them",
+   "source": "SOURCE: NPR AND AP (NOV. 18, 2025) \u00b7 HOUSE CLERK ROLL CALL 289 AS REPORTED"
+  }
+ },
+ {
+  "key": "quote_4511d2",
+  "name": "quote",
+  "opts": {
+   "q": "Appearing in these records is {{not evidence of wrongdoing.}}",
+   "who": "Our rule for this series",
+   "role": "Released in Full",
+   "size": 70,
+   "source": "WE NAME ONLY PUBLIC OFFICIALS, IN THEIR PUBLIC ROLES"
+  }
+ },
+ {
+  "key": "intro_f505c0",
+  "name": "intro",
+  "opts": {
+   "n": "021"
+  }
+ },
+ {
+  "key": "title_842c5f",
+  "name": "title",
+  "opts": {
+   "n": "021",
+   "t": "THE VOTES",
+   "size": 170,
+   "sub": "Congress and the Epstein Files"
+  }
+ },
+ {
+  "key": "chapter_85d790",
+  "name": "chapter",
+  "opts": {
+   "n": "I",
+   "t": "The Memo"
+  }
+ },
+ {
+  "key": "doc_40c5b5",
+  "name": "doc",
+  "opts": {
+   "header": "MEMO \u00b7 JUSTICE DEPARTMENT AND F B I \u00b7 JULY 7, 2025 \u00b7 AS REPORTED BY PBS NEWSHOUR",
+   "title": "Summary of what the memo said",
+   "lines": [
+    "Epstein kept {{no \"client list\".}}",
+    "No further disclosure {{would be appropriate or warranted.}}"
+   ],
+   "stamp": "RECREATED",
+   "source": "SOURCE: PBS NEWSHOUR (JULY 2025) \u00b7 AXIOS (JULY 2025)"
+  }
+ },
+ {
+  "key": "quote_121d8a",
+  "name": "quote",
+  "opts": {
+   "q": "It's a very delicate subject, but we should put everything out there and {{let the people decide it.}}",
+   "who": "Speaker Mike Johnson (R-La.)",
+   "role": "Podcast interview, July 2025 \u00b7 as reported by Axios",
+   "size": 50,
+   "source": "SOURCE: PBS NEWSHOUR (JULY 2025) \u00b7 AXIOS (JULY 2025)"
+  }
+ },
+ {
+  "key": "stat_b610d7",
+  "name": "stat",
+  "opts": {
+   "k": "DISCHARGE PETITION",
+   "a": "218",
+   "size": 360,
+   "b": "signatures: a majority of the House",
+   "c": "forces a bill to the floor without the Speaker's approval",
+   "source": "SOURCE: HOUSE RULES, AS DESCRIBED BY ROLL CALL AND ABC NEWS"
+  }
+ },
+ {
+  "key": "chapter_521d27",
+  "name": "chapter",
+  "opts": {
+   "n": "II",
+   "t": "Subpoenas and a Petition"
+  }
+ },
+ {
+  "key": "list_f8891c",
+  "name": "list",
+  "opts": {
+   "kicker": "DISCHARGE PETITION \u00b7 REPUBLICAN SIGNERS",
+   "title": "As reported by NBC News, Nov. 12, 2025",
+   "items": [
+    {
+     "t": "Thomas Massie",
+     "s": "KENTUCKY"
+    },
+    {
+     "t": "Marjorie Taylor Greene",
+     "s": "GEORGIA"
+    },
+    {
+     "t": "Lauren Boebert",
+     "s": "COLORADO"
+    },
+    {
+     "t": "Nancy Mace",
+     "s": "SOUTH CAROLINA"
+    }
+   ],
+   "source": "SOURCE: NBC NEWS (NOV. 12, 2025)"
+  }
+ },
+ {
+  "key": "chapter_026273",
+  "name": "chapter",
+  "opts": {
+   "n": "III",
+   "t": "427 to 1"
+  }
+ },
+ {
+  "key": "stat_230fc3",
+  "name": "stat",
+  "opts": {
+   "k": "HOUSE VOTE \u00b7 NOV. 18, 2025",
+   "a": "427 \u2013 1",
+   "size": 300,
+   "b": "the Epstein Files Transparency Act passes the House",
+   "c": "216 Republicans and 211 Democrats voted yes \u00b7 one Republican voted no",
+   "source": "SOURCE: NPR AND AP (NOV. 18, 2025) \u00b7 HOUSE CLERK ROLL CALL 289 AS REPORTED"
+  }
+ },
+ {
+  "key": "quote_72992e",
+  "name": "quote",
+  "opts": {
+   "q": "This is about {{giving the American people the transparency}} they've been crying for.",
+   "who": "Sen. Chuck Schumer (D-N.Y.)",
+   "role": "Senate Minority Leader \u00b7 as reported by AP",
+   "size": 52,
+   "source": "SOURCE: AP VIA WHYY (NOV. 18, 2025)"
+  }
+ },
+ {
+  "key": "chapter_7c1c84",
+  "name": "chapter",
+  "opts": {
+   "n": "IV",
+   "t": "The Deadline"
+  }
+ },
+ {
+  "key": "list_bd1e35",
+  "name": "list",
+  "opts": {
+   "kicker": "PUBLIC LAW 119-38 \u00b7 WHAT IT REQUIRED",
+   "title": "As reported by CBS News",
+   "items": [
+    {
+     "t": "Publish the files, searchable",
+     "s": "WITHIN 30 DAYS \u00b7 DEC. 19, 2025"
+    },
+    {
+     "t": "Redactions allowed",
+     "s": "VICTIMS \u00b7 CHILD ABUSE MATERIAL"
+    },
+    {
+     "t": "Narrow, temporary hold",
+     "s": "ACTIVE INVESTIGATIONS ONLY"
+    },
+    {
+     "t": "No withholding for embarrassment",
+     "s": "OR REPUTATIONAL HARM OR POLITICAL SENSITIVITY"
+    }
+   ],
+   "source": "SOURCE: CBS NEWS (DEC. 2025) \u00b7 PUBLIC LAW 119-38 AS REPORTED"
+  }
+ },
+ {
+  "key": "doc_05baca",
+  "name": "doc",
+  "opts": {
+   "header": "PLAN \u00b7 REPS. MASSIE (R) AND KHANNA (D) \u00b7 DEC. 2025 \u00b7 AS REPORTED BY NPR AND NBC NEWS",
+   "title": "Inherent contempt against the Attorney General",
+   "lines": [
+    "Inherent contempt would let the House",
+    "{{fine the Attorney General}} directly."
+   ],
+   "stamp": "OUR SUMMARY",
+   "source": "SOURCE: ROLL CALL (DEC. 19, 2025) \u00b7 NPR (DEC. 21, 2025) \u00b7 NBC NEWS"
+  }
+ },
+ {
+  "key": "chapter_2d5984",
+  "name": "chapter",
+  "opts": {
+   "n": "V",
+   "t": "Three Million Pages"
+  }
+ },
+ {
+  "key": "stat_7dd776",
+  "name": "stat",
+  "opts": {
+   "k": "JUSTICE DEPARTMENT \u00b7 JAN. 30, 2026",
+   "a": "3 million+",
+   "size": 240,
+   "b": "pages released, plus 2,000+ videos and ~180,000 images",
+   "c": "as announced by the Justice Department \u00b7 NPR",
+   "source": "SOURCE: NPR (JAN. 30, 2026) \u00b7 ABC NEWS / GMA \u00b7 PBS NEWSHOUR"
+  }
+ },
+ {
+  "key": "list_297a3a",
+  "name": "list",
+  "opts": {
+   "kicker": "HOUSE JUDICIARY HEARING \u00b7 FEB. 11, 2026",
+   "title": "Two statements, as reported by NPR",
+   "items": [
+    {
+     "t": "Massie (R): \"This cover-up spans decades\""
+    },
+    {
+     "t": "Bondi: said she was deeply sorry for what any victim has been through"
+    }
+   ],
+   "source": "SOURCE: NPR (FEB. 11, 2026)"
+  }
+ },
+ {
+  "key": "stat_deca2e",
+  "name": "stat",
+  "opts": {
+   "k": "DOJ LETTER \u00b7 FEB. 14, 2026",
+   "a": "~280",
+   "size": 340,
+   "b": "names on a \"politically exposed persons\" list",
+   "c": "PBS: the term was not defined \u00b7 inclusion does not indicate wrongdoing",
+   "source": "SOURCE: PBS NEWSHOUR (FEB. 2026)"
+  }
+ },
+ {
+  "key": "chapter_6dc99d",
+  "name": "chapter",
+  "opts": {
+   "n": "VI",
+   "t": "New Leadership"
+  }
+ },
+ {
+  "key": "chapter_e7da18",
+  "name": "chapter",
+  "opts": {
+   "n": "VII",
+   "t": "The Oversight Report"
+  }
+ },
+ {
+  "key": "stat_d84369",
+  "name": "stat",
+  "opts": {
+   "k": "HOUSE OVERSIGHT COMMITTEE \u00b7 NOV. 10, 2026",
+   "a": "15 months",
+   "size": 230,
+   "b": "19 transcribed interviews and depositions",
+   "c": "Majority staff report \u00b7 Chairman James Comer (R-Ky.)",
+   "source": "SOURCE: HOUSE OVERSIGHT COMMITTEE (NOV. 10, 2026) \u00b7 NPR \u00b7 ABC NEWS / GMA"
+  }
+ },
+ {
+  "key": "quote_b0d734",
+  "name": "quote",
+  "opts": {
+   "q": "The evidence we uncovered makes clear that the Department of Justice must {{interview or re-interview key witnesses.}}",
+   "who": "Rep. James Comer (R-Ky.)",
+   "role": "Chairman, House Oversight Committee \u00b7 Nov. 10, 2026",
+   "size": 48,
+   "source": "SOURCE: HOUSE OVERSIGHT COMMITTEE PRESS RELEASE (NOV. 10, 2026)"
+  }
+ },
+ {
+  "key": "list_6f0be3",
+  "name": "list",
+  "opts": {
+   "kicker": "THE REPORT \u00b7 TWO READINGS",
+   "title": "As reported by NPR and ABC News",
+   "items": [
+    {
+     "t": "Majority (R): federal agencies failed to hold Epstein accountable"
+    },
+    {
+     "t": "Garcia (D): the report is \"partisan\"; the investigation \"incomplete\""
+    },
+    {
+     "t": "Democrats take the committee in January"
+    },
+    {
+     "t": "Garcia: Democrats plan public hearings"
+    }
+   ],
+   "source": "SOURCE: HOUSE OVERSIGHT COMMITTEE (NOV. 10, 2026) \u00b7 NPR \u00b7 ABC NEWS / GMA"
+  }
+ },
+ {
+  "key": "chapter_918399",
+  "name": "chapter",
+  "opts": {
+   "n": "VIII",
+   "t": "Round Two"
+  }
+ },
+ {
+  "key": "stat_1ad1cf",
+  "name": "stat",
+  "opts": {
+   "k": "DISCHARGE PETITION \u00b7 NOV. 11, 2026",
+   "a": "218",
+   "size": 360,
+   "b": "signatures for a second Epstein files bill",
+   "c": "214 Democrats and 4 Republicans: Massie, Mace, Norman and Fitzpatrick \u00b7 Axios",
+   "source": "SOURCE: REP. MASSIE'S OFFICE \u00b7 AXIOS \u00b7 ROLL CALL \u00b7 ABC NEWS (NOV. 2026)"
+  }
+ },
+ {
+  "key": "list_4bad76",
+  "name": "list",
+  "opts": {
+   "kicker": "EPSTEIN FILES TRANSPARENCY ACT II \u00b7 ACCORDING TO REP. MASSIE'S OFFICE",
+   "title": "Who could sue the Attorney General",
+   "items": [
+    {
+     "t": "State attorneys general"
+    },
+    {
+     "t": "District attorneys"
+    },
+    {
+     "t": "Members of Congress"
+    },
+    {
+     "t": "Epstein victims"
+    }
+   ],
+   "source": "SOURCE: REP. MASSIE'S OFFICE \u00b7 AXIOS \u00b7 ROLL CALL \u00b7 ABC NEWS (NOV. 2026)"
+  }
+ },
+ {
+  "key": "timeline_1760c5",
+  "name": "timeline",
+  "opts": {
+   "kicker": "WHAT HAPPENS NEXT, ACCORDING TO ABC NEWS",
+   "title": "The discharge petition process",
+   "events": [
+    {
+     "y": "NOV 11",
+     "t": "218th signature"
+    },
+    {
+     "y": "7 DAYS",
+     "t": "Legislative days wait"
+    },
+    {
+     "y": "CALL UP",
+     "t": "A signer moves"
+    },
+    {
+     "y": "2 DAYS",
+     "t": "Speaker must act"
+    },
+    {
+     "y": "DEC 2\u20133?",
+     "t": "Possible floor vote"
+    }
+   ],
+   "source": "SOURCE: ABC NEWS (NOV. 11, 2026) \u00b7 ESTIMATE, NOT A SCHEDULED DATE"
+  }
+ },
+ {
+  "key": "timeline_c552a7",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE FIGHT, BY THE RECORD",
+   "title": "July 2025 \u2013 Nov. 2026",
+   "events": [
+    {
+     "y": "JUL 2025",
+     "t": "DOJ memo: no client list"
+    },
+    {
+     "y": "NOV 18",
+     "t": "House votes 427\u20131"
+    },
+    {
+     "y": "DEC 19",
+     "t": "Deadline"
+    },
+    {
+     "y": "JAN 30",
+     "t": "3 million pages"
+    },
+    {
+     "y": "FEB 14",
+     "t": "~280 names list"
+    },
+    {
+     "y": "APR",
+     "t": "Bondi out"
+    },
+    {
+     "y": "NOV 10",
+     "t": "Oversight report"
+    },
+    {
+     "y": "NOV 11",
+     "t": "Petition: 218"
+    }
+   ],
+   "source": "SOURCES: NPR \u00b7 PBS \u00b7 FORBES \u00b7 AXIOS \u00b7 ROLL CALL \u00b7 NBC \u00b7 ABC \u00b7 AP \u00b7 HOUSE OVERSIGHT"
+  }
+ },
+ {
+  "key": "end_a202d0",
+  "name": "end",
+  "opts": {
+   "n": "021",
+   "next": "Back to the Cold War files"
+  }
+ }
+]
