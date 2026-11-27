@@ -1,0 +1,156 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Tag,Archivo SemiBold ExtraBold,46,&H00CAE0E8,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,0,2,7,0,0,0,1
+Style: TagSub,Courier Prime,26,&H00B0F58C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,5,0,1,0,2,7,0,0,0,1
+Style: Lab,Courier Prime,21,&H00CAE0E8,&H00FFFFFF,&H00000000,&H99120F0D,1,0,0,0,100,100,2,0,3,6,0,9,0,0,0,1
+Style: Credit,Courier Prime,22,&H00A0A0A0,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,80,80,36,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.85,0:00:06.60,Tag,,0,0,0,,{\an7\pos(96,786)\fad(0,350)}WASHINGTON, D.C.
+Dialogue: 2,0:00:00.85,0:00:06.60,TagSub,,0,0,0,,{\an7\pos(98,842)\fad(0,350)}NOVEMBER 2026
+Dialogue: 3,0:00:00.85,0:00:06.60,Tag,,0,0,0,,{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\clip(92,0,1920,1080)\t(80,520,0.6,\clip(548,0,1920,1080))\p1}m 0 0 l 456 0 l 456 110 l 0 110{\p0}
+Dialogue: 3,0:00:00.85,0:00:01.30,Tag,,0,0,0,,{\an7\pos(92,866)\bord0\shad0\c&HB0F58C&\t(0,420,\fscx0)\p1}m 0 0 l 456 0 l 456 4 l 0 4{\p0}
+Dialogue: 2,0:01:14.95,0:01:20.70,Tag,,0,0,0,,{\an7\pos(96,786)\fad(0,350)}WASHINGTON, D.C.
+Dialogue: 2,0:01:14.95,0:01:20.70,TagSub,,0,0,0,,{\an7\pos(98,842)\fad(0,350)}JULY 2025
+Dialogue: 3,0:01:14.95,0:01:20.70,Tag,,0,0,0,,{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\clip(92,0,1920,1080)\t(80,520,0.6,\clip(548,0,1920,1080))\p1}m 0 0 l 456 0 l 456 110 l 0 110{\p0}
+Dialogue: 3,0:01:14.95,0:01:15.40,Tag,,0,0,0,,{\an7\pos(92,866)\bord0\shad0\c&HB0F58C&\t(0,420,\fscx0)\p1}m 0 0 l 456 0 l 456 4 l 0 4{\p0}
+Dialogue: 2,0:02:52.96,0:02:58.71,Tag,,0,0,0,,{\an7\pos(96,786)\fad(0,350)}WASHINGTON, D.C.
+Dialogue: 2,0:02:52.96,0:02:58.71,TagSub,,0,0,0,,{\an7\pos(98,842)\fad(0,350)}AUGUST 5, 2025
+Dialogue: 3,0:02:52.96,0:02:58.71,Tag,,0,0,0,,{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\clip(92,0,1920,1080)\t(80,520,0.6,\clip(548,0,1920,1080))\p1}m 0 0 l 456 0 l 456 110 l 0 110{\p0}
+Dialogue: 3,0:02:52.96,0:02:53.41,Tag,,0,0,0,,{\an7\pos(92,866)\bord0\shad0\c&HB0F58C&\t(0,420,\fscx0)\p1}m 0 0 l 456 0 l 456 4 l 0 4{\p0}
+Dialogue: 2,0:04:01.19,0:04:06.94,Tag,,0,0,0,,{\an7\pos(96,786)\fad(0,350)}WASHINGTON, D.C.
+Dialogue: 2,0:04:01.19,0:04:06.94,TagSub,,0,0,0,,{\an7\pos(98,842)\fad(0,350)}NOVEMBER 18, 2025
+Dialogue: 3,0:04:01.19,0:04:06.94,Tag,,0,0,0,,{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\clip(92,0,1920,1080)\t(80,520,0.6,\clip(548,0,1920,1080))\p1}m 0 0 l 456 0 l 456 110 l 0 110{\p0}
+Dialogue: 3,0:04:01.19,0:04:01.64,Tag,,0,0,0,,{\an7\pos(92,866)\bord0\shad0\c&HB0F58C&\t(0,420,\fscx0)\p1}m 0 0 l 456 0 l 456 4 l 0 4{\p0}
+Dialogue: 2,0:05:22.39,0:05:28.14,Tag,,0,0,0,,{\an7\pos(96,786)\fad(0,350)}WASHINGTON, D.C.
+Dialogue: 2,0:05:22.39,0:05:28.14,TagSub,,0,0,0,,{\an7\pos(98,842)\fad(0,350)}NOVEMBER 19, 2025
+Dialogue: 3,0:05:22.39,0:05:28.14,Tag,,0,0,0,,{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\clip(92,0,1920,1080)\t(80,520,0.6,\clip(548,0,1920,1080))\p1}m 0 0 l 456 0 l 456 110 l 0 110{\p0}
+Dialogue: 3,0:05:22.39,0:05:22.84,Tag,,0,0,0,,{\an7\pos(92,866)\bord0\shad0\c&HB0F58C&\t(0,420,\fscx0)\p1}m 0 0 l 456 0 l 456 4 l 0 4{\p0}
+Dialogue: 2,0:07:03.79,0:07:09.54,Tag,,0,0,0,,{\an7\pos(96,786)\fad(0,350)}WASHINGTON, D.C.
+Dialogue: 2,0:07:03.79,0:07:09.54,TagSub,,0,0,0,,{\an7\pos(98,842)\fad(0,350)}DECEMBER 19, 2025
+Dialogue: 3,0:07:03.79,0:07:09.54,Tag,,0,0,0,,{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\clip(92,0,1920,1080)\t(80,520,0.6,\clip(548,0,1920,1080))\p1}m 0 0 l 456 0 l 456 110 l 0 110{\p0}
+Dialogue: 3,0:07:03.79,0:07:04.24,Tag,,0,0,0,,{\an7\pos(92,866)\bord0\shad0\c&HB0F58C&\t(0,420,\fscx0)\p1}m 0 0 l 456 0 l 456 4 l 0 4{\p0}
+Dialogue: 2,0:08:00.48,0:08:06.23,Tag,,0,0,0,,{\an7\pos(96,786)\fad(0,350)}WASHINGTON, D.C.
+Dialogue: 2,0:08:00.48,0:08:06.23,TagSub,,0,0,0,,{\an7\pos(98,842)\fad(0,350)}JANUARY 30, 2026
+Dialogue: 3,0:08:00.48,0:08:06.23,Tag,,0,0,0,,{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\clip(92,0,1920,1080)\t(80,520,0.6,\clip(548,0,1920,1080))\p1}m 0 0 l 456 0 l 456 110 l 0 110{\p0}
+Dialogue: 3,0:08:00.48,0:08:00.93,Tag,,0,0,0,,{\an7\pos(92,866)\bord0\shad0\c&HB0F58C&\t(0,420,\fscx0)\p1}m 0 0 l 456 0 l 456 4 l 0 4{\p0}
+Dialogue: 2,0:08:44.26,0:08:48.19,Tag,,0,0,0,,{\an7\pos(96,786)\fad(0,350)}WASHINGTON, D.C.
+Dialogue: 2,0:08:44.26,0:08:48.19,TagSub,,0,0,0,,{\an7\pos(98,842)\fad(0,350)}FEBRUARY 11, 2026
+Dialogue: 3,0:08:44.26,0:08:48.19,Tag,,0,0,0,,{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\clip(92,0,1920,1080)\t(80,520,0.6,\clip(548,0,1920,1080))\p1}m 0 0 l 456 0 l 456 110 l 0 110{\p0}
+Dialogue: 3,0:08:44.26,0:08:44.71,Tag,,0,0,0,,{\an7\pos(92,866)\bord0\shad0\c&HB0F58C&\t(0,420,\fscx0)\p1}m 0 0 l 456 0 l 456 4 l 0 4{\p0}
+Dialogue: 2,0:09:02.37,0:09:08.12,Tag,,0,0,0,,{\an7\pos(96,786)\fad(0,350)}WASHINGTON, D.C.
+Dialogue: 2,0:09:02.37,0:09:08.12,TagSub,,0,0,0,,{\an7\pos(98,842)\fad(0,350)}FEBRUARY 14, 2026
+Dialogue: 3,0:09:02.37,0:09:08.12,Tag,,0,0,0,,{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\clip(92,0,1920,1080)\t(80,520,0.6,\clip(548,0,1920,1080))\p1}m 0 0 l 456 0 l 456 110 l 0 110{\p0}
+Dialogue: 3,0:09:02.37,0:09:02.82,Tag,,0,0,0,,{\an7\pos(92,866)\bord0\shad0\c&HB0F58C&\t(0,420,\fscx0)\p1}m 0 0 l 456 0 l 456 4 l 0 4{\p0}
+Dialogue: 2,0:09:46.25,0:09:52.00,Tag,,0,0,0,,{\an7\pos(96,786)\fad(0,350)}WASHINGTON, D.C.
+Dialogue: 2,0:09:46.25,0:09:52.00,TagSub,,0,0,0,,{\an7\pos(98,842)\fad(0,350)}APRIL 2026
+Dialogue: 3,0:09:46.25,0:09:52.00,Tag,,0,0,0,,{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\clip(92,0,1920,1080)\t(80,520,0.6,\clip(548,0,1920,1080))\p1}m 0 0 l 456 0 l 456 110 l 0 110{\p0}
+Dialogue: 3,0:09:46.25,0:09:46.70,Tag,,0,0,0,,{\an7\pos(92,866)\bord0\shad0\c&HB0F58C&\t(0,420,\fscx0)\p1}m 0 0 l 456 0 l 456 4 l 0 4{\p0}
+Dialogue: 2,0:10:30.71,0:10:36.46,Tag,,0,0,0,,{\an7\pos(96,786)\fad(0,350)}WASHINGTON, D.C.
+Dialogue: 2,0:10:30.71,0:10:36.46,TagSub,,0,0,0,,{\an7\pos(98,842)\fad(0,350)}JULY 15, 2026
+Dialogue: 3,0:10:30.71,0:10:36.46,Tag,,0,0,0,,{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\clip(92,0,1920,1080)\t(80,520,0.6,\clip(548,0,1920,1080))\p1}m 0 0 l 456 0 l 456 110 l 0 110{\p0}
+Dialogue: 3,0:10:30.71,0:10:31.16,Tag,,0,0,0,,{\an7\pos(92,866)\bord0\shad0\c&HB0F58C&\t(0,420,\fscx0)\p1}m 0 0 l 456 0 l 456 4 l 0 4{\p0}
+Dialogue: 2,0:11:08.98,0:11:14.73,Tag,,0,0,0,,{\an7\pos(96,786)\fad(0,350)}WASHINGTON, D.C.
+Dialogue: 2,0:11:08.98,0:11:14.73,TagSub,,0,0,0,,{\an7\pos(98,842)\fad(0,350)}NOVEMBER 10, 2026
+Dialogue: 3,0:11:08.98,0:11:14.73,Tag,,0,0,0,,{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\clip(92,0,1920,1080)\t(80,520,0.6,\clip(548,0,1920,1080))\p1}m 0 0 l 456 0 l 456 110 l 0 110{\p0}
+Dialogue: 3,0:11:08.98,0:11:09.43,Tag,,0,0,0,,{\an7\pos(92,866)\bord0\shad0\c&HB0F58C&\t(0,420,\fscx0)\p1}m 0 0 l 456 0 l 456 4 l 0 4{\p0}
+Dialogue: 2,0:12:46.15,0:12:51.90,Tag,,0,0,0,,{\an7\pos(96,786)\fad(0,350)}WASHINGTON, D.C.
+Dialogue: 2,0:12:46.15,0:12:51.90,TagSub,,0,0,0,,{\an7\pos(98,842)\fad(0,350)}NOVEMBER 11, 2026
+Dialogue: 3,0:12:46.15,0:12:51.90,Tag,,0,0,0,,{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\clip(92,0,1920,1080)\t(80,520,0.6,\clip(548,0,1920,1080))\p1}m 0 0 l 456 0 l 456 110 l 0 110{\p0}
+Dialogue: 3,0:12:46.15,0:12:46.60,Tag,,0,0,0,,{\an7\pos(92,866)\bord0\shad0\c&HB0F58C&\t(0,420,\fscx0)\p1}m 0 0 l 456 0 l 456 4 l 0 4{\p0}
+Dialogue: 2,0:13:50.00,0:13:55.75,Tag,,0,0,0,,{\an7\pos(96,786)\fad(0,350)}WASHINGTON, D.C.
+Dialogue: 2,0:13:50.00,0:13:55.75,TagSub,,0,0,0,,{\an7\pos(98,842)\fad(0,350)}REPORTED NOVEMBER 13, 2026
+Dialogue: 3,0:13:50.00,0:13:55.75,Tag,,0,0,0,,{\an7\pos(92,782)\bord0\shad0\c&H0B0B0C&\clip(92,0,1920,1080)\t(80,520,0.6,\clip(605,0,1920,1080))\p1}m 0 0 l 513 0 l 513 110 l 0 110{\p0}
+Dialogue: 3,0:13:50.00,0:13:50.45,Tag,,0,0,0,,{\an7\pos(92,866)\bord0\shad0\c&HB0F58C&\t(0,420,\fscx0)\p1}m 0 0 l 513 0 l 513 4 l 0 4{\p0}
+Dialogue: 1,0:00:13.85,0:00:20.53,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:00:20.78,0:00:27.47,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:00:27.72,0:00:32.33,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:00:32.58,0:00:37.17,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:00:37.42,0:00:42.03,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:00:42.28,0:00:46.87,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. TREASURY BUILDING, WASHINGTON, D.C., 2012
+Dialogue: 1,0:01:31.75,0:01:39.00,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:01:39.25,0:01:46.47,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026
+Dialogue: 1,0:01:46.72,0:01:53.43,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE WHITE HOUSE, WASHINGTON, D.C., 2012
+Dialogue: 1,0:01:53.68,0:02:00.40,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:02:18.22,0:02:27.13,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:02:27.38,0:02:36.30,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. TREASURY BUILDING, WASHINGTON, D.C., 2012
+Dialogue: 1,0:02:52.85,0:02:58.37,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:02:58.62,0:03:04.10,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. TREASURY BUILDING, WASHINGTON, D.C., 2012
+Dialogue: 1,0:03:04.35,0:03:09.83,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026
+Dialogue: 1,0:03:10.08,0:03:15.60,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:03:15.85,0:03:21.33,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:03:21.58,0:03:27.10,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. TREASURY BUILDING, WASHINGTON, D.C., 2012
+Dialogue: 1,0:03:42.15,0:03:49.30,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:03:49.55,0:03:56.70,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026
+Dialogue: 1,0:03:56.95,0:03:58.80,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:04:01.08,0:04:06.87,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:04:07.12,0:04:12.87,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:04:18.35,0:04:24.40,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:04:24.65,0:04:30.73,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:04:30.98,0:04:37.07,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. TREASURY BUILDING, WASHINGTON, D.C., 2012
+Dialogue: 1,0:04:37.32,0:04:44.40,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:04:44.65,0:04:51.73,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026
+Dialogue: 1,0:05:07.85,0:05:14.83,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:05:15.08,0:05:22.03,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:05:22.28,0:05:31.20,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE WHITE HOUSE, WASHINGTON, D.C., 2012
+Dialogue: 1,0:06:07.28,0:06:13.43,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. TREASURY BUILDING, WASHINGTON, D.C., 2012
+Dialogue: 1,0:06:13.68,0:06:19.87,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026
+Dialogue: 1,0:06:20.12,0:06:27.83,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:06:28.08,0:06:35.83,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:06:36.08,0:06:43.83,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. TREASURY BUILDING, WASHINGTON, D.C., 2012
+Dialogue: 1,0:06:44.08,0:06:50.37,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026
+Dialogue: 1,0:06:50.62,0:06:56.90,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:06:57.15,0:07:03.43,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:07:03.68,0:07:10.90,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:07:11.15,0:07:18.37,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. TREASURY BUILDING, WASHINGTON, D.C., 2012
+Dialogue: 1,0:07:18.62,0:07:25.80,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026
+Dialogue: 1,0:07:37.75,0:07:45.33,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:07:45.58,0:07:53.20,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:07:53.45,0:07:56.30,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:08:17.28,0:08:22.57,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. TREASURY BUILDING, WASHINGTON, D.C., 2012
+Dialogue: 1,0:08:22.82,0:08:28.13,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026
+Dialogue: 1,0:08:28.38,0:08:36.03,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:08:36.28,0:08:43.90,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:08:44.15,0:08:48.10,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:09:02.28,0:09:08.77,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026
+Dialogue: 1,0:09:09.02,0:09:15.50,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. TREASURY BUILDING, WASHINGTON, D.C., 2012
+Dialogue: 1,0:09:28.65,0:09:35.50,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:09:35.75,0:09:42.63,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026
+Dialogue: 1,0:09:46.15,0:09:56.23,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE WHITE HOUSE, WASHINGTON, D.C., 2012
+Dialogue: 1,0:09:56.48,0:10:04.17,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:10:04.42,0:10:12.10,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:10:12.35,0:10:19.83,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:10:20.08,0:10:25.10,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. TREASURY BUILDING, WASHINGTON, D.C., 2012
+Dialogue: 1,0:10:25.35,0:10:30.37,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:10:30.62,0:10:38.93,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026
+Dialogue: 1,0:10:39.18,0:10:47.47,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. TREASURY BUILDING, WASHINGTON, D.C., 2012
+Dialogue: 1,0:10:47.72,0:10:56.67,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:10:56.92,0:11:05.83,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026
+Dialogue: 1,0:11:20.15,0:11:27.13,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:11:27.38,0:11:34.33,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:11:34.58,0:11:43.60,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:11:43.85,0:11:52.87,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:11:53.12,0:12:00.17,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. TREASURY BUILDING, WASHINGTON, D.C., 2012
+Dialogue: 1,0:12:00.42,0:12:07.50,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026
+Dialogue: 1,0:12:31.28,0:12:37.07,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:12:37.32,0:12:43.13,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:13:01.32,0:13:07.07,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:13:07.32,0:13:13.10,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:13:13.35,0:13:19.17,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:13:33.58,0:13:41.50,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:13:41.75,0:13:49.63,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. TREASURY BUILDING, WASHINGTON, D.C., 2012
+Dialogue: 1,0:13:49.88,0:13:58.07,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE WHITE HOUSE, WASHINGTON, D.C., 2012
+Dialogue: 1,0:13:58.32,0:14:06.50,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026
+Dialogue: 1,0:14:28.62,0:14:36.57,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., AROUND THE CAPITOL, 2012
+Dialogue: 1,0:14:36.82,0:14:44.73,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:15:05.95,0:15:11.97,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. CAPITOL, WASHINGTON, D.C., 2012
+Dialogue: 1,0:15:12.22,0:15:18.20,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · THE U.S. TREASURY BUILDING, WASHINGTON, D.C., 2012
+Dialogue: 1,0:15:18.45,0:15:24.43,Lab,,0,0,0,,{\an9\pos(1880,40)\fad(200,200)}B-ROLL · WASHINGTON, D.C., SEEN FROM A MILITARY JET COCKPIT, 2026
+Dialogue: 4,0:15:30.67,0:15:35.67,Credit,,0,0,0,,{\fad(500,0)}Sources: PBS NewsHour, Axios, Forbes, Local 10, NBC News, NPR, AP, Roll Call, CBS News, ABC News, House Oversight Committee (press release, Nov. 10, 2026), Rep. Massie's office.\NB-roll: DoD and State Department footage via DVIDS (public domain); it does not show the events described. Graphics marked RECREATED are our own summaries of public reporting. No photographs of any person are used.
