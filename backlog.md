@@ -42,4 +42,4 @@ Status: `todo` → `done YYYY-MM-DD` / `skip (reason)`. Take the first `todo` (d
 | 032 | NASA, AARO and the official answer | todo |
 | 033 | Stargate (moved from 016) | todo |
 
-Epstein series (official records only, interleaved): 1 the 2007 deal (FILE 015, done); 2 the death in custody and the DOJ Inspector General report (FILE 017, done); 3 what the 2026 DOJ release contains and what stayed redacted; 4 the congressional fight over the files (both parties' votes).
+Epstein series (official records only, interleaved): 1 the 2007 deal (FILE 015, done); 2 the death in custody and the DOJ Inspector General report (FILE 017, done); 3 what the 2026 DOJ release contains and what stayed redacted; 4 the congressional fight over the files (both parties' votes) (FILE 021 "Congress Voted 427 to 1 for the Epstein Files. Then What?", done 2026-11-29 block).

@@ -1,0 +1,13 @@
+# PRE-PUBLISH GATE: FILE 021 (2026-11-27)  RESULT: PASS (with notes)
+- long.mp4: 15:35.7 (935.67 s) by ffprobe (15:00-20:00) PASS; 1920x1080 HEVC, 96,214,047 bytes (<= 95 MiB, hosted in drop-sun because the owner's Google Drive is full — 403 on upload; a 448 MB version exists only in the session); -14 LUFS (ebur128) PASS
+- Title (57 chars, <=70): "Congress Voted 427 to 1 for the Epstein Files. Then What?" — curiosity question + keyword, no leading date/year/agency/operation/FILE; FILE 021 only at the end of the description. PASS
+- Tags 15, category EDUCATION, madeForKids false, isAiGeneratedContent false. PASS
+- thumb_A made with pipeline/thumb_bold.cjs (number panel + bright public-domain Capitol photo), readable at 168x94 (checked). No person, no AI picture (image relay failed: owner PC out of RAM). PASS
+- First 5 s: cold open = "Four hundred twenty-seven to one ... order the release of the Epstein files ... a year later Congress is fighting again. So what is the fight about?" — shocking verified fact + question; no logo before 0:10 (intro card at 1:05). PASS
+- Turns every 60-90 s, 8 chapters (I-VIII) + cold open; chapters in the description from timing.json, first at 0:00, each >= 10 s. PASS
+- Shorts y1 24.4 s, y2 25.9 s, y3 27.6 s (20-30 s) PASS; TikTok s1 64.5 s, s2 62.1 s, s3 70.3 s, s4 64.0 s (62-110 s) PASS; frame at 0.3 s has the boxed hook text; background of the vertical is dark graphic/footage (same template as FILE 019/020) — NOTE: weaker than the "bright image" ideal.
+- Voice: Kokoro am_puck 1.0, 2,294 words over 887 s speech = ~155 wpm, no speed-up. PASS
+- qc_report: FAILS 0, 0 stutters, 0 flash cuts. PASS. Contact sheets every 8 s reviewed: no gore, no people shown, labels present.
+- Independent fact-check (factcheck.md) and legal review (legal_review.md): all FIX/CUT applied (addenda). PASS
+- No "AI"/"synthetic voice" wording in video, descriptions or titles (credit line: "Music and sound effects are original."). PASS
+- NOTES / weaknesses: visuals are public-domain Washington B-roll plus our graphics (no C-SPAN/hearing footage: YouTube API quota 429, relay not requested); long.mp4 bitrate is low (95 MB) because Drive is full.

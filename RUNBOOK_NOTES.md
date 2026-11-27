@@ -11,3 +11,10 @@ Changelog
 - DVIDS clip windows: check each clip for people/overexposure; restrict start windows (dv1026930c only at 28-37 s).
 - Run long jobs with plain nohup (setsid gave instant EXITED); wait with tools/waitfor.sh.
 - Vertical hooks: if a hook line is wide, set hs ~150-160 in META to avoid clipping.
+
+## 2026-11-27 (FILE 021)
+- Drive was full (upload 403); the cleanup attempt was denied and not retried. Long re-encoded to <=95 MB and hosted on the drop-sun branch. Owner must free Drive space.
+- AI image relay failed (owner PC RAM); thumbnails use real DVIDS frames + number panels, no AI plates.
+- YouTube Data API returned 429 (shared quota); outlier scan used the prior run's notes; no C-SPAN footage requested.
+- Shell pitfall: `a && b &` backgrounds the whole chain; start the long job with its own nohup line.
+- Shorts over 30 s: re-cut with new META line ranges and `shorts.py --only y2,y3`.

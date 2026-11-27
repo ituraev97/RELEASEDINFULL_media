@@ -1,0 +1,55 @@
+{
+ "A": {
+  "left": {
+   "number": "427\u20131",
+   "label": "HOUSE VOTE"
+  },
+  "right": {
+   "img": "img/cap_1.jpg",
+   "cover": true,
+   "pos": "50% 40%"
+  },
+  "split": 0.5,
+  "tag": "EPSTEIN FILES",
+  "line1": "VOTED 427 TO 1.",
+  "line2": "THEN WHAT?",
+  "line2color": "red",
+  "size1": 104,
+  "size2": 128
+ },
+ "B": {
+  "left": {
+   "q": [
+    "CONGRESS",
+    "STILL",
+    "FIGHTING?"
+   ]
+  },
+  "right": {
+   "img": "img/cap_20.jpg",
+   "cover": true,
+   "pos": "50% 30%"
+  },
+  "split": 0.5,
+  "tag": "EPSTEIN FILES"
+ },
+ "C": {
+  "left": {
+   "img": "img/tre_10.jpg",
+   "cover": true,
+   "pos": "50% 30%"
+  },
+  "right": {
+   "img": "img/cap_6.jpg",
+   "cover": true,
+   "pos": "50% 40%"
+  },
+  "split": 0.5,
+  "tag": "EPSTEIN SERIES 4/4",
+  "line1": "THE FIGHT OVER",
+  "line2": "THE FILES",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 116
+ }
+}
