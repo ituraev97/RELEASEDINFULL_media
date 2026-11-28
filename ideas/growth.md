@@ -23,5 +23,13 @@ Source: YouTube Help Center / Creator Insider (Todd Beaupré, Sep 2026) / YPP po
 - Not the same template every time (inauthentic-content risk) — rotate 3–4 layouts.
 - Never AI-generated faces of real people; real photos only (government releases, archive), AI may only relight/extend.
 
+## Voice (all channels)
+- Long narration 150–170 words/min, Shorts 160–180. No silence > 0.6 s inside narration except one deliberate beat before a reveal.
+- Use tone tags: ~25% "hype" on reveals/numbers/verdicts, ~15% "calm" for context, the rest "normal". Short punchy sentences, rhetorical questions, one dry joke per chapter.
+- Never ElevenLabs (owner 2026-11-28). Chatterbox (relay) or the livelier Kokoro method only.
+
 ## This channel
 - YouTube distribution is near zero (median 3 views) — owner will decide about a new channel; keep TikTok running.
+
+## Voice
+- Voice audit 2026-11-28: Kokoro am_puck medium-flat (pitch 4.1), long pauses up to 8 s. Use the 'livelier Kokoro' method from coldwarrant-media pipeline/tts_ep.py (commit 54a45a8, owner choice 2026-11-27): blend of voices, per-sentence synthesis, short sentences slower + longer pause, long ones quicker, ±2% jitter — measured on COLD WARRANT as lively as Chatterbox; no pause > 0.6 s.
