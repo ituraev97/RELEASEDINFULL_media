@@ -12,6 +12,13 @@ Run notes go to RUNBOOK_NOTES.md (append there, never here). Promote a note into
 One LONG run = one long episode (15–20 min, English; owner 2026-11-14) + 4 TikTok cuts (62–110 s) + 4 YouTube Short candidates (20–30 s; only the best, ≤ 2 per day, go on YouTube — see the Shorts section), covering a 2-day block D and D+1 (one long video every 2 days — see "Long-video cadence" below; every other run is an OFF run), uploaded here (drop branches) and scheduled in Metricool (brand RELEASED IN FULL, blogId 7743507).
 Episode 001 (`episodes/001-navy-videos/`) is the reference for structure, pacing and style. Channel bible: Claude Docs «RELEASED IN FULL — библия канала» and Projects doc `claude/released-in-full-bible.md`.
 
+## IDEAS FROM DASHBOARD — owner decision 2026-11-28 (applies to every topic choice)
+Before choosing a topic, read `ideas/next.md`. It is rewritten every morning by the owner's analytics dashboard from this channel's
+YouTube/Metricool numbers, competitor videos that are breaking out right now, and fresh news. Take the highest-priority idea that fits
+this channel's rules, sourcing/fact standards and available footage (P1 first). If none fits, choose as usual and say in the run report
+which idea was skipped and why. The idea is the TOPIC only — research, script and visuals stay our own; never copy a competitor's video.
+After publishing, append one line to `ideas/used.md`: `<idea id> | <date> | <published title>`.
+
 ## Long-video cadence — owner decision 2026-11-23 (overrides every 'one long per run/day' line)
 - One long video every 2 days. The daily run is either a LONG run or an OFF run.
 - FIRST step of every run, before setup or research: Metricool `getScheduledPosts` for this brand (blogId 7743507, timezone America/New_York) covering today … today+2 (ET). Target day D = tomorrow (ET).
